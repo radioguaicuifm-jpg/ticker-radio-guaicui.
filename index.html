@@ -5,7 +5,7 @@
 <script>
 const FALLBACK=["Rádio Guaicuí — A mais gostosa de ouvir!","Acompanhe a programação da Rádio Guaicuí","Últimas notícias em atualização"],track=document.getElementById("track");
 function esc(s){return String(s).replace(/[&<>"']/g,x=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[x]))}
-function draw(a){if(!a.length)a=FALLBACK;let one=a.map(t=>'<div class="item">'+esc(t)+' <i>●</i></div>').join("");track.innerHTML=one+one;requestAnimationFrame(()=>{let d=track.scrollWidth/2,s=Math.max(30,Math.min(75,d/70)),st=document.createElement("style");st.textContent="@keyframes roll{from{transform:translateX(0)}to{transform:translateX(-"+d+"px)}}#track{animation:roll "+s+"s linear infinite}";document.head.appendChild(st)})}
+function draw(a){if(!a.length)a=FALLBACK;let one=a.map(t=>'<div class="item">'+esc(t)+' <i>●</i></div>').join("");track.innerHTML=one+one;requestAnimationFrame(()=>{let d=track.scrollWidth/2,s=Math.max(45,Math.min(120,d/45)),st=document.createElement("style");st.textContent="@keyframes roll{from{transform:translateX(0)}to{transform:translateX(-"+d+"px)}}#track{animation:roll "+s+"s linear infinite}";document.head.appendChild(st)})}
 async function update(){try{let r=await fetch("noticias.json?x="+Date.now(),{cache:"no-store"});if(!r.ok)throw Error(r.status);let j=await r.json();draw((j.items||[]).map(x=>x.title).filter(Boolean).slice(0,18))}catch(e){draw(FALLBACK)}}
 draw(FALLBACK);update();setInterval(update,300000);
 </script></body></html>
