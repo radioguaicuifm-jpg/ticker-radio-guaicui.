@@ -1,46 +1,208 @@
-{
-  "source": "Agencia Brasil",
-  "updated_at": "2026-08-14T17:56:11.304794+00:00",
-  "items": [
-    {
-      "title": "BC decreta liquidação extrajudicial de instituições do Grupo Simpala",
-      "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/bc-decreta-liquidacao-extrajudicial-de-consorcio-e-financeira"
-    },
-    {
-      "title": "Governo ouvirá empresários para decidir se aplicará lei contra EUA",
-      "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/governo-ouvira-empresarios-para-decidir-se-aplicara-lei-contra-eua"
-    },
-    {
-      "title": "Fazenda libera empréstimo com aval da União de R$ 12,9 bilhões",
-      "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/fazenda-libera-emprestimo-com-aval-da-uniao-de-r-129-bilhoes"
-    },
-    {
-      "title": "Enade divulga resultado de recurso sobre atendimento especializado",
-      "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-08/enade-divulga-resultado-de-recurso-sobre-atendimento-especializado"
-    },
-    {
-      "title": "Cláudio Castro é alvo da segunda fase da Operação Sem Refino",
-      "link": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-08/claudio-castro-e-alvo-da-segunda-fase-da-operacao-sem-refino"
-    },
-    {
-      "title": "Erupção do Etna prolonga fechamento de aeroporto na Sicília",
-      "link": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-08/erupcao-do-etna-prolonga-fechamento-de-aeroporto-na-sicilia"
-    },
-    {
-      "title": "Estudante deve comprovar até hoje informações de inscrição no Prouni",
-      "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-08/estudante-deve-comprovar-ate-hoje-informacoes-de-inscricao-no-prouni"
-    },
-    {
-      "title": "Em 11 estados, desemprego está abaixo da média do país; veja quais",
-      "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/em-11-estados-desemprego-esta-abaixo-da-media-do-pais-veja-quais"
-    },
-    {
-      "title": "TV Brasil transmite Atlético-MG x Grêmio pelo Brasileirão Feminino A1",
-      "link": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-08/tv-brasil-transmite-atletico-mg-x-gremio-pelo-brasileirao-feminino-a1"
-    },
-    {
-      "title": "Dez estados e o DF estão sob alerta de perigo para baixa umidade",
-      "link": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-08/dez-estados-e-o-df-estao-sob-alerta-de-perigo-para-baixa-umidade"
-    }
-  ]
-}
+name: Atualizar noticias da Radio Guaicui
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "*/15 * * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Baixar repositorio
+        uses: actions/checkout@v4
+
+      - name: Buscar e misturar noticias
+        shell: bash
+        run: |
+          python - <<'PY'
+          import json
+          import urllib.request
+          import xml.etree.ElementTree as ET
+          from datetime import datetime, timezone
+
+          FEEDS = [
+              {
+                  "categoria": "AGÊNCIA BRASIL",
+                  "url": "https://agenciabrasil.ebc.com.br/rss/ultimasnoticias/feed.xml"
+              },
+              {
+                  "categoria": "CNN BRASIL",
+                  "url": "https://cnnbrasil.com.br/feed"
+              },
+              {
+                  "categoria": "ESPORTES",
+                  "url": "https://www.mg.superesportes.com.br/rss/noticias/futebol/futebol-nacional/rss.xml"
+              },
+              {
+                  "categoria": "ESPORTES",
+                  "url": "https://www.mg.superesportes.com.br/rss/noticias/mais-esportes/rss.xml"
+              },
+              {
+                  "categoria": "MINAS GERAIS",
+                  "url": "https://news.google.com/rss/search?q=Minas%20Gerais&hl=pt-BR&gl=BR&ceid=BR:pt-419"
+              }
+          ]
+
+          def local_name(tag):
+              if "}" in tag:
+                  return tag.split("}", 1)[1]
+              return tag
+
+          def get_child(element, name):
+              for child in list(element):
+                  if local_name(child.tag).lower() == name.lower():
+                      return child
+              return None
+
+          def get_text(element, name):
+              child = get_child(element, name)
+              if child is None:
+                  return ""
+              return (child.text or "").strip()
+
+          def get_link(element):
+              child = get_child(element, "link")
+
+              if child is None:
+                  return ""
+
+              # RSS comum: <link>https://...</link>
+              if child.text and child.text.strip():
+                  return child.text.strip()
+
+              # Atom: <link href="...">
+              return child.attrib.get("href", "").strip()
+
+          def baixar(feed):
+              req = urllib.request.Request(
+                  feed["url"],
+                  headers={
+                      "User-Agent": "Radio Guaicui News Bot/1.0"
+                  }
+              )
+
+              with urllib.request.urlopen(req, timeout=30) as response:
+                  data = response.read()
+
+              root = ET.fromstring(data)
+
+              encontrados = []
+
+              # RSS e Atom
+              for element in root.iter():
+                  if local_name(element.tag).lower() not in ("item", "entry"):
+                      continue
+
+                  titulo = get_text(element, "title")
+                  link = get_link(element)
+
+                  if titulo and link:
+                      encontrados.append({
+                          "categoria": feed["categoria"],
+                          "title": titulo,
+                          "link": link
+                      })
+
+              return encontrados
+
+          todas = []
+
+          for feed in FEEDS:
+              try:
+                  noticias = baixar(feed)
+
+                  # No máximo 8 notícias de cada fonte
+                  noticias = noticias[:8]
+
+                  print(
+                      f"{feed['categoria']}: "
+                      f"{len(noticias)} noticias encontradas"
+                  )
+
+                  todas.append(noticias)
+
+              except Exception as erro:
+                  print(
+                      f"ERRO em {feed['categoria']}: {erro}"
+                  )
+                  todas.append([])
+
+          # -------------------------------------------------
+          # MISTURA AUTOMÁTICA DAS FONTES
+          # -------------------------------------------------
+
+          misturadas = []
+          maior = max((len(lista) for lista in todas), default=0)
+
+          for posicao in range(maior):
+              for lista in todas:
+                  if posicao < len(lista):
+                      misturadas.append(lista[posicao])
+
+          # -------------------------------------------------
+          # REMOVE DUPLICADAS
+          # -------------------------------------------------
+
+          resultado = []
+          links_vistos = set()
+
+          for noticia in misturadas:
+              link = noticia["link"]
+
+              if link in links_vistos:
+                  continue
+
+              links_vistos.add(link)
+
+              resultado.append({
+                  "title": noticia["title"],
+                  "link": link,
+                  "categoria": noticia["categoria"]
+              })
+
+          # Máximo de 40 notícias
+          resultado = resultado[:40]
+
+          dados = {
+              "source": "Radio Guaicui - Noticias",
+              "updated_at": datetime.now(timezone.utc).isoformat(),
+              "items": resultado
+          }
+
+          with open("noticias.json", "w", encoding="utf-8") as arquivo:
+              json.dump(
+                  dados,
+                  arquivo,
+                  ensure_ascii=False,
+                  indent=2
+              )
+
+          print("")
+          print("====================================")
+          print("NOTICIAS ATUALIZADAS")
+          print("Total:", len(resultado))
+          print("====================================")
+
+          for noticia in resultado[:10]:
+              print(
+                  f"[{noticia['categoria']}] "
+                  f"{noticia['title']}"
+              )
+          PY
+
+      - name: Publicar noticias
+        run: |
+          git config user.name "Radio Guaicui Bot"
+          git config user.email "actions@users.noreply.github.com"
+
+          git add noticias.json
+
+          git diff --cached --quiet || \
+            git commit -m "Atualiza noticias automaticamente"
+
+          git push
