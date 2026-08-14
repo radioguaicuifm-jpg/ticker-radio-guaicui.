@@ -1,0 +1,37 @@
+name: Atualizar noticias da Radio Guaicui
+on:
+  schedule:
+    - cron: "*/5 * * * *"
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Buscar RSS da Agencia Brasil
+        run: |
+          python - <<'PY'
+          import json, urllib.request, xml.etree.ElementTree as ET
+          from datetime import datetime, timezone
+          url="https://agenciabrasil.ebc.com.br/rss/ultimasnoticias/feed.xml"
+          req=urllib.request.Request(url,headers={"User-Agent":"Mozilla/5.0 Radio Guaicui"})
+          data=urllib.request.urlopen(req,timeout=30).read()
+          root=ET.fromstring(data)
+          items=[]
+          for item in root.findall(".//item")[:18]:
+              title=item.findtext("title","").strip()
+              link=item.findtext("link","").strip()
+              if title: items.append({"title":title,"link":link})
+          with open("noticias.json","w",encoding="utf-8") as f:
+              json.dump({"source":"Agencia Brasil","updated_at":datetime.now(timezone.utc).isoformat(),"items":items},f,ensure_ascii=False,indent=2)
+          print("Noticias encontradas:",len(items))
+          PY
+      - name: Publicar
+        run: |
+          git config user.name "Radio Guaicui Bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add noticias.json
+          git diff --cached --quiet || git commit -m "Atualiza noticias"
+          git push
