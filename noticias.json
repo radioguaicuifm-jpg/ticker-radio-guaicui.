@@ -1,7 +1,15 @@
 {
   "source": "Agencia Brasil",
-  "updated_at": "2026-08-14T16:59:51.188619+00:00",
+  "updated_at": "2026-08-14T17:56:11.304794+00:00",
   "items": [
+    {
+      "title": "BC decreta liquidação extrajudicial de instituições do Grupo Simpala",
+      "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/bc-decreta-liquidacao-extrajudicial-de-consorcio-e-financeira"
+    },
+    {
+      "title": "Governo ouvirá empresários para decidir se aplicará lei contra EUA",
+      "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/governo-ouvira-empresarios-para-decidir-se-aplicara-lei-contra-eua"
+    },
     {
       "title": "Fazenda libera empréstimo com aval da União de R$ 12,9 bilhões",
       "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/fazenda-libera-emprestimo-com-aval-da-uniao-de-r-129-bilhoes"
@@ -33,14 +41,6 @@
     {
       "title": "Dez estados e o DF estão sob alerta de perigo para baixa umidade",
       "link": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-08/dez-estados-e-o-df-estao-sob-alerta-de-perigo-para-baixa-umidade"
-    },
-    {
-      "title": "Último capítulo da série \"Afiadas\" aborda violência digital",
-      "link": "https://agenciabrasil.ebc.com.br/cultura/noticia/2026-08/ultimo-capitulo-da-serie-afiadas-aborda-violencia-digital"
-    },
-    {
-      "title": "Concertos da Orquestra Ouro Preto terão Alceu Valença e Samuel Rosa",
-      "link": "https://agenciabrasil.ebc.com.br/cultura/noticia/2026-08/concertos-da-orquestra-ouro-preto-terao-alceu-valenca-e-samuel-rosa"
     }
   ]
 }
