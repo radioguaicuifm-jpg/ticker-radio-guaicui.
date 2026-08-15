@@ -1,78 +1,46 @@
 {
   "source": "Radio Guaicui - Noticias",
-  "updated_at": "2026-08-15T16:50:23.698369+00:00",
+  "updated_at": "2026-08-15T17:20:08.887660+00:00",
   "items": [
     {
-      "title": "[CNN BRASIL] PSG desiste de contratar Suzuki após exigência de agentes, diz jornalista",
-      "link": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/psg-desiste-de-contratar-suzuki-apos-exigencia-de-agentes-diz-jornalista/"
+      "title": "[AGÊNCIA BRASIL] Petrobras anuncia descoberta de petróleo na Foz do Amazonas",
+      "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/petrobras-anuncia-descoberta-de-petroleo-na-foz-do-amazonas"
     },
     {
-      "title": "[MINAS GERAIS] Duas mulheres morrem em acidente entre dois carros na zona leste de Poços de Caldas, MG - G1",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPRWdjM2dVaUdPUW1xN3hCeGFsRV9UWDFnTDJpeFA3YXRCemw4Uk1LNDg0eFJ1TklHZFZ0RXJRS2tQc3V3aGNiREozSWJRLTJZcUxSQTdwNGFvd0J3X3U4YTNmendsZGJXeUxXUWV4U3lOZUwwY1dRR25WSzJLNDVkWFZ2Y0JqLXpyQWfSAZgBQVVfeXFMUHR1NEFyU3FEOVl5ZDZxdGJXZmd5Um1YSW1Ub1FBVWRSRlI5cXpCVmpteTdYZndPNllvel9lWFBnYjJqMXJmMm9YSUdpeU5sQUJ2VERJX3d3dnhKelF0RF93b19qUXlwOWlFRzVzY3Bqd091MTBpWlJPQnE4ZTNrYVhoX282eXZCa2ZSajdURFF1ZHBFVHlobi0?oc=5"
+      "title": "[CNN BRASIL] Desabamento em SBC ocorreu ao lado de obra da CDHU; laudos serão avaliados",
+      "link": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/desabamento-em-sbc-ocorreu-ao-lado-de-obra-da-cdhu-laudos-serao-avaliados/"
+    },
+    {
+      "title": "[CNN BRASIL] Fiuk diz que não tem mais relação com Fábio Jr. e expõe crise financeira",
+      "link": "https://www.cnnbrasil.com.br/pop/celebridades/fiuk-diz-que-nao-tem-mais-relacao-com-fabio-jr-e-expoe-crise-financeira/"
+    },
+    {
+      "title": "[MINAS GERAIS] Inmet alerta para chuva de granizo atingir 74 cidades de Minas Gerais - BHAZ",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNT2U1RjR4N2gyS0tGVVVJSU1QTWhIbktLX2tUMXlwSDAwaHBTbE5RRlAyTHhxR0JUa21WTDhldGRkNUtUZUN4Y0dNVWRFRkRDT3hybDVtQVprQXR5TmxkNGVJYTRuNjNLY1Z5TFJkMThEcmFiS2xPQ3ZxY2k2cW5RbjBnR0VpVzdJR2d1SmVtb2drMTRUeHR2dkQwYXdIWWlVaThGcWlIcGRqWHhIUWl4eldn?oc=5"
     },
     {
       "title": "[MINAS GERAIS] Ex-diretor de presídio em Minas Gerais é condenado por assédio - R7",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOUnp5ZGt6cExZOXNLdUdva0ZnSXdma08xWVBlX2ZEUTVHUFByUjlBOHNrVm9HTmFhT2U0eWRZLXJHZlVvb0xCV1NkUG5Qa0JBdktWVEZRekw3Y2l6SzI2a0ZtRk1INk1iUklKZ09VeGxBYnBiTTlsTFdpZU5fVW5zdlNpWDNJYXNHWC1haGw4NDM0Zlc5Vk9mSC1yeFBsZi1FWUgweE8wRFR6Xzh1Y3V5cmF3?oc=5"
     },
     {
-      "title": "[MINAS GERAIS] Ônibus com 65 passageiros pega fogo em rodovia de Minas Gerais - Revista Oeste",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQeHM5R25lRkhHRVlfOXo4LXFLRFhfOXB3bHNlSkRHMVdRdTF0ZllUMjBXYUU2RGcwa1ZyRmZsWUtJTm1ldHhqLTk2VGdMNjkxTWZBSmFKeElYTnZmOVN0TDZtVk9qX0VOQW1PMFdNek92WUhwenMwZ2RXZ2Y0S2hNOW1tY29XTEhIeUFLZmlIQlBtaXNiUm9HaTFBRQ?oc=5"
+      "title": "[MINAS GERAIS] Decisiva para o cenário nacional, corrida ao governo de Minas é pontuada por incertezas - veja.abril.com.br",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPR0ZGUUFIN2ZUYjNLRXB1aFM5cFZDNzJFSUV0MHV3ZVZ3U0gwd3dEWllpQnVXbGpTMVRfSzJuZE44WURQa3h4ZV96OW95N0tkWnFXdm42U2t0YXVaS29OWlQzVTNCbWNwNkl6dVFQOHE2NUMxY3VWRzR2T1lOVDdxbHM3MVFadEdpbERDVFZaRlFxQVcyaEwza0RLTVpiNnJ1WkhsUEpsYzk2N2RfMHBYQzAzR1MwNTRGZ2tHLW1KSQ?oc=5"
     },
     {
-      "title": "[CNN BRASIL] Taxa de homicídios nos EUA atinge nível mais baixo em décadas, aponta FBI",
-      "link": "https://www.cnnbrasil.com.br/internacional/taxa-de-homicidios-nos-eua-atinge-nivel-mais-baixo-em-decadas-aponta-fbi/"
+      "title": "[AGÊNCIA BRASIL] Prazo para registro de candidaturas às eleições termina neste sábado",
+      "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/prazo-para-registro-de-candidaturas-eleicoes-termina-neste-sabado"
     },
     {
-      "title": "[AGÊNCIA BRASIL] Eventos em Porto Alegre se manifestam contra a intolerância religiosa",
-      "link": "https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-08/eventos-em-porto-alegre-se-manifestam-contra-intolerancia-religiosa"
+      "title": "[CNN BRASIL] Vídeo: Suspeito troca tiros com PMs durante operação em Paraisópolis",
+      "link": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/video-suspeito-troca-tiros-com-pms-durante-operacao-em-paraisopolis/"
     },
     {
-      "title": "[AGÊNCIA BRASIL] Com 25 anos, grupo musical de pacientes psiquiátricos lança novo álbum",
-      "link": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-08/com-25-anos-grupo-musical-de-pacientes-psiquiatricos-lanca-novo-album"
+      "title": "[MINAS GERAIS] Prefeitura de BH reabrirá restaurante popular de Venda Nova - G1",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNczdSeG5rcG9LR1R4UzhXVHktOGI1TEFYMmNvdHk2bDEtS3RDTXdZWGg5cG9KQXFzVTZXYWNFajZsT1l0M3JxUEZSdDZ0TGVvTEFqeS1xclotN0VVcng4d2k0cWNrY18xdndEMEZZd2tUWG01TWJpbEV5aENmNjBfal96U0dGYlpqajVndlhNS25QbElXSUcxRkRkXy1sOUlZbXNLeWEzcXprR1Y3MXdlZ2ROT19Lc21RNDR2Wjl30gHMAUFVX3lxTFByNFVodDZaN0lSLWdsTlZvOTFEWHI4S29fOXZtZEVwaUZGTnR4VG03eVF4MEFscml2WERrNmxHb0tUMzdpRlUwRzVfMmNMVHh5eElDdjU1XzMtLUZRNkRHOHhVOFl1cXpPMXU1WEltbzA2UVBqSFZVTDI2QTJsV2g0WEN2R2hkRWs3V2lIQ3ZKN2V1VmFXdjVqQTBDMk1qRU9fUnNwcEFSVmlqa0I0SjdhQTVQMlRUX0RYbHpMa1lfS2ZnQloyQWdEZkczRw?oc=5"
     },
     {
-      "title": "[MINAS GERAIS] Cleitinho declara R$ 956 mil em bens ao TSE; Falcão informa patrimônio de R$ 1,17 milhões - G1",
-      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOMWJULVJqN3gzcFdGRWNScFB1bE9jV1N0UDM4a18tLTJJV2dCQTNWM2V5Y0t1VjF0eHJVRDZyX0ktbDZDdTNTSVRIXzdpT3pfMkUyTDZmN3ZwRTRPbHA1SFFGQzdHNWZEcW81S2xjdkMxOVpyTE9HUFd2bGl0MVpLMVlxckQ3bFd0eG9OUlFzX25VV0J4dnlaWG1WUGIxa1Z3bnJnbWRhd3Zka1lJNWJkYm1BZEkzN3V6VjFUNkRkblIxaFJsc09oMXN2Q3p0d0YyaVNxdU5MUWlKc3BuSGMzeXN2MTFTRDBQMGJuaDZnUWVIdWvSAYICQVVfeXFMTWczZDFOTmJDYi00cE1FdFlMZ2pvak1PTUxlX2hlTnY4QzU3Ul9rRlF4ZXJmZV9Ba3dSZW9EMDVlcFluWkltR1N0eFEteGNyNkdwakZrVktFRzhjSXJEblFwYm54ZE8yQjZQNnNwUTJGY0hJWkxqRzF1dzR6MXBTU01TRU00LU95MnpLVVduZmJGVjNIZkw3MURvYkFXU3EzT3JmMWstdkZJVkowVGszWXFHLTZMS3BYWDhtSEkydHdBUmZ3czA1R04yOTl6WFpwZ2ZodldBekpEWmNHZk1ieTM1WmxXTzJHVGtlRW01YnBZZXB0bmJQN2ZqUzZSaU50X1Nn?oc=5"
-    },
-    {
-      "title": "[MINAS GERAIS] Dança transforma vidas há 20 anos em BH - G1",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNUzVFMXRZWXo2MWJTRERMc2N6S2I3bkh4YmVxQ1oyakpNbzlqRU1naEtoMWFLVHY3OFFwQlpwLTVEdFF1X1VfeWdESV9Ba0ozTjNJcXAtY1FxaFJnTHR4TTNGUVVpLWdYd3lLTHE3UE5ZU1kxLUNBQTJMLTRmTkVMT3VTbGozcWc4cEVldjJYa1BPbVplSkh6Y1M2NGhqQXZpblB30gGyAUFVX3lxTE1KUXJnWXlVZVpZTENRSGJGMHlyWFRjeWx1LUtWSVg0Nmw5MjRVTGNUMWQyR3VBVkVlMHF0NTd0ZVpURHNWektrSmtGNnpOeVhxSkRHY1RMYUJtZ3VlQldraGJDOWFUdW1Dek1sXzBSNkRrSEdnUjRqQjZ2VDVxcGkydnNIVkcyNmlWamJNUzIyaXhobWlqSm1kV2FwWEFfdWlNbGV3YVdqcnBuYjVoYUo3bVE?oc=5"
-    },
-    {
-      "title": "[AGÊNCIA BRASIL] Com envelhecimento da população, eleitorado jovem recua 22% em 16 anos",
-      "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/com-envelhecimento-da-populacao-eleitorado-jovem-recua-22-em-16-anos"
-    },
-    {
-      "title": "[CNN BRASIL] Balanço da Orizon no trimestre foi leve dada aquisição disruptiva, diz CEO",
-      "link": "https://www.cnnbrasil.com.br/economia/money/negocios/balanco-da-orizon-no-trimestre-foi-leve-dada-aquisicao-disruptiva-diz-ceo/"
-    },
-    {
-      "title": "[AGÊNCIA BRASIL] Petrobras anuncia descoberta de petróleo na Foz do Amazonas",
-      "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/petrobras-anuncia-descoberta-de-petroleo-na-foz-do-amazonas"
-    },
-    {
-      "title": "[AGÊNCIA BRASIL] Terremoto na Indonésia deixa pelo menos 47 mortos",
-      "link": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-08/terremoto-na-indonesia-deixa-pelo-menos-47-mortos"
-    },
-    {
-      "title": "[CNN BRASIL] Tesla avalia apresentar novo “carro voador” do modelo Roadster, diz portal",
-      "link": "https://www.cnnbrasil.com.br/economia/money/negocios/tesla-avalia-apresentar-novo-carro-voador-do-modelo-roadster-diz-portal/"
-    },
-    {
-      "title": "[CNN BRASIL] Maria Ribeiro manda recado a Tata Werneck após tapão em “Quem Ama Cuida”",
-      "link": "https://www.cnnbrasil.com.br/pop/celebridades/maria-ribeiro-manda-recado-a-tata-werneck-apos-tapao-em-quem-ama-cuida/"
-    },
-    {
-      "title": "[MINAS GERAIS] Cleitinho defende fim de incentivos fiscais a mineradoras de Minas Gerais - Senado",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPNUpGSGg0VXg2LWdYVFlUTkFsb1NyeGs5M3NQZWVEOEtZd1g5RjVUYnROV21qT2tETEFlbV9sM08xTGJNaEhjNzBzQVp6eDE5NVB5ang5aFYzSTBENTBOMDJhUFJWelpPN0M4cmRwZEt5TE1Da01PMGRjYlB4Nmk2LUVVWjhHRklBRDI3M3FCNmlITU8zanBUT05Td0E5aUk3eXRsVzJhVjBPZEFlRGxPSWpzcDAxc25jQTJjVGwySFo3RGRweS1hZ1Zn?oc=5"
-    },
-    {
-      "title": "[MINAS GERAIS] Calor deve persistir em Minas Gerais na próxima semana; temperaturas podem chegar a 39°C - Rádio Itatiaia",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNZHFGaWtYVmpxWGNQYUE0VktqX0J6c1M1dWo0QlpJTFVObjg4M2xDanU4ektYS0xoNmxtWlFScW5mN1pTeGFiQmhEUUo2VjA2QTZNSUF6QVYzaUVKY3Q1N3B5dGxQOUhSZ1BmYjYwbnV3MndfWWFLTnJMSE9YUkRNYU1vdVhrVE5scS1kZ3c4LTZwR2JraVkxay1Wcm5SbUxGbkpyckdiVUZmWVRETnFrb3pNNW8wVXB3VmdtMG1UbzdsVTFrQXBUaEhqamQ5dw?oc=5"
-    },
-    {
-      "title": "[CNN BRASIL] Ex-professor de Cambridge é encontrado morto após acusações de plágio",
-      "link": "https://www.cnnbrasil.com.br/internacional/ex-professor-de-cambridge-e-encontrado-morto-apos-acusacoes-de-plagio/"
+      "title": "[AGÊNCIA BRASIL] Bolsonaro pede ao STF para se consultar com a nora, que é dentista",
+      "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-08/bolsonaro-pede-ao-stf-para-se-consultar-com-nora-que-e-dentista"
     },
     {
       "title": "[AGÊNCIA BRASIL] PF prende no Rio suspeito de golpe que fez idosa perder R$ 37 milhões",
@@ -83,44 +51,76 @@
       "link": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/investigador-sofre-tentativa-de-assalto-reage-e-atinge-suspeito-na-berrini/"
     },
     {
-      "title": "[AGÊNCIA BRASIL] Prazo para registro de candidaturas às eleições termina neste sábado",
-      "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/prazo-para-registro-de-candidaturas-eleicoes-termina-neste-sabado"
+      "title": "[AGÊNCIA BRASIL] Com 25 anos, grupo musical de pacientes psiquiátricos lança novo álbum",
+      "link": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-08/com-25-anos-grupo-musical-de-pacientes-psiquiatricos-lanca-novo-album"
     },
     {
-      "title": "[MINAS GERAIS] Após semanas de indefinição, Cleitinho registra candidatura ao governo de Minas Gerais - R7",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOdXFBdURycDZDMlRPQlFpWnlfYzM4TzNZU0VZc050REZIVUJBTlBsRkNDRkJaaGVMenlHRy1pTXU0YklsR1c3cDRkTkgwbUtrMkhra2JKSTBodEFEUFZMQVQyRmxBaU1leG55Z1UwVHpoUlcxbHNZcV9KSGlDWkRueEtTSnJvMVh0VEd1M1JPTVV4V3ZoX1JBN19Maklja1RDQlNXc1JTbTF6cmloeGZDQkNRUUdDSFk2dnE4NEdEcGpiVjF1bXVGM3pDS3RBUQ?oc=5"
+      "title": "[CNN BRASIL] PSG desiste de contratar Suzuki após exigência de agentes, diz jornalista",
+      "link": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/psg-desiste-de-contratar-suzuki-apos-exigencia-de-agentes-diz-jornalista/"
     },
     {
-      "title": "[AGÊNCIA BRASIL] Amcham defende que adoção de reciprocidade contra os EUA seja evitada",
-      "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/amcham-defende-que-adocao-de-reciprocidade-contra-os-eua-seja-evitada"
+      "title": "[AGÊNCIA BRASIL] Eventos em Porto Alegre se manifestam contra a intolerância religiosa",
+      "link": "https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-08/eventos-em-porto-alegre-se-manifestam-contra-intolerancia-religiosa"
+    },
+    {
+      "title": "[MINAS GERAIS] STF nega pedido de Mateus Simões para manter escolas cívico-militares em MG - O Fator",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNNnZENkNhZE9uQ0tGVEw3amFtSERHLWVIa1lCSGdPVENnSVl1UENGQlVHQld0S3NGNDZBazVnTjJHcDRpdzBIM01FazdPZmF2dHRlSURPVXNfR3MwX0lkcjEwamxYVkF6TTZyZy0tbFlQR2ZvaS1wWktFeHFJRDE1OWtFY25tcDFURWpnMXNkbkdJckFob1RYTUU5SmxnZHR3MU5ndUg2Y2QtdS1KbFE?oc=5"
+    },
+    {
+      "title": "[MINAS GERAIS] Henrique Áreas e Estevão Gomes dizem não ter bens a declarar ao TSE - G1",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQV1R4QlNqWjBXY2pCbEU0dEZJdEtKc3BBWWx4b3VXUm9OMjBqY2pqYlVjUFdJV3hvbHp1WU8yWlFDUmFkWUR1Uk9QTzZDS0xtaVlKVzRIZzdwaVVrb25KbzByYk9BcWVoMmc2RzR1bVltVzQteTlRUl80aHo5alNlNFR6WElkeWhJVVRlRDJmYmlDWU9kTi1INVZLbDBVV1VvSHdPYnFramJ6TDJlZlJOM1RMT3o4eWdSVTJwbWVVVHJOZ0dsYnQ1d21WRno3UWhORzd4VFNWR3FuSFHSAeoBQVVfeXFMUHl1cGFXc1ZBRVhRQlphN1FwQ1d2YnBnRGh2NnpfS21UYlQ4OFRtSk1rVTl3TEI2YS1vRTIxeHZxZXdEUUc2MnBBb2xnSXgyM2p2MExmZVhRNHY2SlR1cHo3dDAyQ0NGM01tRGtQa3dYZXJ6LTA3UjBFZ214bElld1FPYXBtU04tQ1dlNnJRZTdSYjYzc1g1YXlISWVCU1ZpMFEzU0t1V0pvX05WX0JENlFEY3RZZnVvdEN1cTlKOGptQVFWTzY0SU1remtxN0dIWmNOUXVZUXRFQVdxVVZxdVZLc01kUTBta1ZB?oc=5"
+    },
+    {
+      "title": "[AGÊNCIA BRASIL] Terremoto na Indonésia deixa pelo menos 47 mortos",
+      "link": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-08/terremoto-na-indonesia-deixa-pelo-menos-47-mortos"
     },
     {
       "title": "[AGÊNCIA BRASIL] Desertificação no Brasil ameaça segurança hídrica e alimentar",
       "link": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-08/risco-de-desertificacao-no-brasil-ameaca-seguranca-hidrica-e-alimentar"
     },
     {
-      "title": "[CNN BRASIL] Vídeo: Suspeito troca tiros com PMs durante operação em Paraisópolis",
-      "link": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/video-suspeito-troca-tiros-com-pms-durante-operacao-em-paraisopolis/"
+      "title": "[MINAS GERAIS] Quem são os candidatos a governador de Minas Gerais em 2026 - Gazeta do Povo",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNclJoTDN5Qjd1VDJPSlRqbUxpczFOLUNjTU9VbTFjTjFrNXFKcG9OQ3MzZ05JZlVDR1ZSS2hxQlpOMUdxQ2x4Vl9uS3FCek9TVVd3VndpOUtFNkxFbFI4c1lSV0ZrV1M4VGhhUHlmR0RIUVpBeUZPTWlwc1dHTG1ncXZELWNGeDN1SUhSVmhNVlFzM05KaVdsZXNnVEpJd1c5Mi1sN0tnQ3M3Y20x?oc=5"
     },
     {
-      "title": "[AGÊNCIA BRASIL] Bolsonaro pede ao STF para se consultar com a nora, que é dentista",
-      "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-08/bolsonaro-pede-ao-stf-para-se-consultar-com-nora-que-e-dentista"
+      "title": "[MINAS GERAIS] Dança transforma vidas há 20 anos em BH - G1",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNUzVFMXRZWXo2MWJTRERMc2N6S2I3bkh4YmVxQ1oyakpNbzlqRU1naEtoMWFLVHY3OFFwQlpwLTVEdFF1X1VfeWdESV9Ba0ozTjNJcXAtY1FxaFJnTHR4TTNGUVVpLWdYd3lLTHE3UE5ZU1kxLUNBQTJMLTRmTkVMT3VTbGozcWc4cEVldjJYa1BPbVplSkh6Y1M2NGhqQXZpblB30gGyAUFVX3lxTE1KUXJnWXlVZVpZTENRSGJGMHlyWFRjeWx1LUtWSVg0Nmw5MjRVTGNUMWQyR3VBVkVlMHF0NTd0ZVpURHNWektrSmtGNnpOeVhxSkRHY1RMYUJtZ3VlQldraGJDOWFUdW1Dek1sXzBSNkRrSEdnUjRqQjZ2VDVxcGkydnNIVkcyNmlWamJNUzIyaXhobWlqSm1kV2FwWEFfdWlNbGV3YVdqcnBuYjVoYUo3bVE?oc=5"
     },
     {
-      "title": "[MINAS GERAIS] Inmet alerta para chuva de granizo atingir 74 cidades de Minas Gerais - BHAZ",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNT2U1RjR4N2gyS0tGVVVJSU1QTWhIbktLX2tUMXlwSDAwaHBTbE5RRlAyTHhxR0JUa21WTDhldGRkNUtUZUN4Y0dNVWRFRkRDT3hybDVtQVprQXR5TmxkNGVJYTRuNjNLY1Z5TFJkMThEcmFiS2xPQ3ZxY2k2cW5RbjBnR0VpVzdJR2d1SmVtb2drMTRUeHR2dkQwYXdIWWlVaThGcWlIcGRqWHhIUWl4eldn?oc=5"
+      "title": "[MINAS GERAIS] Foragido da Justiça na BA é preso em MG durante operação policial - G1",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQeFlNMlZYVHdJVUJmODVGc01FNy1hVFNPVV9XYldHR1BEYmFRNkhCM1lISGhlMWdlVmVpSVA3U2hHWmpUdmZkZ3E2R1BMSW5TLUZ0N1BjR283VXA0dmR5NlBHVVRUbzdLX09ldGFUOGsxQkVUVi1YYnJzenozZXIxUk5oTW9lN0RhYW1uVU0tLVVteURubjVVR3Bn0gGoAUFVX3lxTFA1VkJ6SEo3VGVkMWR2TEJIVFhNNzNTN3JDQ21BTUVWeFgtWS1RZFBtaHFhTk1TUGNCV0Y3eHN6MUVlUm02LW1GUTRTd295T2FXUnNoU1loYVEwbnBLcWV3bVVIeDVpb3dUQy12R2ZTMTVidlFSUTRQeGFWWTg0M0xaS1JRTzJ1TGVmNkNYMFU3M1lVY2RpMEhLcVRGa2FUaU9OckJxTV9hUw?oc=5"
     },
     {
-      "title": "[MINAS GERAIS] Operação Arena contra Wilians pode ter desdobramento em Minas Gerais - Diário do Poder",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPWkt4OHRUNWlNN0J6d2hjNGlfamRkV1dEaUVaMkdwdUx5WlRnU1JBdFB1YjZ4bWpTaE1BTl8yckI4dFZ1bnk3X182UzQ0T2xIQk1YMTlJNDJrSVpHY0NYZmt4OENXM2ZZZVctYlN4dWMtZUJBdkZWa0FGX21tYjczYmJIZ2FNbU12bGtFdXR4UWpiQ0tCckF1MFZsT0d0RW9rLXZfN3hyWlMtbElpbkxRTUVSMk1yVWZKWEIzM3diVXJDM0nSAcgBQVVfeXFMT1I0MUFFWFhuMGlZSHpWei0yVkVjbHhYZGdEOUhFZVczTjJVUWNJTE5EMS1MQ3NQTkYySDRMM3E1MnJHdkZianN3WE9waUk0TnBLcE56amQ5MHNyVkdXUklqZTA5c0RZb09tQzRNMGM1VElCelA4eDRVbTNYM2JwTEE0SkgwX1RyTV9CeFlpb3UwU0YwTS1lQ294NGJHaTdSRmJpTGxJcHhFTTgxcGEzb3BuQUV0ZzloYl9SRFdzQTBFazk2ZU1UVFg?oc=5"
+      "title": "[MINAS GERAIS] Calor deve persistir em Minas Gerais na próxima semana; temperaturas podem chegar a 39°C - itatiaia.com.br",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNZHFGaWtYVmpxWGNQYUE0VktqX0J6c1M1dWo0QlpJTFVObjg4M2xDanU4ektYS0xoNmxtWlFScW5mN1pTeGFiQmhEUUo2VjA2QTZNSUF6QVYzaUVKY3Q1N3B5dGxQOUhSZ1BmYjYwbnV3MndfWWFLTnJMSE9YUkRNYU1vdVhrVE5scS1kZ3c4LTZwR2JraVkxay1Wcm5SbUxGbkpyckdiVUZmWVRETnFrb3pNNW8wVXB3VmdtMG1UbzdsVTFrQXBUaEhqamQ5dw?oc=5"
     },
     {
-      "title": "[CNN BRASIL] Desabamento em SBC ocorreu ao lado de obra da CDHU; laudos serão avaliados",
-      "link": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/desabamento-em-sbc-ocorreu-ao-lado-de-obra-da-cdhu-laudos-serao-avaliados/"
+      "title": "[CNN BRASIL] Maria Ribeiro manda recado a Tata Werneck após tapão em “Quem Ama Cuida”",
+      "link": "https://www.cnnbrasil.com.br/pop/celebridades/maria-ribeiro-manda-recado-a-tata-werneck-apos-tapao-em-quem-ama-cuida/"
     },
     {
-      "title": "[CNN BRASIL] Fiuk diz que não tem mais relação com Fábio Jr. e expõe crise financeira",
-      "link": "https://www.cnnbrasil.com.br/pop/celebridades/fiuk-diz-que-nao-tem-mais-relacao-com-fabio-jr-e-expoe-crise-financeira/"
+      "title": "[CNN BRASIL] Rota do Ártico vira corredor de gás russo para a China",
+      "link": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/rota-do-artico-vira-corredor-de-gas-russo-para-a-china/"
+    },
+    {
+      "title": "[CNN BRASIL] Tesla avalia apresentar novo “carro voador” do modelo Roadster, diz portal",
+      "link": "https://www.cnnbrasil.com.br/economia/money/negocios/tesla-avalia-apresentar-novo-carro-voador-do-modelo-roadster-diz-portal/"
+    },
+    {
+      "title": "[AGÊNCIA BRASIL] Com envelhecimento da população, eleitorado jovem recua 22% em 16 anos",
+      "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/com-envelhecimento-da-populacao-eleitorado-jovem-recua-22-em-16-anos"
+    },
+    {
+      "title": "[CNN BRASIL] Ex-professor de Cambridge é encontrado morto após acusações de plágio",
+      "link": "https://www.cnnbrasil.com.br/internacional/ex-professor-de-cambridge-e-encontrado-morto-apos-acusacoes-de-plagio/"
+    },
+    {
+      "title": "[AGÊNCIA BRASIL] Amcham defende que adoção de reciprocidade contra os EUA seja evitada",
+      "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/amcham-defende-que-adocao-de-reciprocidade-contra-os-eua-seja-evitada"
+    },
+    {
+      "title": "[CNN BRASIL] D23: com Robert Downey Jr. e Chris Evans, Marvel posta fotos de bastidores",
+      "link": "https://www.cnnbrasil.com.br/pop/celebridades/d23-com-robert-downey-jr-e-chris-evans-marvel-posta-fotos-de-bastidores/"
     }
   ]
 }
