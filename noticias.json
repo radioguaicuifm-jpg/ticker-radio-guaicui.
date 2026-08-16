@@ -1,34 +1,66 @@
 {
   "source": "Radio Guaicui - Noticias",
-  "updated_at": "2026-08-16T09:26:53.111186+00:00",
+  "updated_at": "2026-08-16T09:52:58.665626+00:00",
   "items": [
+    {
+      "title": "[AGÊNCIA BRASIL] Ginástica rítmica: Brasil é bronze e garante vaga em Los Angeles 2028",
+      "link": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-08/ginastica-ritmica-brasil-e-bronze-e-garante-vaga-em-los-angeles-2028"
+    },
+    {
+      "title": "[AGÊNCIA BRASIL] Exposição imersiva celebra 140 anos do nascimento de Tarsila do Amaral",
+      "link": "https://agenciabrasil.ebc.com.br/cultura/noticia/2026-08/exposicao-imersiva-celebra-140-anos-de-nascimento-de-tarsila-do-amaral"
+    },
     {
       "title": "[CNN BRASIL] Elvis e Aretha morreram na mesma data; relembre últimos momentos",
       "link": "https://www.cnnbrasil.com.br/pop/musica/elvis-e-aretha-morreram-na-mesma-data-relembre-ultimos-momentos/"
     },
     {
-      "title": "[CNN BRASIL] Buscas por sobreviventes continuam após forte terremoto na Indonésia",
-      "link": "https://www.cnnbrasil.com.br/internacional/buscas-por-sobreviventes-continuam-apos-forte-terremoto-na-indonesia/"
+      "title": "[AGÊNCIA BRASIL] Fluminense encerra jejum e bate Palmeiras de virada no Brasileirão",
+      "link": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-08/fluminense-encerra-jejum-e-bate-palmeiras-de-virada-no-brasileirao"
+    },
+    {
+      "title": "[AGÊNCIA BRASIL] Brasileirão Feminino A3: Juventude-SE sai na frente da Portuguesa-AP",
+      "link": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-08/brasileirao-feminino-a3-juventude-se-sai-na-frente-da-portuguesa-ap"
+    },
+    {
+      "title": "[CNN BRASIL] Governo aposta na reputação do agro para abrir mercados no mundo",
+      "link": "https://www.cnnbrasil.com.br/agro/governo-aposta-na-reputacao-do-agro-para-abrir-mercados-no-mundo/"
+    },
+    {
+      "title": "[CNN BRASIL] Preço do feijão carioca dispara 96,8% em 2026, aponta levantamento da VR",
+      "link": "https://www.cnnbrasil.com.br/agro/preco-do-feijao-carioca-dispara-968-em-2026-aponta-levantamento-da-vr/"
+    },
+    {
+      "title": "[AGÊNCIA BRASIL] TV Brasil exibe Botafogo x São Paulo pelo Brasileirão Feminino A1",
+      "link": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-08/tv-brasil-exibe-botafogo-x-sao-paulo-pelo-brasileirao-feminino-a1"
     },
     {
       "title": "[AGÊNCIA BRASIL] Mega-Sena sorteia prêmio acumulado de R$ 38 milhões neste domingo",
       "link": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-08/mega-sena-sorteia-premio-acumulado-de-r-38-milhoes-neste-domingo"
     },
     {
-      "title": "[CNN BRASIL] O que difere a dieta restrita do transtorno, com Dr. Kalil e especialistas",
-      "link": "https://www.cnnbrasil.com.br/saude/o-que-difere-a-dieta-restrita-do-transtorno-com-dr-kalil-e-especialistas/"
-    },
-    {
-      "title": "[AGÊNCIA BRASIL] Show exclusivo resgata clássicos do cancioneiro nacional na TV Brasil",
-      "link": "https://agenciabrasil.ebc.com.br/cultura/noticia/2026-08/show-exclusivo-resgata-classicos-do-cancioneiro-nacional-na-tv-brasil"
+      "title": "[CNN BRASIL] Acidente com ônibus deixa ao menos 12 mortos na Hungria",
+      "link": "https://www.cnnbrasil.com.br/internacional/acidente-com-onibus-deixa-ao-menos-12-mortos-na-hungria/"
     },
     {
       "title": "[AGÊNCIA BRASIL] Prédio desaba em São Bernardo do Campo e deixa cinco feridos",
       "link": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-08/predio-desaba-em-sao-bernardo-do-campo-e-deixa-quatro-feridos"
     },
     {
-      "title": "[AGÊNCIA BRASIL] Ginástica rítmica: Brasil é bronze e garante vaga em Los Angeles 2028",
-      "link": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-08/ginastica-ritmica-brasil-e-bronze-e-garante-vaga-em-los-angeles-2028"
+      "title": "[CNN BRASIL] Mega-Sena: quanto rendem R$ 38 milhões na poupança, Tesouro Direto ou CDB",
+      "link": "https://www.cnnbrasil.com.br/economia/investimentos/mega-sena-quanto-rendem-r-38-milhoes-na-poupanca-tesouro-direto-ou-cdb-4/"
+    },
+    {
+      "title": "[CNN BRASIL] Buscas por sobreviventes continuam após forte terremoto na Indonésia",
+      "link": "https://www.cnnbrasil.com.br/internacional/buscas-por-sobreviventes-continuam-apos-forte-terremoto-na-indonesia/"
+    },
+    {
+      "title": "[AGÊNCIA BRASIL] Nova regra da CBV afeta participação de Tifanny na Superliga de vôlei",
+      "link": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-08/nova-regra-da-cbv-afeta-participacao-de-tifanny-na-superliga-de-volei"
+    },
+    {
+      "title": "[CNN BRASIL] O que difere a dieta restrita do transtorno, com Dr. Kalil e especialistas",
+      "link": "https://www.cnnbrasil.com.br/saude/o-que-difere-a-dieta-restrita-do-transtorno-com-dr-kalil-e-especialistas/"
     },
     {
       "title": "[AGÊNCIA BRASIL] Publicação lembra 50 anos do atentado à sede da ABI na ditadura",
@@ -39,48 +71,16 @@
       "link": "https://www.cnnbrasil.com.br/economia/seu-bolso/loterias/mega-sena-3045/"
     },
     {
-      "title": "[AGÊNCIA BRASIL] Nova regra da CBV afeta participação de Tifanny na Superliga de vôlei",
-      "link": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-08/nova-regra-da-cbv-afeta-participacao-de-tifanny-na-superliga-de-volei"
+      "title": "[CNN BRASIL] CRB x Novorizontino: horário e onde assistir ao Brasileirão Série B",
+      "link": "https://www.cnnbrasil.com.br/esportes/brasileirao/crb-x-novorizontino-horario-e-onde-assistir-ao-brasileirao-serie-b/"
     },
     {
-      "title": "[CNN BRASIL] Governo aposta na reputação do agro para abrir mercados no mundo",
-      "link": "https://www.cnnbrasil.com.br/agro/governo-aposta-na-reputacao-do-agro-para-abrir-mercados-no-mundo/"
-    },
-    {
-      "title": "[CNN BRASIL] Mega-Sena: quanto rendem R$ 38 milhões na poupança, Tesouro Direto ou CDB",
-      "link": "https://www.cnnbrasil.com.br/economia/investimentos/mega-sena-quanto-rendem-r-38-milhoes-na-poupanca-tesouro-direto-ou-cdb-4/"
-    },
-    {
-      "title": "[AGÊNCIA BRASIL] TV Brasil exibe Botafogo x São Paulo pelo Brasileirão Feminino A1",
-      "link": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-08/tv-brasil-exibe-botafogo-x-sao-paulo-pelo-brasileirao-feminino-a1"
+      "title": "[AGÊNCIA BRASIL] Show exclusivo resgata clássicos do cancioneiro nacional na TV Brasil",
+      "link": "https://agenciabrasil.ebc.com.br/cultura/noticia/2026-08/show-exclusivo-resgata-classicos-do-cancioneiro-nacional-na-tv-brasil"
     },
     {
       "title": "[CNN BRASIL] América-MG x Athletic Club: horário e onde assistir ao Brasileirão Série B",
       "link": "https://www.cnnbrasil.com.br/esportes/brasileirao/america-mg-x-athletic-club-horario-e-onde-assistir-ao-brasileirao-serie-b/"
-    },
-    {
-      "title": "[CNN BRASIL] Acidente com ônibus deixa ao menos 12 mortos na Hungria",
-      "link": "https://www.cnnbrasil.com.br/internacional/acidente-com-onibus-deixa-ao-menos-12-mortos-na-hungria/"
-    },
-    {
-      "title": "[AGÊNCIA BRASIL] Brasileirão Feminino A3: Juventude-SE sai na frente da Portuguesa-AP",
-      "link": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-08/brasileirao-feminino-a3-juventude-se-sai-na-frente-da-portuguesa-ap"
-    },
-    {
-      "title": "[AGÊNCIA BRASIL] Exposição imersiva celebra 140 anos do nascimento de Tarsila do Amaral",
-      "link": "https://agenciabrasil.ebc.com.br/cultura/noticia/2026-08/exposicao-imersiva-celebra-140-anos-de-nascimento-de-tarsila-do-amaral"
-    },
-    {
-      "title": "[CNN BRASIL] Preço do feijão carioca dispara 96,8% em 2026, aponta levantamento da VR",
-      "link": "https://www.cnnbrasil.com.br/agro/preco-do-feijao-carioca-dispara-968-em-2026-aponta-levantamento-da-vr/"
-    },
-    {
-      "title": "[AGÊNCIA BRASIL] Fluminense encerra jejum e bate Palmeiras de virada no Brasileirão",
-      "link": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-08/fluminense-encerra-jejum-e-bate-palmeiras-de-virada-no-brasileirao"
-    },
-    {
-      "title": "[CNN BRASIL] CRB x Novorizontino: horário e onde assistir ao Brasileirão Série B",
-      "link": "https://www.cnnbrasil.com.br/esportes/brasileirao/crb-x-novorizontino-horario-e-onde-assistir-ao-brasileirao-serie-b/"
     }
   ]
 }
