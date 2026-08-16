@@ -1,118 +1,10 @@
 {
   "source": "Radio Guaicui - Noticias",
-  "updated_at": "2026-08-16T16:52:04.661435+00:00",
+  "updated_at": "2026-08-16T17:19:31.102419+00:00",
   "items": [
-    {
-      "title": "[AGÊNCIA BRASIL] Ondas da Rádio Nacional transmitem partida entre Vasco e Santos",
-      "link": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-08/ondas-da-radio-nacional-transmitem-partida-entre-vasco-e-santos"
-    },
-    {
-      "title": "[AGÊNCIA BRASIL] Veja as agendas dos candidatos à presidência para este domingo (16)",
-      "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/veja-agendas-dos-candidatos-presidencia-para-este-domingo-16"
-    },
-    {
-      "title": "[CNN BRASIL] Colombianas mortas em acidente de helicóptero são veladas no Rio",
-      "link": "https://www.cnnbrasil.com.br/nacional/sudeste/rj/colombianas-mortas-em-acidente-de-helicoptero-sao-veladas-no-rio/"
-    },
-    {
-      "title": "[AGÊNCIA BRASIL] Mega-sena acumula para R$ 45 milhões; confira os números",
-      "link": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-08/mega-sena-acumula-para-r-45-milhoes-confira-os-numeros"
-    },
-    {
-      "title": "[MINAS GERAIS] Tatuador é detido suspeito de ameaçar esfaquear Flávio em Juiz de Fora (MG) - UOL Notícias",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQT04zUXkwbGVoMWNaMmFCa2ludzlOU29fTzlabmEwWEhscl9NVlE0RVRQbTlHWW5kTlZ3TkFfdFJGVzBSQnFoYU4tOXFFcFpHWW9CNFBaeGZEYTZ0elVLNGNEd055SWRDdmc3VFgzMWcwNHdMNDBUWVdVbFJlMWlKU1NlWjdjYk01VGJ0R1pXbDJ5X3pPSnNWVnNNR2VqZG1EVlBYX3Z3YnpPNXd5S0pQTURrQXhIMXNXTkJOTWdjMV9jSzNu?oc=5"
-    },
-    {
-      "title": "[AGÊNCIA BRASIL] Projeto mapeia caminhos para economia verde no Nordeste",
-      "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/projeto-mapeia-caminhos-para-economia-verde-no-nordeste"
-    },
-    {
-      "title": "[MINAS GERAIS] Quem é Ana Luiza do Mlb, candidata ao Senado por Minas Gerais nas eleições de 2026 - GZH",
-      "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNT1V4Qnk4MzR1dkVuRkxsbGRoZ3FKVjhYa0ltM3poTUZsRjZzdjZTZ2FseHQ2Q0p0WW9YdW5VS0ZyOUNCN1YxSTRSWF8zaTZfNW42VVpFeUo2eXFyc2Q4VlE5dTRfN3k2aHpMcFFiS0cyRzUxa3YtSjZJWUV2dkphWVlJXzdRVkthczJjVjBOU1k0bUZ5dUgwQUczWGxEN0dneVRVai1HS3dOOTFRdE9PUjVoLVBtSV9pcWpTTzIyNUdZLTRNMWxiSXhMb1k0YlRIMXprN2UxVXhDYXNFVmozY0R6c05USjlWaWZTWHFlY0lwQXZKaG9JSTVlQ3dpczlCOG05YU4wTEtsUQ?oc=5"
-    },
-    {
-      "title": "[MINAS GERAIS] Intercâmbio fortalece a construção da Reforma Agrária Popular em Minas Gerais - mst.org.br",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPd0ZRMmY1Vm1jdHV0b3ljNXpFQXdGU2tNYS1Ha1hiR3dGVWZSY3JvbU5BYjVHZHRqUkt2d3R4UlZFSGhBbmxUOXZmbE5pLVhrMVYxbVFYUEdrUzczeFFJZDZXaFc5QVh6TkxrR01KTk16NGpMUVc5OG1KeXdSbTZJU0VKelhVbmhpUGU3SWFMMF9kVDlzckw5RUFhUXgySG5OcjYyQ2wxTmFFN3ZM?oc=5"
-    },
-    {
-      "title": "[AGÊNCIA BRASIL] Ferroviária e Bahia se classificam às quartas do Brasileirão Feminino",
-      "link": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-08/ferroviaria-e-bahia-se-classificam-quartas-do-brasileirao-feminino"
-    },
-    {
-      "title": "[CNN BRASIL] Vídeo: Veja momento em que empresário agride a esposa em SP",
-      "link": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/video-veja-momento-em-que-empresario-agride-a-esposa-em-sp/"
-    },
-    {
-      "title": "[MINAS GERAIS] Nove morrem em tombamento de ônibus em Petrópolis; vítimas são 8 mulheres e 1 criança - G1",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOTE1LN01vQnQ1ZWFwRHdLNjl2eHVuZmNxMk1xbkFmYVlLQjczMkRodE9meGRZOVRLY3BkSE8tQjFycjZ1NVh0V1BBNWFZQ3o2VmhEaVZFSlVvLTJiUTM1MGZoQ3ZSbkp3eVN4OE5oazlqN1loWDNMR0VrMlU1X2h5S0RRWGowNkdvVkZYSkkydzNCYnZw0gGjAUFVX3lxTE02cXAzM0pDVUMxQ25zLWZaRnVqdTNrQmJmTWpYb1Y5Y2NaN1g2UUJGNGxWcnp4bDVITmt4TTN0dkEyVUpNRmR4c2xZdXNVN1AwVmtiM3FuV1J0Sm82NkNFbWJrQUx1cUp2TGx1Nm5aTFVVLU9SMzFseEZaaERFVkpyMUpJWFdqMU5EdWtWY3FlX2ZSR0F0Y2kwaDRTOVFUbFpjeGs?oc=5"
-    },
-    {
-      "title": "[CNN BRASIL] Flávio abre campanha com ataques a Lula, falas sobre corrupção e INSS",
-      "link": "https://www.cnnbrasil.com.br/eleicoes/flavio-abre-campanha-com-ataques-a-lula-falas-sobre-corrupcao-e-inss/"
-    },
-    {
-      "title": "[CNN BRASIL] Matthew McConaughey diz que não quer filhos “exatamente como ele”; entenda",
-      "link": "https://www.cnnbrasil.com.br/pop/celebridades/matthew-mcconaughey-diz-que-nao-quer-filhos-exatamente-como-ele-entenda/"
-    },
-    {
-      "title": "[AGÊNCIA BRASIL] Exposição do Muhcab celebra resistência da Pequena África, no Rio",
-      "link": "https://agenciabrasil.ebc.com.br/cultura/noticia/2026-08/exposicao-do-muhcab-celebra-resistencia-da-pequena-africa-no-rio"
-    },
-    {
-      "title": "[MINAS GERAIS] Cleitinho registra candidatura ao governo de Minas após semanas de indefinição - Estadão",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQbkJPMm9YcW1vWVBlS3pLa3J5XzFBbmxfZnRNOXNQeEwtRlJPVzFhd3llUEVMYUoyMmhmUThNalJTakpqRmhjenhwU2dtT2pFMmlvd2sxUWNUMk5INnVpNWUwSm5yOFFZV1dKbDVjRHl0NG1oZEZrTWZDQ1ozWjM3Q1BqRDVYUGZOTTY3YTRlRUhIa3ViRXI3OVpaYTFhcU91NGZBQThMS3loY1VncVJsMjUwOE4zZ9IBuwFBVV95cUxPNUZYa2hGTU1EcDBDYW1rTng3TU1DYnhjV2pNQlE2dnh6NXRkZ1BZbjlnaEpRd1duNkZvTDgxT0NqYnI2Zlk5bldNTGIyakxKbUJXR3NpSG1jdklVOGNlU3FRa3F5c18wMW51NXdnaHZfVkJtYXA3cEYzVlVxWU5DZlNXdDRmOU5uXzZDRnJST1BzM3Q5SFlkNDlIczVpTjM3M3haZW5zek5zUm1KMTZZeE8ycE1SX1FDNGtZ?oc=5"
-    },
-    {
-      "title": "[MINAS GERAIS] Veja as fotos do último dia de Travel Next Minas, em Belo Horizonte - Panrotas",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNSlJvTk5xWkFHdVB0T0pOWkR0UjNaUVRsNUdMY2kzTGlJZHVtT2gyM3A5ZGV2YmIydXplLTlxNEdvNWFCU25rRWpVTGMzS09ybVNudDBjMDVwQzd2VGdNY091czBXR25aM3VMQklOMXZaeWk5Yi03ZEJydVh3ZlNES3VIVWdPTkRSNkk2aW95dFBYZER0OVU3MENvb0F6dUQ3cEsxS2hVZTFwalJYM1RaenZjRmZkamR4NmZXdzJocW1zczZIY2hr?oc=5"
-    },
-    {
-      "title": "[CNN BRASIL] Magda Chambriard confirma que descoberta na Foz do Amazonas é de petróleo",
-      "link": "https://www.cnnbrasil.com.br/infra/magda-chambriard-confirma-que-descoberta-na-foz-do-amazonas-e-de-petroleo/"
-    },
-    {
-      "title": "[CNN BRASIL] Makhachev quebra recorde de Anderson Silva no UFC",
-      "link": "https://www.cnnbrasil.com.br/esportes/outros-esportes/makhachev-quebra-recorde-de-anderson-silva-no-ufc/"
-    },
-    {
-      "title": "[AGÊNCIA BRASIL] Campanha eleitoral nas ruas e propaganda virtual começam neste domingo",
-      "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/campanha-eleitoral-nas-ruas-e-propaganda-virtual-comecam-neste-domingo"
-    },
-    {
-      "title": "[MINAS GERAIS] Debate da Band reúne cinco candidatos ao governo de Minas neste domingo - band.com.br",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQeTQ3OEhSTWxNNlZtWWVPa0VvSmtqUVFValRVYmc3aFlILXNiTEhjNzdfNkZuRlUtSDA4cFEzQ01HVXRHdGZmd3NJVDJqRURHRVprekZjY1dNQk43TW05djg2QXc3MUhEZlUyczdkYWxsUHRuSjI3UnVBVFA3TlZTQjVvQ29yRE5GQXZWM29sZ3hRZl9BWS1VUk9tMG5uZG5wV295WTJ0S2FEMzktUFROX1dKcVZsTWxyNlNPSDFjNFFqQmxmeldMRQ?oc=5"
-    },
     {
       "title": "[CNN BRASIL] João Fonseca x Zandschulp: siga ao vivo o duelo do Masters de Cincinnati",
       "link": "https://www.cnnbrasil.com.br/esportes/tenis/joao-fonseca-x-zandschulp-siga-ao-vivo-o-duelo-do-masters-de-cincinnati/"
-    },
-    {
-      "title": "[AGÊNCIA BRASIL] Fluminense encerra jejum e bate Palmeiras de virada no Brasileirão",
-      "link": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-08/fluminense-encerra-jejum-e-bate-palmeiras-de-virada-no-brasileirao"
-    },
-    {
-      "title": "[MINAS GERAIS] Ex-diretor de presídio em Minas Gerais é condenado por assédio - R7",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOUnp5ZGt6cExZOXNLdUdva0ZnSXdma08xWVBlX2ZEUTVHUFByUjlBOHNrVm9HTmFhT2U0eWRZLXJHZlVvb0xCV1NkUG5Qa0JBdktWVEZRekw3Y2l6SzI2a0ZtRk1INk1iUklKZ09VeGxBYnBiTTlsTFdpZU5fVW5zdlNpWDNJYXNHWC1haGw4NDM0Zlc5Vk9mSC1yeFBsZi1FWUgweE8wRFR6Xzh1Y3V5cmF3?oc=5"
-    },
-    {
-      "title": "[CNN BRASIL] Mackenzie Dern mantém cinturão do UFC com vitória incontestável",
-      "link": "https://www.cnnbrasil.com.br/esportes/outros-esportes/mackenzie-dern-mantem-cinturao-do-ufc-com-vitoria-incontestavel/"
-    },
-    {
-      "title": "[AGÊNCIA BRASIL] Da Amazônia à Europa, seca avança e movimenta debates na COP17",
-      "link": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-08/da-amazonia-europa-seca-avanca-e-movimenta-debates-na-cop17"
-    },
-    {
-      "title": "[CNN BRASIL] Lutador brasileiro Edson Barboza é nocauteado no UFC e se aposenta",
-      "link": "https://www.cnnbrasil.com.br/esportes/outros-esportes/lutador-brasileiro-edson-barboza-e-nocauteado-no-ufc-e-se-aposenta/"
-    },
-    {
-      "title": "[MINAS GERAIS] Saiba quem são os candidatos ao governo de Minas Gerais em 2026 - Poder360",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNLTVkdjl2RjgwVEtjNU5TTUwxbHRBaTJDc2E2V2VFYzFvSDNaWnFBQ0dvRjRXR2xGR3p0dlVzdWV1NmZxS0xib0dJbUtqTmlUb19wX3N6NUxmSktVekdnU0p3TGdSTFVhdzdoR0lkUG9UbE5ERVJIOTRxWFlrbUYzNnJmejJFVmpneDR4SF9Sc2FZTWFtSDJtaFJ2bm5uZWFOdlFLeEUyajdYeVR0YldwanlB?oc=5"
-    },
-    {
-      "title": "[MINAS GERAIS] Zema inicia campanha participando de missa no norte de Minas Gerais - Gazeta do Povo",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNelY5em85aFExMlBVTFBiQjJnVDU5aEN2S09RNktOaV9hNF9hbUJick14UV9QTTJkM0xZZHphSVVBWlZNZmRFaGItNHNkMThLVF9Rdnk2WDlDQUlueV9kMFR2UEhjVHhPTmNzandJZDZIOHVTNVJLNE9wN1Mxb2Q5TmdWM0YxQndOcm9GVkhVUmJlQ2xHcmQwSUZVUXZKM0VkYUFkNlp1VnE2ZER2alE?oc=5"
     },
     {
       "title": "[CNN BRASIL] Nicole Bahls nomea cabrito como Vini Jr.: “Com muito carinho”",
@@ -121,6 +13,74 @@
     {
       "title": "[AGÊNCIA BRASIL] Nove pessoas morrem em tombamento de ônibus em Petrópolis",
       "link": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-08/nove-pessoas-morrem-em-tombamento-de-onibus-em-petropolis"
+    },
+    {
+      "title": "[AGÊNCIA BRASIL] Da Amazônia à Europa, seca avança e movimenta debates na COP17",
+      "link": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-08/da-amazonia-europa-seca-avanca-e-movimenta-debates-na-cop17"
+    },
+    {
+      "title": "[AGÊNCIA BRASIL] Exposição do Muhcab celebra resistência da Pequena África, no Rio",
+      "link": "https://agenciabrasil.ebc.com.br/cultura/noticia/2026-08/exposicao-do-muhcab-celebra-resistencia-da-pequena-africa-no-rio"
+    },
+    {
+      "title": "[CNN BRASIL] Flávio abre campanha com ataques a Lula, falas sobre corrupção e INSS",
+      "link": "https://www.cnnbrasil.com.br/eleicoes/flavio-abre-campanha-com-ataques-a-lula-falas-sobre-corrupcao-e-inss/"
+    },
+    {
+      "title": "[CNN BRASIL] Lutador brasileiro Edson Barboza é nocauteado no UFC e se aposenta",
+      "link": "https://www.cnnbrasil.com.br/esportes/outros-esportes/lutador-brasileiro-edson-barboza-e-nocauteado-no-ufc-e-se-aposenta/"
+    },
+    {
+      "title": "[CNN BRASIL] TSE decide não analisar liminar sobre eventos do PT e projeto ligado a Lula",
+      "link": "https://www.cnnbrasil.com.br/politica/tse-decide-nao-analisar-liminar-sobre-eventos-do-pt-e-projeto-ligado-a-lula/"
+    },
+    {
+      "title": "[AGÊNCIA BRASIL] Projeto mapeia caminhos para economia verde no Nordeste",
+      "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/projeto-mapeia-caminhos-para-economia-verde-no-nordeste"
+    },
+    {
+      "title": "[AGÊNCIA BRASIL] Ferroviária e Bahia se classificam às quartas do Brasileirão Feminino",
+      "link": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-08/ferroviaria-e-bahia-se-classificam-quartas-do-brasileirao-feminino"
+    },
+    {
+      "title": "[AGÊNCIA BRASIL] TSE determina remoção de vídeo que associa Lula ao PCC e ao CV",
+      "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/tse-determina-remocao-de-video-que-associa-lula-ao-pcc-e-ao-cv"
+    },
+    {
+      "title": "[AGÊNCIA BRASIL] Campanha eleitoral nas ruas e propaganda virtual começam neste domingo",
+      "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/campanha-eleitoral-nas-ruas-e-propaganda-virtual-comecam-neste-domingo"
+    },
+    {
+      "title": "[AGÊNCIA BRASIL] Veja as agendas dos candidatos à presidência para este domingo (16)",
+      "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/veja-agendas-dos-candidatos-presidencia-para-este-domingo-16"
+    },
+    {
+      "title": "[CNN BRASIL] Makhachev quebra recorde de Anderson Silva no UFC",
+      "link": "https://www.cnnbrasil.com.br/esportes/outros-esportes/makhachev-quebra-recorde-de-anderson-silva-no-ufc/"
+    },
+    {
+      "title": "[CNN BRASIL] Matthew McConaughey diz que não quer filhos “exatamente como ele”; entenda",
+      "link": "https://www.cnnbrasil.com.br/pop/celebridades/matthew-mcconaughey-diz-que-nao-quer-filhos-exatamente-como-ele-entenda/"
+    },
+    {
+      "title": "[CNN BRASIL] Colombianas mortas em acidente de helicóptero são veladas no Rio",
+      "link": "https://www.cnnbrasil.com.br/nacional/sudeste/rj/colombianas-mortas-em-acidente-de-helicoptero-sao-veladas-no-rio/"
+    },
+    {
+      "title": "[AGÊNCIA BRASIL] Ondas da Rádio Nacional transmitem partida entre Vasco e Santos",
+      "link": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-08/ondas-da-radio-nacional-transmitem-partida-entre-vasco-e-santos"
+    },
+    {
+      "title": "[AGÊNCIA BRASIL] Mega-sena acumula para R$ 45 milhões; confira os números",
+      "link": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-08/mega-sena-acumula-para-r-45-milhoes-confira-os-numeros"
+    },
+    {
+      "title": "[CNN BRASIL] Acidente de ônibus no RJ: Sobe para 10 número de mortos em viagem turística",
+      "link": "https://www.cnnbrasil.com.br/nacional/sudeste/rj/acidente-de-onibus-no-rj-sobe-para-10-numero-de-mortos-em-viagem-turistica/"
+    },
+    {
+      "title": "[CNN BRASIL] Mackenzie Dern mantém cinturão do UFC com vitória incontestável",
+      "link": "https://www.cnnbrasil.com.br/esportes/outros-esportes/mackenzie-dern-mantem-cinturao-do-ufc-com-vitoria-incontestavel/"
     }
   ]
 }
