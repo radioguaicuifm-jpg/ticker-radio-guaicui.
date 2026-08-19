@@ -1,102 +1,50 @@
 {
   "source": "Radio Guaicui - Noticias",
-  "updated_at": "2026-08-19T09:33:59.400926+00:00",
+  "updated_at": "2026-08-19T10:04:24.614557+00:00",
   "items": [
-    {
-      "title": "[CNN BRASIL] Falta de vacinas na pecuária deve continuar até início de 2027, diz Sindan",
-      "link": "https://www.cnnbrasil.com.br/agro/falta-de-vacinas-na-pecuaria-deve-continuar-ate-inicio-de-2027-diz-sindan/"
-    },
-    {
-      "title": "[AGÊNCIA BRASIL] Veja como foi a terça-feira dos candidatos a presidente",
-      "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/veja-como-foi-terca-feira-dos-candidatos-presidente"
-    },
-    {
-      "title": "[CNN BRASIL] Brasil tem recorde de apreensão de emagrecedores na fronteira com Paraguai",
-      "link": "https://www.cnnbrasil.com.br/nacional/brasil/brasil-tem-recorde-de-apreensao-de-emagrecedores-na-fronteira-com-paraguai/"
-    },
-    {
-      "title": "[MINAS GERAIS] Voltar a sonhar com Minas Gerais - Brasil de Fato",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxONVk2LUg1eUpoZ0hFZGFobU9RckwyaEpfM2szX3NjbGhMVXNFWWxYVkc4dnFSRUFReVcxRWRWaWMxYkNhRjA2N3J1SllZYnJjN2xvNmZEa19yNkczWjEzckpweFdYbFRhc2VhbFM3dW96LUx5a2Q4dUNBRnprbF9hQTgtU2dqYWlsWUxYdHVJd2N3S21maXhfenl2ZExGOXRaMHYw?oc=5"
-    },
-    {
-      "title": "[CNN BRASIL] Amapá mira retomada da mineração com aporte e expansão da produção de ouro",
-      "link": "https://www.cnnbrasil.com.br/infra/amapa-mira-retomada-da-mineracao-com-aporte-e-expansao-da-producao-de-ouro/"
-    },
-    {
-      "title": "[MINAS GERAIS] Saiba quem são os candidatos ao governo de Minas Gerais em 2026 - Poder360",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNUE1hQmkzdnlTWU1JM05xeHNsaFpVZE00Uk43eHVPLTBjSE1CM182cUNBRFNCWjdyVTdhYnFQQXFQQjVpY3pyblBuXzFPWWZXM0JVSXpELW9Ea04zd3czT1V6NU12ZUdyZ2FmNkc5d1JjTjNKaDNkMlBLYnp1cXVEbHFpWFdWZVZOT2xfQ1lxUUlKb3ZieDA2Wm5kZlVpU2JLaHU5c1BUclRGT1k?oc=5"
-    },
-    {
-      "title": "[MINAS GERAIS] Veja agenda de campanha dos candidatos ao governo de MG nesta terça-feira - G1",
-      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQcVl6ZXpkM09MSmFzaWZfS0NYd1N3cGdDYzdOT0xQUU9ZclZNZnRPTkdLTDNwOWE2UGJVdkxPS3BoUHdubGFzZExkN3RqZzI0blRZOG5US0VlenpzUTJWdTNDMzNzN1RrWVF3c3pDQ2ljdXFDazNJcnBocnUtNVVrMFVlbDBOanZpRmtoaERSOXJYbk1PbXctM2hqcmdCdGh0WGFfWHB4akh5ZWVNS0JSQjRkd1g5b3RNNlFPQ3pRUUx3QjVSNWExWHBOWUJtQS14SGhXS01faWQ3bXNOeXhsblh1YkzSAfMBQVVfeXFMUEN2ZzFtd3FfaE9iendxYnVpSkZ0RDFwZDgtRFVERVd3cUZsOHJ2Nmp0ZHNvcWsxeW81TVBKWWtrQnFFbThIaDV2eE94ZE9vUU93bFR3Vl9yYXV3emE1d1JhWTBEdHBZMWNNWU5JM0tyWDdrLUY5TnVTdHNSOWdwVC1hVDhDWFE3UjA3a3pzNWpla09ZR2tFX0k3a3d6SXZqdlJsTGtVOFVwa3NueTI3X0x1VUdrX19sUGNLckRReFFDVUh5WUdMMWpHdFZHSUtvcUVnZnZJR3YxV3p6U1VTQUVYNVRXVXo1SEQyQkozREl6RnZ3?oc=5"
-    },
-    {
-      "title": "[AGÊNCIA BRASIL] Fenaj pede que STF reveja decisão sobre diploma de jornalista",
-      "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-08/fenaj-pede-que-stf-reveja-decisao-sobre-diploma-de-jornalista"
-    },
-    {
-      "title": "[CNN BRASIL] Avaí x Sport: horário e onde assistir ao jogo da Série B",
-      "link": "https://www.cnnbrasil.com.br/esportes/brasileirao/avai-x-sport-horario-e-onde-assistir-ao-jogo-da-serie-b-2/"
-    },
     {
       "title": "[AGÊNCIA BRASIL] Inscrições para capacitação em IA para empreendedoras estão abertas",
       "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/inscricoes-para-capacitacao-em-ia-para-empreendedoras-estao-abertas"
-    },
-    {
-      "title": "[AGÊNCIA BRASIL] Dívida bancária do Rio chega a R$ 26 bilhões, diz governador",
-      "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/divida-bancaria-do-rio-chega-r-26-bilhoes-diz-governador"
-    },
-    {
-      "title": "[AGÊNCIA BRASIL] Mega-Sena acumula para R$ 50 milhões; confira os números sorteados",
-      "link": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-08/mega-sena-acumula-para-r-50-milhoes-confira-os-numeros-sorteados"
-    },
-    {
-      "title": "[MINAS GERAIS] Quem são os candidatos a deputado estadual de Minas Gerais em 2026 - Gazeta do Povo",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPMnB5NzVOREJzcnJRUHpibTZUS1pMM0dQeHBMclhsNXJoVG9qZXVuaHV4aFczblMtaWJ4elhRQ3pMdGtsSWhKX2RHTm92dDdydUJHX2s1ZjJGUWFvalZyenZDU3RBMlJVSEZMUEZGM21YTGt0YkVJTzhzbUF5WW5GU1otM3BPRlFDNjRKUXg1UVlvRExOUm91eDVyNEkzV2ptUVk5eng0MDJKcHVwb3JHLXVaVUg0QQ?oc=5"
-    },
-    {
-      "title": "[AGÊNCIA BRASIL] TSE retoma condenação de vereador por violência política de gênero",
-      "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-08/tse-retoma-condenacao-de-vereador-por-violencia-politica-de-genero"
-    },
-    {
-      "title": "[CNN BRASIL] Vila Nova x Ponte Preta: horário e onde assistir ao jogo da Série B",
-      "link": "https://www.cnnbrasil.com.br/esportes/brasileirao/vila-nova-x-ponte-preta-horario-e-onde-assistir-ao-jogo-da-serie-b/"
-    },
-    {
-      "title": "[MINAS GERAIS] Flávio Bolsonaro diz que tem apoio de Roscoe e Cleitinho em MG e defende equilíbrio fiscal para melhorar poder de compra das famílias - G1",
-      "link": "https://news.google.com/rss/articles/CBMiswJBVV95cUxQeGdkQ2VYOHRLcEdKemRNY0lLYXYwZWRNcGRoYXpwaXJMSUlsS0htdXNlUDN4T0V5LUZVeUhzUTVvYzBMbUswY2lLekh1a2R0dG56RmtaNEJ0TzQtYTYxNG9pMkd4Y0pEcXJDeDQwQXNWdWZlbEdpTzQ4cWpNTGloS1pFQ3BtZVBuTDRXSklRNTROYmQ0YllqYWlpdHdhSDhqRU1tRURDYnRpbGVYLWdkTjc5Z0lRcENCcUJtbVY4Y1RGSktDZFgxTG81NnZRU21IMHBXc1hyUWYxczlaUWdtZUo5OTNqNW00RjFpY3Z0V1c2b1hBZ19SN0FZMzJyN29jTWk2OFFmTDE5V3k5bEFGU0xvMGRrcTNpQTUtLUZUZW1RUGRVLUEzclNEVFNFZkotSTJN0gHCAkFVX3lxTE04c1F4WVFVaUdyNzNXTC0td0dZbVppTmZxWVAxeXZob1oyTlVnc1RlcWxsXzdZWkl4SmR3eTVsc0xPRGZSS0owVlBMemxiQ2xMdXVlS19rWGNZS3oxcG9XM0FQdTY3LVJqVHlYRDcxekctaG01NWJDX3lhUkdUalYwZTVVN3RKcWVQUHJaZ21lczR3eEJhQkFpcTdfOEIxbENoaGx3bXZ3YjJQaGU2RlhLb1BLV3NWZjBfLXZKUHBjUXVRWFQzRU8xNFJTeEFiSDBtSVV4RndoSXptQ1pXa3dMd05KdTRTeThUd05PYjdwcU83VUhFaWFBd3hzTU5LcnBaOVlZblY3MEUycThnZ0FuR3U5NTctVjZfTmR2N3BGMHlRbUdEQW9GbnVSVkF0Wkxad1FZMzRRSHR4UU9Pb2twZnc?oc=5"
     },
     {
       "title": "[CNN BRASIL] Brasil projeta alta de 20% nas exportações de etanol",
       "link": "https://www.cnnbrasil.com.br/agro/brasil-projeta-alta-de-20-nas-exportacoes-de-etanol/"
     },
     {
-      "title": "[MINAS GERAIS] Nova pesquisa Datafolha testa disputa ao governo de Minas Gerais após início da campanha eleitoral - VEJA",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNOWF3QWIyWVZUNHNwVGJGM0w2eFBOWkVZTTQ5cGRmSEFXemFoOHE4R1k0ZVdmVmt0b3pRSHVDeUp0MXNFNUdLckNlcm1yQVNSaE5ubGJkTVR3cWpDT3BNWVhkeEFOaG1CbS1YSE1jLWxjaTF6VVZDa21WYkVzOHlaWmpPUjlid0x0X3Bmdzg5RDhJVDZSb1A3aTU5Z0Y0ZHlzRDctMkN5aHY4aWlMbHdGbkRvN1pPLVNuQ2pmQVZac0k2TG1EVGxBbEltM05mLVk?oc=5"
+      "title": "[AGÊNCIA BRASIL] Dívida bancária do Rio chega a R$ 26 bilhões, diz governador",
+      "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/divida-bancaria-do-rio-chega-r-26-bilhoes-diz-governador"
     },
     {
-      "title": "[MINAS GERAIS] VÍDEO mostra momento em que passarela desaba e deixa dois mortos na Fernão Dias, no interior de SP - G1",
-      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNcGpYR0dIa3R6QmM4d1B6NTVmQnRxS2piNnVjNWhDLWNSMnhWLVVmNE5rZEJLeTkyZ2FYcmdSNjNzaDN0VENYbXY2em5OU1dZMzVxakxmNmVDWXdGVU05THhUSEJQUUVnc2dFNFZodUJXY21tWWtUQ3RwSDNFa1BsazBjUmFtUTFZczlnLURqVUkwU1p3MnRNMUFqYTZZLU5mbzFrdTY2TTBhRFY2b0h4Vmo5c2VzOVBaSHk2QzB6czA1TGtEOGxTdUVUdUc0R3kxOEFvZUktM1UwZWFWVkRLZXctMWY4aDMyV0xuNHJnbmFuQlhiMjBkQW55cXNJUdIBjAJBVV95cUxPS3FuLXduZ3lDRWxCamhFTldoOWdLWk9MbXFsMjVNeGxGNmhHa0x1bzg4RjFkWHRiWjB3UHlEaHEyZEpLVmczWS13bEcyQ3VFRHk1MTA2VFNTZnhhSEpldFhRM2Q0RHlyYUFGV2FzQi1Db0dSZmxNcnpBVTA0RVNqRS1TLVJtOUJsN19BeFpOV3hhbk5TUHV6N1NhVHEzV0VwOHFnOVhVOHZrUTAyd0NkMkNkZGFKdzh3a1AwMDVCWjB1X201dGRBR3NOcVdncksyaDdQd2M4MDF2ei1YTWg4ejF3UU5CUGlEb1dxRWZMMENORXRtcUNFRzlxYmtIODl1cFNlUDdDdVA0T1NB?oc=5"
+      "title": "[MINAS GERAIS] Voltar a sonhar com Minas Gerais - Brasil de Fato",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxONVk2LUg1eUpoZ0hFZGFobU9RckwyaEpfM2szX3NjbGhMVXNFWWxYVkc4dnFSRUFReVcxRWRWaWMxYkNhRjA2N3J1SllZYnJjN2xvNmZEa19yNkczWjEzckpweFdYbFRhc2VhbFM3dW96LUx5a2Q4dUNBRnprbF9hQTgtU2dqYWlsWUxYdHVJd2N3S21maXhfenl2ZExGOXRaMHYw?oc=5"
     },
     {
-      "title": "[MINAS GERAIS] Irmão de Cleitinho explica desentendimento com o Republicanos na candidatura em Minas Gerais - VEJA",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPMW9NU0kwSC1xR0RhaDVFRlJjYkFmMVVvMWhtZktKY3JGb2h4aUJ6S1h3ZFRVYUg2cWl5dTM0SEZ5M0tRVGE5T21uRWtCQ3psTHlzZ1pMNVZ2dGlUMlZHRldlUXJfRHM3TUZqaWc0SFpWZTRsVThjcE90VHpMNUt4SjBVeUxjakRmSUJ2WVdtS3l2R01HUjB5QWJRSUEtZVk2RW1XZ0VJT1RiMjRMMHVzTm5ERktuLVIwSHdLbnF5UmVHNHNwZFFZ?oc=5"
-    },
-    {
-      "title": "[AGÊNCIA BRASIL] Hortência é indicada a prêmio de maior atleta da história dos Mundiais",
-      "link": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-08/hortencia-e-indicada-premio-de-maior-atleta-da-historia-dos-mundiais"
+      "title": "[MINAS GERAIS] Veja agenda de campanha dos candidatos ao governo de MG nesta terça-feira - G1",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQcVl6ZXpkM09MSmFzaWZfS0NYd1N3cGdDYzdOT0xQUU9ZclZNZnRPTkdLTDNwOWE2UGJVdkxPS3BoUHdubGFzZExkN3RqZzI0blRZOG5US0VlenpzUTJWdTNDMzNzN1RrWVF3c3pDQ2ljdXFDazNJcnBocnUtNVVrMFVlbDBOanZpRmtoaERSOXJYbk1PbXctM2hqcmdCdGh0WGFfWHB4akh5ZWVNS0JSQjRkd1g5b3RNNlFPQ3pRUUx3QjVSNWExWHBOWUJtQS14SGhXS01faWQ3bXNOeXhsblh1YkzSAfMBQVVfeXFMUEN2ZzFtd3FfaE9iendxYnVpSkZ0RDFwZDgtRFVERVd3cUZsOHJ2Nmp0ZHNvcWsxeW81TVBKWWtrQnFFbThIaDV2eE94ZE9vUU93bFR3Vl9yYXV3emE1d1JhWTBEdHBZMWNNWU5JM0tyWDdrLUY5TnVTdHNSOWdwVC1hVDhDWFE3UjA3a3pzNWpla09ZR2tFX0k3a3d6SXZqdlJsTGtVOFVwa3NueTI3X0x1VUdrX19sUGNLckRReFFDVUh5WUdMMWpHdFZHSUtvcUVnZnZJR3YxV3p6U1VTQUVYNVRXVXo1SEQyQkozREl6RnZ3?oc=5"
     },
     {
       "title": "[AGÊNCIA BRASIL] Deputado que sofreu AVC na Câmara recebe alta hospitalar",
       "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/deputado-que-sofreu-avc-na-camara-recebe-alta-hospitalar"
     },
     {
-      "title": "[CNN BRASIL] Fortaleza x São Bernardo: horário e onde assistir ao jogo da Série B",
-      "link": "https://www.cnnbrasil.com.br/esportes/brasileirao/fortaleza-x-sao-bernardo-horario-e-onde-assistir-ao-jogo-da-serie-b/"
+      "title": "[AGÊNCIA BRASIL] Hortência é indicada a prêmio de maior atleta da história dos Mundiais",
+      "link": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-08/hortencia-e-indicada-premio-de-maior-atleta-da-historia-dos-mundiais"
+    },
+    {
+      "title": "[CNN BRASIL] Di María em Itaquera: argentino volta ao palco de seu primeiro gol em Copas",
+      "link": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/libertadores-da-america/di-maria-em-itaquera-argentino-volta-ao-palco-de-seu-primeiro-gol-em-copas/"
     },
     {
       "title": "[MINAS GERAIS] Lotofácil 3765: Apostas de Minas Gerais e Rio Grande do Sul dividem prêmio de R$ 3,9 milhões - Terra",
       "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPYzU5dEN6UUtmTHNFaTNCUkFPQU14ZnV1RFpkQl9WSUEtOS1jelFQeV9BUFItSXgzY2lqVXozRGx3RnFYN0MybjJyRGhvczZIMmlBVVU1amhRaFlIWk5LNE5VWFBCYS03X3JQcXVTTXpYeHZWVmd6V2FkZHJCZlUzbDFERXd3eGIzOGYxUTBMVDVsdWprbHgycmpia2V2NVlBR2RoY3U2U29JWUxhbVEwc2RtM180WldhNXB3TXpOYktHS0NwSHkwMzhSVjc4VmQ4OTY5bGFBOGZHVjdZOE5kd3ZMRzJLdEpCeHFMLUVzdE9ONVhkQzZMNTFDMkhLZw?oc=5"
+    },
+    {
+      "title": "[AGÊNCIA BRASIL] TSE retoma condenação de vereador por violência política de gênero",
+      "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-08/tse-retoma-condenacao-de-vereador-por-violencia-politica-de-genero"
+    },
+    {
+      "title": "[AGÊNCIA BRASIL] Mega-Sena acumula para R$ 50 milhões; confira os números sorteados",
+      "link": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-08/mega-sena-acumula-para-r-50-milhoes-confira-os-numeros-sorteados"
     },
     {
       "title": "[AGÊNCIA BRASIL] TSE debate combate a deepfake nas eleições",
@@ -107,20 +55,72 @@
       "link": "https://www.cnnbrasil.com.br/auto/kia-sorento-passa-por-segundo-corte-e-acumula-r-55-mil-de-desconto/"
     },
     {
-      "title": "[CNN BRASIL] Di María em Itaquera: argentino volta ao palco de seu primeiro gol em Copas",
-      "link": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/libertadores-da-america/di-maria-em-itaquera-argentino-volta-ao-palco-de-seu-primeiro-gol-em-copas/"
+      "title": "[MINAS GERAIS] Quem são os candidatos a deputado estadual de Minas Gerais em 2026 - Gazeta do Povo",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPMnB5NzVOREJzcnJRUHpibTZUS1pMM0dQeHBMclhsNXJoVG9qZXVuaHV4aFczblMtaWJ4elhRQ3pMdGtsSWhKX2RHTm92dDdydUJHX2s1ZjJGUWFvalZyenZDU3RBMlJVSEZMUEZGM21YTGt0YkVJTzhzbUF5WW5GU1otM3BPRlFDNjRKUXg1UVlvRExOUm91eDVyNEkzV2ptUVk5eng0MDJKcHVwb3JHLXVaVUg0QQ?oc=5"
+    },
+    {
+      "title": "[CNN BRASIL] Brasil tem recorde de apreensão de emagrecedores na fronteira com Paraguai",
+      "link": "https://www.cnnbrasil.com.br/nacional/brasil/brasil-tem-recorde-de-apreensao-de-emagrecedores-na-fronteira-com-paraguai/"
     },
     {
       "title": "[AGÊNCIA BRASIL] Anac suspende quatro empresas de voos panorâmicos que operavam no Rio",
       "link": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-08/anac-suspende-quatro-empresas-de-voos-panoramicos-que-operavam-no-rio"
     },
     {
-      "title": "[MINAS GERAIS] Flávio faz campanha em Minas Gerais e promete mais agendas no estado - UOL Notícias",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPRldxbG5KYnBzTnZTNDNkdllZRXBNaDA1RmpIYUN1MmxoNUN4T3JyRmlzTEJuVnI1YjBxbUs4ZURXSzB1WlFvMkV6dG0yc05NSC1EOXFEbUQxdV95R2RabElxczU1RXQtVkFURDdtcTlkSUVHQm1LUlpiWEFQMF8tZVFEcVBEZFNrcjBuYkI2SGlGRGxFQUpia21Id1R2SUh0d2x2N3dzam9BVEJNUk0tQ29xU09ya3R2ZWdpR1gyMA?oc=5"
+      "title": "[CNN BRASIL] Libertadores: Palmeiras encara o Cerro para evitar pior campanha da década",
+      "link": "https://www.cnnbrasil.com.br/esportes/futebol/palmeiras/libertadores-palmeiras-encara-o-cerro-para-evitar-pior-campanha-da-decada/"
     },
     {
-      "title": "[CNN BRASIL] Geração distribuída entra em ajuste e acende alerta para reestruturações",
-      "link": "https://www.cnnbrasil.com.br/infra/geracao-distribuida-entra-em-ajuste-e-acende-alerta-para-reestruturacoes/"
+      "title": "[MINAS GERAIS] Saiba quem são os candidatos ao governo de Minas Gerais em 2026 - Poder360",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNUE1hQmkzdnlTWU1JM05xeHNsaFpVZE00Uk43eHVPLTBjSE1CM182cUNBRFNCWjdyVTdhYnFQQXFQQjVpY3pyblBuXzFPWWZXM0JVSXpELW9Ea04zd3czT1V6NU12ZUdyZ2FmNkc5d1JjTjNKaDNkMlBLYnp1cXVEbHFpWFdWZVZOT2xfQ1lxUUlKb3ZieDA2Wm5kZlVpU2JLaHU5c1BUclRGT1k?oc=5"
+    },
+    {
+      "title": "[MINAS GERAIS] VÍDEO mostra momento em que passarela desaba e deixa dois mortos na Fernão Dias, no interior de SP - G1",
+      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNcGpYR0dIa3R6QmM4d1B6NTVmQnRxS2piNnVjNWhDLWNSMnhWLVVmNE5rZEJLeTkyZ2FYcmdSNjNzaDN0VENYbXY2em5OU1dZMzVxakxmNmVDWXdGVU05THhUSEJQUUVnc2dFNFZodUJXY21tWWtUQ3RwSDNFa1BsazBjUmFtUTFZczlnLURqVUkwU1p3MnRNMUFqYTZZLU5mbzFrdTY2TTBhRFY2b0h4Vmo5c2VzOVBaSHk2QzB6czA1TGtEOGxTdUVUdUc0R3kxOEFvZUktM1UwZWFWVkRLZXctMWY4aDMyV0xuNHJnbmFuQlhiMjBkQW55cXNJUdIBjAJBVV95cUxPS3FuLXduZ3lDRWxCamhFTldoOWdLWk9MbXFsMjVNeGxGNmhHa0x1bzg4RjFkWHRiWjB3UHlEaHEyZEpLVmczWS13bEcyQ3VFRHk1MTA2VFNTZnhhSEpldFhRM2Q0RHlyYUFGV2FzQi1Db0dSZmxNcnpBVTA0RVNqRS1TLVJtOUJsN19BeFpOV3hhbk5TUHV6N1NhVHEzV0VwOHFnOVhVOHZrUTAyd0NkMkNkZGFKdzh3a1AwMDVCWjB1X201dGRBR3NOcVdncksyaDdQd2M4MDF2ei1YTWg4ejF3UU5CUGlEb1dxRWZMMENORXRtcUNFRzlxYmtIODl1cFNlUDdDdVA0T1NB?oc=5"
+    },
+    {
+      "title": "[CNN BRASIL] Acidente entre ônibus e carreta deixa pelo menos 22 mortos no Paraná",
+      "link": "https://www.cnnbrasil.com.br/nacional/acidente-entre-onibus-e-carreta-deixa-pelo-menos-21-mortos-no-parana/"
+    },
+    {
+      "title": "[AGÊNCIA BRASIL] Veja como foi a terça-feira dos candidatos a presidente",
+      "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/veja-como-foi-terca-feira-dos-candidatos-presidente"
+    },
+    {
+      "title": "[CNN BRASIL] Tenista Nick Kyrgios é suspenso após testar positivo para cocaína",
+      "link": "https://www.cnnbrasil.com.br/esportes/tenis/tenista-nick-kyrgios-e-suspenso-apos-testar-positivo-para-cocaina/"
+    },
+    {
+      "title": "[MINAS GERAIS] Nova pesquisa Datafolha testa disputa ao governo de Minas Gerais após início da campanha eleitoral - VEJA",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNOWF3QWIyWVZUNHNwVGJGM0w2eFBOWkVZTTQ5cGRmSEFXemFoOHE4R1k0ZVdmVmt0b3pRSHVDeUp0MXNFNUdLckNlcm1yQVNSaE5ubGJkTVR3cWpDT3BNWVhkeEFOaG1CbS1YSE1jLWxjaTF6VVZDa21WYkVzOHlaWmpPUjlid0x0X3Bmdzg5RDhJVDZSb1A3aTU5Z0Y0ZHlzRDctMkN5aHY4aWlMbHdGbkRvN1pPLVNuQ2pmQVZac0k2TG1EVGxBbEltM05mLVk?oc=5"
+    },
+    {
+      "title": "[CNN BRASIL] Avaí x Sport: horário e onde assistir ao jogo da Série B",
+      "link": "https://www.cnnbrasil.com.br/esportes/brasileirao/avai-x-sport-horario-e-onde-assistir-ao-jogo-da-serie-b-2/"
+    },
+    {
+      "title": "[MINAS GERAIS] Irmão de Cleitinho explica desentendimento com o Republicanos na candidatura em Minas Gerais - VEJA",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPMW9NU0kwSC1xR0RhaDVFRlJjYkFmMVVvMWhtZktKY3JGb2h4aUJ6S1h3ZFRVYUg2cWl5dTM0SEZ5M0tRVGE5T21uRWtCQ3psTHlzZ1pMNVZ2dGlUMlZHRldlUXJfRHM3TUZqaWc0SFpWZTRsVThjcE90VHpMNUt4SjBVeUxjakRmSUJ2WVdtS3l2R01HUjB5QWJRSUEtZVk2RW1XZ0VJT1RiMjRMMHVzTm5ERktuLVIwSHdLbnF5UmVHNHNwZFFZ?oc=5"
+    },
+    {
+      "title": "[CNN BRASIL] Coquimbo Unido x Platense: horário e onde assistir ao jogo da Libertadores",
+      "link": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/libertadores-da-america/coquimbo-unido-x-platense-horario-e-onde-assistir-ao-jogo-da-libertadores/"
+    },
+    {
+      "title": "[CNN BRASIL] Falta de vacinas na pecuária deve continuar até início de 2027, diz Sindan",
+      "link": "https://www.cnnbrasil.com.br/agro/falta-de-vacinas-na-pecuaria-deve-continuar-ate-inicio-de-2027-diz-sindan/"
+    },
+    {
+      "title": "[AGÊNCIA BRASIL] Fenaj pede que STF reveja decisão sobre diploma de jornalista",
+      "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-08/fenaj-pede-que-stf-reveja-decisao-sobre-diploma-de-jornalista"
+    },
+    {
+      "title": "[MINAS GERAIS] Flávio Bolsonaro diz que tem apoio de Roscoe e Cleitinho em MG e defende equilíbrio fiscal para melhorar poder de compra das famílias - G1",
+      "link": "https://news.google.com/rss/articles/CBMiswJBVV95cUxQeGdkQ2VYOHRLcEdKemRNY0lLYXYwZWRNcGRoYXpwaXJMSUlsS0htdXNlUDN4T0V5LUZVeUhzUTVvYzBMbUswY2lLekh1a2R0dG56RmtaNEJ0TzQtYTYxNG9pMkd4Y0pEcXJDeDQwQXNWdWZlbEdpTzQ4cWpNTGloS1pFQ3BtZVBuTDRXSklRNTROYmQ0YllqYWlpdHdhSDhqRU1tRURDYnRpbGVYLWdkTjc5Z0lRcENCcUJtbVY4Y1RGSktDZFgxTG81NnZRU21IMHBXc1hyUWYxczlaUWdtZUo5OTNqNW00RjFpY3Z0V1c2b1hBZ19SN0FZMzJyN29jTWk2OFFmTDE5V3k5bEFGU0xvMGRrcTNpQTUtLUZUZW1RUGRVLUEzclNEVFNFZkotSTJN0gHCAkFVX3lxTE04c1F4WVFVaUdyNzNXTC0td0dZbVppTmZxWVAxeXZob1oyTlVnc1RlcWxsXzdZWkl4SmR3eTVsc0xPRGZSS0owVlBMemxiQ2xMdXVlS19rWGNZS3oxcG9XM0FQdTY3LVJqVHlYRDcxekctaG01NWJDX3lhUkdUalYwZTVVN3RKcWVQUHJaZ21lczR3eEJhQkFpcTdfOEIxbENoaGx3bXZ3YjJQaGU2RlhLb1BLV3NWZjBfLXZKUHBjUXVRWFQzRU8xNFJTeEFiSDBtSVV4RndoSXptQ1pXa3dMd05KdTRTeThUd05PYjdwcU83VUhFaWFBd3hzTU5LcnBaOVlZblY3MEUycThnZ0FuR3U5NTctVjZfTmR2N3BGMHlRbUdEQW9GbnVSVkF0Wkxad1FZMzRRSHR4UU9Pb2twZnc?oc=5"
+    },
+    {
+      "title": "[MINAS GERAIS] Flávio faz campanha em Minas Gerais e promete mais agendas no estado - UOL Notícias",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPRldxbG5KYnBzTnZTNDNkdllZRXBNaDA1RmpIYUN1MmxoNUN4T3JyRmlzTEJuVnI1YjBxbUs4ZURXSzB1WlFvMkV6dG0yc05NSC1EOXFEbUQxdV95R2RabElxczU1RXQtVkFURDdtcTlkSUVHQm1LUlpiWEFQMF8tZVFEcVBEZFNrcjBuYkI2SGlGRGxFQUpia21Id1R2SUh0d2x2N3dzam9BVEJNUk0tQ29xU09ya3R2ZWdpR1gyMA?oc=5"
     }
   ]
 }
