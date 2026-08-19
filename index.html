@@ -1,11 +1,30 @@
-<!doctype html><html lang="pt-BR"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Rádio Guaicuí - Notícias</title><style>
-*{box-sizing:border-box}html,body{margin:0;width:100%;height:100%;overflow:hidden;background:transparent}body{font-family:Arial,Helvetica,sans-serif}
-.bar{position:fixed;left:0;right:0;bottom:0;height:70px;background:#080808;border:2px solid #e40000;border-radius:10px;display:flex;overflow:hidden;box-shadow:0 0 18px #e4000066}.tag{width:245px;flex:none;background:linear-gradient(135deg,#730000,#e40000,#730000);color:#fff;font-weight:900;font-size:22px;display:flex;align-items:center;gap:10px;padding:0 18px;clip-path:polygon(0 0,90% 0,100% 50%,90% 100%,0 100%);z-index:2}.tag b{font-size:30px;background:#fff;color:#e40000;border-radius:50%;width:38px;height:38px;display:grid;place-items:center}.view{flex:1;overflow:hidden;display:flex;align-items:center}.track{display:flex;align-items:center;white-space:nowrap}.item{font-size:23px;font-weight:700;color:#fff;padding:0 25px;display:flex;align-items:center;gap:12px}.cat{font-size:14px;font-weight:900;color:#fff;background:#e40000;border-radius:5px;padding:5px 9px;letter-spacing:.3px}.headline{color:#fff}.item i{color:#f22;font-style:normal;font-size:28px;margin-left:15px}.msg{color:#fff;font-size:20px;font-weight:700;padding-left:20px}
-</style></head><body><div class="bar"><div class="tag"><b>!</b><span>ÚLTIMAS<br>NOTÍCIAS</span></div><div class="view"><div id="track" class="track"><div class="msg">Carregando notícias...</div></div></div></div>
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Rádio Guaicuí - Notícias</title>
+<style>
+*{box-sizing:border-box}html,body{margin:0;width:100%;height:100%;overflow:hidden;background:transparent;font-family:Arial,Helvetica,sans-serif}
+.bar{position:fixed;left:0;right:0;bottom:0;height:70px;background:#080808;border:2px solid #e40000;border-radius:10px;display:flex;overflow:hidden;box-shadow:0 0 18px #e4000066}
+.tag{width:245px;flex:none;background:linear-gradient(135deg,#730000,#e40000,#730000);color:#fff;font-weight:900;font-size:22px;display:flex;align-items:center;gap:10px;padding:0 18px;clip-path:polygon(0 0,88% 0,100% 50%,88% 100%,0 100%)}
+.tag b{width:38px;height:38px;border-radius:50%;background:#fff;color:#e40000;display:flex;align-items:center;justify-content:center;font-size:27px}
+.view{flex:1;overflow:hidden;display:flex;align-items:center}.track{display:inline-flex;white-space:nowrap;will-change:transform}
+.item{font-size:23px;font-weight:700;color:#fff;padding:0 25px;display:flex;align-items:center;gap:12px}
+.cat{font-size:14px;font-weight:900;color:#fff;background:#e40000;border-radius:5px;padding:5px 9px;letter-spacing:.3px}
+.headline{color:#fff}.item i{color:#f22;font-style:normal;font-size:28px;margin-left:15px}
+</style>
+</head>
+<body>
+<div class="bar"><div class="tag"><b>!</b><span>ÚLTIMAS<br>NOTÍCIAS</span></div><div class="view"><div id="track" class="track"><div class="item"><span class="headline">Carregando notícias...</span></div></div></div></div>
 <script>
-const FALLBACK=["Rádio Guaicuí — A mais gostosa de ouvir!","Acompanhe a programação da Rádio Guaicuí","Últimas notícias em atualização"],track=document.getElementById("track");
-function esc(s){return String(s).replace(/[&<>"']/g,x=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[x]))}
-function draw(a){if(!a.length)a=FALLBACK;let one=a.map(t=>{let m=String(t).match(/^\\[([^\\]]+)\\]\\s*(.*)$/),cat=m?m[1]:"NOTÍCIAS",title=m?m[2]:t;return '<div class="item"><span class="cat">'+esc(cat)+'</span><span class="headline">'+esc(title)+'</span><i>●</i></div>'}).join("");track.innerHTML=one+one;requestAnimationFrame(()=>{let d=track.scrollWidth/2,s=Math.max(80,Math.min(180,d/80)),st=document.createElement("style");st.textContent="@keyframes roll{from{transform:translateX(0)}to{transform:translateX(-"+d+"px)}}#track{animation:roll "+s+"s linear infinite}";document.head.appendChild(st)})}
-async function update(){try{let r=await fetch("noticias.json?x="+Date.now(),{cache:"no-store"});if(!r.ok)throw Error(r.status);let j=await r.json();draw((j.items||[]).map(x=>x.title).filter(Boolean).slice(0,18))}catch(e){draw(FALLBACK)}}
+const FALLBACK=["Rádio Guaicuí — A mais gostosa de ouvir!","Acompanhe a programação da Rádio Guaicuí!","Últimas notícias em atualização"];
+const track=document.getElementById("track");
+function esc(s){return String(s).replace(/[&<>"']/g,x=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[x]));}
+function splitCategory(text){const m=String(text).match(/^\s*\[([^\]]+)\]\s*(.*)$/);return m?{cat:m[1].trim(),title:m[2].trim()}:{cat:"NOTÍCIAS",title:String(text).trim()};}
+function draw(items){if(!items||!items.length)items=FALLBACK;const html=items.map(t=>{const p=splitCategory(t);return '<div class="item"><span class="cat">'+esc(p.cat)+'</span><span class="headline">'+esc(p.title)+'</span><i>●</i></div>';}).join("");track.innerHTML=html+html;requestAnimationFrame(()=>{const distance=Math.max(track.scrollWidth/2,1);const seconds=Math.max(55,Math.min(150,distance/38));const style=document.createElement("style");style.textContent="@keyframes roll{from{transform:translateX(0)}to{transform:translateX(-"+distance+"px)}}.track{animation:roll "+seconds+"s linear infinite}";document.head.appendChild(style);});}
+async function update(){try{const r=await fetch("./noticias.json?ts="+Date.now(),{cache:"no-store"});if(!r.ok)throw new Error("HTTP "+r.status);const j=await r.json();const items=(j.items||[]).map(x=>x.title).filter(Boolean).slice(0,18);if(!items.length)throw new Error("Sem notícias");draw(items);}catch(e){draw(["Não foi possível atualizar as notícias. Tentando novamente..."]);}}
 draw(FALLBACK);update();setInterval(update,300000);
-</script></body></html>
+</script>
+</body>
+</html>
