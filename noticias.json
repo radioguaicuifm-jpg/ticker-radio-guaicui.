@@ -1,62 +1,114 @@
 {
   "source": "Radio Guaicui - Noticias",
-  "updated_at": "2026-08-19T17:03:14.672577+00:00",
+  "updated_at": "2026-08-19T17:40:44.673902+00:00",
   "items": [
     {
-      "title": "[CNN BRASIL] Paolla Oliveira estrela drama sob direção de ex-namorado; conheça",
-      "link": "https://www.cnnbrasil.com.br/pop/streaming/paolla-oliveira-estrela-drama-sob-direcao-de-ex-namorado-conheca/"
+      "title": "[CNN BRASIL] Massacre de Paraisópolis: 12 PMs vão a júri popular por morte de jovens",
+      "link": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/massacre-de-paraisopolis-12-pms-vao-a-juri-popular-por-morte-de-jovens/"
+    },
+    {
+      "title": "[AGÊNCIA BRASIL] Ciclone extratropical favorece tempestade no Rio Grande do Sul",
+      "link": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-08/ciclone-extratropical-favorece-tempestade-no-rio-grande-do-sul"
     },
     {
       "title": "[AGÊNCIA BRASIL] Corpos das vítimas de acidente no Paraná são retirados da pista",
       "link": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-08/corpos-das-vitimas-de-acidente-no-parana-sao-retirados-da-pista"
     },
     {
-      "title": "[CNN BRASIL] MP denuncia médica após seis mortes em UTI pediátrica no Paraná",
-      "link": "https://www.cnnbrasil.com.br/nacional/sul/pr/mp-denuncia-medica-apos-seis-mortes-em-uti-pediatrica-no-parana/"
-    },
-    {
-      "title": "[AGÊNCIA BRASIL] Brasil tem luto oficial de três dias após morte de atrizes icônicas",
-      "link": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-08/brasil-tem-luto-oficial-de-tres-dias-apos-morte-de-atrizes-iconicas"
-    },
-    {
-      "title": "[MINAS GERAIS] Nova pesquisa Datafolha testa disputa ao governo de Minas Gerais após início da campanha eleitoral - VEJA",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNOWF3QWIyWVZUNHNwVGJGM0w2eFBOWkVZTTQ5cGRmSEFXemFoOHE4R1k0ZVdmVmt0b3pRSHVDeUp0MXNFNUdLckNlcm1yQVNSaE5ubGJkTVR3cWpDT3BNWVhkeEFOaG1CbS1YSE1jLWxjaTF6VVZDa21WYkVzOHlaWmpPUjlid0x0X3Bmdzg5RDhJVDZSb1A3aTU5Z0Y0ZHlzRDctMkN5aHY4aWlMbHdGbkRvN1pPLVNuQ2pmQVZac0k2TG1EVGxBbEltM05mLVk?oc=5"
+      "title": "[MINAS GERAIS] Clínica psiquiátrica é interditada após pacientes serem encontrados trancados e em condições insalubres em MG - G1",
+      "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNQTJCNFZNcjF2QVFqcFd1TklVY251ZXRQdEJha0l0aEp3WnNwRkFkZG5zVkJEbEp0d3V2dUhFN0dLampiMUlINFpQVjlvam1aV3RVVGNuZlRIMEdmdDlmWHdRMmhMY2twZTE2aUhqaWFlQzJVcmNSM1ozSVBhTjdMQ2FHUTlKRWhod2xHOFJfc0NpNzlDcDVqVDAtM0JOemdGM0NOLWg3N3dKeFJTc1U2MVRMN0RwUF9hcGpMdGUtY0JwVjVrcVU4LV9wcFhKbXU1Tk1EM2RUdWE0cTVRbU5yMXZaeW41N0JkUHFIb0F3Z2puYmJRSFJZTTVQVDlZTldh0gGPAkFVX3lxTE9pQl8wdVE1Q050MmVZNWl5YXJILWJ6Q3ZGdDJhTG15YlNUMlBjc09WNHlzdU9iRDJsUTI3bnlRdlFuUVlVR0dwa0JTM0ZvZ1laNWY3eDhvNldYSDd4ZDc1aWVYMHR4YkVTZFhiQTRLZksyYk9VcFFjU3hVRzc0anFZNzlXcXpud1J4cmlEX1lwYUQzNUJNVUlQb0pPMVpUenM2aDlzZGxwV21CbDJvbGJYVU4yOUYyRGhYZTc4VEhzVWpwc1V1eUp3OC1OSTZtajczNkZJd2VLZlR5QktRT1NaY1NTSGIzcFB5em5acDVhbWgwVU9NcTBITTlXYVBGSkhZM1pHLXV4VlZZLW5ySHc?oc=5"
     },
     {
       "title": "[MINAS GERAIS] Aposta feita no interior de MG fatura quase R$ 2 milhões na Lotofácil - G1",
       "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQbHNYVEZRNUJ1MWZqc1pLWnIwb2pCSVFHdGJkNDBUWUVTTzVqSUttVlV2b3RGOGx0WlRONzc4aDAzeGpBZVlwV19UaWtTVkhYVTRFU1kzcDZTdHA3bEM5OWlDTnFJanhsNjdlLWpvT0psT0RQMGhMaXNLU2ZKdDUwMEVkWWMzaG5TbVpidDh4cE1xRTVwanV3M1BxT3ZWc1VQd211VjMtSjNRMzhCeGdTN2lTd3Rxak5jOGYwckp1OE9ZMVRFZmtrSWpB0gHYAUFVX3lxTFA4eDRyZTc4Ukl6WEdjMm81RUFNdE9hQlZmb1FhZTdoaTRjN1ZCNTJMZjVhODZYcnFkWFUwUEdGdW96ckYybmcwNEU1eElLNk1TV1hpUEp2ZC1TeDBGQmJyemVpNTJ3VmJNLS1pbWNpNy1wMFJlRGVPSDRVVEZfUVNpN0xJemVVTW91ekl3cUswM1l4Z09sOWlZX1ZrcGtwR3NmVWJQMXJ5YzdfakRGRkhmMFgwMy1VYUFqcGdrSlVWNGRQQU1xSVRxY3BBSUJLZTNDWFVmaWo3ZQ?oc=5"
     },
     {
-      "title": "[CNN BRASIL] França defende Marcola e diz que ex-assessor de Lula é “idôneo e humilde”",
-      "link": "https://www.cnnbrasil.com.br/eleicoes/franca-defende-marcola-e-diz-que-ex-assessor-de-lula-e-idoneo-e-humilde/"
+      "title": "[CNN BRASIL] Mercado prega cautela após balanços financeiros do 2º trimestre",
+      "link": "https://www.cnnbrasil.com.br/economia/money/mercado/mercado-prega-cautela-apos-balancos-financeiros-do-2o-trimestre/"
     },
     {
-      "title": "[MINAS GERAIS] Clínica psiquiátrica é interditada após pacientes serem encontrados trancados e em condições insalubres em MG - G1",
-      "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNQTJCNFZNcjF2QVFqcFd1TklVY251ZXRQdEJha0l0aEp3WnNwRkFkZG5zVkJEbEp0d3V2dUhFN0dLampiMUlINFpQVjlvam1aV3RVVGNuZlRIMEdmdDlmWHdRMmhMY2twZTE2aUhqaWFlQzJVcmNSM1ozSVBhTjdMQ2FHUTlKRWhod2xHOFJfc0NpNzlDcDVqVDAtM0JOemdGM0NOLWg3N3dKeFJTc1U2MVRMN0RwUF9hcGpMdGUtY0JwVjVrcVU4LV9wcFhKbXU1Tk1EM2RUdWE0cTVRbU5yMXZaeW41N0JkUHFIb0F3Z2puYmJRSFJZTTVQVDlZTldh0gGPAkFVX3lxTE9pQl8wdVE1Q050MmVZNWl5YXJILWJ6Q3ZGdDJhTG15YlNUMlBjc09WNHlzdU9iRDJsUTI3bnlRdlFuUVlVR0dwa0JTM0ZvZ1laNWY3eDhvNldYSDd4ZDc1aWVYMHR4YkVTZFhiQTRLZksyYk9VcFFjU3hVRzc0anFZNzlXcXpud1J4cmlEX1lwYUQzNUJNVUlQb0pPMVpUenM2aDlzZGxwV21CbDJvbGJYVU4yOUYyRGhYZTc4VEhzVWpwc1V1eUp3OC1OSTZtajczNkZJd2VLZlR5QktRT1NaY1NTSGIzcFB5em5acDVhbWgwVU9NcTBITTlXYVBGSkhZM1pHLXV4VlZZLW5ySHc?oc=5"
+      "title": "[AGÊNCIA BRASIL] Novas regras do Contran para Lei Seca prevê pré-teste; entenda",
+      "link": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-08/novas-regras-do-contran-para-lei-seca-preve-pre-teste-entenda"
     },
     {
-      "title": "[CNN BRASIL] PM prende homem após identificar risco de agressão em SP; veja vídeo",
-      "link": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/pm-prende-homem-apos-identificar-risco-de-agressao-em-sp-veja-video/"
+      "title": "[CNN BRASIL] Zagueiro do Atlético-MG move ação contra o São Paulo por negligência médica",
+      "link": "https://www.cnnbrasil.com.br/esportes/futebol/atletico-mineiro/zagueiro-do-atletico-mg-move-acao-contra-o-sao-paulo-por-negligencia-medica/"
     },
     {
-      "title": "[AGÊNCIA BRASIL] Atacada por EUA, regra do TSE evita bigtechs de privilegiar candidatos",
-      "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/tse-proibe-algoritmo-de-recomendar-pol%C3%ADticos-na-eleicao-eua-criticam"
-    },
-    {
-      "title": "[CNN BRASIL] Jornalista João Garcia, o ‘Gordo Bola Cheia’, morre aos 77 anos",
-      "link": "https://www.cnnbrasil.com.br/nacional/sul/rs/jornalista-joao-garcia-o-gordo-bola-cheia-morre-aos-77-anos/"
+      "title": "[CNN BRASIL] Moderna salta após resultado positivo de vacina contra melanoma em estudo",
+      "link": "https://www.cnnbrasil.com.br/economia/money/negocios/moderna-salta-apos-resultado-positivo-de-vacina-contra-melanoma-em-estudo/"
     },
     {
       "title": "[AGÊNCIA BRASIL] Democrata da Flórida vence primárias para Senado dos Estados Unidos",
       "link": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-08/democrata-da-florida-vence-primarias-para-senado-dos-estados-unidos"
     },
     {
-      "title": "[CNN BRASIL] Em vídeo, Memphis celebra renovação de contrato com o Corinthians",
-      "link": "https://www.cnnbrasil.com.br/esportes/futebol/corinthians/em-video-memphis-celebra-renovacao-de-contrato-com-o-corinthians/"
+      "title": "[MINAS GERAIS] 'Só rezava para Deus segurar aquela pilastra', diz caminhoneiro que sobreviveu à queda de passarela na Fernão Dias - G1",
+      "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQX1B1QzduaXFTWWhINWZfT1lmUnVWdTdSMUZDb3FHWGNNZ3dmRHJ6Z3ZQRTZyT1p2amFzOVFYUmNtVW84czVJOUZ0bGMwSFJOS1pudmEtN0pKWTZ4ZGVBM1F2QjZVeHo3UFRFak8zcjk0czhJRXYtSnp1WnljTmxwZGNpZVJxc29qVzk3UjRkYXh4M2RBc3VNS3N4SG9rM2JvbE5ad1pOV2RiaWd3dGdNdWd1VTBpWUtLZnZzZUwwNkh4WXgwWHpodmk1TWxSaG1jd3Izckpxc0lhdWlHREo0VGR6ekp1bDZ4bEs5bkhScXVXRUxLaGhlQ2dva1AwdkxkeUNj0gGSAkFVX3lxTFBDZ3dLRFJQRW9XRFRFN2RwWks4SGVGTUFSZHA3ZzM1WHZiZmdYNEppWnE4TFpYTk52M0ZLd2ItdHZIX19XdkpjR0s1blBPcGxuejRrblZ5d0tKek1Rb3phWlRBc3gwdDlLZHczXzdMT2lrMDRVeXo3MTRZdW5mU3d0SUlUVHZ0V1ktczRWWVhBU2p5eWdVbGZLa3pUdHpTaWtEc3ctUGQ3UENJQmdnVDFrdmltS1VSaVR2YjJOZHJ0NjNQZW9ZQjdZQlgyUDRtSUdKWEhxajhKTGdEeGhhZDlXYU9VVVFhZXEwdVFvMjBZUFVYWi05OWo2TExRWC1iUHdKN2NnNzNJZ1RQMUhNak5SSUE?oc=5"
     },
     {
-      "title": "[MINAS GERAIS] BH institui coleta domiciliar de sangue para pessoas com autismo - G1",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQQ25ibzZlVC13eTZzTGUycXNrcEZDbFRWMEVCUGp4QkZlYTNDX2ZONVFUbFZVSl9JSzdZazFUelJJb2ZtX2p5V0w1dVpPWERvQjR0R2hET1k4VzBrcTZCcndMZ0hpMC1pbmJoLUwwZ3lOdHVEV1JCckRJZlQyaElNYXY0SjV2ekY0d2FMdFYzekNvSHRTOFdHSDJLNl9YcU5fY0pRb3liX2J5bVFZcGcyeVdlVnZ4M09NSWZOVzJtSFJCZUNf0gHTAUFVX3lxTE1sSUFYdkY0enVGMW5kbVdGSjg2TlFmR3FKVEhlbnpmVnJZcEVpVURYbUJyODU3UG52b2Q3dXJMOFpFbXJrRWRXUnRKWXoybkhld19KNHNiRXBMWXVyNnRYMUIxRnV5RjdwcGZ4a2FYYzl0dkhyWVloaGw3X0FSU2N5WXFXSW5WVTY0b0k5ZmU0eHBBUC1VMlExLVp0cG92VTBTS2pvYzU2akpBQU1xRHdYdGI3dEFTYWx6bmJYWXBpV2s0RmtKcGhadldwVVR3TnBuUlk?oc=5"
+      "title": "[AGÊNCIA BRASIL] Atacada por EUA, regra do TSE evita bigtechs de privilegiar candidatos",
+      "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/tse-proibe-algoritmo-de-recomendar-pol%C3%ADticos-na-eleicao-eua-criticam"
+    },
+    {
+      "title": "[MINAS GERAIS] Adutora da Copasa se rompe em BH - G1",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPME5oOGp5dnFzOUg0d2toU2VYTmRWWDJMSzRsSGg3NVE4VGFaQXN4YXkzZFJJWEUzcjlrM2hLTU9FN01xYnpSZEV0Z21Wb3c1MzRuVXJEVXYyTjVNbjJKYXE2UWJ2SXRkMV9NZjRqT1NyRF8tUUJZdjg3MVg2NzRNVG1TNjlCMlF4alRidlprNF9ZMWo2VEMtUkRB0gGoAUFVX3lxTE1ZOU5HdV9NY0lUbEU5aVdiTjVxaHNFUWlGMVlFaEZtNE53S2ZneUNDcm5hN2lfRHZvdVZpNXcyTVVXaVBRa1pKdGZqUG10RjBPVXB6MDExQk9rdjR4eGpPelAwbVNCb2ZWZzhqTnRmY05JdVJuSmY5MHQ1YThlbHVJeDVISkRQcEJjRlpZZ1FZZERYQmE1Zm5OMUM4NFNPWUtGZDVNZ2R2dA?oc=5"
+    },
+    {
+      "title": "[AGÊNCIA BRASIL] Fundação lança edital para  ampliar acesso à saúde mental em São Paulo",
+      "link": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-08/fundacao-lanca-edital-para-ampliar-acesso-saude-mental-em-sao-paulo"
+    },
+    {
+      "title": "[CNN BRASIL] Lula promete recursos para conclusão de reator nuclear para submarino",
+      "link": "https://www.cnnbrasil.com.br/politica/lula-promete-recursos-para-conclusao-de-reator-nuclear-para-submarino/"
+    },
+    {
+      "title": "[CNN BRASIL] Guabi investe em cinco fábricas de nutrição animal no Brasil",
+      "link": "https://www.cnnbrasil.com.br/agro/guabi-investe-em-cinco-fabricas-de-nutricao-animal-no-brasil/"
+    },
+    {
+      "title": "[MINAS GERAIS] Nova pesquisa Datafolha testa disputa ao governo de Minas Gerais após início da campanha eleitoral - VEJA",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNOWF3QWIyWVZUNHNwVGJGM0w2eFBOWkVZTTQ5cGRmSEFXemFoOHE4R1k0ZVdmVmt0b3pRSHVDeUp0MXNFNUdLckNlcm1yQVNSaE5ubGJkTVR3cWpDT3BNWVhkeEFOaG1CbS1YSE1jLWxjaTF6VVZDa21WYkVzOHlaWmpPUjlid0x0X3Bmdzg5RDhJVDZSb1A3aTU5Z0Y0ZHlzRDctMkN5aHY4aWlMbHdGbkRvN1pPLVNuQ2pmQVZac0k2TG1EVGxBbEltM05mLVk?oc=5"
+    },
+    {
+      "title": "[CNN BRASIL] Homem que teria sido confundido com ladrão morre espancado em Copacabana",
+      "link": "https://www.cnnbrasil.com.br/nacional/sudeste/rj/homem-que-teria-sido-confundido-com-ladrao-morre-espancado-em-copacabana/"
+    },
+    {
+      "title": "[AGÊNCIA BRASIL] Dia D de vacinação será realizado neste sábado em todo o país",
+      "link": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-08/dia-d-de-vacinacao-sera-realizado-neste-sabado-em-todo-o-pais"
+    },
+    {
+      "title": "[MINAS GERAIS] Lotofácil 3765: Apostas de Minas Gerais e Rio Grande do Sul dividem prêmio de R$ 3,9 milhões - Terra",
+      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPYzU5dEN6UUtmTHNFaTNCUkFPQU14ZnV1RFpkQl9WSUEtOS1jelFQeV9BUFItSXgzY2lqVXozRGx3RnFYN0MybjJyRGhvczZIMmlBVVU1amhRaFlIWk5LNE5VWFBCYS03X3JQcXVTTXpYeHZWVmd6V2FkZHJCZlUzbDFERXd3eGIzOGYxUTBMVDVsdWprbHgycmpia2V2NVlBR2RoY3U2U29JWUxhbVEwc2RtM180WldhNXB3TXpOYktHS0NwSHkwMzhSVjc4VmQ4OTY5bGFBOGZHVjdZOE5kd3ZMRzJLdEpCeHFMLUVzdE9ONVhkQzZMNTFDMkhLZw?oc=5"
+    },
+    {
+      "title": "[AGÊNCIA BRASIL] Exposição em SP reúne fotos de movimentos feministas do Brasil",
+      "link": "https://agenciabrasil.ebc.com.br/cultura/noticia/2026-08/exposicao-em-sp-reune-fotos-de-movimentos-feministas-do-brasil"
+    },
+    {
+      "title": "[AGÊNCIA BRASIL] Brasil tem luto oficial de três dias após morte de atrizes icônicas",
+      "link": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-08/brasil-tem-luto-oficial-de-tres-dias-apos-morte-de-atrizes-iconicas"
+    },
+    {
+      "title": "[CNN BRASIL] Vacina experimental contra câncer tem resultado positivo; entenda",
+      "link": "https://www.cnnbrasil.com.br/saude/vacina-experimental-contra-cancer-tem-resultado-positivo-entenda/"
+    },
+    {
+      "title": "[MINAS GERAIS] Na corrida pelo governo de MG, Gabriel Azevedo comemora afastamento entre Cleitinho e Marcelo Aro - Valor Econômico",
+      "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPNU9SdU9NY1g1bGJKNkNPZVRDcTdMT0hnNm1UOTRJMFM4c0d3aW1RUWw3UWZMdllaamVFTW9VeVVET0ZOeHFPT3FfS2xFR0RIVjhGOWhtVUt6cFl2YlVIZzQtck41azN1NWdkcDlJQmQyQW9EYnUwdEVXUExvM1FJMlVsbFBhZUlQck1MelFrSFNnMGI3ZElGNjFEY01KTXBIQURiamNtSW1zcEtwaXRoUzcyUDgtZTFVZWVhZVgyc0xSaEJ6TDZPWlN1TTNkcXptbTZTM3c4cW1MNmhLU3drb3IxYnJxZ1pQSXdtTUlHX2N6RXVleHJvZW1SWTnSAYsCQVVfeXFMTmhQek1HdFY1Vmd5bHlUdGtlYlhwdGl5eFpLV2k2dUtYUE12X2JSX215ekFjLVV0X2NCYVgwa0ZQc1VqbVlWMGRBOXM3MzM3cm1rU0Yxc3dLX2ZkTzQ4eFNQTDJKQkNWeTJaQTBVR01iQlFXTlpNVTk5QWFQY2NVZ3NUYWVSTks2ZFdsMTNKV3FheER4MDFMV0NHSnBBOG1hNE1BT1ROOGVoSmhRWWllRTBrSzFPVi11amZzV0RLQnBJcjhXLWkwd1Ryb1FGYzBzREpnZEpQcU4yZ0hUOC0tbWN6cFdaU2FrM25pRHM3aUkyR093dlBBWXV3YWdwbWV5b2JSWDAyRE1FQ0Vj?oc=5"
+    },
+    {
+      "title": "[AGÊNCIA BRASIL] Eleições de 2026 registram recorde de candidaturas indígenas",
+      "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/eleicoes-de-2026-registram-recorde-de-candidaturas-indigenas"
+    },
+    {
+      "title": "[CNN BRASIL] Ligue 180 tem 98,7 mil registros de denúncias em 2026, alta de 14,7%",
+      "link": "https://www.cnnbrasil.com.br/nacional/brasil/ligue-180-tem-987-mil-registros-de-denuncias-em-2026-alta-de-147/"
+    },
+    {
+      "title": "[CNN BRASIL] Estudo do Fed: Produtividade atenuou impacto das tarifas sobre inflação",
+      "link": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/estudo-do-fed-produtividade-atenuou-impacto-das-tarifas-sobre-inflacao/"
     },
     {
       "title": "[MINAS GERAIS] Lotofácil 3765 divide bolada de quase R$ 4 milhões entre Minas Gerais e Rio Grande do Sul - Estadão",
@@ -67,60 +119,8 @@
       "link": "https://news.google.com/rss/articles/CBMiswJBVV95cUxQeGdkQ2VYOHRLcEdKemRNY0lLYXYwZWRNcGRoYXpwaXJMSUlsS0htdXNlUDN4T0V5LUZVeUhzUTVvYzBMbUswY2lLekh1a2R0dG56RmtaNEJ0TzQtYTYxNG9pMkd4Y0pEcXJDeDQwQXNWdWZlbEdpTzQ4cWpNTGloS1pFQ3BtZVBuTDRXSklRNTROYmQ0YllqYWlpdHdhSDhqRU1tRURDYnRpbGVYLWdkTjc5Z0lRcENCcUJtbVY4Y1RGSktDZFgxTG81NnZRU21IMHBXc1hyUWYxczlaUWdtZUo5OTNqNW00RjFpY3Z0V1c2b1hBZ19SN0FZMzJyN29jTWk2OFFmTDE5V3k5bEFGU0xvMGRrcTNpQTUtLUZUZW1RUGRVLUEzclNEVFNFZkotSTJN0gHCAkFVX3lxTE04c1F4WVFVaUdyNzNXTC0td0dZbVppTmZxWVAxeXZob1oyTlVnc1RlcWxsXzdZWkl4SmR3eTVsc0xPRGZSS0owVlBMemxiQ2xMdXVlS19rWGNZS3oxcG9XM0FQdTY3LVJqVHlYRDcxekctaG01NWJDX3lhUkdUalYwZTVVN3RKcWVQUHJaZ21lczR3eEJhQkFpcTdfOEIxbENoaGx3bXZ3YjJQaGU2RlhLb1BLV3NWZjBfLXZKUHBjUXVRWFQzRU8xNFJTeEFiSDBtSVV4RndoSXptQ1pXa3dMd05KdTRTeThUd05PYjdwcU83VUhFaWFBd3hzTU5LcnBaOVlZblY3MEUycThnZ0FuR3U5NTctVjZfTmR2N3BGMHlRbUdEQW9GbnVSVkF0Wkxad1FZMzRRSHR4UU9Pb2twZnc?oc=5"
     },
     {
-      "title": "[AGÊNCIA BRASIL] Eleições de 2026 registram recorde de candidaturas indígenas",
-      "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/eleicoes-de-2026-registram-recorde-de-candidaturas-indigenas"
-    },
-    {
-      "title": "[MINAS GERAIS] Minas Gerais mostra que ajuste fiscal não pode ser confundido com suspensão de pagamento da dívida - O GLOBO",
-      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPeVdBNWxEU05DT21WejVfS0NXNVN3b0N3bjhCWHBZejdYTUxUWDhyeWVlOFU4MnRMUlBXRnduWUxIRlJod1pXX1E3M0xFcmlaMUJtY2ttdHlZQzRob1hQYnVfSGVCWllNNzZ6N0h5eTNGU2NQZVMyemxQWHRORG53NUFyV1ZzeW1sYTJxOFBSMmY1eFdZaThhcVlrb1p4VXpLODJnUjM1TWgwTTdnM19iUFlFYXBZWVFSRGdzR3RmakhZNWhYM0VuOF8ybTU0ZFlpS3FMODBCbHdjM291aHlDRWlUYkxjRk1yMWpIYV90cUNWc1kt0gGDAkFVX3lxTE5kVk9xa3VoTUpPS0tyY0hqUmNVYmRLYS04dXlZUE41ZzRraHFIcVZTWW1CbF9ydkFOenJPZFJEMDJVa0JvalZTNUoxTEw0WUJrQkhUTm1DRjR6dUo3Tk0tV01IQ0pZRXA2WGJCT0ZYVEs5aGxiWmF0Q3puRXk2MDJkU014WnFIcjcyb0stN3FEMl9oRzZkTm1yWWRZb3pnbmVRdmd6d0hDNkhJZTQ3bFJ3bVN3V25YQWI4UWJyMEktbUNsUzRvVGVPVHZpekpNOHpVTTMtZjhEalZCRXowTk1TZ0owT0RtUzVxSTZiVVlia29WMDAyY2tsaHFHR2xhb1NOSTg?oc=5"
-    },
-    {
-      "title": "[AGÊNCIA BRASIL] Dia D de vacinação será realizado neste sábado em todo o país",
-      "link": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-08/dia-d-de-vacinacao-sera-realizado-neste-sabado-em-todo-o-pais"
-    },
-    {
-      "title": "[CNN BRASIL] Devedor preso tem pensão alimentícia reduzida em SP; veja o que diz a lei",
-      "link": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/devedor-preso-tem-pensao-alimenticia-reduzida-em-sp-veja-o-que-diz-a-lei/"
-    },
-    {
-      "title": "[AGÊNCIA BRASIL] Ciclone extratropical favorece tempestade no Rio Grande do Sul",
-      "link": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-08/ciclone-extratropical-favorece-tempestade-no-rio-grande-do-sul"
-    },
-    {
-      "title": "[AGÊNCIA BRASIL] Novas regras do Contran para Lei Seca prevê pré-teste; entenda",
-      "link": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-08/novas-regras-do-contran-para-lei-seca-preve-pre-teste-entenda"
-    },
-    {
       "title": "[MINAS GERAIS] Flávio faz campanha em Minas Gerais e promete mais agendas no estado - UOL Notícias",
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPRldxbG5KYnBzTnZTNDNkdllZRXBNaDA1RmpIYUN1MmxoNUN4T3JyRmlzTEJuVnI1YjBxbUs4ZURXSzB1WlFvMkV6dG0yc05NSC1EOXFEbUQxdV95R2RabElxczU1RXQtVkFURDdtcTlkSUVHQm1LUlpiWEFQMF8tZVFEcVBEZFNrcjBuYkI2SGlGRGxFQUpia21Id1R2SUh0d2x2N3dzam9BVEJNUk0tQ29xU09ya3R2ZWdpR1gyMA?oc=5"
-    },
-    {
-      "title": "[CNN BRASIL] Em 4 dias, TSE recebe mais de mil denúncias de irregularidades eleitorais",
-      "link": "https://www.cnnbrasil.com.br/eleicoes/em-4-dias-tse-recebe-mais-de-mil-denuncias-de-irregularidades-eleitorais/"
-    },
-    {
-      "title": "[MINAS GERAIS] Lotofácil 3765: Apostas de Minas Gerais e Rio Grande do Sul dividem prêmio de R$ 3,9 milhões - Terra",
-      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPYzU5dEN6UUtmTHNFaTNCUkFPQU14ZnV1RFpkQl9WSUEtOS1jelFQeV9BUFItSXgzY2lqVXozRGx3RnFYN0MybjJyRGhvczZIMmlBVVU1amhRaFlIWk5LNE5VWFBCYS03X3JQcXVTTXpYeHZWVmd6V2FkZHJCZlUzbDFERXd3eGIzOGYxUTBMVDVsdWprbHgycmpia2V2NVlBR2RoY3U2U29JWUxhbVEwc2RtM180WldhNXB3TXpOYktHS0NwSHkwMzhSVjc4VmQ4OTY5bGFBOGZHVjdZOE5kd3ZMRzJLdEpCeHFMLUVzdE9ONVhkQzZMNTFDMkhLZw?oc=5"
-    },
-    {
-      "title": "[MINAS GERAIS] Irmão de Cleitinho explica desentendimento com o Republicanos na candidatura em Minas Gerais - VEJA",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPMW9NU0kwSC1xR0RhaDVFRlJjYkFmMVVvMWhtZktKY3JGb2h4aUJ6S1h3ZFRVYUg2cWl5dTM0SEZ5M0tRVGE5T21uRWtCQ3psTHlzZ1pMNVZ2dGlUMlZHRldlUXJfRHM3TUZqaWc0SFpWZTRsVThjcE90VHpMNUt4SjBVeUxjakRmSUJ2WVdtS3l2R01HUjB5QWJRSUEtZVk2RW1XZ0VJT1RiMjRMMHVzTm5ERktuLVIwSHdLbnF5UmVHNHNwZFFZ?oc=5"
-    },
-    {
-      "title": "[AGÊNCIA BRASIL] Veja a agenda dos candidatos à Presidência nesta quarta-feira",
-      "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/veja-agenda-dos-candidatos-presidencia-nesta-quarta-feira"
-    },
-    {
-      "title": "[CNN BRASIL] Justiça suspende demissões das Casas Bahia e restringe novos cortes",
-      "link": "https://www.cnnbrasil.com.br/economia/money/negocios/justica-suspende-demissoes-das-casas-bahia-e-restringe-novos-cortes/"
-    },
-    {
-      "title": "[CNN BRASIL] CNN Brasil inicia entrevistas com candidatos ao governo de Minas Gerais",
-      "link": "https://www.cnnbrasil.com.br/eleicoes/cnn-brasil-inicia-entrevistas-com-candidatos-ao-governo-de-minas-gerais/"
-    },
-    {
-      "title": "[AGÊNCIA BRASIL] Fundação lança edital para  ampliar acesso à saúde mental em São Paulo",
-      "link": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-08/fundacao-lanca-edital-para-ampliar-acesso-saude-mental-em-sao-paulo"
     }
   ]
 }
