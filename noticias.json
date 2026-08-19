@@ -1,94 +1,70 @@
 {
   "source": "Radio Guaicui - Noticias",
-  "updated_at": "2026-08-19T23:22:27.024278+00:00",
+  "updated_at": "2026-08-19T23:47:28.037423+00:00",
   "items": [
     {
-      "title": "[AGÊNCIA BRASIL] Manual traz nova classificação de riscos de desastres em áreas urbanas",
-      "link": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-08/manual-traz-nova-classificacao-de-riscos-de-desastres-em-areas-urbanas"
-    },
-    {
-      "title": "[MINAS GERAIS] Incêndios atingem serras do Curral e do Rola-Moça em dia de queimadas em matas da Grande B - G1",
-      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPN2p3czJMV1k4TmtyWm9PcDAwQW1tNUdlU3U1Q0NNYl85Z2kycVVGLXNySVdqUnRYR0F6YzA5YlU5OFNEUmIyWmMyWkJScUsxN2NoaFMycU1RZmRUbkhsU2h1V0hDVjFYMmFZS3Bka1l6X1hCQVIzaWVCa1JBXzRGbkJqS0d2UDBLR2VEZV9RQmJkR01FVm1uQzhnZFB3X3czeDg1MUxVNG1CdzJnbE1UcnBRalJyOXg2RzEyMDkzcjJKc0JMTkp2T1o0ZXJQS2VBOVgya0RPSXZWNjBtekluWDZ30gHwAUFVX3lxTE1mS1J0N3dnU2owa25aU1M3d212bHRYOGZPVzNCOFVta2U5bmlyUjBSbXFvemZhMHRnZE11dVU4X05YS0pMY05sU1lQMXh6bldEZnJzZlJnOFdjZkNISFFtR1lBRlVneHk0MjlDLWhUaGNPdWVRR01tSzlfTFU3R3dBLTEwR2lqNzNwSkc0NlR6QmxRTUFjNVBfSEdqU1F0V3pFRUZSaTh4R2U3TFBiZlBQckVBd0xSUzlGb05PdUQtRVBocThwU2ktMDVrd2xoQVJ3ODU2WWh3MjkyRW12VXJWelJCbVozM3pJZGxlSE1Gdw?oc=5"
-    },
-    {
-      "title": "[CNN BRASIL] Dona da CazéTV transmitirá Champions e Premier League no YouTube; entenda",
-      "link": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/dona-da-cazetv-transmitira-champions-e-premier-league-no-youtube-entenda/"
-    },
-    {
-      "title": "[AGÊNCIA BRASIL] Dia Nacional do Orgulho Lésbico é celebrado nesta quarta-feira",
-      "link": "https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-08/dia-nacional-do-orgulho-lesbico-e-celebrado-nesta-quarta-feira"
-    },
-    {
-      "title": "[AGÊNCIA BRASIL] Autorizações para importação de cannabis aumentam 29% em 2026",
-      "link": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-08/autorizacoes-para-importacao-de-cannabis-aumentam-29-em-2026"
-    },
-    {
-      "title": "[MINAS GERAIS] Plenário condena vereador de Medina (MG) por violência política de gênero - tse.jus.br",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOTk5ZZXllZkhKbTdFVHpfYnZWbHhFY2FXVVpmU2R2eTRnQWN1cGhNeDM0V3puTjNBUzJZSi1UR0hodGxMbE9mcnoxWVh1SmlmbTlROTRQQnNTLU5rTXRqMmM5RHFkVkwxUnlMa1BMZW1TZWRiRk16QnhDUWVWempPeFNZY3ZhOXJPRmlmYlNJNmF0THdPeDUtRXpSUGF1c2RpVDkzcWNHWkRuejlUNWNQa2lyYkQ2eGdSbVVLbXhPTQ?oc=5"
-    },
-    {
-      "title": "[MINAS GERAIS] Maioria dos candidatos de Minas Gerais são homens, pretos ou pardos e se declaram heterossexuais - Portal da Assembleia Legislativa de Minas Gerais",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQZFhqUWpEdl9zV3lqQzNoN2xycUlVWlh3NXEwbUtqellac2o0MkZZRmxkOHkxREd3ZDl5Rjh6Ry10aTFNb2xSZE5QTF9CLUUxY013NTNNR1VvaFBfQ3l6Wl83RUdtZGR0NW9jQ3VCNXdKY3dqMjlpNEVoTFZsb1pRUjFkbmg2X2J5R2I4ZXI0bWIzX2x3WUE?oc=5"
-    },
-    {
-      "title": "[AGÊNCIA BRASIL] Embrapa entrega propostas de agricultura sustentável para candidatos",
-      "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/embrapa-entrega-propostas-de-agricultura-sustentavel-para-candidatos"
+      "title": "[CNN BRASIL] Foguete sul-coreano lançado do Brasil cai no mar após erro de rota",
+      "link": "https://www.cnnbrasil.com.br/ciencia/foguete-sul-coreano-lancado-do-brasil-cai-no-mar-apos-erro-de-rota/"
     },
     {
       "title": "[MINAS GERAIS] Lotofácil 3765: Apostas de Minas Gerais e Rio Grande do Sul dividem prêmio de R$ 3,9 milhões - terra.com.br",
       "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPYzU5dEN6UUtmTHNFaTNCUkFPQU14ZnV1RFpkQl9WSUEtOS1jelFQeV9BUFItSXgzY2lqVXozRGx3RnFYN0MybjJyRGhvczZIMmlBVVU1amhRaFlIWk5LNE5VWFBCYS03X3JQcXVTTXpYeHZWVmd6V2FkZHJCZlUzbDFERXd3eGIzOGYxUTBMVDVsdWprbHgycmpia2V2NVlBR2RoY3U2U29JWUxhbVEwc2RtM180WldhNXB3TXpOYktHS0NwSHkwMzhSVjc4VmQ4OTY5bGFBOGZHVjdZOE5kd3ZMRzJLdEpCeHFMLUVzdE9ONVhkQzZMNTFDMkhLZw?oc=5"
     },
     {
-      "title": "[CNN BRASIL] STF tem unanimidade para tornar réus Bacellar e TH Joias",
-      "link": "https://www.cnnbrasil.com.br/politica/stf-tem-unanimidade-por-tornar-bacellar-e-th-joias-reus-por-vazar-operacao/"
+      "title": "[CNN BRASIL] Vox Eleitoral: 1 em cada 7 comentários sobre Marçal se tornam palanque",
+      "link": "https://www.cnnbrasil.com.br/eleicoes/vox-eleitoral-1-em-cada-7-comentarios-sobre-marcal-se-tornam-palanque/"
     },
     {
-      "title": "[AGÊNCIA BRASIL] Candidaturas LGBT+ têm recorde em 2026 e se espalham por mais partidos",
-      "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/candidaturas-lgbt-tem-recorde-em-2026-e-se-espalham-por-mais-partidos"
+      "title": "[CNN BRASIL] Bernardo Silva é apresentado no Real Madrid: “Não é para qualquer um”",
+      "link": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/futebol-espanhol/bernardo-silva-e-apresentado-no-real-madrid-nao-e-para-qualquer-um/"
     },
     {
-      "title": "[AGÊNCIA BRASIL] STF decide ampliar alcance da Lei da Maria da Penha",
-      "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-08/stf-decide-ampliar-alcance-da-lei-da-maria-da-penha"
+      "title": "[AGÊNCIA BRASIL] Justiça suspende demissões em massa de trabalhadores das Casas Bahia",
+      "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-08/justica-suspende-demissoes-em-massa-de-trabalhadores-das-casas-bahia"
     },
     {
-      "title": "[CNN BRASIL] Tumba no Egito revela 16 corpos humanos e um cachorro mumificados",
-      "link": "https://www.cnnbrasil.com.br/ciencia/tumba-no-egito-revela-16-corpos-humanos-e-um-cachorro-mumificados/"
+      "title": "[CNN BRASIL] Em sinal de reconciliação, Michelle posta vídeo de gravação com Flávio",
+      "link": "https://www.cnnbrasil.com.br/eleicoes/em-sinal-de-reconciliacao-michelle-posta-video-de-gravacao-com-flavio/"
     },
     {
-      "title": "[CNN BRASIL] Explosão em prédio residencial deixa quatro feridos no Rio; veja vídeos",
-      "link": "https://www.cnnbrasil.com.br/nacional/sudeste/rj/explosao-em-predio-residencial-deixa-quatro-feridos-no-rio-veja-videos/"
+      "title": "[CNN BRASIL] Especialista avalia estratégias dos primeiros dias de campanha presidencial",
+      "link": "https://www.cnnbrasil.com.br/eleicoes/especialista-avalia-estrategias-dos-primeiros-dias-de-campanha-presidencial/"
     },
     {
-      "title": "[AGÊNCIA BRASIL] Empresário vira réu por agredir esposa e tem prisão preventiva mantida",
-      "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-08/empresario-vira-reu-por-agredir-esposa-e-tem-prisao-preventiva-mantida"
+      "title": "[MINAS GERAIS] Para Sind-UTE/MG, decisão do STF de manter suspensão de escolas cívico-militares mostra acerto - Sind-UTE/MG",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQRWp5Q3liQzlaeHV5OFFYSU5tekxfMHVDdHlnSEFOUGktRUpkUHI0RE1RelJRTUhXUDJGTXJmTkRFcXZrTW9RRi1fZGE1VHQyWktOVjl5RkVCNzhFWXNTaldJWXVOWFRIN2J2QlZlYXJUdHU2dnRyRmlKWUNvM1JTUWNUdGpRSnpuRXdsZnhER3BCOWRsTzJkMW5NVVpwaGlCZjdzeUxuVmdwYWxGSXItZkFvWnByTDdKRTJ4Y1kxdVhxcU1IeGdz?oc=5"
     },
     {
       "title": "[MINAS GERAIS] CNN Brasil inicia entrevistas com candidatos ao governo de Minas Gerais - CNN Brasil",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPcWY4RHVkcVRXUUhCSExTckVCRUxKSzFFREdpSzNaVnpRSEd0dGpHX013WVdIOFJNeTRZWVJaZlNPbnc2VHpHenVjem1nR1lKZnR5TkpoUXJyUEtVQXZMb0JDNFBGNlowWERjOF9DclZvOExPM21wX2p3UVNnY1BGUHdCMzNVeDRmOXdMWjhmVzNTSVlnZUw0OTJzbzk4cmJaVU5uaHZxN0czZ2ZUMVJN?oc=5"
     },
     {
-      "title": "[CNN BRASIL] Power Minerals mira produzir terras raras em 2030 e afasta capital chinês",
-      "link": "https://www.cnnbrasil.com.br/infra/power-minerals-mira-produzir-terras-raras-em-2030-e-afasta-capital-chines/"
+      "title": "[AGÊNCIA BRASIL] Manual traz nova classificação de riscos de desastres em áreas urbanas",
+      "link": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-08/manual-traz-nova-classificacao-de-riscos-de-desastres-em-areas-urbanas"
     },
     {
-      "title": "[CNN BRASIL] Mais de seis mil celulares roubados são recuperados em menos de dez dias",
-      "link": "https://www.cnnbrasil.com.br/nacional/brasil/mais-de-seis-mil-celulares-roubados-sao-recuperados-em-menos-de-dez-dias/"
+      "title": "[CNN BRASIL] Ex-Atlético de Madrid, artilheiro da Série C rescinde por atraso de salário",
+      "link": "https://www.cnnbrasil.com.br/esportes/futebol/ex-atletico-de-madrid-artilheiro-da-serie-c-rescinde-por-atraso-de-salario/"
     },
     {
-      "title": "[CNN BRASIL] Polícia prende 16 suspeitos de fabricarem armas em impressoras 3D no RS",
-      "link": "https://www.cnnbrasil.com.br/nacional/sul/rs/policia-prende-16-suspeitos-de-fabricarem-armas-em-impressoras-3d-no-rs/"
+      "title": "[CNN BRASIL] Ciclone extratropical se forma na costa e Inmet emite alerta no Brasil",
+      "link": "https://www.cnnbrasil.com.br/nacional/brasil/ciclone-extratropical-se-forma-na-costa-e-inmet-emite-alerta-no-brasil/"
     },
     {
-      "title": "[MINAS GERAIS] Trabalhador morre ao cair do 7º andar de prédio em construção em Uberaba - G1",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPSllCUFhhR1EzRjlUTXZFMmhxeHVHS2t6cmFJOE1QTWVRdzJuNXZvbzJ1eW9FX0tqUElVbzAwN3J6RHh1aDJpQmtmYXFHdXRyNUpXd2IyUl9uMzY5NUM4YzBDTXFxUUE5TjdYVlhXS2xqRjlSQlZFSEphT0xoc2NrU05fMU45TFRVLWxoTGJJeEdaS1laZjFxcEVkRUNOM25KanhBd090bWp2RGxUdHlhZTB0WTllUHQwRm5ncENwQlltUkZ1cU1PTmdxQWFSUGZrei1LOG5R0gHkAUFVX3lxTFB5RlpfNnh3UFVXZTR6b0NjQTZfUnhKUGo0Q3A2dVFabWNCd096MlZKYVZxV2NySlpQSkNncnNYSlV5Tmt5dzh2X1R3ekpyYklRSzktUjIyRlQtRkRLampTTlowQzBSR3l5b1BQcXBnN25feGZ5YWJrLURfdWhzUlI5ZmNkVnNqUU1ZY0tQZ2NJbDkzOVN2TWVUbWkwMldJS2EtZFRuWEZRLWM0TDFGcWZHT0VRT18zb3JWOUwzQjdkd19MOTRJNDhLbVlYVGs0ZFZpUVhsblkxNGhwekJ2OHFySmpOaQ?oc=5"
+      "title": "[CNN BRASIL] Mais de 750 militares dos EUA foram feridos na guerra contra o Irã",
+      "link": "https://www.cnnbrasil.com.br/internacional/mais-de-750-militares-dos-eua-foram-feridos-na-guerra-contra-o-ira/"
+    },
+    {
+      "title": "[AGÊNCIA BRASIL] Autorizações para importação de cannabis aumentam 29% em 2026",
+      "link": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-08/autorizacoes-para-importacao-de-cannabis-aumentam-29-em-2026"
     },
     {
       "title": "[AGÊNCIA BRASIL] OAB Rio recebe mais de 2 mil denúncias do golpe do falso advogado",
       "link": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-08/oab-rio-recebe-mais-de-2-mil-denuncias-do-golpe-do-falso-advogado"
     },
     {
-      "title": "[MINAS GERAIS] Justiça manda cidade de MG demitir servidores e abrir concurso público - Metrópoles",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQbWxZd2RXRVlEMWxSU0NqaUpEZ0Vtc3U0Z0NNcEc3cjk3cTRvdllQNzJ4VlVyMzZ0UF9nTW9MMDNNTHV5Tmo1UklaTDNnRncxMEsxMmhxUFhpNUcyaWdpT1B1RThKaUI4N2RVRnhOa1F5Q3R2WVhVc0VDQ3FybzkyVEVtVzctZ2RSUEdYNUlCWkRwLWx0VFI1eWFrdEo0d2tGcXIzRXRsZVN1UHhWb1FB?oc=5"
+      "title": "[CNN BRASIL] Agiota é preso após emprestar R$ 30 mil e cobrar mais de R$ 1 mi de juros",
+      "link": "https://www.cnnbrasil.com.br/nacional/sudeste/rj/agiota-e-preso-apos-emprestar-r-30-mil-e-cobrar-mais-de-r-1-mi-de-juros/"
     },
     {
       "title": "[MINAS GERAIS] Prefeita do PT declara apoio a Cleitinho em MG: 'Nosso time' - UOL Notícias",
@@ -99,28 +75,52 @@
       "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNOWF3QWIyWVZUNHNwVGJGM0w2eFBOWkVZTTQ5cGRmSEFXemFoOHE4R1k0ZVdmVmt0b3pRSHVDeUp0MXNFNUdLckNlcm1yQVNSaE5ubGJkTVR3cWpDT3BNWVhkeEFOaG1CbS1YSE1jLWxjaTF6VVZDa21WYkVzOHlaWmpPUjlid0x0X3Bmdzg5RDhJVDZSb1A3aTU5Z0Y0ZHlzRDctMkN5aHY4aWlMbHdGbkRvN1pPLVNuQ2pmQVZac0k2TG1EVGxBbEltM05mLVk?oc=5"
     },
     {
-      "title": "[CNN BRASIL] Número de mortos após terremoto na Colômbia sobe para 314, diz presidente",
-      "link": "https://www.cnnbrasil.com.br/internacional/numero-de-mortos-apos-terremoto-na-colombia-sobe-diz-presidente/"
-    },
-    {
-      "title": "[CNN BRASIL] Vox Radar: 1 em cada 12 comentários citam acusação de Gaspar",
-      "link": "https://www.cnnbrasil.com.br/eleicoes/vox-radar-1-em-cada-12-comentarios-citam-acusacao-de-gaspar/"
-    },
-    {
-      "title": "[MINAS GERAIS] Para Sind-UTE/MG, decisão do STF de manter suspensão de escolas cívico-militares mostra acerto - Sind-UTE/MG",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQRWp5Q3liQzlaeHV5OFFYSU5tekxfMHVDdHlnSEFOUGktRUpkUHI0RE1RelJRTUhXUDJGTXJmTkRFcXZrTW9RRi1fZGE1VHQyWktOVjl5RkVCNzhFWXNTaldJWXVOWFRIN2J2QlZlYXJUdHU2dnRyRmlKWUNvM1JTUWNUdGpRSnpuRXdsZnhER3BCOWRsTzJkMW5NVVpwaGlCZjdzeUxuVmdwYWxGSXItZkFvWnByTDdKRTJ4Y1kxdVhxcU1IeGdz?oc=5"
-    },
-    {
-      "title": "[CNN BRASIL] MPE pede impugnação de atos do Missão no DF por cota de gênero",
-      "link": "https://www.cnnbrasil.com.br/eleicoes/mpe-pede-impugnacao-de-atos-do-missao-no-df-por-cota-de-genero/"
-    },
-    {
       "title": "[AGÊNCIA BRASIL] Durigan pretende mediar negociação do Rio com BNDES e Banco do Brasil",
       "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/durigan-pretende-mediar-negociacao-do-rio-com-bndes-e-banco-do-brasil"
     },
     {
-      "title": "[AGÊNCIA BRASIL] Justiça suspende demissões em massa de trabalhadores das Casas Bahia",
-      "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-08/justica-suspende-demissoes-em-massa-de-trabalhadores-das-casas-bahia"
+      "title": "[CNN BRASIL] Flamengo x Cruzeiro: escalações e onde assistir ao jogo pela Libertadores",
+      "link": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/libertadores-da-america/flamengo-x-cruzeiro-escalacoes-e-onde-assistir-ao-jogo-pela-libertadores/"
+    },
+    {
+      "title": "[MINAS GERAIS] Justiça manda cidade de MG demitir servidores e abrir concurso público - Metrópoles",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQbWxZd2RXRVlEMWxSU0NqaUpEZ0Vtc3U0Z0NNcEc3cjk3cTRvdllQNzJ4VlVyMzZ0UF9nTW9MMDNNTHV5Tmo1UklaTDNnRncxMEsxMmhxUFhpNUcyaWdpT1B1RThKaUI4N2RVRnhOa1F5Q3R2WVhVc0VDQ3FybzkyVEVtVzctZ2RSUEdYNUlCWkRwLWx0VFI1eWFrdEo0d2tGcXIzRXRsZVN1UHhWb1FB?oc=5"
+    },
+    {
+      "title": "[AGÊNCIA BRASIL] STF decide ampliar alcance da Lei da Maria da Penha",
+      "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-08/stf-decide-ampliar-alcance-da-lei-da-maria-da-penha"
+    },
+    {
+      "title": "[MINAS GERAIS] Governador de Minas decide proibir publicidade de bets no Mineirão e em espaços públicos do Estado - Estadão",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNN2x3U1NManhudlNHZDFiVmZmR1NEc2VxUkdqZnQ0QkVYYnNhb1h2ZlNoaktyTnFuNklYUHR0c3FRR05abE00TF9SVlozckp5ZkFFaGJUNzJqcWZkQjJBRDN3dUgwSm02M1JjMDNDeElmMi1hb1VtVzlGUDEwOTlCNzkyTWlTVDNvajBaUDV5SENWaWRNaVNkS21rUkI1LS0xYjdoTkxSdzE5cXVHMXBtcUQ1Y2V3YzQ4S3FWTXMtRjB0UkpjUHM0RVpKbEY5MWx10gHWAUFVX3lxTE9BMTRXQV9ING54cElJUXZwUWZVWU9XLU1PalhZYjFtc1pLcmlrR3V6aTYwVGMwT3JsTWJ4QkVyZVlEZ3ZSblVNV2NFMVVZTkRRMjh5OUllUFRDQ1lrM3FyVE1NemNUVmlDbVhDemdaS0xIZEhyYlFSVllaVU1qV1FRVF9SeV9FZzJvQzV0NTNiQXFLaUd0YmZuZXJMTU5KYVZ5dlR4TWtaT2FzNlN2OGtXcG1CcnZSYjc0am1qMlJWdk9mV1I2UkMzZTZHUHE3cWY0b2VDNEE?oc=5"
+    },
+    {
+      "title": "[AGÊNCIA BRASIL] Empresário vira réu por agredir esposa e tem prisão preventiva mantida",
+      "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-08/empresario-vira-reu-por-agredir-esposa-e-tem-prisao-preventiva-mantida"
+    },
+    {
+      "title": "[AGÊNCIA BRASIL] Embrapa entrega propostas de agricultura sustentável para candidatos",
+      "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/embrapa-entrega-propostas-de-agricultura-sustentavel-para-candidatos"
+    },
+    {
+      "title": "[AGÊNCIA BRASIL] Dólar cai para R$ 5,17 após anúncio de recompra de títulos nos EUA",
+      "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/dolar-cai-para-r-517-apos-anuncio-de-recompra-de-titulos-nos-eua"
+    },
+    {
+      "title": "[AGÊNCIA BRASIL] Candidaturas LGBT+ têm recorde em 2026 e se espalham por mais partidos",
+      "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/candidaturas-lgbt-tem-recorde-em-2026-e-se-espalham-por-mais-partidos"
+    },
+    {
+      "title": "[MINAS GERAIS] Incêndios atingem serras do Curral e do Rola-Moça em dia de queimadas em matas da Grande B - G1",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPN2p3czJMV1k4TmtyWm9PcDAwQW1tNUdlU3U1Q0NNYl85Z2kycVVGLXNySVdqUnRYR0F6YzA5YlU5OFNEUmIyWmMyWkJScUsxN2NoaFMycU1RZmRUbkhsU2h1V0hDVjFYMmFZS3Bka1l6X1hCQVIzaWVCa1JBXzRGbkJqS0d2UDBLR2VEZV9RQmJkR01FVm1uQzhnZFB3X3czeDg1MUxVNG1CdzJnbE1UcnBRalJyOXg2RzEyMDkzcjJKc0JMTkp2T1o0ZXJQS2VBOVgya0RPSXZWNjBtekluWDZ30gHwAUFVX3lxTE1mS1J0N3dnU2owa25aU1M3d212bHRYOGZPVzNCOFVta2U5bmlyUjBSbXFvemZhMHRnZE11dVU4X05YS0pMY05sU1lQMXh6bldEZnJzZlJnOFdjZkNISFFtR1lBRlVneHk0MjlDLWhUaGNPdWVRR01tSzlfTFU3R3dBLTEwR2lqNzNwSkc0NlR6QmxRTUFjNVBfSEdqU1F0V3pFRUZSaTh4R2U3TFBiZlBQckVBd0xSUzlGb05PdUQtRVBocThwU2ktMDVrd2xoQVJ3ODU2WWh3MjkyRW12VXJWelJCbVozM3pJZGxlSE1Gdw?oc=5"
+    },
+    {
+      "title": "[MINAS GERAIS] Maioria dos candidatos de Minas Gerais são homens, pretos ou pardos e se declaram heterossexuais - Portal da Assembleia Legislativa de Minas Gerais",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQZFhqUWpEdl9zV3lqQzNoN2xycUlVWlh3NXEwbUtqellac2o0MkZZRmxkOHkxREd3ZDl5Rjh6Ry10aTFNb2xSZE5QTF9CLUUxY013NTNNR1VvaFBfQ3l6Wl83RUdtZGR0NW9jQ3VCNXdKY3dqMjlpNEVoTFZsb1pRUjFkbmg2X2J5R2I4ZXI0bWIzX2x3WUE?oc=5"
+    },
+    {
+      "title": "[MINAS GERAIS] Plenário condena vereador de Medina (MG) por violência política de gênero - tse.jus.br",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOTk5ZZXllZkhKbTdFVHpfYnZWbHhFY2FXVVpmU2R2eTRnQWN1cGhNeDM0V3puTjNBUzJZSi1UR0hodGxMbE9mcnoxWVh1SmlmbTlROTRQQnNTLU5rTXRqMmM5RHFkVkwxUnlMa1BMZW1TZWRiRk16QnhDUWVWempPeFNZY3ZhOXJPRmlmYlNJNmF0THdPeDUtRXpSUGF1c2RpVDkzcWNHWkRuejlUNWNQa2lyYkQ2eGdSbVVLbXhPTQ?oc=5"
     }
   ]
 }
