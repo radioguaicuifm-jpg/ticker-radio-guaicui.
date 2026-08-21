@@ -1,58 +1,114 @@
 {
   "source": "Radio Guaicui - Noticias",
-  "updated_at": "2026-08-21T20:33:18.266612+00:00",
+  "updated_at": "2026-08-21T21:00:41.166285+00:00",
   "items": [
-    {
-      "title": "[CNN BRASIL] Em SP, Caiado diz ser a favor do fim da 6×1 e ataca Lula por economia",
-      "link": "https://www.cnnbrasil.com.br/eleicoes/em-sp-caiado-diz-ser-a-favor-do-fim-da-6x1-e-ataca-lula-por-economia/"
-    },
-    {
-      "title": "[MINAS GERAIS] Sargento é indiciado por feminicídio da capitã Michele Leão, da PM de Minas - Rádio Itatiaia",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQLXFmc3otSGJDV2NaWUwyc0lrNzd1T3NnSERyRUY1UFR3N3dGVlRtYkRDbzVqQ2Q2TjNuVjNxd1laTzNPOF9zV2pjdXNWM0FLLWtaVXBWeU9fVzI3a3Zfa1RTMHN1UGJja0plSUdZMnJ6bllzSW1zY1lqdWhLTTM1b2hzektZSE1wT0ZETzlLWUVtYy1FbmxzSGRvaUJZRDVwaEJDYmZVNWdsYnN4NHJ3UmhPeHdLYXBlb1VveWhwOVNkYlFpaHRPQkZ1bWQ?oc=5"
-    },
-    {
-      "title": "[MINAS GERAIS] A nova pesquisa Quaest para o governo de MG após o vaivém de Cleitinho - Valor Econômico",
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQVHFRVUJ5a0tFSkJWb3VZdTFOeC1RNy12R0dvYng5RkRZSTBpZDduTnJUSTVlQ2dkcFBDdDYwWkEtNlNTbGRKVUVyV01MSDFvVVZMdjNrQlktdFVyVWFib0xIOUZBbWozNER1aWpGODF3Z0NvSFhFUEpZMnNpOE5PSVVJVkxNaVNzNjJ1X2VFX2pJSXZONDZtVTRScG5XbWlocmFEY094UUFfSjFTOE1hRzNOcmFySUE0OVBhSWEwRHFzVUtsU1BOZHI2eXhVc2otMThnNzB3QWY4QdIB6AFBVV95cUxNdFU3bDdhVnRRSW1QcnA4U3Q1Tzk5TnkxZExhZ0FwVjBBV2ZwcXFXUmFMTzNYY3ZPNktSOWFqNlY5UXRfWTkwYWtuYWZLMjZJMXJXc1pnOFduNVlodUcwN0R1NDVDZmpYOXhDa3pLZU5ZSUZoWHVIZlZ5cFo5NEV5QkdvU3hwWUNrdEdKSFIxaEQtYmpMczhSb3U5TkZicHY3dVp6ODlnT3UzaXpRQTJYdHVFVDFPTkRoNlhpd1V2aEl5UWk2dXpqZWdCSi01bXRISDlFZ1RhYXByVWVrYzJFWm5mbzdnc2o5?oc=5"
-    },
-    {
-      "title": "[AGÊNCIA BRASIL] Cosméticos sem registro têm fabricação e venda proibidas pela Anvisa",
-      "link": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-08/cosmeticos-sem-registro-tem-fabricacao-e-venda-proibidas-pela-anvisa"
-    },
-    {
-      "title": "[AGÊNCIA BRASIL] Passagem de frente fria pelo estado de SP pode causar temporais",
-      "link": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-08/passagem-de-frente-fria-pelo-estado-de-sp-pode-causar-temporais"
-    },
-    {
-      "title": "[CNN BRASIL] Turquia pede prisão de Netanyahu por caso de flotilha com brasileiros",
-      "link": "https://www.cnnbrasil.com.br/internacional/turquia-pede-prisao-de-netanyahu-por-caso-de-flotilha-com-brasileiros/"
-    },
-    {
-      "title": "[MINAS GERAIS] Prefeita petista declara apoio a Cleitinho em Minas: \"time da vitória\" - Congresso em Foco",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxONFgtQ0lwaU05YnRmMFBBYXZWSVE1OXk4TWZJaENBYWRqanc3UXZfZ1JNaTNQWEVaRWk4blo3NnhUaXp0WEQtQ1lnOHhzaENkSGcyeXFOQVp4QzFydDdmdzZtNnliSTJQNXFLXzU1VEwtUTU0Sk1mNE4tSy1xMl81aWdRTkh3UnNLM00yX0xscThhV0g4ODBsczlOM0RYUlpkQzRwWmdvSm9xX09JNXZEbzNaMEVCMHY4bFE?oc=5"
-    },
     {
       "title": "[MINAS GERAIS] Mais de 2 mil obras de arte sacra estão desaparecidas em Minas, diz MP - G1",
       "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPSzVLZ3I5OU4xRkRzdFMxczlBbEk5MmdURkJaREZFX256ODVLS2ktV0d1WnFmeURxdVJYUUVzZnJFZU9CNHVCcUtFOWVnY0lNWE5Gejh3eWZxSmhiZkcxcmhkZlVGYTV4R19mUjgzVHIxYlkxT1o1UjNWdUxZM1ZQX1YwZGh3QkJLLUtJY1hhMlV2cGI5a1hhNHM5Z1JOdVhfcWxLQ25pMUN3SmJwalktd0RWdndaanhWaGI0RkxxdjVRTDQxdVFXb2dQTdIB2gFBVV95cUxQSnBsM2RtTkFEVGdQdFc2cGZ0TUUxVUVvcTBiVDFnb25rYTZKRFFFYTZHd2sxTjFrVlhrN3hjZ1haa1BFY1RLMjRGQkV1THpYQzBQSUNwLW4tNEZZX090QVdZVzNzekdMTzg5Q0JxYlpuTEM4N2RRRDFnM2ktSzNiNDl5SHFyN0JhRndzVVB6TC1hTy1kdzhxSzZCcHVyZGp1TFhSdzN4TGRVa2dST0Jnc1hPbmZWNFNEa2tfZjhpcHBTX2FLUmZPMGZSVmJBdlVXNUZnbEdQWUEwQQ?oc=5"
+    },
+    {
+      "title": "[AGÊNCIA BRASIL] TV Brasil vence etapa distrital do Prêmio Sebrae de Jornalismo",
+      "link": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-08/tv-brasil-vence-etapa-distrital-do-premio-sebrae-de-jornalismo"
+    },
+    {
+      "title": "[MINAS GERAIS] Em Minas Gerais, Lula visita obras e tenta alavancar campanha de Patrus - Correio Braziliense",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQYnRLdkdJZm9SbjBsVW9PQjBINVcxeWprTERDSE91V0RhREtlWTBselZsUEtaWE9yQ00yTmZyNy1mUnd6WFFqVWpVNC1zMmVDOEpFeUVOc0t0S0tQWFJtMjhPMFJlRGY1T0tpUXQxa1ZZR2dqeXg3Y1B3M2J3RnByTk9Rckp2YnVFSEZSd3B5RHJsbU1iMmJlVUxpUG1uUE8tMmxVWElDa2d4Z1NtTmNPeDR4UUJhSHQ4RjFyaDFwV3hJNWhpOHRuWVBLYm5MNEVLRGJsTdIB2gFBVV95cUxOeFNKUGhxM1NTd1NDZE84Z29lWTlVVVppLWNpcmlyVjdkeU50TTROaF8yZUFaWFYtYUJua3VUWkNNSGIteEFpQWJBOExSeTg3YjdFVW1SQ2Z0SzgzSV9JdFJRVU13RXZ4aVJsa2RORno5MmhaaFBNQXdiR3lPc3N6OUx1cE00cTdwSDNEd25hN1ZNc1lXZC1CUnlaa1hvRzNQWi00MHZJcWFVRFhhMHdTbTdySUVGU1pubzdYOHB3alpMem44bmg2eGtzemhJSnlhOTlwM3BWOTJDUQ?oc=5"
     },
     {
       "title": "[MINAS GERAIS] 13 ações prioritárias do governo Lula em Minas Gerais - Lula | Site oficial - Lula | Site oficial -",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBCeDlYVlpBTjltQkxGaTUtV0Y1ZDcxU21OVjNHTFI4d0ZCREhzZnRmVVBEbTR2OExIeFE1M1k5UWoxcXdjX0ZNZk54UVBLZGlYUlItY1o4OVc0c2ktakJ1czgtYTltbVZCVVlvbzJnaUVXaXJQV0t6N1lqcTQydFU?oc=5"
     },
     {
-      "title": "[AGÊNCIA BRASIL] ANS suspende cautelar contra Hapvida após explicações sobre reajustes",
-      "link": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-08/ans-suspende-cautelar-contra-hapvida-apos-explicacoes-sobre-reajustes"
+      "title": "[CNN BRASIL] Ataque de espada em escola na Suécia mata adolescente e deixa dois feridos",
+      "link": "https://www.cnnbrasil.com.br/internacional/ataque-de-espada-em-escola-na-suecia-mata-adolescente-e-deixa-dois-feridos/"
+    },
+    {
+      "title": "[CNN BRASIL] Flamengo x Mirassol: CBF agenda jogo adiado do Brasileirão e rubro-negro pode alcançar o Palmeiras na liderança do campeonato",
+      "link": "https://www.cnnbrasil.com.br/esportes/brasileirao/flamengo-x-mirassol-cbf-agenda-jogo-adiado-do-brasileirao-e-rubro-negro-pode-alcancar-o-palmeiras-na-lideranca-do-campeonato/"
+    },
+    {
+      "title": "[CNN BRASIL] Gilmar libera processo e STF retoma julgamento da Ficha Limpa em setembro",
+      "link": "https://www.cnnbrasil.com.br/politica/gilmar-libera-processo-e-stf-retoma-julgamento-da-ficha-limpa-em-setembro/"
+    },
+    {
+      "title": "[MINAS GERAIS] Lula busca ampliar eleitorado em Minas Gerais - Valor Econômico",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQTk5VV1NUeGpJSFg0a21paXJSbnZxbktRQm5icEs2OC1QNVVKaGhEalI2Vjdwd3dxNWFYQUNUQzVuejFWNU1IS3FBM09pel9sWjE5WVVJWkpqdElJUUdLa081Nm8tLTBwTndzY2NUNHI2ZXNyTnFIaXVERjlzU1Z2WVlReXJORl92RjJORnRGUXRMaGQ2REdGaHFmT3RVRHZuaHVudnlFUHI3cVdIWndMN0stVTJFd3JZ0gHHAUFVX3lxTE40UTkzeDJ5MVBCYVNQeWpucWhKdXplY3hhY0VucUZ3WGdiRFZ2SGFhR2NhYUNRcGZjbk1TSGdmQ1c0c0FoamxXMlZRQ01JQUFZQlBoU2k3eXhvY2RfcUtJeHNpOFlEQUplU1UyMlFHRGY3dHhocnlFV2hXMDUteU5GeGQ1bmhSenA2NzhOeHR6NTEyV2VWc3QwTlVJMWp0S2ZIR3RtS2ViVTd6V1Nsb0V5cTI0SnZXVXdWZjYwX3dHM1d5ZExwY3M?oc=5"
+    },
+    {
+      "title": "[CNN BRASIL] Atriz Hayden Panettiere completaria 37 anos nesta sexta",
+      "link": "https://www.cnnbrasil.com.br/pop/celebridades/atriz-hayden-panettiere-completaria-37-anos-nesta-sexta/"
+    },
+    {
+      "title": "[CNN BRASIL] Milhares de águias morrem eletrocutadas todos os anos no Cazaquistão",
+      "link": "https://www.cnnbrasil.com.br/ciencia/milhares-de-aguias-morrem-eletrocutadas-todos-os-anos-no-cazaquistao/"
+    },
+    {
+      "title": "[AGÊNCIA BRASIL] STF marca para setembro retomada do julgamento da Lei da Ficha Limpa",
+      "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-08/stf-marca-para-setembro-retomada-do-julgamento-da-lei-da-ficha-limpa"
+    },
+    {
+      "title": "[AGÊNCIA BRASIL] Passagem de frente fria pelo estado de SP pode causar temporais",
+      "link": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-08/passagem-de-frente-fria-pelo-estado-de-sp-pode-causar-temporais"
+    },
+    {
+      "title": "[MINAS GERAIS] ‘Faltou ênfase nas pautas sociais’, avalia cientista social sobre debate entre candidatos de MG - Brasil de Fato",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPd2Y4b19xcWktZU5BMjNRMkhSc05yQlMtRGljV2FLS1VMTXVCWnlsNm9pRWxaLUk4RnhCNU5xVWU4SzhNbFgyVUltWURwS1RTQUJhMjJvSkJScTdmQmJjLVcyalV5V0o3ejBwSXB5bUwyNDNaNy1fVVZ6SWZnZ0h3cXVZWjdOa1MxUUFYa3VpMTRxZFRWa3NFTnBTTFNKdnE2cWswcXFqZ05YYUhzbW9XVzdLdDlHbkQxcDByS3BlaE9jV1U3SmFGTWFxNm1xQ2tGNEE?oc=5"
     },
     {
       "title": "[MINAS GERAIS] Prefeita petista apoia Cleitinho, rival de Patrus em Minas Gerais - Poder360",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOSTNaQUFGUjJ6aS1fZjE1aU4wN0ZSOW42U3lCd0xMWjAxeml6UktGY180a1BWc3NQQWMzdHZLM0F2LXY3bFN4RXhuNlM5LWc2VmVLRTlGN1dLUTQyMGtvQUZEODhmVjFNTTFFczNQaG00TXhEWHktYTJkN3ExOVROZlBqWGpLQ1NqU3FIUkZIRG83Z0lURWd4YUNLcW5XTHNFdGxSeGxfQ2RkdENVN3RFd1ZYdw?oc=5"
     },
     {
-      "title": "[CNN BRASIL] Crédito deve crescer 0,5% em julho e 9,7% em 12 meses, diz Febraban",
-      "link": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/credito-deve-crescer-05-em-julho-e-97-em-12-meses-diz-febraban/"
+      "title": "[CNN BRASIL] Rafael Matos e Orlando Luz chegam em mais uma semifinal de Masters 1000",
+      "link": "https://www.cnnbrasil.com.br/esportes/tenis/rafael-matos-e-orlando-luz-chegam-em-mais-uma-semifinal-de-masters-1000/"
     },
     {
-      "title": "[AGÊNCIA BRASIL] TV Brasil vence etapa distrital do Prêmio Sebrae de Jornalismo",
-      "link": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-08/tv-brasil-vence-etapa-distrital-do-premio-sebrae-de-jornalismo"
+      "title": "[AGÊNCIA BRASIL] Com autorização de Moraes, Bolsonaro poderá voltar a receber visitas",
+      "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-08/com-autorizacao-de-moraes-bolsonaro-podera-voltar-receber-visitas"
+    },
+    {
+      "title": "[CNN BRASIL] Quem é Luis Ribeirinho, noivo da cantora Luísa Sonza?",
+      "link": "https://www.cnnbrasil.com.br/pop/celebridades/quem-e-luis-ribeirinho-noivo-da-cantora-luisa-sonza/"
+    },
+    {
+      "title": "[AGÊNCIA BRASIL] Artistas de diferentes gerações interpretam clássicos de Chico Buarque",
+      "link": "https://agenciabrasil.ebc.com.br/cultura/noticia/2026-08/artistas-de-diferentes-geracoes-interpretam-classicos-de-chicobuarque"
+    },
+    {
+      "title": "[CNN BRASIL] CEO da Cacau Show: Estratégia é buscar legado e reputação, não cliques",
+      "link": "https://www.cnnbrasil.com.br/economia/money/negocios/ceo-da-cacau-show-estrategia-e-buscar-legado-e-reputacao-nao-cliques/"
+    },
+    {
+      "title": "[MINAS GERAIS] Grávida é agredida a chineladas nas costas e no pescoço pelo companheiro, em Governador Valadares - G1",
+      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNQ1pnQ3BmVmtiN29kYTFBSmdHWWtyVUFaYWFKNmF6aUpYVmVHbnROLWNMNUR6cmdKYUt3TmE3akNLTXdlei0xRGJ4VmJVaFlncmE0RDRKcUNMUWgzNGp6RjlUaHlVaTgtWFh5cVBxSFNzczN3d2NkVDVTaE04UzNHUERaTTJtbWxmcjhfNmdqSFQ4ZWpvVmxEV1dZcGtCeHpocXNGS05LUmx0MV9vYjB6czBsb20xTnZuc3kzYzY1aWYxa1NqYkhpNi1qUEtlV3ZsRHRXcGF0Y2o0NExKd3BUZ1RuUXdmQnp3LWfSAfgBQVVfeXFMTzZoVHdhODJ6M09vVEdVZjNLZHRLcVp0SnRTQW04Sm9IcjZBTm1qd2dsdEdyY0RsejlrWG4wSG5qalJFX0Z4d0ZFRFAzV1hTV2lfVEZIT25HRFd2NE1FTjhWX2RfSmowMWh1ZkE1R1dpc3E5dWNwOHpjNGpUVlo4dHBDdF9mR01TUEt5N0NGTEhlcFRSaElfcm1pNndiT0dnakZNM3BEYjRqYkc4YzFoelkxMnU2a0VlZHlBVHktWmlsNDRac3V2bXlYcnJfQkJnYU16T0MzMHJxNTQxRWlCZEYzNEExWmo5LVlDZDRmUUswTUZTQWpfQXg?oc=5"
+    },
+    {
+      "title": "[AGÊNCIA BRASIL] Lula liga para Trump e diz que alegações para tarifaço são infundadas",
+      "link": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-08/lula-liga-para-trump-e-diz-que-alegacoes-para-tarifaco-sao-infundadas"
+    },
+    {
+      "title": "[MINAS GERAIS] CNN Brasil inicia entrevistas com candidatos ao governo de Minas Gerais - CNN Brasil",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPcWY4RHVkcVRXUUhCSExTckVCRUxKSzFFREdpSzNaVnpRSEd0dGpHX013WVdIOFJNeTRZWVJaZlNPbnc2VHpHenVjem1nR1lKZnR5TkpoUXJyUEtVQXZMb0JDNFBGNlowWERjOF9DclZvOExPM21wX2p3UVNnY1BGUHdCMzNVeDRmOXdMWjhmVzNTSVlnZUw0OTJzbzk4cmJaVU5uaHZxN0czZ2ZUMVJN?oc=5"
+    },
+    {
+      "title": "[CNN BRASIL] Luísa Sonza anuncia noivado com Luis Ribeirinho: “Sempre foi você”",
+      "link": "https://www.cnnbrasil.com.br/pop/celebridades/luisa-sonza-anuncia-noivado-com-luis-ribeirinho-sempre-foi-voce/"
+    },
+    {
+      "title": "[AGÊNCIA BRASIL] ANS suspende cautelar contra Hapvida após explicações sobre reajustes",
+      "link": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-08/ans-suspende-cautelar-contra-hapvida-apos-explicacoes-sobre-reajustes"
+    },
+    {
+      "title": "[AGÊNCIA BRASIL] Cosméticos sem registro têm fabricação e venda proibidas pela Anvisa",
+      "link": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-08/cosmeticos-sem-registro-tem-fabricacao-e-venda-proibidas-pela-anvisa"
+    },
+    {
+      "title": "[CNN BRASIL] “Niu Lai”: filme com “gráficos ruins” viraliza e se torna sucesso na China",
+      "link": "https://www.cnnbrasil.com.br/pop/cinema/niu-lai-filme-com-graficos-ruins-viraliza-e-se-torna-sucesso-na-china/"
+    },
+    {
+      "title": "[AGÊNCIA BRASIL] Cristo Redentor se prepara para compensar impacto ambiental do turismo",
+      "link": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-08/cristo-redentor-se-prepara-para-compensar-impacto-ambiental-do-turismo"
     },
     {
       "title": "[AGÊNCIA BRASIL] Cantora portuguesa Carminho reforça amor pelo Brasil em turnê",
@@ -63,64 +119,8 @@
       "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNNEdHN3BHeTdFRXhvNFB1Q3ZWVExpOS1sZWhneVY1N0NMV0w3U2JLWUpodXJNT2luZnBOTjRZZEw3Q2Y1eDR1VW5wWk1OZU9FT0xOcS1hbWFEVW5PU2hMU1FlZVJ2ZU9JYWJDUTVKZk1ZSTlJVnlOQXZ2VFpsSWlHT1JOajdBTXdkbXBLWmxWQ1Rwb1VLaVJtU2Z3My0wbUtfTnU5c0psRkhVTFcybkcxN3I3N3V3THVaRmJWQXJlY3hNWGRXamhPY2tja3AtYjBXYjdjVk1NRQ?oc=5"
     },
     {
-      "title": "[CNN BRASIL] Palmeiras tenta resistir ao City e Allan é tratado como essencial",
-      "link": "https://www.cnnbrasil.com.br/esportes/futebol/palmeiras/palmeiras-tenta-resistir-ao-city-e-allan-e-tratado-como-essencial/"
-    },
-    {
-      "title": "[CNN BRASIL] Apesar de investimento, Botafogo quer mudança de estratégia no mercado",
-      "link": "https://www.cnnbrasil.com.br/esportes/futebol/botafogo/apesar-de-investimento-botafogo-quer-mudanca-de-estrategia-no-mercado/"
-    },
-    {
-      "title": "[CNN BRASIL] Vídeo: Urso invade casa na Índia, toma cozinha e assusta família",
-      "link": "https://www.cnnbrasil.com.br/internacional/video-urso-invade-casa-na-india-toma-cozinha-e-assusta-familia/"
-    },
-    {
-      "title": "[AGÊNCIA BRASIL] Cristo Redentor se prepara para compensar impacto ambiental do turismo",
-      "link": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-08/cristo-redentor-se-prepara-para-compensar-impacto-ambiental-do-turismo"
-    },
-    {
-      "title": "[AGÊNCIA BRASIL] Artistas de diferentes gerações interpretam clássicos de Chico Buarque",
-      "link": "https://agenciabrasil.ebc.com.br/cultura/noticia/2026-08/artistas-de-diferentes-geracoes-interpretam-classicos-de-chicobuarque"
-    },
-    {
-      "title": "[CNN BRASIL] Corinthians e atuação de Pedro Raul dominam interações nas redes sociais",
-      "link": "https://www.cnnbrasil.com.br/esportes/futebol/corinthians/corinthians-e-atuacao-de-pedro-raul-dominam-interacoes-nas-redes-sociais/"
-    },
-    {
-      "title": "[MINAS GERAIS] Em Minas Gerais, Lula visita obras e tenta alavancar campanha de Patrus - Correio Braziliense",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQYnRLdkdJZm9SbjBsVW9PQjBINVcxeWprTERDSE91V0RhREtlWTBselZsUEtaWE9yQ00yTmZyNy1mUnd6WFFqVWpVNC1zMmVDOEpFeUVOc0t0S0tQWFJtMjhPMFJlRGY1T0tpUXQxa1ZZR2dqeXg3Y1B3M2J3RnByTk9Rckp2YnVFSEZSd3B5RHJsbU1iMmJlVUxpUG1uUE8tMmxVWElDa2d4Z1NtTmNPeDR4UUJhSHQ4RjFyaDFwV3hJNWhpOHRuWVBLYm5MNEVLRGJsTdIB2gFBVV95cUxOeFNKUGhxM1NTd1NDZE84Z29lWTlVVVppLWNpcmlyVjdkeU50TTROaF8yZUFaWFYtYUJua3VUWkNNSGIteEFpQWJBOExSeTg3YjdFVW1SQ2Z0SzgzSV9JdFJRVU13RXZ4aVJsa2RORno5MmhaaFBNQXdiR3lPc3N6OUx1cE00cTdwSDNEd25hN1ZNc1lXZC1CUnlaa1hvRzNQWi00MHZJcWFVRFhhMHdTbTdySUVGU1pubzdYOHB3alpMem44bmg2eGtzemhJSnlhOTlwM3BWOTJDUQ?oc=5"
-    },
-    {
-      "title": "[AGÊNCIA BRASIL] Lula liga para Trump e diz que alegações para tarifaço são infundadas",
-      "link": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-08/lula-liga-para-trump-e-diz-que-alegacoes-para-tarifaco-sao-infundadas"
-    },
-    {
-      "title": "[MINAS GERAIS] Lula busca ampliar eleitorado em Minas Gerais - Valor Econômico",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQTk5VV1NUeGpJSFg0a21paXJSbnZxbktRQm5icEs2OC1QNVVKaGhEalI2Vjdwd3dxNWFYQUNUQzVuejFWNU1IS3FBM09pel9sWjE5WVVJWkpqdElJUUdLa081Nm8tLTBwTndzY2NUNHI2ZXNyTnFIaXVERjlzU1Z2WVlReXJORl92RjJORnRGUXRMaGQ2REdGaHFmT3RVRHZuaHVudnlFUHI3cVdIWndMN0stVTJFd3JZ0gHHAUFVX3lxTE40UTkzeDJ5MVBCYVNQeWpucWhKdXplY3hhY0VucUZ3WGdiRFZ2SGFhR2NhYUNRcGZjbk1TSGdmQ1c0c0FoamxXMlZRQ01JQUFZQlBoU2k3eXhvY2RfcUtJeHNpOFlEQUplU1UyMlFHRGY3dHhocnlFV2hXMDUteU5GeGQ1bmhSenA2NzhOeHR6NTEyV2VWc3QwTlVJMWp0S2ZIR3RtS2ViVTd6V1Nsb0V5cTI0SnZXVXdWZjYwX3dHM1d5ZExwY3M?oc=5"
-    },
-    {
-      "title": "[CNN BRASIL] Festa do Peão: famosos desfilam picapes personalizadas e motorhome gigante",
-      "link": "https://www.cnnbrasil.com.br/auto/festa-do-peao-famosos-desfilam-picapes-personalizadas-e-motorhome-gigante/"
-    },
-    {
-      "title": "[MINAS GERAIS] ‘Faltou ênfase nas pautas sociais’, avalia cientista social sobre debate entre candidatos de MG - Brasil de Fato",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPd2Y4b19xcWktZU5BMjNRMkhSc05yQlMtRGljV2FLS1VMTXVCWnlsNm9pRWxaLUk4RnhCNU5xVWU4SzhNbFgyVUltWURwS1RTQUJhMjJvSkJScTdmQmJjLVcyalV5V0o3ejBwSXB5bUwyNDNaNy1fVVZ6SWZnZ0h3cXVZWjdOa1MxUUFYa3VpMTRxZFRWa3NFTnBTTFNKdnE2cWswcXFqZ05YYUhzbW9XVzdLdDlHbkQxcDByS3BlaE9jV1U3SmFGTWFxNm1xQ2tGNEE?oc=5"
-    },
-    {
-      "title": "[AGÊNCIA BRASIL] Com autorização de Moraes, Bolsonaro poderá voltar a receber visitas",
-      "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-08/com-autorizacao-de-moraes-bolsonaro-podera-voltar-receber-visitas"
-    },
-    {
-      "title": "[AGÊNCIA BRASIL] Governo Espriella encerra jornalismo da mídia pública da Colômbia",
-      "link": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-08/governo-espriella-encerra-jornalismo-da-midia-publica-da-colombia"
-    },
-    {
-      "title": "[CNN BRASIL] Uma jovem vampira enterrada numa sepultura há 400 anos com foice na garganta e cadeado no pé tem um mistério que desafia cientistas",
-      "link": "https://www.cnnbrasil.com.br/ciencia/uma-jovem-vampira-enterrada-numa-sepultura-ha-400-anos-com-foice-na-garganta-e-cadeado-no-pe-tem-um-misterio-que-desafia-cientistas/"
-    },
-    {
-      "title": "[CNN BRASIL] Lito Sousa: veja famosos que mandaram mensagem de apoio para influencer",
-      "link": "https://www.cnnbrasil.com.br/pop/celebridades/lito-sousa-veja-famosos-que-mandaram-mensagem-de-apoio-para-influencer/"
+      "title": "[MINAS GERAIS] Primeiro hub de abastecimento de biometano de Minas Gerais entra em operação em Uberlândia - G1",
+      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOWUJoci1HaGJDMk9Jbm1SNFVEU1lpaWUtYS11d2hwZFIwb0VCWHVmaHB0TW5KZVBySE81T0JUcFkyNTluMGhpeTFrWXNxUXhWbDhWNzJyLTBmcF9jaTZ2VDJVYktRU1dqVC1UX3M5T0ZzR1J2djRWdDFBS1NJVUhEdWhJN1hpQndBRWoyUjVLNVlmYnhoLXpzbmVWQUJaWGhpZTJyVzJhUDRyU0c3bFI1R1VtUjV6S2VvamZJTWRiTmpfaGZpOFJtMmt0M3AxZFZxVS0zZE4tdC1rSnpuR1ZqSmV0bkZFMnFfN3pXUkhB0gH8AUFVX3lxTE5lSnhyaGJWaHdpSHMyYnlmaHJnYUFjQlEzS3NxSDhDMTBLWUd6S1ctSlhrc09kMUc0dE1rZXJLaTA0UVpQaXNWMEpFTmREU1dXZE1fS3B4VTVCRVFhV09Jb1FLNXRiNG9tTzBZQzVrZFpVSHBVa2tuUUpHZVpWMFR2bk9YMUVCamJWdk9hNVhJLXpmT1dubHRybGh0OXc2dElsYkttaG1DUnNnV0NwYU5WZ2M2VEVqVU51eDhCNl9WMVVIWEZYYjNvcTRLN1lsY2cwMnk4VkRnSWR6aURVVTZVVDlqX1R4RzFmMkR2bnZFYXpWUGtESDA3aDhFMQ?oc=5"
     }
   ]
 }
