@@ -1,86 +1,118 @@
 {
   "source": "Radio Guaicui - Noticias",
-  "updated_at": "2026-08-21T18:36:23.645849+00:00",
+  "updated_at": "2026-08-21T19:14:19.377253+00:00",
   "items": [
     {
-      "title": "[MINAS GERAIS] Os planos de governo para Minas Gerais: propostas, limites e lacunas - Rádio Itatiaia",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNNEdHN3BHeTdFRXhvNFB1Q3ZWVExpOS1sZWhneVY1N0NMV0w3U2JLWUpodXJNT2luZnBOTjRZZEw3Q2Y1eDR1VW5wWk1OZU9FT0xOcS1hbWFEVW5PU2hMU1FlZVJ2ZU9JYWJDUTVKZk1ZSTlJVnlOQXZ2VFpsSWlHT1JOajdBTXdkbXBLWmxWQ1Rwb1VLaVJtU2Z3My0wbUtfTnU5c0psRkhVTFcybkcxN3I3N3V3THVaRmJWQXJlY3hNWGRXamhPY2tja3AtYjBXYjdjVk1NRQ?oc=5"
-    },
-    {
-      "title": "[AGÊNCIA BRASIL] Governo Espriella encerra jornalismo da mídia pública da Colômbia",
-      "link": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-08/governo-espriella-encerra-jornalismo-da-midia-publica-da-colombia"
-    },
-    {
-      "title": "[AGÊNCIA BRASIL] Passagem de frente fria pelo estado de SP pode causar temporais",
-      "link": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-08/passagem-de-frente-fria-pelo-estado-de-sp-pode-causar-temporais"
-    },
-    {
-      "title": "[CNN BRASIL] “A Hipótese do Amor”: sessão com elenco acontecerá em SP; veja como comprar",
-      "link": "https://www.cnnbrasil.com.br/pop/streaming/a-hipotese-do-amor-sessao-com-elenco-acontecera-em-sp-veja-como-comprar/"
-    },
-    {
-      "title": "[CNN BRASIL] Palmeiras: Lito já detalhou vantagens do avião de Leila para o clube",
-      "link": "https://www.cnnbrasil.com.br/esportes/futebol/palmeiras/palmeiras-lito-ja-detalhou-vantagens-do-aviao-de-leila-para-o-clube/"
-    },
-    {
-      "title": "[CNN BRASIL] Custos com geração térmica mais que dobram e chegam a R$ 1,6 bi em julho",
-      "link": "https://www.cnnbrasil.com.br/infra/custos-com-geracao-termica-mais-que-dobram-e-chegam-a-r-16-bi-em-julho/"
-    },
-    {
-      "title": "[MINAS GERAIS] Corpo de mulher com marcas de tiros é encontrado em Caratinga - G1",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPTGxhTlAzWHEwMkdKMlFWSjZNTVFiT1ZoOG9lMFpidTdnbld5Z1BpWFN6a1BSV0ptNUhIanFFYmVYOG9MR29xVDdSWlJaS0lVUnBtM0hZcWpwSzhuelFtQ0VRaUh4RzVreEhoZ2RPNWNvOXpzdnVTWU5wMmRUSVlLWHpWVmZsUWQ5dTdUMUtyOGl0WExxS2UtZGdJSTlWbEROWUhhenpuUjBKYXdadWxQM192S2VJNlo1dHlR0gHKAUFVX3lxTFBoTnpFUk0xVmktejFUMkpLZU54VVdsaWV4cHRBMGRVOXFSNHZ1dlJMZlFpMWl1c0tKeDRjSzZfX3B3OXhaR2RLUnZHQi1SSHVQWUlRMm5GZndyaGpfdEwzdHVrM3lWdDRieS1rblJZMi1vNDlwWE1jbGZYVWhuN3JqWlZxSDY5Mmpwc3VTZDdiakdtZnVWY2RFMGc1dW41ejhsRTRJOW9GSno3VDF3ZmNKM3Y4S3B6RmtmZFJSYXJ3d0ZOa3p2QjBDZEE?oc=5"
-    },
-    {
-      "title": "[MINAS GERAIS] CNN Brasil inicia entrevistas com candidatos ao governo de Minas Gerais - CNN Brasil",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPcWY4RHVkcVRXUUhCSExTckVCRUxKSzFFREdpSzNaVnpRSEd0dGpHX013WVdIOFJNeTRZWVJaZlNPbnc2VHpHenVjem1nR1lKZnR5TkpoUXJyUEtVQXZMb0JDNFBGNlowWERjOF9DclZvOExPM21wX2p3UVNnY1BGUHdCMzNVeDRmOXdMWjhmVzNTSVlnZUw0OTJzbzk4cmJaVU5uaHZxN0czZ2ZUMVJN?oc=5"
-    },
-    {
-      "title": "[CNN BRASIL] Quem são os candidatos a governador do Amazonas em 2026",
-      "link": "https://www.cnnbrasil.com.br/eleicoes/quem-sao-os-candidatos-a-governador-do-amazonas-em-2026/"
-    },
-    {
-      "title": "[AGÊNCIA BRASIL] Cantora portuguesa Carminho reforça amor pelo Brasil em turnê",
-      "link": "https://agenciabrasil.ebc.com.br/cultura/noticia/2026-08/cantora-portuguesa-carminho-reforca-amor-pelo-brasil-em-turne"
-    },
-    {
-      "title": "[CNN BRASIL] Especialistas discutem influência digital nos negócios",
-      "link": "https://www.cnnbrasil.com.br/economia/money/negocios/especialistas-discutem-influencia-digital-nos-negocios/"
-    },
-    {
-      "title": "[MINAS GERAIS] Prefeita petista apoia Cleitinho, rival de Patrus em Minas Gerais - Poder360",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOSTNaQUFGUjJ6aS1fZjE1aU4wN0ZSOW42U3lCd0xMWjAxeml6UktGY180a1BWc3NQQWMzdHZLM0F2LXY3bFN4RXhuNlM5LWc2VmVLRTlGN1dLUTQyMGtvQUZEODhmVjFNTTFFczNQaG00TXhEWHktYTJkN3ExOVROZlBqWGpLQ1NqU3FIUkZIRG83Z0lURWd4YUNLcW5XTHNFdGxSeGxfQ2RkdENVN3RFd1ZYdw?oc=5"
-    },
-    {
-      "title": "[MINAS GERAIS] Prefeita petista declara apoio a Cleitinho em Minas: \"time da vitória\" - Congresso em Foco",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxONFgtQ0lwaU05YnRmMFBBYXZWSVE1OXk4TWZJaENBYWRqanc3UXZfZ1JNaTNQWEVaRWk4blo3NnhUaXp0WEQtQ1lnOHhzaENkSGcyeXFOQVp4QzFydDdmdzZtNnliSTJQNXFLXzU1VEwtUTU0Sk1mNE4tSy1xMl81aWdRTkh3UnNLM00yX0xscThhV0g4ODBsczlOM0RYUlpkQzRwWmdvSm9xX09JNXZEbzNaMEVCMHY4bFE?oc=5"
-    },
-    {
-      "title": "[CNN BRASIL] Bruno Guimarães sofre lesão e vira desfalque no Arsenal, diz jornal",
-      "link": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/futebol-ingles/bruno-guimaraes-sofre-lesao-e-vira-desfalque-no-arsenal-diz-jornal/"
-    },
-    {
-      "title": "[CNN BRASIL] “Escudo das Américas”: Entenda aliança contra o crime organizado",
-      "link": "https://www.cnnbrasil.com.br/internacional/escudo-das-americas-entenda-alianca-contra-o-crime-organizado/"
-    },
-    {
-      "title": "[MINAS GERAIS] Com Lula em Belo Horizonte, Patrus dá largada à campanha em Minas - Partido dos Trabalhadores",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNdFVqWmd3RGZWN1ZSZWtoWlV0Z1dVSHpzWGlTdDBuVU43SlJSN0pKcDZsZkpIYjRVNnUzOElrNVFUR2toTnpJa1BuWTVCMzBPREtfZlRFelpSRU9HTkNtZXotdjFIbXk0TlBHTTJkYlF6aENHSWxYZjJTMmtwYlhwN2Rmam9GNEtMRWxz0gGTAUFVX3lxTE5mbkFRQlhtUHo2dGtnODRvd0JkNlc1ejlVWlA4a3lGQzdpdVFVdFlyY1FQWUZiY3pyOGlkdDczOU95OFo2SDVaQ210T3VsWDlmMmZJTHBTLTI2WnU2Z21BMzVRSmlUUzUtSk9TLVMxRTRwRDdfSlFXaDJKSHhkRlAwNWw3VjZwbFU1QW0yWkdYZmhpaw?oc=5"
+      "title": "[AGÊNCIA BRASIL] Empresas com 100 ou mais empregados devem atualizar dados até dia 31",
+      "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/empresas-com-100-ou-mais-empregados-devem-atualizar-dados-ate-dia-31"
     },
     {
       "title": "[AGÊNCIA BRASIL] Lula liga para Trump e diz que alegações para tarifaço são infundadas",
       "link": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-08/lula-liga-para-trump-e-diz-que-alegacoes-para-tarifaco-sao-infundadas"
     },
     {
+      "title": "[MINAS GERAIS] Corpo de mulher com marcas de tiros é encontrado em Caratinga - G1",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPTGxhTlAzWHEwMkdKMlFWSjZNTVFiT1ZoOG9lMFpidTdnbld5Z1BpWFN6a1BSV0ptNUhIanFFYmVYOG9MR29xVDdSWlJaS0lVUnBtM0hZcWpwSzhuelFtQ0VRaUh4RzVreEhoZ2RPNWNvOXpzdnVTWU5wMmRUSVlLWHpWVmZsUWQ5dTdUMUtyOGl0WExxS2UtZGdJSTlWbEROWUhhenpuUjBKYXdadWxQM192S2VJNlo1dHlR0gHKAUFVX3lxTFBoTnpFUk0xVmktejFUMkpLZU54VVdsaWV4cHRBMGRVOXFSNHZ1dlJMZlFpMWl1c0tKeDRjSzZfX3B3OXhaR2RLUnZHQi1SSHVQWUlRMm5GZndyaGpfdEwzdHVrM3lWdDRieS1rblJZMi1vNDlwWE1jbGZYVWhuN3JqWlZxSDY5Mmpwc3VTZDdiakdtZnVWY2RFMGc1dW41ejhsRTRJOW9GSno3VDF3ZmNKM3Y4S3B6RmtmZFJSYXJ3d0ZOa3p2QjBDZEE?oc=5"
+    },
+    {
+      "title": "[MINAS GERAIS] Prefeita petista apoia Cleitinho, rival de Patrus em Minas Gerais - Poder360",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOSTNaQUFGUjJ6aS1fZjE1aU4wN0ZSOW42U3lCd0xMWjAxeml6UktGY180a1BWc3NQQWMzdHZLM0F2LXY3bFN4RXhuNlM5LWc2VmVLRTlGN1dLUTQyMGtvQUZEODhmVjFNTTFFczNQaG00TXhEWHktYTJkN3ExOVROZlBqWGpLQ1NqU3FIUkZIRG83Z0lURWd4YUNLcW5XTHNFdGxSeGxfQ2RkdENVN3RFd1ZYdw?oc=5"
+    },
+    {
+      "title": "[AGÊNCIA BRASIL] Cantora portuguesa Carminho reforça amor pelo Brasil em turnê",
+      "link": "https://agenciabrasil.ebc.com.br/cultura/noticia/2026-08/cantora-portuguesa-carminho-reforca-amor-pelo-brasil-em-turne"
+    },
+    {
+      "title": "[MINAS GERAIS] Homens são presos após anúncio de venda de drogas nas redes sociais em Buritizeiro - G1",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQaFBiSkJsYmk0RG9tNzR6d01SUWYyek5hR21zb1BoSzZ6WTZ2OHlZOFhRcjkyOWJ6ZW5oY0NQTE1KS3EwUHBnTWx2MVkxRk50M21xVERUVzNWSDVLOTRHb0FkS0I3d29ZTEdNbTBVOTBBODAtekVOeWV3OWtQdHZoZ2x5TVVJRlRvb2JlWmlCVDh1UWpZLWhwRjc4QlIzbXFoVW92eGRCTDh0TjJXZGU3UTllWDlLel90LWhpc3Uya3kyUTJOWmctMVFqNVJPRF9Lb1U3ZWYyUUJuOG5ISGfSAewBQVVfeXFMUDdqMV9neWhuSWpSVUJmdVItVjdfYlVpYWFiVE1udTYtcVpnREdPU3piTTZxSkNsNGRKWURIZ3JwQ283SjE5WHhKd3ZsLXRaZFdXYzVQSU9pTjAyMEgzS0phdzhHbVNWTFNSUkl0N0VPSE1LZzVrMm9IamNUbHNCbjVxZDBTMHcwS1RtYXM5UXUyLURleXh1dGZ1R1JoejRZTlY4SXg2Mm41QUd5OEowR21lSnMtZnBHeFhueWQwMWNCcmtnRXc2WXppakxhcFA5SXpsTkVMWDR2bGdUQVdvY2FrdmZub1dBQUtXbFk?oc=5"
+    },
+    {
+      "title": "[CNN BRASIL] Atacante Paulinho evolui e aumenta expectativa por retorno ao Palmeiras",
+      "link": "https://www.cnnbrasil.com.br/esportes/futebol/palmeiras/atacante-paulinho-evolui-e-aumenta-expectativa-por-retorno-ao-palmeiras/"
+    },
+    {
+      "title": "[AGÊNCIA BRASIL] Desigualdades marcam formalização do trabalho entre jovens brasileiros",
+      "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/desigualdades-marcam-formalizacao-do-trabalho-entre-jovens-brasileiros"
+    },
+    {
+      "title": "[CNN BRASIL] Cepea: Após recorde em 2025, número de empregos no agro recua no 1º tri",
+      "link": "https://www.cnnbrasil.com.br/agro/cepea-apos-recorde-em-2025-numero-de-empregos-no-agro-recua-no-1o-tri/"
+    },
+    {
+      "title": "[CNN BRASIL] Sul-Americana: suspensão de Paredes afeta jogo contra o São Paulo? Entenda",
+      "link": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/sulamericana/sul-americana-suspensao-de-paredes-afeta-jogo-contra-o-sao-paulo-entenda/"
+    },
+    {
+      "title": "[CNN BRASIL] Trump ganha aval temporário da Suprema Corte para salão na Casa Branca",
+      "link": "https://www.cnnbrasil.com.br/internacional/trump-ganha-aval-temporario-da-suprema-corte-para-salao-na-casa-branca/"
+    },
+    {
       "title": "[AGÊNCIA BRASIL] Artistas de diferentes gerações interpretam clássicos de Chico Buarque",
       "link": "https://agenciabrasil.ebc.com.br/cultura/noticia/2026-08/artistas-de-diferentes-geracoes-interpretam-classicos-de-chicobuarque"
     },
     {
-      "title": "[MINAS GERAIS] A nova pesquisa Quaest para o governo de MG após o vaivém de Cleitinho - Valor Econômico",
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQVHFRVUJ5a0tFSkJWb3VZdTFOeC1RNy12R0dvYng5RkRZSTBpZDduTnJUSTVlQ2dkcFBDdDYwWkEtNlNTbGRKVUVyV01MSDFvVVZMdjNrQlktdFVyVWFib0xIOUZBbWozNER1aWpGODF3Z0NvSFhFUEpZMnNpOE5PSVVJVkxNaVNzNjJ1X2VFX2pJSXZONDZtVTRScG5XbWlocmFEY094UUFfSjFTOE1hRzNOcmFySUE0OVBhSWEwRHFzVUtsU1BOZHI2eXhVc2otMThnNzB3QWY4QdIB6AFBVV95cUxNdFU3bDdhVnRRSW1QcnA4U3Q1Tzk5TnkxZExhZ0FwVjBBV2ZwcXFXUmFMTzNYY3ZPNktSOWFqNlY5UXRfWTkwYWtuYWZLMjZJMXJXc1pnOFduNVlodUcwN0R1NDVDZmpYOXhDa3pLZU5ZSUZoWHVIZlZ5cFo5NEV5QkdvU3hwWUNrdEdKSFIxaEQtYmpMczhSb3U5TkZicHY3dVp6ODlnT3UzaXpRQTJYdHVFVDFPTkRoNlhpd1V2aEl5UWk2dXpqZWdCSi01bXRISDlFZ1RhYXByVWVrYzJFWm5mbzdnc2o5?oc=5"
+      "title": "[MINAS GERAIS] CNN Brasil inicia entrevistas com candidatos ao governo de Minas Gerais - CNN Brasil",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPcWY4RHVkcVRXUUhCSExTckVCRUxKSzFFREdpSzNaVnpRSEd0dGpHX013WVdIOFJNeTRZWVJaZlNPbnc2VHpHenVjem1nR1lKZnR5TkpoUXJyUEtVQXZMb0JDNFBGNlowWERjOF9DclZvOExPM21wX2p3UVNnY1BGUHdCMzNVeDRmOXdMWjhmVzNTSVlnZUw0OTJzbzk4cmJaVU5uaHZxN0czZ2ZUMVJN?oc=5"
     },
     {
-      "title": "[CNN BRASIL] Denza lança Z9 GT e a minivan D9 no Brasil e anuncia recarga de 1500 kW",
-      "link": "https://www.cnnbrasil.com.br/auto/denza-lanca-z9-gt-e-a-minivan-d9-no-brasil-e-anuncia-recarga-de-1500-kw/"
+      "title": "[AGÊNCIA BRASIL] Passagem de frente fria pelo estado de SP pode causar temporais",
+      "link": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-08/passagem-de-frente-fria-pelo-estado-de-sp-pode-causar-temporais"
+    },
+    {
+      "title": "[MINAS GERAIS] Prefeita petista declara apoio a Cleitinho em Minas: \"time da vitória\" - Congresso em Foco",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxONFgtQ0lwaU05YnRmMFBBYXZWSVE1OXk4TWZJaENBYWRqanc3UXZfZ1JNaTNQWEVaRWk4blo3NnhUaXp0WEQtQ1lnOHhzaENkSGcyeXFOQVp4QzFydDdmdzZtNnliSTJQNXFLXzU1VEwtUTU0Sk1mNE4tSy1xMl81aWdRTkh3UnNLM00yX0xscThhV0g4ODBsczlOM0RYUlpkQzRwWmdvSm9xX09JNXZEbzNaMEVCMHY4bFE?oc=5"
+    },
+    {
+      "title": "[MINAS GERAIS] 13 ações prioritárias do governo Lula em Minas Gerais - Lula | Site oficial - Lula | Site oficial -",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBCeDlYVlpBTjltQkxGaTUtV0Y1ZDcxU21OVjNHTFI4d0ZCREhzZnRmVVBEbTR2OExIeFE1M1k5UWoxcXdjX0ZNZk54UVBLZGlYUlItY1o4OVc0c2ktakJ1czgtYTltbVZCVVlvbzJnaUVXaXJQV0t6N1lqcTQydFU?oc=5"
+    },
+    {
+      "title": "[MINAS GERAIS] Com Lula em Belo Horizonte, Patrus dá largada à campanha em Minas - Partido dos Trabalhadores",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNdFVqWmd3RGZWN1ZSZWtoWlV0Z1dVSHpzWGlTdDBuVU43SlJSN0pKcDZsZkpIYjRVNnUzOElrNVFUR2toTnpJa1BuWTVCMzBPREtfZlRFelpSRU9HTkNtZXotdjFIbXk0TlBHTTJkYlF6aENHSWxYZjJTMmtwYlhwN2Rmam9GNEtMRWxz0gGTAUFVX3lxTE5mbkFRQlhtUHo2dGtnODRvd0JkNlc1ejlVWlA4a3lGQzdpdVFVdFlyY1FQWUZiY3pyOGlkdDczOU95OFo2SDVaQ210T3VsWDlmMmZJTHBTLTI2WnU2Z21BMzVRSmlUUzUtSk9TLVMxRTRwRDdfSlFXaDJKSHhkRlAwNWw3VjZwbFU1QW0yWkdYZmhpaw?oc=5"
+    },
+    {
+      "title": "[CNN BRASIL] Terceiro envolvido em linchamento de ciclista se entrega à polícia no Rio",
+      "link": "https://www.cnnbrasil.com.br/nacional/sudeste/rj/terceiro-envolvido-em-linchamento-de-ciclista-se-entrega-a-policia-no-rio/"
+    },
+    {
+      "title": "[CNN BRASIL] Virginia entrega preocupação em piercing no umbigo: “Começando a dar ruim”",
+      "link": "https://www.cnnbrasil.com.br/pop/celebridades/virginia-entrega-preocupacao-em-piercing-no-umbigo-comecando-a-dar-ruim/"
+    },
+    {
+      "title": "[CNN BRASIL] Empresário assume controle do Minnesota Timberwolves por R$ 23 bilhões",
+      "link": "https://www.cnnbrasil.com.br/esportes/basquete/empresario-assume-controle-do-minnesota-timberwolves-por-r-23-bilhoes/"
+    },
+    {
+      "title": "[AGÊNCIA BRASIL] Governo Espriella encerra jornalismo da mídia pública da Colômbia",
+      "link": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-08/governo-espriella-encerra-jornalismo-da-midia-publica-da-colombia"
+    },
+    {
+      "title": "[AGÊNCIA BRASIL] País terá Dia D de Multivacinação neste sábado",
+      "link": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-08/pais-tera-dia-d-de-vacinacao-neste-sabado"
+    },
+    {
+      "title": "[CNN BRASIL] “Harry Potter e a Pedra Filosofal” terá novas datas de exibição nos cinemas",
+      "link": "https://www.cnnbrasil.com.br/pop/cinema/harry-potter-e-a-pedra-filosofal-tera-novas-datas-de-exibicao-nos-cinemas/"
+    },
+    {
+      "title": "[CNN BRASIL] Memphis faz post enigmático após vitória do Corinthians na Libertadores",
+      "link": "https://www.cnnbrasil.com.br/esportes/futebol/corinthians/memphis-faz-post-enigmatico-apos-vitoria-do-corinthians-na-libertadores/"
+    },
+    {
+      "title": "[CNN BRASIL] Vasco aciona a Justiça para mandar jogo da Copa do Brasil no Maracanã",
+      "link": "https://www.cnnbrasil.com.br/esportes/futebol/vasco-da-gama/vasco-aciona-a-justica-para-mandar-jogo-da-copa-do-brasil-no-maracana/"
+    },
+    {
+      "title": "[AGÊNCIA BRASIL] Petrobras negocia exploração em Gana para ampliar presença na África",
+      "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/petrobras-negocia-exploracao-em-gana-para-ampliar-presenca-na-africa"
+    },
+    {
+      "title": "[MINAS GERAIS] Os planos de governo para Minas Gerais: propostas, limites e lacunas - Rádio Itatiaia",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNNEdHN3BHeTdFRXhvNFB1Q3ZWVExpOS1sZWhneVY1N0NMV0w3U2JLWUpodXJNT2luZnBOTjRZZEw3Q2Y1eDR1VW5wWk1OZU9FT0xOcS1hbWFEVW5PU2hMU1FlZVJ2ZU9JYWJDUTVKZk1ZSTlJVnlOQXZ2VFpsSWlHT1JOajdBTXdkbXBLWmxWQ1Rwb1VLaVJtU2Z3My0wbUtfTnU5c0psRkhVTFcybkcxN3I3N3V3THVaRmJWQXJlY3hNWGRXamhPY2tja3AtYjBXYjdjVk1NRQ?oc=5"
+    },
+    {
+      "title": "[MINAS GERAIS] A nova pesquisa Quaest para o governo de MG após o vaivém de Cleitinho - Valor Econômico",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQVHFRVUJ5a0tFSkJWb3VZdTFOeC1RNy12R0dvYng5RkRZSTBpZDduTnJUSTVlQ2dkcFBDdDYwWkEtNlNTbGRKVUVyV01MSDFvVVZMdjNrQlktdFVyVWFib0xIOUZBbWozNER1aWpGODF3Z0NvSFhFUEpZMnNpOE5PSVVJVkxNaVNzNjJ1X2VFX2pJSXZONDZtVTRScG5XbWlocmFEY094UUFfSjFTOE1hRzNOcmFySUE0OVBhSWEwRHFzVUtsU1BOZHI2eXhVc2otMThnNzB3QWY4QdIB6AFBVV95cUxNdFU3bDdhVnRRSW1QcnA4U3Q1Tzk5TnkxZExhZ0FwVjBBV2ZwcXFXUmFMTzNYY3ZPNktSOWFqNlY5UXRfWTkwYWtuYWZLMjZJMXJXc1pnOFduNVlodUcwN0R1NDVDZmpYOXhDa3pLZU5ZSUZoWHVIZlZ5cFo5NEV5QkdvU3hwWUNrdEdKSFIxaEQtYmpMczhSb3U5TkZicHY3dVp6ODlnT3UzaXpRQTJYdHVFVDFPTkRoNlhpd1V2aEl5UWk2dXpqZWdCSi01bXRISDlFZ1RhYXByVWVrYzJFWm5mbzdnc2o5?oc=5"
     },
     {
       "title": "[MINAS GERAIS] Lula busca ampliar eleitorado em Minas Gerais - Valor Econômico",
@@ -89,38 +121,6 @@
     {
       "title": "[AGÊNCIA BRASIL] Defesa conclui exercício militar com participação de mais cinco países",
       "link": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-08/defesa-conclui-exercicio-militar-com-participacao-de-mais-cinco-paises"
-    },
-    {
-      "title": "[AGÊNCIA BRASIL] Empresas com 100 ou mais empregados devem atualizar dados até dia 31",
-      "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/empresas-com-100-ou-mais-empregados-devem-atualizar-dados-ate-dia-31"
-    },
-    {
-      "title": "[MINAS GERAIS] Prefeita do PT declara apoio a Cleitinho e irrita direção do partido em Minas Gerais - VEJA",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOdHRLTzk4ZjRJN1BYck5yQXhhNUt3cjlfNmIwb3l2OWVrOGVkN3BzZEkwTXdHekRjNHVGaHFwRkFuSUNJVmVhcXI4ZTJhQ291TGRYd3RsdUpuZUk5d1ZsQUcxaWxFVDRHNS1BMnlEY1JCZTVZN1BkVFVGSzU1bkZzNjdicDhBQXJvYi0tT0RrUnFNeEtzY0FCQUN3cXZqUExDSWZQM18tNExycjl1Q0VLX180dGEzejRyelE?oc=5"
-    },
-    {
-      "title": "[AGÊNCIA BRASIL] Petrobras negocia exploração em Gana para ampliar presença na África",
-      "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/petrobras-negocia-exploracao-em-gana-para-ampliar-presenca-na-africa"
-    },
-    {
-      "title": "[AGÊNCIA BRASIL] Desigualdades marcam formalização do trabalho entre jovens brasileiros",
-      "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/desigualdades-marcam-formalizacao-do-trabalho-entre-jovens-brasileiros"
-    },
-    {
-      "title": "[MINAS GERAIS] 13 ações prioritárias do governo Lula em Minas Gerais - Lula | Site oficial - Lula | Site oficial -",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBCeDlYVlpBTjltQkxGaTUtV0Y1ZDcxU21OVjNHTFI4d0ZCREhzZnRmVVBEbTR2OExIeFE1M1k5UWoxcXdjX0ZNZk54UVBLZGlYUlItY1o4OVc0c2ktakJ1czgtYTltbVZCVVlvbzJnaUVXaXJQV0t6N1lqcTQydFU?oc=5"
-    },
-    {
-      "title": "[AGÊNCIA BRASIL] País terá Dia D de Multivacinação neste sábado",
-      "link": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-08/pais-tera-dia-d-de-vacinacao-neste-sabado"
-    },
-    {
-      "title": "[CNN BRASIL] “The Pitt”: 3ª temporada ganha teaser oficial e previsão de estreia",
-      "link": "https://www.cnnbrasil.com.br/pop/streaming/the-pitt-3a-temporada-ganha-teaser-oficial-e-previsao-de-estreia/"
-    },
-    {
-      "title": "[CNN BRASIL] Obesidade infantil depende de diversos fatores: entenda como combatê-la",
-      "link": "https://www.cnnbrasil.com.br/saude/obesidade-infantil-depende-de-diversos-fatores-entenda-como-combate-la/"
     }
   ]
 }
