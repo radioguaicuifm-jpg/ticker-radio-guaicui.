@@ -1,26 +1,50 @@
 {
   "source": "Radio Guaicui - Noticias",
-  "updated_at": "2026-08-22T23:20:58.377782+00:00",
+  "updated_at": "2026-08-22T23:46:07.734600+00:00",
   "items": [
     {
-      "title": "[MINAS GERAIS] Eleições 2026: veja como está a corrida presidencial em SP, RJ, DF, MG, PE e PI, segundo o Datafolha - G1",
-      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOUS1WYWhIRW1MNURybmd4VzB2TmlTZ05UaG9TVG1PcjNEN0dFbWhsTEJ6cnV6M0pZWTJXaXNWMjFIc3NmeUZMeWx1NGdreDlFalExZmUwVWZ2aWFNTERFblhLU2tpNXZHdGFZYlNNVF9xMVV2MlJTbjVIRFdyeWZuczNvRFBPN3pBY3YzemVkc3ZUQWNiWENFeWU2d0d3VHdGdW5mYVdRakw5bk1GaDIwT1d6S2tXcmNTMEd1NWlGMUNuamVuNVVraW5VRUVvX0VIMWRKclhJdTVmNUhIcnVEdVozbmQ1NTZqZnBIY01QUk4wckJPS2fSAYQCQVVfeXFMTWd1QlcyeC1iQ3ZFOFVLc0tJNkJaQkFHVFoxZFI5VWZRT21pM1o2cWtFQU8yZk0tMWZzQm9Nem41Zl9PU0ItdkQzeDBLdC1CYUgtalFIemk5R3NPaWdwT01pbUZHclRFOFZlanNrN0ZoS1AzOXNMZDBnQm9ITk0xQjN1cWx4YXNHUVlFZnBrMWxOMXBkOGpoUjN5LWxCajFvdTEtTU5XdkplRGJGOGJGSG9mQ256ZERDVXpDMWtnd09ZTlQ3WkVRaFJxMWVrR1pwbVJzbFY2Yi1DYlU1dWpRZ1Z0SHFjVGZCVGU2LW43OXN0cE9hNWdmYnRZelpqQkI2MzZWNHY?oc=5"
+      "title": "[MINAS GERAIS] Datafolha: Marília Campos tem 11% na disputa ao Senado em MG; Viana marca 8%, e Domingos Sávio, 6% - Folha de S.Paulo",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOdElKN2I1ZWNfUW5kQWM5WGJzdXFRMmpSZC1TZlFNMTJudzB3NXc0ZVZkS1VNVnRfd0hNaC02YThhTzh0VlFOWndfY3FpRHB5WThNb19zRkR3a09Oc0RUa2xrWXNRd3JQdHpNLXZpTHdDeEVjQjJzWDBRekFHZ01VdlYzeWxLaE8tT0JuNkM1SHRkd2VpQzM3Y2JZcmZyVlVQV2R4Um1XYVl2bUtLallpbkRvSENEMXpSd1RNYzA0dGFjUER4WnY1V1A1Uk9iNWRmSXYtaERkel8?oc=5"
+    },
+    {
+      "title": "[CNN BRASIL] Datafolha: Lula tem 46% dos votos no 2º turno em Minas; Flávio, 42%",
+      "link": "https://www.cnnbrasil.com.br/eleicoes/datafolha-lula-tem-46-dos-votos-no-2o-turno-em-minas-flavio-42/"
     },
     {
       "title": "[CNN BRASIL] Pais influenciam obesidade infantil? Especialistas explicam ao Dr. Kalil",
       "link": "https://www.cnnbrasil.com.br/saude/pais-influenciam-obesidade-infantil-especialistas-explicam-ao-dr-kalil/"
     },
     {
+      "title": "[CNN BRASIL] Entenda as regras e os bastidores do primeiro debate presidencial de 2026",
+      "link": "https://www.cnnbrasil.com.br/eleicoes/entenda-as-regras-e-os-bastidores-do-primeiro-debate-presidencial-de-2026/"
+    },
+    {
+      "title": "[MINAS GERAIS] Cleitinho pede que PT não puna prefeita em MG que deseja apoiá-lo - Poder360",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQYmhmLXlpZDNMS254Y3YzcHFySVBJLWQ0ek10X3UtUmFjZGU5UXY2R01tdW5PdmVuUi1PTW14cTdLZ3JPWTBsRXBzMG5ybVFvelpqRDBFRlVqS1pEV2hCMnVuczc4bEc1TEZzRDcxQmlBTWVFQWdxcV90UE9tNkJzb3IxVnotdmg3WGFFcU5oeUxOUW9aVUNOdmY3OU1HeWdVTzZlYVNLWThYS1Blc1NYa3Q3N2E?oc=5"
+    },
+    {
+      "title": "[MINAS GERAIS] Eleições 2026: veja como está a corrida presidencial em SP, RJ, DF, MG, PE e PI, segundo o Datafolha - G1",
+      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOUS1WYWhIRW1MNURybmd4VzB2TmlTZ05UaG9TVG1PcjNEN0dFbWhsTEJ6cnV6M0pZWTJXaXNWMjFIc3NmeUZMeWx1NGdreDlFalExZmUwVWZ2aWFNTERFblhLU2tpNXZHdGFZYlNNVF9xMVV2MlJTbjVIRFdyeWZuczNvRFBPN3pBY3YzemVkc3ZUQWNiWENFeWU2d0d3VHdGdW5mYVdRakw5bk1GaDIwT1d6S2tXcmNTMEd1NWlGMUNuamVuNVVraW5VRUVvX0VIMWRKclhJdTVmNUhIcnVEdVozbmQ1NTZqZnBIY01QUk4wckJPS2c?oc=5"
+    },
+    {
       "title": "[MINAS GERAIS] Mais da metade de Minas Gerais entra em alerta de baixa umidade - Estado de Minas",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQMW8xWTNYNi1velFxaGR6Zkx1NFVDUjRxdnRMQWFYWmJKVkdLY1pva0dyRGRZdnhmVkswU3BTTzVzLXZmVEZ0eERablJ1Q18tUVZFbmlfeThDcnZBXzlLR29QWUtNQ3J5T2hxeXB0WG83aVNvUHUtNExQSjAxeWhycTlCVVhNLXRObWxPZXB5UUN2UDhOTVI1UjFqLVpQNkNXRVlCUTJGVzFzdlZQREVOS0JDd9IBuAFBVV95cUxPZE5lOFJQV21kWC1LR2d3TElKLTdRNEJwV1VzdlF3czJkajBLRUIyUEk0TENPSnJoQ0dUOTBSRVdNSFhzcFEyTDJfdUpVc3pMY0kyc0ZKeHBlbS1QSmZLdVU2VlJ4dTM4NE0xc1NzQUxIZUNldmpqQVpMTklUOHBNZFFyUlZLbGJJV1I5Q3ZJMnhZZ1pMQjJGSTZ1Q2phMFdaaDlUQzRXUFI0c0dHMmVGZmRZNUhHTkdZ?oc=5"
     },
     {
-      "title": "[CNN BRASIL] Assédio eleitoral será alvo de ação conjunta no Norte durante as eleições",
-      "link": "https://www.cnnbrasil.com.br/eleicoes/assedio-eleitoral-sera-alvo-de-acao-conjunta-no-norte-durante-as-eleicoes/"
+      "title": "[AGÊNCIA BRASIL] Dia D atualiza vacinação infantil e reforça alerta contra sarampo",
+      "link": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-08/dia-d-atualiza-vacinacao-infantil-e-reforca-alerta-contra-sarampo"
     },
     {
       "title": "[AGÊNCIA BRASIL] Lando Norris faz a pole do GP da Holanda; Bortoleto larga em nono",
       "link": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-08/lando-norris-faz-pole-do-gp-da-holanda-bortoleto-larga-em-nono"
+    },
+    {
+      "title": "[CNN BRASIL] “Faz-tudo” do PCC ligado à máfia italiana passará por interrogatório no PR",
+      "link": "https://www.cnnbrasil.com.br/nacional/sul/pr/faz-tudo-do-pcc-ligado-a-mafia-italiana-passara-por-interrogatorio-no-pr/"
+    },
+    {
+      "title": "[AGÊNCIA BRASIL] Mega-Sena sorteia prêmio acumulado de R$ 58 milhões neste domingo",
+      "link": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-08/mega-sena-sorteia-premio-acumulado-de-r-58-milhoes-neste-domingo"
     },
     {
       "title": "[AGÊNCIA BRASIL] Brasil fecha Mundial de Rúgbi em cadeira de rodas na 11ª posição",
@@ -31,96 +55,72 @@
       "link": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-08/fluminense-vira-sobre-o-remo-e-se-mantem-firme-no-g-4-do-brasileirao"
     },
     {
-      "title": "[CNN BRASIL] Datafolha: Flávio tem apoio parcial dos eleitores de direita no 2° turno",
-      "link": "https://www.cnnbrasil.com.br/politica/datafolha-flavio-tem-apoio-parcial-dos-eleitores-de-direita-no-2-turno/"
-    },
-    {
-      "title": "[AGÊNCIA BRASIL] Peixe antes desprezado melhora renda de mulheres da pesca no Rio",
-      "link": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-08/peixe-antes-desprezado-melhora-renda-de-mulheres-da-pesca-no-rio"
-    },
-    {
-      "title": "[AGÊNCIA BRASIL] Takhi, o cavalo selvagem que virou símbolo de restauração na Mongólia",
-      "link": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-08/takhi-o-cavalo-selvagem-que-virou-simbolo-de-restauracao-na-mongolia"
-    },
-    {
-      "title": "[MINAS GERAIS] Datafolha em MG: Cleitinho, 32%; Patrus, 12%; Kalil, 12% - G1",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQV08yLXhBMExIRnQyTkFEQ1lVdXB4bkxzQUpBRHA3Rkc4OVV3TUVIaWM0OEYybkhELUI2NXg2Q2paRzAxbW5mX3d0NWlEQUVEMTFEcDhRSGtrMjN5ZWZTeER2WFJDSDlfV2lydWdWemlsLS1YSnhvUE9aRm9SSnRfbmtPeFZINVlfTDRIdEFJajhKT1ZMR0dnOURhV1RFT0Rka1lzRzVod3JZOVd6WkHSAbwBQVVfeXFMTnZwVHc2blA5YTltaF9ZY3pnQXdQUkxOcHYxa2FnYWlXV0swN3psWTJyb0tZMnM3bkZpVHVEMW1QTnM2MG1RZ0lNdzNPM01ZYldVRFVGeGQ1cFhYZGY3ckhIOXpfbVdKTFU3a3M1cF9pY0ltelJsdlJGVnMtZUF5Z1p0dXUxeWZuSGIzVFhaT25ZQWZFa0EtbkpBNGxzd29OdXBnYWtrR2tqYVkwOVN3RlJYa2VGd0VKdUFGaVk?oc=5"
-    },
-    {
-      "title": "[AGÊNCIA BRASIL] Mega-Sena sorteia prêmio acumulado de R$ 58 milhões neste domingo",
-      "link": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-08/mega-sena-sorteia-premio-acumulado-de-r-58-milhoes-neste-domingo"
-    },
-    {
-      "title": "[CNN BRASIL] Raquel acusa adversários de tentar “ganhar no tapetão” em Pernambuco",
-      "link": "https://www.cnnbrasil.com.br/eleicoes/raquel-acusa-adversarios-de-tentar-ganhar-no-tapetao-em-pernambuco/"
-    },
-    {
-      "title": "[CNN BRASIL] Brasileirão: Com gols de cabeça, Fluminense vira e vence Remo no Maracanã",
-      "link": "https://www.cnnbrasil.com.br/esportes/brasileirao/fluminense-vira-sobre-o-remo-e-vence-por-2x1-no-maracana/"
-    },
-    {
-      "title": "[CNN BRASIL] Morre o ator Michael Wright, de “Ritmo & Blues”, aos 70 anos",
-      "link": "https://www.cnnbrasil.com.br/pop/celebridades/morre-o-ator-michael-wright-de-ritmo-blues-aos-70-anos/"
-    },
-    {
-      "title": "[CNN BRASIL] União Europeia envia bombeiros à Sérvia para combater incêndios florestais",
-      "link": "https://www.cnnbrasil.com.br/internacional/uniao-europeia-incendios-florestais/"
-    },
-    {
-      "title": "[AGÊNCIA BRASIL] Dia D atualiza vacinação infantil e reforça alerta contra sarampo",
-      "link": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-08/dia-d-atualiza-vacinacao-infantil-e-reforca-alerta-contra-sarampo"
-    },
-    {
-      "title": "[CNN BRASIL] Dois suspeitos por linchamento de ciclista em Copacabana tem prisão mantida",
-      "link": "https://www.cnnbrasil.com.br/nacional/sudeste/rj/dois-suspeitos-por-linchamento-de-ciclista-em-copacabana-tem-prisao-mantida/"
-    },
-    {
-      "title": "[MINAS GERAIS] Inmet emite aviso de perigo por baixa umidade na Grande BH e regiões de Minas - G1",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQdUNLODdicUpNejBaMHNOb1NkeFZUaGtFZHlSczFIcDlvY1JJNVhvaU1rTjJxNVNxOUNSb0FLZXRmU3QxMXk5cWVlNDVVbG9ZNF9wQ3ZReG5CejViQVpRTkMtVzR6ajBGdExpV2JBclBMbGxUYi1RbUxUeFkyQUNuX0Z0djlLMXdWMlkwX2RXM0xkT1RlT2RrYW1IT2lEcVp6Z3plSm4tMElsanhlZmduWmdLYmJGUjNVdEp3LTlnci1td010YzNhMVRfaTJvOUt0azVybUp30gHkAUFVX3lxTFBXTEtjbUhlcHBHS0toRkhQNV8wSlQycHlFbzBWYTVCTGM2T0IyM3h2T3dUa2FPOWhFX3k0b1UzV1BiTm03bV8wUmZuLVFWT2M5U2xyS1VLWDRjVHc1ZHZwaWtjRmFlbnpHZ3hqWi1sSWkxeWlZNUtLU0NXcW5ac0JFaXB1Y2IyaF9KbER4ajJwSmQyalBHb1YzZThnN3h1dlp0Y3ZYNGdBWDhhUXF5UEVGWmJFemhQWk9LVzRVLUxjNk9uTUhMeVItekRBN05qZ2FUUGxRa2JiaWJVZi1OVVNYRmhNRg?oc=5"
-    },
-    {
-      "title": "[MINAS GERAIS] Datafolha em MG para o Senado: Marília, 11%; Viana, 8%; Sávio, 6%; Aro, 5%; Ana Luiza, 4%; Superman, 3% - G1",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQOE9KbHhBeWdOd1lKcHZVSmROWUpiZ3JOS3JJbGpsb3J2NzBNUmpCVVJhb1JqNDRBcC0tWDg2SnJXdnprVXIweW5hUzNRX0trQWk2TjlienhzcFdjT3dvNFl0bk5mbHplVXpkc3BpY3JKSXo0MkFnS2xsLW5Xa1M0NDJ2QmlqUUltM1FBeGRlQ2swVkpWbEpTMHNYdDhtWWMzODNmcW5fNzPSAbcBQVVfeXFMTkdsc0tWbXNDczRTS1puSWtLSklMWi1JdHJOYXFvUlkyWlAzVm43OEpIT3ozNy1VSlZJQUI2UU5vT0h2V1JMRDk2cFk0bXliYmhPa3BXbmdpZkh6eWhYVDJyakt0aEM5Yy1hb0hwVEhkNkh1ZlJiSWZCR2JlUzJqbW1TZ3Q1VU81ZlZQRFVpTzdsMWpldlRhMzJSVjQ1Vlg5RkEwY25iYS1WdVRBUVZReDI4MTJHdlRj?oc=5"
+      "title": "[MINAS GERAIS] Datafolha mostra Cleitinho liderando corrida pelo governo de Minas Gerais - VEJA",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZmJYeW5WU19EVFlzM3VsWjAycjlnWENnSS1zcTNOX3BuaTBaUmVTZGtPcUt0eUZ2emEyZUlIOTJSTTIxUGhxdTJhYVRVNlUteUtaUVFjV2Y4TWZlQWM5WGR2c3lsZUlnS0paNlB1eDJNT3RVbVBaSnM1M0owOG9oaDl4NF90cktPTTY1UmRDRzRMel9PZEVreGE4YlpUMDJFdzlPWjFqLXFJZFU?oc=5"
     },
     {
       "title": "[CNN BRASIL] F1: Bortoleto festeja 9º lugar no grid do GP da Holanda e evolução da Audi",
       "link": "https://www.cnnbrasil.com.br/esportes/automobilismo/f1-bortoleto-festeja-9o-lugar-no-grid-do-gp-da-holanda-e-evolucao-da-audi/"
     },
     {
-      "title": "[MINAS GERAIS] Datafolha: Marília Campos tem 11% na disputa ao Senado em MG; Viana marca 8%, e Domingos Sávio, 6% - Folha de S.Paulo",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOdElKN2I1ZWNfUW5kQWM5WGJzdXFRMmpSZC1TZlFNMTJudzB3NXc0ZVZkS1VNVnRfd0hNaC02YThhTzh0VlFOWndfY3FpRHB5WThNb19zRkR3a09Oc0RUa2xrWXNRd3JQdHpNLXZpTHdDeEVjQjJzWDBRekFHZ01VdlYzeWxLaE8tT0JuNkM1SHRkd2VpQzM3Y2JZcmZyVlVQV2R4Um1XYVl2bUtLallpbkRvSENEMXpSd1RNYzA0dGFjUER4WnY1V1A1Uk9iNWRmSXYtaERkel8?oc=5"
+      "title": "[MINAS GERAIS] IFNMG abre 222 vagas em cursos gratuitos em cinco cidades - G1",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxONWV2dXAwd0thN2dQQjIyWEFjcmQyRjRWRkxSMFV0aXRzOTltVWxQaHRlODByME9vMzJyVjU4TEJlZ1VEMXplOUNHZExYN01UcmJIajdNZXhKamZnT3Z3NUV0c2NKODVRYkx1aDk5M0lyLV9nenpkWEJmTE1BN0FKS1lUbnpmclBhSGNBd3dtT044MEVpbVB0Nmh0R0o0aV9hSURYUDdPWWZ2RExlNUVpSlE4cmNtNUpZbjZn0gHKAUFVX3lxTE1MTXhZS2N3cHp3TXZEM3dtdGFWLXQ1U2pIWTkzSlNYUk9CMXh5blV0VFJGeWZaY0RIbW1kMXkxMkhWc1NkT2dfT3lwUVhsSjNqM0NRaGM5VkQyQmZVZkJtWElQZk1heUI3WXpRV1J6ZnNQTURtVXJNeDJicm9JZEt3NUJkQ2xLM29OQ1owdXZKMzlJYi01Y2VDR1ZCY2RaYkNkRXA1RWJLRC1lUW4yRUpncmZ2ZkY5dHFITWJGMkVsUjFWZk1pSWxsdnc?oc=5"
     },
     {
-      "title": "[MINAS GERAIS] Minas Gerais tem 4 candidatos empatados na disputa pelo Senado - Poder360",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNN2RSbXMwYXVDNF9CYmxDWVJMcXJpSG9tR1JhUnVlcTNmWXJweVNsZGtrRTMtWWNkSkpGTzZTR0g1eVNSRllLc3F3czFJcmprZVdIbW0wNDZLWFplR2lfT1I0bEdOZjktOVFwZkRJdkpraGZTOXdFUVdxb3FLRWVVUHo1LXVwYXJmY05LLTRzVzY5SE5rSlhJUjgyaTB5RVpxOElTbHlYLWlSSi1DckNwRg?oc=5"
-    },
-    {
-      "title": "[AGÊNCIA BRASIL] Juventude-SE bate Portuguesa-AP de novo e está na final do Feminino A3",
-      "link": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-08/juventude-se-bate-portuguesa-ap-de-novo-e-esta-na-final-do-feminino-a3"
-    },
-    {
-      "title": "[MINAS GERAIS] Datafolha mostra intenção de voto para governador e senadores por Minas Gerais - Gazeta do Povo",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQOEFDX3FBSjVGOVNEMHVZUTBxZ3EwNTZRRjBMR09Cd05BYUNjVWpYTGQ5ZVJ2ZVlwckJ6R1NfVk9rYUZ3dlNRZ0taV3hnMy1oN2IxYlZyaVFvTTZLUVMzR0l2WWtSZjAxTWZwdEZqV1hZTENRcVpJT0NUZlNxNE41Vnc3T1psYUlQLU51d2FOYS1TSUxHZ0hoVHNqeUpkMGxESFFHUFBoU1BucGFZSnp6c2V5VFR1UW81VkgtUEJUckx0dw?oc=5"
-    },
-    {
-      "title": "[CNN BRASIL] Datafolha: Lula tem 46% dos votos no 2º turno em Minas; Flávio, 42%",
-      "link": "https://www.cnnbrasil.com.br/eleicoes/datafolha-lula-tem-46-dos-votos-no-2o-turno-em-minas-flavio-42/"
+      "title": "[AGÊNCIA BRASIL] Morre veterinária atacada por cachorro no canil do Senado Federal",
+      "link": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-08/morre-veterinaria-atacada-por-cachorro-no-canil-do-senado-federal"
     },
     {
       "title": "[AGÊNCIA BRASIL] Campanha convoca familiares de desaparecidos para coleta de DNA",
       "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-08/campanha-convoca-familiares-de-desaparecidos-para-coleta-de-dna"
     },
     {
-      "title": "[MINAS GERAIS] Veja agenda de campanha dos candidatos ao governo de MG neste sábado - G1",
-      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNS2taT0RTbGMyX2Z3RTRwTHdMSUtydDlHUGdhcURtaGZ4cFcycHQtTWpvOHkwMHQxeWotV3ZBT3BIZERDVFR5LWRmVXlNM2NaNTVzaUZTbHc1V0hLdEVCNzQxaXUxQVZiNUZXcDE0NFlDSTBldU9hWmZUeklHNWdXTTdGYmx0Q0Vfd3FjRmxhaWxmSW1rcGVWXzBUM3ZvbDVLejFKX0pBaUkzdEdxRElZUXB4SWpRSHhMRGd5U0VSLVJVcVZPNE41Xy16NXlnSEJGN01zcFdoazY1Q3Fz0gHrAUFVX3lxTE4wYUtOVzhBVDJhWnFUQWxuZGFMRk82UHowNGFHZGtXRFFlSjNOWVpLNHhHaVZ1VXRPUW9jTlBNR3Y3MDJwcGpVZUVXQ2hTZC1PeDBQaWVXVjgwdFhlYUYzZElsN080MUFUSERmeFpwLTFPekFscjZkQzhSbUV6N1A4YkRaU2hsRGxwZ0dSelNNdnI5d2t1dnBQU1VuU3Y0RVhEcE5TRFJ4Mks1LVlUbVVFM1YxaUpzaHozU2NCQ2JTeFI2UktOQlU5U1o3Q0I5ZzJENEp3RGxHZTlkQURHdHBYYzNlaFowX2RkbUU?oc=5"
+      "title": "[CNN BRASIL] Cruzeiro x Flamengo: escalações e onde assistir ao Brasileirão",
+      "link": "https://www.cnnbrasil.com.br/esportes/brasileirao/cruzeiro-x-flamengo-escalacoes-e-onde-assistir-ao-brasileirao/"
     },
     {
-      "title": "[MINAS GERAIS] Cleitinho pede que PT não puna prefeita em MG que deseja apoiá-lo - Poder360",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQYmhmLXlpZDNMS254Y3YzcHFySVBJLWQ0ek10X3UtUmFjZGU5UXY2R01tdW5PdmVuUi1PTW14cTdLZ3JPWTBsRXBzMG5ybVFvelpqRDBFRlVqS1pEV2hCMnVuczc4bEc1TEZzRDcxQmlBTWVFQWdxcV90UE9tNkJzb3IxVnotdmg3WGFFcU5oeUxOUW9aVUNOdmY3OU1HeWdVTzZlYVNLWThYS1Blc1NYa3Q3N2E?oc=5"
+      "title": "[CNN BRASIL] Após ligação Lula-Trump, Tarcísio defende negociação: “Não pode cessar”",
+      "link": "https://www.cnnbrasil.com.br/politica/apos-ligacao-lula-trump-tarcisio-defende-negociacao-nao-pode-cessar/"
     },
     {
-      "title": "[AGÊNCIA BRASIL] Morre veterinária atacada por cachorro no canil do Senado Federal",
-      "link": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-08/morre-veterinaria-atacada-por-cachorro-no-canil-do-senado-federal"
+      "title": "[MINAS GERAIS] Datafolha mostra intenção de voto para governador e senadores por Minas Gerais - Gazeta do Povo",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQOEFDX3FBSjVGOVNEMHVZUTBxZ3EwNTZRRjBMR09Cd05BYUNjVWpYTGQ5ZVJ2ZVlwckJ6R1NfVk9rYUZ3dlNRZ0taV3hnMy1oN2IxYlZyaVFvTTZLUVMzR0l2WWtSZjAxTWZwdEZqV1hZTENRcVpJT0NUZlNxNE41Vnc3T1psYUlQLU51d2FOYS1TSUxHZ0hoVHNqeUpkMGxESFFHUFBoU1BucGFZSnp6c2V5VFR1UW81VkgtUEJUckx0dw?oc=5"
+    },
+    {
+      "title": "[AGÊNCIA BRASIL] Takhi, o cavalo selvagem que virou símbolo de restauração na Mongólia",
+      "link": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-08/takhi-o-cavalo-selvagem-que-virou-simbolo-de-restauracao-na-mongolia"
+    },
+    {
+      "title": "[MINAS GERAIS] Vendaval coloca quase 100 cidades de MG em alerta; veja quais - Metrópoles",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNWERrcDFpakpMb2NfcEZ1OG5ISWh2WVF1U2NNZnJ3OVRQdW45OFA4bDdOTGpDV25hbXlXZko5aTZ5UnVWUl9IZkFVM01icjBzelhEZC0xd3pjQk1DV0NyVkc0VWEzZFltN1pwTHF5X01aMHIzUGRKVHFFSkp4WHRGX2FSRTdOR0RHMVdkZ21INEpISVVzRHNjVHRkc0VIallRR1E?oc=5"
+    },
+    {
+      "title": "[CNN BRASIL] Datafolha: Flávio tem apoio parcial dos eleitores de direita no 2° turno",
+      "link": "https://www.cnnbrasil.com.br/politica/datafolha-flavio-tem-apoio-parcial-dos-eleitores-de-direita-no-2-turno/"
+    },
+    {
+      "title": "[MINAS GERAIS] Datafolha: Lula lidera em Minas e Flávio Bolsonaro é o 1º em São Paulo; veja os números - CartaCapital",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOeWYtVDVHakE0dUhTUWtJTExYenJlRjZtMHZEbmRVR203bktSSXMxRE5SSl9pM053MV9DZ21jRkJzb1lKNU5DNDduSXpqWUhsb1FXUFA4aFVLMXRTZ0lfdVVBX2c2NnIxNHMtamI1a0NPYnBLa0Y2aU1FZ3Fzd0ZMYlBsWkVmbUFLTVduQ0ZMcXRwUUVTMUt5ZlBHNGJmTHdmbzZvcmlGOE1idlZhSnM4R0YwOGVGY2JoRk9wVW85d0MtZm9SclE?oc=5"
+    },
+    {
+      "title": "[AGÊNCIA BRASIL] Peixe antes desprezado melhora renda de mulheres da pesca no Rio",
+      "link": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-08/peixe-antes-desprezado-melhora-renda-de-mulheres-da-pesca-no-rio"
+    },
+    {
+      "title": "[AGÊNCIA BRASIL] Juventude-SE bate Portuguesa-AP de novo e está na final do Feminino A3",
+      "link": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-08/juventude-se-bate-portuguesa-ap-de-novo-e-esta-na-final-do-feminino-a3"
+    },
+    {
+      "title": "[MINAS GERAIS] VÍDEOS: MG2 de sábado, 22 de agosto de 2026 - G1",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPcGpKQ20wMFl2TXdqLWRIbHl6c0tLU193c1VHa082UlNjcEE3VEVCUk80MHpGc08wRlhVZENtSE1oNElZN1JLV25jNUtjb2ZHYk0tSWVoMzNsTm9la19peTVhbDBPd181UnJzakJ4NWdGOFBPaC1KcEFBaGVQc1dxQ1c0YlNWVHFka21pcUg4YlpfbXl3cE5mNUp5X2d1d3FVamZmWlVOZw?oc=5"
+    },
+    {
+      "title": "[CNN BRASIL] Homem é preso após tentar vender filho de 3 anos para comprar drogas em BH",
+      "link": "https://www.cnnbrasil.com.br/nacional/sudeste/mg/homem-e-preso-apos-tentar-vender-filho-de-3-anos-para-comprar-drogas-em-bh/"
+    },
+    {
+      "title": "[CNN BRASIL] Filho de Adriane Galisteu vai estudar em internato na Suíça; veja o valor",
+      "link": "https://www.cnnbrasil.com.br/educacao/filho-de-adriane-galisteu-vai-estudar-em-internato-na-suica-veja-o-valor/"
     }
   ]
 }
