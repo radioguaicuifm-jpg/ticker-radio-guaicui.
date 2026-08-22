@@ -1,66 +1,110 @@
 {
   "source": "Radio Guaicui - Noticias",
-  "updated_at": "2026-08-22T14:48:29.354318+00:00",
+  "updated_at": "2026-08-22T15:20:52.488801+00:00",
   "items": [
     {
-      "title": "[MINAS GERAIS] Datafolha em MG: Cleitinho, 32%; Patrus, 12%; Kalil, 12% - G1",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQV08yLXhBMExIRnQyTkFEQ1lVdXB4bkxzQUpBRHA3Rkc4OVV3TUVIaWM0OEYybkhELUI2NXg2Q2paRzAxbW5mX3d0NWlEQUVEMTFEcDhRSGtrMjN5ZWZTeER2WFJDSDlfV2lydWdWemlsLS1YSnhvUE9aRm9SSnRfbmtPeFZINVlfTDRIdEFJajhKT1ZMR0dnOURhV1RFT0Rka1lzRzVod3JZOVd6WkHSAbwBQVVfeXFMTnZwVHc2blA5YTltaF9ZY3pnQXdQUkxOcHYxa2FnYWlXV0swN3psWTJyb0tZMnM3bkZpVHVEMW1QTnM2MG1RZ0lNdzNPM01ZYldVRFVGeGQ1cFhYZGY3ckhIOXpfbVdKTFU3a3M1cF9pY0ltelJsdlJGVnMtZUF5Z1p0dXUxeWZuSGIzVFhaT25ZQWZFa0EtbkpBNGxzd29OdXBnYWtrR2tqYVkwOVN3RlJYa2VGd0VKdUFGaVk?oc=5"
+      "title": "[MINAS GERAIS] Prefeita petista declara apoio a Cleitinho em Minas: \"time da vitória\" - Congresso em Foco",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxONFgtQ0lwaU05YnRmMFBBYXZWSVE1OXk4TWZJaENBYWRqanc3UXZfZ1JNaTNQWEVaRWk4blo3NnhUaXp0WEQtQ1lnOHhzaENkSGcyeXFOQVp4QzFydDdmdzZtNnliSTJQNXFLXzU1VEwtUTU0Sk1mNE4tSy1xMl81aWdRTkh3UnNLM00yX0xscThhV0g4ODBsczlOM0RYUlpkQzRwWmdvSm9xX09JNXZEbzNaMEVCMHY4bFE?oc=5"
+    },
+    {
+      "title": "[CNN BRASIL] Vietnã prevê leve aumento na safra de café robusta em 2026/27",
+      "link": "https://www.cnnbrasil.com.br/agro/ameaca-do-el-nino/"
     },
     {
       "title": "[MINAS GERAIS] Cleitinho apela para que prefeita do PT que o apoia não seja punida - Metrópoles",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOQkpGS0pVV3d5ZXB4WnZacFI1ejFVQmZWU0tVWGdWXzlHRDlVcWlRS1BOaGZZZmlBLUFOQi1YWjNYWlg4VG9BZkVxME45X3hpckxuWDl0U3NBN0pvQVgtcFUzWFZwbW16WVFaWjZsRGs4UmVxYnBPbUZpMDM2YUk5dTNta0NQeXI5TjRFbGhsd1JrbkVhQzVkUHE3QlhZeUJYU2RBUFJOVEczNkE?oc=5"
     },
     {
-      "title": "[MINAS GERAIS] Prefeita petista declara apoio a Cleitinho em Minas: \"time da vitória\" - Congresso em Foco",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxONFgtQ0lwaU05YnRmMFBBYXZWSVE1OXk4TWZJaENBYWRqanc3UXZfZ1JNaTNQWEVaRWk4blo3NnhUaXp0WEQtQ1lnOHhzaENkSGcyeXFOQVp4QzFydDdmdzZtNnliSTJQNXFLXzU1VEwtUTU0Sk1mNE4tSy1xMl81aWdRTkh3UnNLM00yX0xscThhV0g4ODBsczlOM0RYUlpkQzRwWmdvSm9xX09JNXZEbzNaMEVCMHY4bFE?oc=5"
-    },
-    {
-      "title": "[CNN BRASIL] Análise: Pedido de eleições durante guerra aumenta pressão sobre Zelensky",
-      "link": "https://www.cnnbrasil.com.br/internacional/analise-pedido-de-eleicoes-durante-guerra-aumenta-pressao-sobre-zelensky/"
-    },
-    {
-      "title": "[CNN BRASIL] Lula: “Você pode ganhar uma eleição mentindo, mas não se governa mentindo”",
-      "link": "https://www.cnnbrasil.com.br/eleicoes/lula-voce-pode-ganhar-uma-eleicao-mentindo-mas-nao-se-governa-mentindo/"
-    },
-    {
-      "title": "[AGÊNCIA BRASIL] Brasileirão Feminino: TV Brasil exibe Flamengo x Atlético-MG às 17h40",
-      "link": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-08/brasileirao-feminino-tv-brasil-exibe-flamengo-x-atletico-mg-17h40"
-    },
-    {
-      "title": "[CNN BRASIL] Rosi Campos confunde fãs ao gravar cena de “Quem Ama Cuida” em crematório",
-      "link": "https://www.cnnbrasil.com.br/pop/tv/rosi-campos-confunde-fas-ao-gravar-cena-de-quem-ama-cuida-em-crematorio/"
-    },
-    {
-      "title": "[AGÊNCIA BRASIL] Focus Cia de Dança representa o Brasil em festival na China",
-      "link": "https://agenciabrasil.ebc.com.br/cultura/noticia/2026-08/focus-cia-de-danca-representa-o-brasil-em-festival-na-china"
-    },
-    {
-      "title": "[CNN BRASIL] Brasil teve mais de mil suspeitas da doença Creutzfeldt-Jakob em 16 anos",
-      "link": "https://www.cnnbrasil.com.br/saude/brasil-teve-mais-de-mil-suspeitas-da-doenca-creutzfeldt-jakob-em-16-anos/"
-    },
-    {
-      "title": "[CNN BRASIL] Mercado de títulos passa por semana difícil com disparada em taxas; entenda",
-      "link": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/mercado-de-titulos-passa-por-semana-dificil-com-disparada-em-taxas-entenda/"
-    },
-    {
-      "title": "[CNN BRASIL] Hull City surpreende e vence Manchester United na estreia da Premier League",
-      "link": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/futebol-ingles/hull-city-surpreende-e-vence-manchester-united-na-estreia-da-premier-league/"
-    },
-    {
-      "title": "[MINAS GERAIS] Datafolha: Marília Campos tem 11% na disputa ao Senado em MG; Viana marca 8%, e Domingos Sávio, 6% - Folha de S.Paulo",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOdElKN2I1ZWNfUW5kQWM5WGJzdXFRMmpSZC1TZlFNMTJudzB3NXc0ZVZkS1VNVnRfd0hNaC02YThhTzh0VlFOWndfY3FpRHB5WThNb19zRkR3a09Oc0RUa2xrWXNRd3JQdHpNLXZpTHdDeEVjQjJzWDBRekFHZ01VdlYzeWxLaE8tT0JuNkM1SHRkd2VpQzM3Y2JZcmZyVlVQV2R4Um1XYVl2bUtLallpbkRvSENEMXpSd1RNYzA0dGFjUER4WnY1V1A1Uk9iNWRmSXYtaERkel8?oc=5"
+      "title": "[MINAS GERAIS] Minas Gerais tem 4 candidatos empatados na disputa pelo Senado - Poder360",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNN2RSbXMwYXVDNF9CYmxDWVJMcXJpSG9tR1JhUnVlcTNmWXJweVNsZGtrRTMtWWNkSkpGTzZTR0g1eVNSRllLc3F3czFJcmprZVdIbW0wNDZLWFplR2lfT1I0bEdOZjktOVFwZkRJdkpraGZTOXdFUVdxb3FLRWVVUHo1LXVwYXJmY05LLTRzVzY5SE5rSlhJUjgyaTB5RVpxOElTbHlYLWlSSi1DckNwRg?oc=5"
     },
     {
       "title": "[AGÊNCIA BRASIL] Veja a agenda dos candidatos à Presidência neste fim de semana",
       "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/veja-agenda-dos-candidatos-presidencia-neste-fim-de-semana"
     },
     {
+      "title": "[AGÊNCIA BRASIL] Quatro envolvidos na morte de ciclista espancado no RJ estão presos",
+      "link": "https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-08/quatro-envolvidos-na-morte-de-ciclista-espancado-no-rj-estao-presos"
+    },
+    {
+      "title": "[CNN BRASIL] Campanha entra na segunda semana sem TSE definir limites para uso de IA",
+      "link": "https://www.cnnbrasil.com.br/eleicoes/campanha-entra-na-segunda-semana-sem-tse-definir-limites-para-uso-de-ia/"
+    },
+    {
+      "title": "[MINAS GERAIS] Datafolha: Cleitinho lidera disputa em MG com 32%; Patrus e Kalil têm 12% cada - Folha de S.Paulo",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOZk84ZFY0cDkwS0RjQXEyWXBGeHZwWW5DcmJSVngwd1NfeWhXeWtRVWRNMHB2TFZyVFJ0T21lU0lRandDcDNSQ2NrVkwxMzZ3anVpb0hBNkZrcnloSlM2VFpmZWNobEJyNDVRUzFLS0FGeWhxR1JkYzRtek1WWjZFMEVDY0FtVXFMSHUxT2xKS2JnMnpRZnhmRVdSQVZLbXV1amRfVzY3cXUyWUlYZXBIaUVvSXNzUmpoQmRuUmN2MnlvZw?oc=5"
+    },
+    {
+      "title": "[MINAS GERAIS] Datafolha: Marília Campos tem 11% na disputa ao Senado em MG; Viana marca 8%, e Domingos Sávio, 6% - Folha de S.Paulo",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOdElKN2I1ZWNfUW5kQWM5WGJzdXFRMmpSZC1TZlFNMTJudzB3NXc0ZVZkS1VNVnRfd0hNaC02YThhTzh0VlFOWndfY3FpRHB5WThNb19zRkR3a09Oc0RUa2xrWXNRd3JQdHpNLXZpTHdDeEVjQjJzWDBRekFHZ01VdlYzeWxLaE8tT0JuNkM1SHRkd2VpQzM3Y2JZcmZyVlVQV2R4Um1XYVl2bUtLallpbkRvSENEMXpSd1RNYzA0dGFjUER4WnY1V1A1Uk9iNWRmSXYtaERkel8?oc=5"
+    },
+    {
+      "title": "[CNN BRASIL] “Quem Ama Cuida”: Adriana vende joias, fica rica e dá passo em vingança",
+      "link": "https://www.cnnbrasil.com.br/pop/tv/quem-ama-cuida-adriana-vende-joias-fica-rica-e-da-passo-em-vinganca/"
+    },
+    {
+      "title": "[MINAS GERAIS] Quatro filhotes de cães morrem após serem encontrados em área de incêndio em MG - G1",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPc1RLRDJiU0pyeEFEekpSczZPMm9uSldCMW1rbGc1MmtGamNnSURYLTVWbUpFd001c1BqUE01LVE2b1gxdE9QMGh3Z3lQMzFRc0VyU1BMVm9jTFZWMVdabHl0R1hHbW1jSVRiaXRDMjhncVIxcVFHcng0VGktVUcwVkdnei0zQ0dSTGlv0gGaAUFVX3lxTFA4S2FBdlJkcllmT0tiMHJNUm1wUkpfcENKOWZ2Z3Bucmc3bnZuSllSSW5CYm10M3JkZDBKT0NmbVY3aWQwZDBJZ3lvRHEzajMtR1VQSHQ0SmxsRFVOYVRMNlVQdjRScndCSlo4VkRhSGJGZjRRR1BPMWFOcEwtNEljUGg4RV9Ba1ZXTDJYNElwTmUxTUMyLVdKRWc?oc=5"
+    },
+    {
+      "title": "[CNN BRASIL] Volkswagen T-Cross vai mudar? SUV ganha novo visual no México",
+      "link": "https://www.cnnbrasil.com.br/auto/volkswagen-t-cross-vai-mudar-suv-ganha-novo-visual-no-mexico/"
+    },
+    {
+      "title": "[CNN BRASIL] Dua Lipa faz 31: relembre tudo o que a diva fez no último ano",
+      "link": "https://www.cnnbrasil.com.br/pop/celebridades/dua-lipa-faz-31-relembre-tudo-o-que-a-diva-fez-no-ultimo-ano/"
+    },
+    {
+      "title": "[MINAS GERAIS] Prefeita petista apoia Cleitinho, rival de Patrus em Minas Gerais - Poder360",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOSTNaQUFGUjJ6aS1fZjE1aU4wN0ZSOW42U3lCd0xMWjAxeml6UktGY180a1BWc3NQQWMzdHZLM0F2LXY3bFN4RXhuNlM5LWc2VmVLRTlGN1dLUTQyMGtvQUZEODhmVjFNTTFFczNQaG00TXhEWHktYTJkN3ExOVROZlBqWGpLQ1NqU3FIUkZIRG83Z0lURWd4YUNLcW5XTHNFdGxSeGxfQ2RkdENVN3RFd1ZYdw?oc=5"
+    },
+    {
+      "title": "[CNN BRASIL] Sabrina Sato exibe barriga de seis meses de gravidez; veja",
+      "link": "https://www.cnnbrasil.com.br/pop/celebridades/sabrina-sato-exibe-barriga-de-seis-meses-de-gravidez-veja/"
+    },
+    {
+      "title": "[AGÊNCIA BRASIL] Dia D de vacinação é realizado neste sábado em todo o país",
+      "link": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-08/dia-d-de-vacinacao-e-realizado-neste-sabado-em-todo-o-pais"
+    },
+    {
+      "title": "[CNN BRASIL] Ceuta enterra primeiros imigrantes mortos em travessia em massa",
+      "link": "https://www.cnnbrasil.com.br/internacional/ceuta-enterra-primeiros-imigrantes-mortos-em-travessia-em-massa/"
+    },
+    {
       "title": "[AGÊNCIA BRASIL] \"Cabeças Cortadas\", de Glauber Rocha, ganhará versão restaurada em 4k",
       "link": "https://agenciabrasil.ebc.com.br/cultura/noticia/2026-08/cabecas-cortadas-de-glauber-rocha-voltara-em-versao-restaurada"
     },
     {
-      "title": "[CNN BRASIL] Rússia acusa Ucrânia de matar pelo menos oito civis em ataques com drones",
-      "link": "https://www.cnnbrasil.com.br/internacional/russia-acusa-ucrania-de-matar-pelo-menos-oito-civis-em-ataques-com-drones/"
+      "title": "[MINAS GERAIS] Datafolha em MG para o Senado: Marília, 11%; Viana, 8%; Sávio, 6%; Aro, 5%; Ana Luiza, 4%; Superman, 3% - G1",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQOE9KbHhBeWdOd1lKcHZVSmROWUpiZ3JOS3JJbGpsb3J2NzBNUmpCVVJhb1JqNDRBcC0tWDg2SnJXdnprVXIweW5hUzNRX0trQWk2TjlienhzcFdjT3dvNFl0bk5mbHplVXpkc3BpY3JKSXo0MkFnS2xsLW5Xa1M0NDJ2QmlqUUltM1FBeGRlQ2swVkpWbEpTMHNYdDhtWWMzODNmcW5fNzPSAbcBQVVfeXFMTkdsc0tWbXNDczRTS1puSWtLSklMWi1JdHJOYXFvUlkyWlAzVm43OEpIT3ozNy1VSlZJQUI2UU5vT0h2V1JMRDk2cFk0bXliYmhPa3BXbmdpZkh6eWhYVDJyakt0aEM5Yy1hb0hwVEhkNkh1ZlJiSWZCR2JlUzJqbW1TZ3Q1VU81ZlZQRFVpTzdsMWpldlRhMzJSVjQ1Vlg5RkEwY25iYS1WdVRBUVZReDI4MTJHdlRj?oc=5"
+    },
+    {
+      "title": "[AGÊNCIA BRASIL] Engenharia social responde por 40% das fraudes financeiras no Brasil",
+      "link": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-08/engenharia-social-responde-por-40-das-fraudes-financeiras-no-brasil"
+    },
+    {
+      "title": "[CNN BRASIL] Escolas afetadas por terremoto na Colômbia revelam desigualdade histórica",
+      "link": "https://www.cnnbrasil.com.br/internacional/escolas-afetadas-por-terremoto-na-colombia-revelam-desigualdade-historica/"
+    },
+    {
+      "title": "[MINAS GERAIS] Datafolha em MG: Cleitinho, 32%; Patrus, 12%; Kalil, 12% - G1",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQV08yLXhBMExIRnQyTkFEQ1lVdXB4bkxzQUpBRHA3Rkc4OVV3TUVIaWM0OEYybkhELUI2NXg2Q2paRzAxbW5mX3d0NWlEQUVEMTFEcDhRSGtrMjN5ZWZTeER2WFJDSDlfV2lydWdWemlsLS1YSnhvUE9aRm9SSnRfbmtPeFZINVlfTDRIdEFJajhKT1ZMR0dnOURhV1RFT0Rka1lzRzVod3JZOVd6WkHSAbwBQVVfeXFMTnZwVHc2blA5YTltaF9ZY3pnQXdQUkxOcHYxa2FnYWlXV0swN3psWTJyb0tZMnM3bkZpVHVEMW1QTnM2MG1RZ0lNdzNPM01ZYldVRFVGeGQ1cFhYZGY3ckhIOXpfbVdKTFU3a3M1cF9pY0ltelJsdlJGVnMtZUF5Z1p0dXUxeWZuSGIzVFhaT25ZQWZFa0EtbkpBNGxzd29OdXBnYWtrR2tqYVkwOVN3RlJYa2VGd0VKdUFGaVk?oc=5"
+    },
+    {
+      "title": "[AGÊNCIA BRASIL] Brasileirão Feminino: TV Brasil exibe Flamengo x Atlético-MG às 17h40",
+      "link": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-08/brasileirao-feminino-tv-brasil-exibe-flamengo-x-atletico-mg-17h40"
+    },
+    {
+      "title": "[CNN BRASIL] Entidades bancárias estão cautelosas com crédito, diz CEO da Pact",
+      "link": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/entidades-bancarias-estao-cautelosas-com-credito-diz-ceo-da-pact/"
+    },
+    {
+      "title": "[MINAS GERAIS] Datafolha mostra intenção de voto para governador e senadores por Minas Gerais - Gazeta do Povo",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQOEFDX3FBSjVGOVNEMHVZUTBxZ3EwNTZRRjBMR09Cd05BYUNjVWpYTGQ5ZVJ2ZVlwckJ6R1NfVk9rYUZ3dlNRZ0taV3hnMy1oN2IxYlZyaVFvTTZLUVMzR0l2WWtSZjAxTWZwdEZqV1hZTENRcVpJT0NUZlNxNE41Vnc3T1psYUlQLU51d2FOYS1TSUxHZ0hoVHNqeUpkMGxESFFHUFBoU1BucGFZSnp6c2V5VFR1UW81VkgtUEJUckx0dw?oc=5"
+    },
+    {
+      "title": "[AGÊNCIA BRASIL] Canetas emagrecedoras: uso sem supervisão pode causar perda muscular",
+      "link": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-08/canetas-emagrecedoras-uso-sem-supervisao-pode-causar-perda-muscular"
     },
     {
       "title": "[AGÊNCIA BRASIL] Fim de semana terá tempo seco no Centro-Oeste e frio intenso no Sul",
@@ -71,56 +115,12 @@
       "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/veja-como-foi-sexta-feira-21-dos-candidatos-presidente"
     },
     {
-      "title": "[MINAS GERAIS] Prefeita petista apoia Cleitinho, rival de Patrus em Minas Gerais - Poder360",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOSTNaQUFGUjJ6aS1fZjE1aU4wN0ZSOW42U3lCd0xMWjAxeml6UktGY180a1BWc3NQQWMzdHZLM0F2LXY3bFN4RXhuNlM5LWc2VmVLRTlGN1dLUTQyMGtvQUZEODhmVjFNTTFFczNQaG00TXhEWHktYTJkN3ExOVROZlBqWGpLQ1NqU3FIUkZIRG83Z0lURWd4YUNLcW5XTHNFdGxSeGxfQ2RkdENVN3RFd1ZYdw?oc=5"
+      "title": "[CNN BRASIL] Serena Williams volta a jogar US Open em dupla mista com Carlos Alcaraz",
+      "link": "https://www.cnnbrasil.com.br/esportes/tenis/serena-williams-volta-a-jogar-us-open-em-dupla-mista-com-carlos-alcaraz/"
     },
     {
-      "title": "[AGÊNCIA BRASIL] Quatro envolvidos na morte de ciclista espancado no RJ estão presos",
-      "link": "https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-08/quatro-envolvidos-na-morte-de-ciclista-espancado-no-rj-estao-presos"
-    },
-    {
-      "title": "[CNN BRASIL] Campanha de Lula busca evangélicos e mira pauta da segurança no RJ",
-      "link": "https://www.cnnbrasil.com.br/eleicoes/lula-mira-evangelicos-e-pauta-da-seguranca-em-agenda-de-campanha-no-rj/"
-    },
-    {
-      "title": "[MINAS GERAIS] Datafolha: Cleitinho lidera disputa em MG com 32%; Patrus e Kalil têm 12% cada - Folha de S.Paulo",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOZk84ZFY0cDkwS0RjQXEyWXBGeHZwWW5DcmJSVngwd1NfeWhXeWtRVWRNMHB2TFZyVFJ0T21lU0lRandDcDNSQ2NrVkwxMzZ3anVpb0hBNkZrcnloSlM2VFpmZWNobEJyNDVRUzFLS0FGeWhxR1JkYzRtek1WWjZFMEVDY0FtVXFMSHUxT2xKS2JnMnpRZnhmRVdSQVZLbXV1amRfVzY3cXUyWUlYZXBIaUVvSXNzUmpoQmRuUmN2MnlvZw?oc=5"
-    },
-    {
-      "title": "[AGÊNCIA BRASIL] Ministros do Brasil e EUA vão retomar negociação comercial",
-      "link": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-08/ministros-do-brasil-e-eua-vao-retomar-negociacao-comercial"
-    },
-    {
-      "title": "[MINAS GERAIS] Datafolha em MG para o Senado: Marília, 11%; Viana, 8%; Sávio, 6%; Aro, 5%; Ana Luiza, 4%; Superman, 3% - G1",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQOE9KbHhBeWdOd1lKcHZVSmROWUpiZ3JOS3JJbGpsb3J2NzBNUmpCVVJhb1JqNDRBcC0tWDg2SnJXdnprVXIweW5hUzNRX0trQWk2TjlienhzcFdjT3dvNFl0bk5mbHplVXpkc3BpY3JKSXo0MkFnS2xsLW5Xa1M0NDJ2QmlqUUltM1FBeGRlQ2swVkpWbEpTMHNYdDhtWWMzODNmcW5fNzPSAbcBQVVfeXFMTkdsc0tWbXNDczRTS1puSWtLSklMWi1JdHJOYXFvUlkyWlAzVm43OEpIT3ozNy1VSlZJQUI2UU5vT0h2V1JMRDk2cFk0bXliYmhPa3BXbmdpZkh6eWhYVDJyakt0aEM5Yy1hb0hwVEhkNkh1ZlJiSWZCR2JlUzJqbW1TZ3Q1VU81ZlZQRFVpTzdsMWpldlRhMzJSVjQ1Vlg5RkEwY25iYS1WdVRBUVZReDI4MTJHdlRj?oc=5"
-    },
-    {
-      "title": "[MINAS GERAIS] Minas Gerais tem 4 candidatos empatados na disputa pelo Senado - Poder360",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNN2RSbXMwYXVDNF9CYmxDWVJMcXJpSG9tR1JhUnVlcTNmWXJweVNsZGtrRTMtWWNkSkpGTzZTR0g1eVNSRllLc3F3czFJcmprZVdIbW0wNDZLWFplR2lfT1I0bEdOZjktOVFwZkRJdkpraGZTOXdFUVdxb3FLRWVVUHo1LXVwYXJmY05LLTRzVzY5SE5rSlhJUjgyaTB5RVpxOElTbHlYLWlSSi1DckNwRg?oc=5"
-    },
-    {
-      "title": "[MINAS GERAIS] Câmara de Poços de Caldas pede ação do Estado para evitar paralisação de linhas intermunicipais - G1",
-      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQVVR4ZVdXc1g3Y3Q3V1R1aGVMTGh6LWZ1Y2F2TU9nV2oyb0I1aVZ4eDVxY3A2MHc2QWt4emlFSmp3NTlnbGNkM2FqQTdkUFhkb2p1NHg2VHZ2WC1NY0VTQ3NjYzdGd2xOTHlLT2FXSFFpTVdXODVabnlmTVR0Wl9ndFcyU2FiSktpcDhiQjFTaW55T0xPQTdFT18wblNpR2NlQm9rYWdXNS0tci0tSmdMVnVCNEtxOWJDRnJwMENsbFVJMXFqN21Mak9sMlp2YVgxUEMwU2FyTEJmeGYtRFdnemtfdVF1M1ZNanpfeEd30gH8AUFVX3lxTE9PWUN0QlR6ODR1QTMtRU1Zc2ltNzJUOV90T0pKV0xqeTVtNmhUeDFYRVFJNTZseHRMQ0x3bk9LUE9OeFRhaklGQ09iczRta1JjbXRsVFd3WFhKUWh6cmh5ZVFZVmdpUDg1SWpJRTFCSkRSendvSWRCSDl3bDcwOGE3Z0xzbGRkcEhsS0xkVy0xZVR3cF9QNnJSSGNsc1NCckc0SUhlSlgwM2dwWUZRQVBtSnllazAzOUxiQzF3TGVCQUkzcFR5ZUtSaldWaDNwekIxdlpIZ2ZfMzVTdjBzazBBN3dEOVRUamVGV2M0eHNxSFdfM0lVTVlCSmtkUA?oc=5"
-    },
-    {
-      "title": "[AGÊNCIA BRASIL] Alcolumbre envia PEC do fim da escala 6x1 para CCJ do Senado",
-      "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/alcolumbre-envia-pec-do-fim-da-escala-6x1-para-ccj-do-senado"
-    },
-    {
-      "title": "[CNN BRASIL] Polícia procura quinto suspeito por morte de ciclista em Copacabana",
-      "link": "https://www.cnnbrasil.com.br/nacional/sudeste/rj/policia-procura-quinto-suspeito-por-morte-de-ciclista-em-copacabana/"
-    },
-    {
-      "title": "[AGÊNCIA BRASIL] Dia D de vacinação é realizado neste sábado em todo o país",
-      "link": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-08/dia-d-de-vacinacao-e-realizado-neste-sabado-em-todo-o-pais"
-    },
-    {
-      "title": "[MINAS GERAIS] Datafolha: Cleitinho lidera cenário de 1º turno pelo governo de MG - CNN Brasil",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQVFZ3MzZuOW5XWVlua1BKRzQtOUdCS0NIMk9yemZWZjJnTWxHVVBHNkM5N1d4QTN2LWl4X1hRZGhYNl9pOXRYbHgtMW5kM1owZ1NXZ0k5bTNnRnYwbnJwM1lVSzNTNEdwSjlxMFJTQ0gyeTJPVk5MUjV4dGxjUFpWdkRnTHhhdEZBdlY0NlV4djg3ejZoejBMV3pqcElEQVFzVDdjUV9Ncw?oc=5"
-    },
-    {
-      "title": "[CNN BRASIL] Vice do Corinthians reage a nova música de Memphis: “Contratado para jogar”",
-      "link": "https://www.cnnbrasil.com.br/esportes/futebol/corinthians/vice-do-corinthians-reage-a-nova-musica-de-memphis-contratado-para-jogar/"
+      "title": "[AGÊNCIA BRASIL] Focus Cia de Dança representa o Brasil em festival na China",
+      "link": "https://agenciabrasil.ebc.com.br/cultura/noticia/2026-08/focus-cia-de-danca-representa-o-brasil-em-festival-na-china"
     }
   ]
 }
