@@ -1,26 +1,82 @@
 {
   "source": "Radio Guaicui - Noticias",
-  "updated_at": "2026-08-24T10:53:46.076827+00:00",
+  "updated_at": "2026-08-24T11:28:32.718663+00:00",
   "items": [
     {
-      "title": "[AGÊNCIA BRASIL] Veja como foi o domingo (23) dos candidatos a presidente",
-      "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/veja-como-foi-o-domingo-23-dos-candidatos-presidente"
+      "title": "[CNN BRASIL] Em projeto inédito, Espírito Santo testa gás natural na secagem de café",
+      "link": "https://www.cnnbrasil.com.br/agro/espirito-santo-testa-gas-natural-na-secagem-de-cafe-em-projeto-inedito/"
     },
     {
-      "title": "[MINAS GERAIS] Minas Gerais tem 4 candidatos empatados na disputa pelo Senado - Poder360",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNN2RSbXMwYXVDNF9CYmxDWVJMcXJpSG9tR1JhUnVlcTNmWXJweVNsZGtrRTMtWWNkSkpGTzZTR0g1eVNSRllLc3F3czFJcmprZVdIbW0wNDZLWFplR2lfT1I0bEdOZjktOVFwZkRJdkpraGZTOXdFUVdxb3FLRWVVUHo1LXVwYXJmY05LLTRzVzY5SE5rSlhJUjgyaTB5RVpxOElTbHlYLWlSSi1DckNwRg?oc=5"
+      "title": "[AGÊNCIA BRASIL] Palmeiras goleia Vasco e volta a abrir frente no Brasileirão: 4 a 1",
+      "link": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-08/palmeiras-goleia-vasco-e-volta-abrir-frente-no-brasileirao-4-1"
     },
     {
-      "title": "[CNN BRASIL] Operação contra esquema de roubo de ouro bloqueia R$ 34 milhões em SP",
-      "link": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/operacao-contra-esquema-de-roubo-de-ouro-bloqueia-r-34-milhoes-em-sp/"
+      "title": "[AGÊNCIA BRASIL] Receita libera consulta ao último lote de restituição do IR 2026",
+      "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/receita-libera-consulta-ao-ultimo-lote-de-restituicao-do-ir-2026"
+    },
+    {
+      "title": "[CNN BRASIL] Gianni Infantino desafia Concacaf e rebate críticos em meio à crise na Fifa",
+      "link": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/gianni-infantino-desafia-concacaf-e-rebate-criticos-em-meio-a-crise-na-fifa/"
     },
     {
       "title": "[AGÊNCIA BRASIL] Filme de Grace Passô ganha Kikito no Festival de Cinema de Gramado",
       "link": "https://agenciabrasil.ebc.com.br/cultura/noticia/2026-08/filme-de-grace-passo-ganha-kikito-no-festival-de-cinema-de-gramado"
     },
     {
-      "title": "[CNN BRASIL] Real Time Big Data: em SP, Flávio tem 38%, e Lula, 33% no 1º turno",
-      "link": "https://www.cnnbrasil.com.br/eleicoes/real-time-big-data-em-sp-flavio-tem-38-e-lula-33-no-1o-turno/"
+      "title": "[CNN BRASIL] Operação contra esquema de roubo de ouro bloqueia R$ 34 milhões em SP",
+      "link": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/operacao-contra-esquema-de-roubo-de-ouro-bloqueia-r-34-milhoes-em-sp/"
+    },
+    {
+      "title": "[CNN BRASIL] “Muito sacrifício”, destaca Arthur Fils após título em Cincinnati",
+      "link": "https://www.cnnbrasil.com.br/esportes/tenis/muito-sacrificio-destaca-arthur-fils-apos-titulo-em-cincinnati/"
+    },
+    {
+      "title": "[MINAS GERAIS] Veja a trajetória de Flávio Roscoe, candidato do PL ao Governo do estado de Minas Gerais - R7",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQYmd1OUp3UTN1SHlfcll2T1RVdWo1aUJVZ0oxaE5TOVRMSkpueVRNcXA5VnE5LUg0VTFKWnA2S3FRODNZQUpOVjc4ZFJEX3VCSmJVcGF5dmdLSjVralNCZkdzdmFFNElObFItM0R0MVZwOXFRUmZJdm1NdnR1N19UWU5sS2hhWU9HWGg4eE55VEJ6b3BMbUlSaExLV1I5MElibmc0RG51d2FmclByd1owdnJRa1A5Q1ZDNUNqRHJnS3NUVFNrbzdoMWk0amFHLXNL?oc=5"
+    },
+    {
+      "title": "[AGÊNCIA BRASIL] Canetas emagrecedoras: pediatras alertam para risco de uso em crianças",
+      "link": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-08/canetas-emagrecedoras-pediatras-alertam-para-risco-de-uso-em-criancas"
+    },
+    {
+      "title": "[CNN BRASIL] Torcedores do Feyenoord ferem rivais com fogos de artifício durante jogo",
+      "link": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/torcedores-do-feyenoord-ferem-rivais-com-fogos-de-artificio-durante-jogo/"
+    },
+    {
+      "title": "[MINAS GERAIS] Patrus acredita em impulso com Lula em Minas Gerais e projeta campanha no interior - Rádio Itatiaia",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOeFFkT3B0M2FrWXk4V2taWkpzNWZnQTJSUEtlOFJyOWtxQ1RhM05URU1nRlhCc0FSenlLdFBlWWZyWTBic0pCekhtMHhaVWplTENKalI3US1HeVJtSDJuMGpObEFLLUoxUVoweHJVSlhORGc1U3ZBTmQxTFc2cEkxMEl6ME92YWgtb2FNRUNWdWhfZ04xTHFZT1lxOUxtYXRla3NTY21YLUdQQ0NUeF9vODJHMnRDQkdQdlVfV0xuMVoySDlCSVhWZA?oc=5"
+    },
+    {
+      "title": "[MINAS GERAIS] Datafolha divulga números para presidente em SP, RJ e MG - Gazeta do Povo",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNb1VjM1BCY09xbTZQTWtoNDVrRElSUGQwczJTdTJOanJVWEhhNlJfMWRIMXZmczE0N3AzQVdUMEdlSlAwRnlrZG12b1RIYXM0MUlVN211RjgwRVZzS2NteFZ1ckQzOHJINWZKZV9GZ1AwamtyeFNWbXNFS3JLS1ZjMmtLV1JlRW5Rbi02eXRpX3pSSG1YZUd1Vjg2bm5sOERWajF6YlZoLUxpa3FHOTJNd2FjbkZ2ZUU?oc=5"
+    },
+    {
+      "title": "[CNN BRASIL] Irã escala tensões em Ormuz e ameaça 45 navios com multas e confisco",
+      "link": "https://www.cnnbrasil.com.br/internacional/ira-escala-tensoes-em-ormuz-e-ameaca-45-navios-com-multas-e-confisco/"
+    },
+    {
+      "title": "[AGÊNCIA BRASIL] Veja como foi o domingo (23) dos candidatos a presidente",
+      "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/veja-como-foi-o-domingo-23-dos-candidatos-presidente"
+    },
+    {
+      "title": "[MINAS GERAIS] O que candidatos ao governo de MG propõem para combater feminicídios e facções - G1",
+      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNZHB3R0otWGdCSlJwMUl1ZlpXejlJd0JpZnoycGt1eEJCcHVVZGZVc3RJZXk2VG4yanJyNWgwX2E4WU1YeTVLQWhMbHlGOVZBTUJyNm1FUzc4R09CZVIwRG5nMGU4M3E4T3ktSmpqQUUtTnljMGJpOHhkTHhBcFE4ZVN3Xy13aWlBanNsbWttVnNzd20wNEVreXY1cjU2N2t2Q3M0OGpqa1JIbUtRanNVMF9wSTREckZUYTYxOE91ZEZHa2x3ZjVTV0EzTGVwNGlDRFplMGJmXzBZNnRiNE8yWExES3k5WE5fOUHSAfgBQVVfeXFMT2t2a29oLVh2MEVmX0R6RllucWczLXJ6UjE4V0NjbklQNEJCRU8yZTJjcmFQZHo1THNEa0ozNnptNDdWaFgwa0phVlloVzdtLTdMS0dyb0UwbHY1SUlMRHp5ZDloSmJVanBydHY2UW81RnJBTGd4Rjh1VEJiVkdja2ZKd0M3WDIxcEZtYngxOHZRam02RHQ2Rk1sanVGSnNIQ1c2ZnJjcnloYVozNTJBSFhvcGFLYTZmV2hLelFOdW1XOGZ1VlRlTFdmSW85cEl5Tk4yRnk1d0dYR201SC1PNlAzSEZqelpZNjhzWnJoOHhZaU10RzFVcjM?oc=5"
+    },
+    {
+      "title": "[CNN BRASIL] Rússia diz que apoio do Reino Unido para Ucrânia “joga lenha na fogueira”",
+      "link": "https://www.cnnbrasil.com.br/internacional/russia-diz-que-apoio-do-reino-unido-para-ucrania-joga-lenha-na-fogueira/"
+    },
+    {
+      "title": "[CNN BRASIL] Ex-NBA é expulso de jogo após discussão com estrela da WNBA; veja vídeo",
+      "link": "https://www.cnnbrasil.com.br/esportes/basquete/ex-nba-e-expulso-de-jogo-apos-discussao-com-estrela-da-wnba-veja-video/"
+    },
+    {
+      "title": "[MINAS GERAIS] Datafolha em MG: Lula, 37%; Flávio Bolsonaro, 31%; Zema, 10% - G1",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPV21CZHp5VHRNSUtwZVQ0RWZnaGsxMXVjUThVUjN5czNMN2FJQ1p1T1Bfei1udU4tQmhhcHBOb3VCaEV3cktuWERaYmtPaEF6cFN6MWtWMHVIZ3BkNC1aVDFiWGVDZV8xQ1hfUjhuVlBsTmFOcjdhWm16VTFMYmtEWExzY0NaSGxyeEFxY2FERnByczFSZHprQ2lSSzdQcmZGTmJuUXZlUG9uUdIBuAFBVV95cUxQUHJURmFsaUw1UjM5NXVLMTBka010dENOODNkbmM4MDhWZU1mV1gyYWNLME9ueFBhSUdES19Rbzg3Z2NPYzg2WEMzQmVVeGVFc1gwc3BFV01IMHRkZkFoWVpGTE5wRm1pcVZpU0k3VHRKMlJyTzhzMUcwZEpKaU9Sd0RhRnd1SFpSbmxaUlRpb0RnQ2pLWmsxVG9NSFB1M3dhbDZ3Qnd4aUNkaVdNU0R1TTBJRldXMWNO?oc=5"
+    },
+    {
+      "title": "[AGÊNCIA BRASIL] Rafael Matos e Orlando Luz vencem mais um Masters 1000 em Cincinatti",
+      "link": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-08/rafael-matos-e-orlando-luz-vencem-mais-um-masters-1000-em-cincinatt"
     },
     {
       "title": "[MINAS GERAIS] MG: acidente entre ônibus e caminhão deixa feridos e interdita BR-040 - Metrópoles",
@@ -31,96 +87,40 @@
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNcTRQZmg3aVRoYVNvYUdRaXpqVV84MHYzeTB0b3JQX2lFZlNBbzFrbUxtcGVNQWlpTkRJRlJobHdGSTZHdXJCUGtITVFiUTdFZlIwY3FzeWl5U1pjWXVDNXlUSjQ3TERwb0xPQWRlYVJxRHI1VmdpS09HZE4tQS1iWjdldGM5TWY0UG05SmhTeUREZEZoZGQ1TU50RmppYXFJd3RuQmFjVTRaV3B0dlpGS0E2NzQyUGVS?oc=5"
     },
     {
-      "title": "[CNN BRASIL] Preços dos alimentos caem em julho, mas leite sobe 4,1% no Brasil",
-      "link": "https://www.cnnbrasil.com.br/agro/precos-dos-alimentos-caem-em-julho-mas-leite-sobe-41-no-brasil/"
-    },
-    {
-      "title": "[AGÊNCIA BRASIL] Cruzeiro vence Flamengo e Palmeiras agradece no Brasileirão",
-      "link": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-08/cruzeiro-vence-flamengo-e-palmeiras-agradece-no-brasileirao"
-    },
-    {
-      "title": "[CNN BRASIL] Real Time: Tarcísio venceria disputa em 1º turno, com 52%; Haddad tem 35%",
-      "link": "https://www.cnnbrasil.com.br/eleicoes/real-time-big-data-tarcisio-tem-52-e-haddad-35-no-1o-turno-em-sp/"
-    },
-    {
-      "title": "[CNN BRASIL] Real Time Senado SP: Derrite, Tebet, André do Prado e Marina empatam",
-      "link": "https://www.cnnbrasil.com.br/eleicoes/real-time-senado-sp-derrite-tebet-andre-do-prado-e-marina-empatam/"
+      "title": "[MINAS GERAIS] Acidente entre ônibus e caminhão deixa mortos e interdita BR-040 na Grande BH; VÍDEO - G1",
+      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNZHB4UkZnZWNNLXNiZFM1a055dkM1SmJqR29raDYzalpyYktTb3VsdFVIbzBibVB0ZzBFbUVjb3lmSGhOUElqN3RmbzFCSmhmUzBwQ3lKeXNkMHNCRmZBWVlYUmR4YnZ1YWJfZllCQV8wdVBEX2hDdnZ6SFFOQnRTYmRPOTZtV1ZoeTJJeE83QUEwbHdPazRMUnpZUjhmN0k4RWswa0ZsdTRIN0FaS3U4YWJPS19EeWJtMmtEWGRpNzdJRFBWNU1BZFhMZDhRdzVzTFNUd3R4VkRSTHlxTXVIRnczX3pXRWU5MnVr0gH6AUFVX3lxTE5PeWhjX19jWWN0MDE3emRyVkxRYzJMNHQ1dlI0c3B6R2RVMDVhVlBMcmR5N01KVVpRVXVmLUN4eElHOUpOd194VXUtUlBVMTdTbWJSaDNBVUNhTDlwOElZRWRaU2Q0MndKZWQ4T3FJNnlUUEFQNXJTVGxYR3VJaXZxQmVWaUhHU3JVV3I2OUVKelA1czIwWGtQYkN0SUtBUmRFbGgtTktQeTVMaFRpLVdBY0dXd0V0c25zd3hXTE1QR1ZlM19KQjl0LW4yYUJwZVBLanBlT1NsVDBIeHpSckdsZTZYb05FUm1UTEctb2lqcWkxbE8tQktsRUE?oc=5"
     },
     {
       "title": "[MINAS GERAIS] Datafolha mostra Cleitinho liderando corrida pelo governo de Minas Gerais - VEJA",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZmJYeW5WU19EVFlzM3VsWjAycjlnWENnSS1zcTNOX3BuaTBaUmVTZGtPcUt0eUZ2emEyZUlIOTJSTTIxUGhxdTJhYVRVNlUteUtaUVFjV2Y4TWZlQWM5WGR2c3lsZUlnS0paNlB1eDJNT3RVbVBaSnM1M0owOG9oaDl4NF90cktPTTY1UmRDRzRMel9PZEVreGE4YlpUMDJFdzlPWjFqLXFJZFU?oc=5"
     },
     {
-      "title": "[AGÊNCIA BRASIL] Planalto volta a vencer Realidade Jovem e vai à final da A3",
-      "link": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-08/planalto-volta-vencer-realidade-jovem-e-vai-final-da-a3"
-    },
-    {
-      "title": "[AGÊNCIA BRASIL] Lando Norris vence GP da Holanda e conquista 2ª vitória seguida na F1",
-      "link": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-08/lando-norris-vence-gp-da-holanda-e-conquista-2a-vitoria-seguida-na-f1"
-    },
-    {
       "title": "[AGÊNCIA BRASIL] Degradação da terra e clima extremo ameaçam nômades na Mongólia",
       "link": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-08/degradacao-da-terra-e-clima-extremo-ameacam-nomades-na-mongolia"
     },
     {
-      "title": "[MINAS GERAIS] Datafolha divulga números para presidente em SP, RJ e MG - Gazeta do Povo",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNb1VjM1BCY09xbTZQTWtoNDVrRElSUGQwczJTdTJOanJVWEhhNlJfMWRIMXZmczE0N3AzQVdUMEdlSlAwRnlrZG12b1RIYXM0MUlVN211RjgwRVZzS2NteFZ1ckQzOHJINWZKZV9GZ1AwamtyeFNWbXNFS3JLS1ZjMmtLV1JlRW5Rbi02eXRpX3pSSG1YZUd1Vjg2bm5sOERWajF6YlZoLUxpa3FHOTJNd2FjbkZ2ZUU?oc=5"
-    },
-    {
-      "title": "[CNN BRASIL] Nexus/BTG: Lula tem 41% das intenções de voto no 1º turno; Flávio, 37%",
-      "link": "https://www.cnnbrasil.com.br/eleicoes/nexus-btg-lula-tem-41-das-intencoes-de-voto-no-1o-turno-flavio-37/"
-    },
-    {
-      "title": "[MINAS GERAIS] Veja a trajetória de Henrique Áreas, candidato do PCO ao Governo de Minas Gerais - R7",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQLUh1TUlMZ19iLUNiQ1hqMXVTV0dfdzMwdzIybEtydmlZVVU2dU5TaDA0eHhEU2FYQThBQnZDZ1M1aWJjakRGTWhKbEFraV9YNU10b0NVeDZOM0E0OFg3ZEc1NzNVa1RyaE1sbW9lQVh3X1U5OHFXYmxJMnB2WjBTX0ZkN0NZZ2dGeVduSmxBUDlkMkRkZkZVRUtyUnpYeWdVUmJrbkZINFQySDA3VndOVHlqNHVKTWxYZ0wyYTkxQkxtYktZa0E?oc=5"
-    },
-    {
-      "title": "[MINAS GERAIS] Veja agenda de campanha dos candidatos ao governo de MG neste domingo - G1",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQTGE4VVRsb25Ld1BzaHBZZk1KNjZjZk5NZHdFNnRra1U0THZBY3NrZ0NHSjJwLTJjWTM5RmIwRTJveXlLX0NnSkx1WXEtYzVIeTdwdHBEOFlsT0pFNHpaSlNha0lQR1Y4YWMzLUMxZkN2NkN0aWZyRnN2enk2a2lXd0xOUXZuVzdKSGtySGtaUFpqSms5LTB5cWRHdEMwd3RHVmFjb1d6cF9TMDRZWWc1Uk5CVGtETV9nOE5McDRyMXpLNDZfQWJjcllUN1B6QmF3dG9EeHVJVTAtaXo4UXfSAewBQVVfeXFMUC1namF1UXhiRTRQdkxpNS04ak1UX2p6OWNWM01uUHlKdC1Zc0kwY1NSSDV6SndWdGNKMXZES2pudkdvdEJPcVVjVVMzeTYzNUtfOElDaFd2R3duOGZXcnhTdkJSRGJxNE1WUmh6Wkdtd25iekh4Y0NDdW5wYk5YR1ktbFROTHBHRjVSd1BZX3lRQTExbWxiYUdXU0ZRNmdtWjlCWWQ1cWlpTjdYYjZvcEFycG55VjI0enh0WmctZ3ZsQUZLNVR3YkhFREphWWRQdS1EeVdnSm1mLW1BazdrNnUzVGI2aXUySEI3VmQ?oc=5"
-    },
-    {
-      "title": "[MINAS GERAIS] Acidente entre ônibus e caminhão deixa mortos e interdita BR-040 na Grande BH; VÍDEO - G1",
-      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNZHB4UkZnZWNNLXNiZFM1a055dkM1SmJqR29raDYzalpyYktTb3VsdFVIbzBibVB0ZzBFbUVjb3lmSGhOUElqN3RmbzFCSmhmUzBwQ3lKeXNkMHNCRmZBWVlYUmR4YnZ1YWJfZllCQV8wdVBEX2hDdnZ6SFFOQnRTYmRPOTZtV1ZoeTJJeE83QUEwbHdPazRMUnpZUjhmN0k4RWswa0ZsdTRIN0FaS3U4YWJPS19EeWJtMmtEWGRpNzdJRFBWNU1BZFhMZDhRdzVzTFNUd3R4VkRSTHlxTXVIRnczX3pXRWU5MnVr0gH6AUFVX3lxTE5PeWhjX19jWWN0MDE3emRyVkxRYzJMNHQ1dlI0c3B6R2RVMDVhVlBMcmR5N01KVVpRVXVmLUN4eElHOUpOd194VXUtUlBVMTdTbWJSaDNBVUNhTDlwOElZRWRaU2Q0MndKZWQ4T3FJNnlUUEFQNXJTVGxYR3VJaXZxQmVWaUhHU3JVV3I2OUVKelA1czIwWGtQYkN0SUtBUmRFbGgtTktQeTVMaFRpLVdBY0dXd0V0c25zd3hXTE1QR1ZlM19KQjl0LW4yYUJwZVBLanBlT1NsVDBIeHpSckdsZTZYb05FUm1UTEctb2lqcWkxbE8tQktsRUE?oc=5"
-    },
-    {
-      "title": "[AGÊNCIA BRASIL] Palmeiras goleia Vasco e volta a abrir frente no Brasileirão: 4 a 1",
-      "link": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-08/palmeiras-goleia-vasco-e-volta-abrir-frente-no-brasileirao-4-1"
-    },
-    {
-      "title": "[MINAS GERAIS] Patrus acredita em impulso com Lula em Minas Gerais e projeta campanha no interior - Rádio Itatiaia",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOeFFkT3B0M2FrWXk4V2taWkpzNWZnQTJSUEtlOFJyOWtxQ1RhM05URU1nRlhCc0FSenlLdFBlWWZyWTBic0pCekhtMHhaVWplTENKalI3US1HeVJtSDJuMGpObEFLLUoxUVoweHJVSlhORGc1U3ZBTmQxTFc2cEkxMEl6ME92YWgtb2FNRUNWdWhfZ04xTHFZT1lxOUxtYXRla3NTY21YLUdQQ0NUeF9vODJHMnRDQkdQdlVfV0xuMVoySDlCSVhWZA?oc=5"
-    },
-    {
-      "title": "[AGÊNCIA BRASIL] Receita libera consulta ao último lote de restituição do IR 2026",
-      "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/receita-libera-consulta-ao-ultimo-lote-de-restituicao-do-ir-2026"
+      "title": "[MINAS GERAIS] Minas Gerais tem 4 candidatos empatados na disputa pelo Senado - Poder360",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNN2RSbXMwYXVDNF9CYmxDWVJMcXJpSG9tR1JhUnVlcTNmWXJweVNsZGtrRTMtWWNkSkpGTzZTR0g1eVNSRllLc3F3czFJcmprZVdIbW0wNDZLWFplR2lfT1I0bEdOZjktOVFwZkRJdkpraGZTOXdFUVdxb3FLRWVVUHo1LXVwYXJmY05LLTRzVzY5SE5rSlhJUjgyaTB5RVpxOElTbHlYLWlSSi1DckNwRg?oc=5"
     },
     {
       "title": "[AGÊNCIA BRASIL] ONS suspende geração excedente de energia pela segunda vez no ano",
       "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/ons-suspende-geracao-excedente-de-energia-pela-segunda-vez-no-ano"
     },
     {
-      "title": "[CNN BRASIL] Segurança aérea: o maior desafio é criar normas mais inteligentes",
-      "link": "https://www.cnnbrasil.com.br/infra/seguranca-aerea-o-maior-desafio-e-criar-normas-mais-inteligentes/"
+      "title": "[AGÊNCIA BRASIL] Planalto volta a vencer Realidade Jovem e vai à final da A3",
+      "link": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-08/planalto-volta-vencer-realidade-jovem-e-vai-final-da-a3"
     },
     {
-      "title": "[MINAS GERAIS] Datafolha em MG: Lula, 37%; Flávio Bolsonaro, 31%; Zema, 10% - G1",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPV21CZHp5VHRNSUtwZVQ0RWZnaGsxMXVjUThVUjN5czNMN2FJQ1p1T1Bfei1udU4tQmhhcHBOb3VCaEV3cktuWERaYmtPaEF6cFN6MWtWMHVIZ3BkNC1aVDFiWGVDZV8xQ1hfUjhuVlBsTmFOcjdhWm16VTFMYmtEWExzY0NaSGxyeEFxY2FERnByczFSZHprQ2lSSzdQcmZGTmJuUXZlUG9uUdIBuAFBVV95cUxQUHJURmFsaUw1UjM5NXVLMTBka010dENOODNkbmM4MDhWZU1mV1gyYWNLME9ueFBhSUdES19Rbzg3Z2NPYzg2WEMzQmVVeGVFc1gwc3BFV01IMHRkZkFoWVpGTE5wRm1pcVZpU0k3VHRKMlJyTzhzMUcwZEpKaU9Sd0RhRnd1SFpSbmxaUlRpb0RnQ2pLWmsxVG9NSFB1M3dhbDZ3Qnd4aUNkaVdNU0R1TTBJRldXMWNO?oc=5"
-    },
-    {
-      "title": "[CNN BRASIL] Nexus/BTG: no 2º turno, Lula tem empate técnico com Flávio e Caiado",
-      "link": "https://www.cnnbrasil.com.br/eleicoes/nexus-btg-no-2o-turno-lula-tem-empate-tecnico-com-flavio-e-caiado/"
-    },
-    {
-      "title": "[CNN BRASIL] Cobrança em pátios de Miritituba pode acabar para caminhoneiros",
-      "link": "https://www.cnnbrasil.com.br/infra/cobranca-em-patios-de-miritituba-pode-acabar-para-caminhoneiros/"
+      "title": "[CNN BRASIL] Batida entre ônibus e caminhão deixa ao menos 15 pessoas feridas em MG",
+      "link": "https://www.cnnbrasil.com.br/nacional/sudeste/mg/batida-entre-onibus-e-caminhao-deixa-ao-menos-15-pessoas-feridas-em-mg/"
     },
     {
       "title": "[AGÊNCIA BRASIL] Jovens eleitores quilombolas defendem voto em defesa de ideais",
       "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/jovens-eleitores-quilombolas-defendem-voto-em-defesa-de-ideais"
     },
     {
-      "title": "[CNN BRASIL] Avenida Brasil é fechada durante nova operação da PM no Rio",
-      "link": "https://www.cnnbrasil.com.br/nacional/sudeste/rj/avenida-brasil-e-fechada-durante-nova-operacao-da-pm-no-rio/"
+      "title": "[CNN BRASIL] Nexus/BTG: 49% desaprovam governo Lula; 48% aprovam",
+      "link": "https://www.cnnbrasil.com.br/politica/nexus-btg-49-desaprovam-governo-lula-48-aprovam/"
     }
   ]
 }
