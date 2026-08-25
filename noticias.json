@@ -1,126 +1,126 @@
 {
   "source": "Radio Guaicui - Noticias",
-  "updated_at": "2026-08-25T20:46:20.863884+00:00",
+  "updated_at": "2026-08-25T21:28:17.324006+00:00",
   "items": [
+    {
+      "title": "[AGÊNCIA BRASIL] Organização lança no Brasil movimento Um Dia sem Internet",
+      "link": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-08/organizacao-lanca-no-brasil-movimento-um-dia-sem-internet"
+    },
+    {
+      "title": "[CNN BRASIL] Setor bancário investirá R$ 50,4 bilhões em tecnologia, diz Febraban Tech",
+      "link": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/setor-bancario-investira-r-504-bilhoes-em-tecnologia-diz-febraban-tech/"
+    },
+    {
+      "title": "[MINAS GERAIS] Como está a eleição para o Senado em Minas Gerais, segundo a Quaest - VEJA",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQZXcxZlFNMjVXcHZ5Y0pRa0ZGbXdmUlQyb0Z4THdUV0xxODV4YmtDUnM4Y19kbGhKczQ5dU5TQURERHRQZ3lxdTdsOW9VSU1IMzl1U1VES2dhUnZldFBUNnlXbG9jTFNwbTZHeURwaEtCajlkTXB5Unk5YWtQZ0VmR3YzVTNvWmFQYTdDWXZ1QVhicWJwdzl4VkNRWFlTa1ZON1NQbA?oc=5"
+    },
+    {
+      "title": "[AGÊNCIA BRASIL] Facebook falha em filtrar anúncio com desinformação eleitoral, diz ONG",
+      "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/facebook-falha-em-filtrar-anuncio-com-desinformacao-eleitoral-diz-ong"
+    },
+    {
+      "title": "[CNN BRASIL] Marabraz pede recuperação judicial com dívidas de R$ 140 milhões",
+      "link": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/marabraz-pede-recuperacao-judicial-com-dividas-de-r-140-milhoes/"
+    },
     {
       "title": "[MINAS GERAIS] Durigan afirma que tomou “calote” de Minas Gerais - Poder360",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOUnI4QXUyTzJJQ3I5MEdnOXYyWThtSzhSSmVUdWJMRTFrSE9JaERGWXF0czItWGlCMHFtemlfNGR3elFEWVBUZWdsNUtiaVBKcU0tOTliU3l3LWd3UkhEVTQ1eEJjN1A4RGdDc1ZXLVBCZG1TX2ZDOU1oaTNsNXl5VnVydTNkeDU0MUowTG0tVXVyRWZKamc?oc=5"
-    },
-    {
-      "title": "[AGÊNCIA BRASIL] SUS: mulheres em situação de violência têm teleatendimento psicológico",
-      "link": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-08/sus-mulheres-em-situacao-de-violencia-tem-teleatendimento-psicologico"
-    },
-    {
-      "title": "[CNN BRASIL] Quaest Senado em SP: Derrite e Marina têm 12%; Tebet, 11%; Prado, 7%",
-      "link": "https://www.cnnbrasil.com.br/eleicoes/quaest-senado-em-sp-derrite-e-marina-tem-12-tebet-11-prado-7/"
-    },
-    {
-      "title": "[MINAS GERAIS] Quaest: Cleitinho lidera em todos os cenários para o governo de Minas - UOL Notícias",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5yelJfaU50UjlwV3NIRGZjb1g3ZEVFM3p5X3pJZkJsN1JodkZzazR2LU1ENjRLREtjWFFqZXNhQ1ZZaVBvNV9ISnplbHpvMlBHNmtMOWZhWV9EMmEwbTlKMmxQVDVoZVZPeEVRdlFycVU2SkNzLWFTcw?oc=5"
-    },
-    {
-      "title": "[AGÊNCIA BRASIL] SP confirma dois casos de febre do Nilo Ocidental",
-      "link": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-08/sp-confirma-dois-casos-de-febre-do-nilo-ocidental"
-    },
-    {
-      "title": "[CNN BRASIL] Al-Ettifaq 2 x 3 Al-Nassr: veja os melhores momentos da Liga Saudita",
-      "link": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/futebol-saudita/al-ettifaq-2-x-3-al-nassr-veja-os-melhores-momentos-da-liga-saudita/"
-    },
-    {
-      "title": "[CNN BRASIL] Google expande plataforma de IA Gemini para escritórios de advocacia",
-      "link": "https://www.cnnbrasil.com.br/economia/money/inteligencia-artificial/google-expande-plataforma-de-ia-gemini-para-escritorios-de-advocacia/"
-    },
-    {
-      "title": "[MINAS GERAIS] Conheça Braulio Lara, candidato a deputado federal por Minas Gerais - Partido Novo",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOb2lTaWJtVzhNY0Z3M3JMUGdTa0M3dXRoN3V4ZlVPSjgwYjh5YWt0Y21wZ1BoYnNiSmNBUk8wVlFidS1NVmxVWUQydllEbk1wbHlxWm12dlJodDNqcF9odGZjZnhoV2llREdHM1J5d2l5THFsVHdVcjRWY0VIaHNaRTRUTkpLMElEUGc?oc=5"
-    },
-    {
-      "title": "[AGÊNCIA BRASIL] Arrecadação federal cresce 8,97% em julho e chega a R$ 289,3 bilhões",
-      "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/arrecadacao-federal-cresce-897-em-julho-e-chega-r-2893-bilhoes"
-    },
-    {
-      "title": "[MINAS GERAIS] Paraquedas de avião que caiu em Mateus Leme (MG) é acionado por foguete; entenda como funciona - R7",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQXzVJU0ZIa2p5WldESGxvekN3MV90NG1wU1pzOVBoUEY3alJmbDk3UURoZlVLX3BSVTRHbGFmcHdpd1BHcUQ1Nk5WNmpxX3NpTThreW1xaWlBSWRfVWF0UDVHc2NkYWUyNjE3dW0xXzl2QzMzc1hTNVZiMXFHS0hLWXpOVGh6MkFGb3J3SDRHbmxiWWNFMkEzR0pzaUhyVE9QTHc1dXk3Y0R3VGhoYTlLUXVpSjJrbXBxSGxkeTd3SkNSQV9kaFFYbTFZRTdmcU9EUWh2Ug?oc=5"
-    },
-    {
-      "title": "[CNN BRASIL] Eclipse lunar no Brasil: veja o melhor horário para observar a Lua nesta quinta",
-      "link": "https://www.cnnbrasil.com.br/ciencia/eclipse-lunar-no-brasil-veja-o-melhor-horario-para-observar-a-lua-nesta-quinta/"
-    },
-    {
-      "title": "[CNN BRASIL] Bento é expulso, CR7 não marca, mas Al-Nassr busca virada sobre Al-Ettifaq",
-      "link": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/futebol-saudita/bento-e-expulso-cr7-nao-marca-mas-al-nassr-busca-virada-sobre-al-ettifaq/"
-    },
-    {
-      "title": "[AGÊNCIA BRASIL] Brasil e EUA definem data de reunião para discutir tarifaço",
-      "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/brasil-e-eua-definem-data-de-reuniao-para-discutir-tarifaco"
-    },
-    {
-      "title": "[AGÊNCIA BRASIL] Marinha emite aviso de ressaca no litoral de São Paulo e do Rio",
-      "link": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-08/marinha-emite-aviso-de-ressaca-no-litoral-de-sao-paulo-e-do-rio"
-    },
-    {
-      "title": "[CNN BRASIL] Ministério pede inclusão de Lito Sousa em estudo experimental nos EUA",
-      "link": "https://www.cnnbrasil.com.br/nacional/brasil/ministerio-pede-inclusao-de-lito-sousa-em-estudo-experimental-nos-eua/"
-    },
-    {
-      "title": "[AGÊNCIA BRASIL] Entidade cobra compromisso de candidatos com direitos da natureza",
-      "link": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-08/entidade-cobra-compromisso-de-candidatos-com-direitos-da-natureza"
-    },
-    {
-      "title": "[AGÊNCIA BRASIL] Anvisa aprova segundo genérico de semaglutida em caneta injetável",
-      "link": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-08/anvisa-aprova-segundo-generico-de-semaglutida-em-caneta-injetavel"
-    },
-    {
-      "title": "[CNN BRASIL] Análise: PT avalia que o impacto de “caso Lulinha” já foi incorporado",
-      "link": "https://www.cnnbrasil.com.br/politica/analise-pt-avalia-que-o-impacto-de-caso-lulinha-ja-foi-incorporado/"
-    },
-    {
-      "title": "[MINAS GERAIS] Quaest em MG: 37% aprovam e 27% desaprovam governo de Mateus Simões - G1",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSy1nWDRQcE5vajdSdENzVzExc2R0aVlMc1owTG5zbTNuTWFPeWZsTlB3Y1FDWTBFY1hXOTVzeHhSLTN4aU9JeVpKdWozNnl0elU3N2hiUzk3UVI1bHR3eHhUdWhnNGRIR2xhRlF3WC1pS1gzMnBVcjRvVG1rejBJY2ZGWmREQi14bmJkOVVud09OYjZYVGJSbm1OQ0luRjNDeDVwQTZNdFI0ZjRyR3NHQXFYMNIBwgFBVV95cUxNMWhNZ2c2ZXFnRTJ6TDc2aXlyOG0tNVpXZ05FWXZQSUFxLXFxRU5IcjB3b0N2d0YyQkNlM1p0WGNRa2xRaWdRODhmMlIyWXg5aVFhWVNXNm5IX0lZOUhkS3F2ZnJfZ1paRzZYYkpJU3pzUWg0VGZVTTkxdkZwWEVKcG1xVjk3VDRQUUJPcEk5VGhIU2QtbmJac0wtaVhBc09ybFZNSkQ5cGY2bFlQTFhmWHFnbmNVVlZjYTkyZlliMVRtUQ?oc=5"
-    },
-    {
-      "title": "[CNN BRASIL] Vasco é o time com mais goleadas sofridas nos pontos corridos",
-      "link": "https://www.cnnbrasil.com.br/esportes/futebol/vasco-da-gama/vasco-e-o-time-com-mais-goleadas-sofridas-nos-pontos-corridos/"
-    },
-    {
-      "title": "[AGÊNCIA BRASIL] Saiba os sintomas e os tratamentos para a febre do Nilo Ocidental",
-      "link": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-08/saiba-os-sintomas-e-os-tratamentos-para-febre-do-nilo-ocidental"
-    },
-    {
-      "title": "[CNN BRASIL] Fazendeiro registra cena inédita de vaca com cinco tetas; veja o vídeo e entenda anomalia que pode atingir bovinos",
-      "link": "https://www.cnnbrasil.com.br/curiosidades/fazendeiro-registra-cena-inedita-de-vaca-com-cinco-tetas-veja-o-video-e-entenda-anomalia-que-pode-atingir-bovinos/"
-    },
-    {
-      "title": "[AGÊNCIA BRASIL] Justiça preserva direito de idosos a passagens interestaduais",
-      "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-08/justica-preserva-direito-de-idosos-passagens-interestaduais"
-    },
-    {
-      "title": "[AGÊNCIA BRASIL] Pé-de-Meia 2026: nascidos em março e abril recebem parcela nesta terça",
-      "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-08/pe-de-meia-2026-nascidos-em-marco-e-abril-recebem-parcela-nesta-terca"
-    },
-    {
-      "title": "[MINAS GERAIS] Força-Tarefa Previdenciária deflagra operação contra fraudes em Minas Gerais — Ministério da Previdência Social - www.gov.br",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQbjd0RzlRSmY2WlY0RlFWZThid3pRTDJrWEg4MmloUFhaQ29xMFhyb1prNVhzZEdQRmFSMEN4ZnhwVWpXSzVqb3hTcHNHUkxhbVpiZG55RHRyUmxqNVhMeVNoemd2bS15TlRaaGU2S3F0VUMxVTRjQnRxa1JaX2VfRF9GM0p2djJVM21yeWZuWXpQdDNDWk8xRDZnSWQwTGdQT21yTXIxLXFmY1hZTktBYVFVcVdWQ3FVYnZlNUFIR2pGYnR6UjFoUlRGZGJWd19qMjVCekRoTQ?oc=5"
-    },
-    {
-      "title": "[MINAS GERAIS] Dona de sete salas de cinemas no RS é vendida a empresas de São Paulo e Minas Gerais - GZH",
-      "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxQTzNhVTlsa3B4aXBzMUx4ZjhLRk1oQWFJei1Sc3lfcERRLU5SRGZ5dkhXWlNZWFNHblROM1doMm54ZXdyYXAtLXZsX040UHNSb2VBaTVScHY4S2dJUkx6b1RUenhwSEZ3NF9GM3V2cGMwdEYzQVRmc1JtQmxJWDJ1ZHpWbzlTODl1UWEzRko5eTBWNmprYW5ONi15S1NJZXFNYlZtYzE4YnpLNVFSZDhiWnphNnNZNXVFSC0yZ2Mzb2FjaFJHVDNHSGhCblR0NVpXbl94cHBiRmwzMFE0VDdDU2V2akdHMU5QeXhUVEJ3bFBRak1raWtHVnRpQWhRYm1QTVR1clpxbXNEczVtRjlLOWh5OGotZw?oc=5"
     },
     {
       "title": "[MINAS GERAIS] Vale movimenta R$ 13 bilhões em compras em Minas Gerais no primeiro semestre - vale.com",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQTVJ2M0pQR3FlWHNqR0dGWDkzVjdPSlloQzlSM2xySnk0b1I1UWx0cGF1N2wyV2d5eFA1TGx2MmNJN3pPeFU5S21DbW1Ud1Vtc09vTC1TY3kwbkhhYUZETHVLbUNyWmFvWkd1ZV90UmF6eEQyUy1wTVJoYUhJR0pfelYtd0lCeXMwWWJtY29tNGNVdmdnZEtJMEpZVE96cXFYdnV1Qw?oc=5"
     },
     {
-      "title": "[CNN BRASIL] Marina Versos sobre interpretar Marília Mendonça: “Totalmente mergulhada”",
-      "link": "https://www.cnnbrasil.com.br/pop/streaming/marina-versos-sobre-interpretar-marilia-mendonca-totalmente-mergulhada/"
+      "title": "[CNN BRASIL] SpaceX sobe 2% com aposta do JPMorgan e parceria com a Nvidia",
+      "link": "https://www.cnnbrasil.com.br/economia/money/negocios/spacex-sobe-2-com-aposta-do-jpmorgan-e-parceria-com-a-nvidia/"
+    },
+    {
+      "title": "[AGÊNCIA BRASIL] Arrecadação federal cresce 8,97% em julho e chega a R$ 289,3 bilhões",
+      "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/arrecadacao-federal-cresce-897-em-julho-e-chega-r-2893-bilhoes"
+    },
+    {
+      "title": "[AGÊNCIA BRASIL] Entidade cobra compromisso de candidatos com direitos da natureza",
+      "link": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-08/entidade-cobra-compromisso-de-candidatos-com-direitos-da-natureza"
+    },
+    {
+      "title": "[CNN BRASIL] Palestinos fazem vigília para jornalistas mortos em ataque a hospital",
+      "link": "https://www.cnnbrasil.com.br/internacional/palestinos-fazem-vigilia-para-jornalistas-mortos-em-ataque-a-hospital/"
+    },
+    {
+      "title": "[MINAS GERAIS] Força-Tarefa Previdenciária deflagra operação contra fraudes em Minas Gerais — Ministério da Previdência Social - www.gov.br",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQbjd0RzlRSmY2WlY0RlFWZThid3pRTDJrWEg4MmloUFhaQ29xMFhyb1prNVhzZEdQRmFSMEN4ZnhwVWpXSzVqb3hTcHNHUkxhbVpiZG55RHRyUmxqNVhMeVNoemd2bS15TlRaaGU2S3F0VUMxVTRjQnRxa1JaX2VfRF9GM0p2djJVM21yeWZuWXpQdDNDWk8xRDZnSWQwTGdQT21yTXIxLXFmY1hZTktBYVFVcVdWQ3FVYnZlNUFIR2pGYnR6UjFoUlRGZGJWd19qMjVCekRoTQ?oc=5"
+    },
+    {
+      "title": "[CNN BRASIL] Quaest RJ: Benedita tem 10%, Carlos Jordy, 7%, e Crivella, 6%, no Senado",
+      "link": "https://www.cnnbrasil.com.br/eleicoes/quaest-rj-benedita-tem-10-carlos-jordy-7-e-crivella-6-no-senado/"
     },
     {
       "title": "[MINAS GERAIS] O cenário da disputa pela presidência em Minas Gerais, segundo a Quaest - CartaCapital",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNa1RWMHVPeUhmOTJONkhCZ2IwNkxwaFN0V0lRdjF5SXJIc0Z1bnFiVElHbjlRbzY4eEVCc2hHZS1GNHZ0b2htVkgxcm91SV81bUktUzMxeE9RdmZJTXNqTGc3WmpUQWNsSnhFTktMZzFoZl9veTRMY1FzanpGVFVGOV8wZmdLZHJ3aVF6VTh5cWk2TzlDTks4V1VXbllJZHRtOEJj?oc=5"
     },
     {
+      "title": "[AGÊNCIA BRASIL] Anvisa aprova segundo genérico de semaglutida em caneta injetável",
+      "link": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-08/anvisa-aprova-segundo-generico-de-semaglutida-em-caneta-injetavel"
+    },
+    {
+      "title": "[CNN BRASIL] Oceanos batem recorde histórico de temperatura e Super El-Niño deve elevar níveis a ‘nunca vistos’, alerta Copernicus",
+      "link": "https://www.cnnbrasil.com.br/ciencia/oceanos-batem-recorde-historico-de-temperatura-e-super-el-nino-deve-elevar-niveis-a-nunca-vistos-alerta-copernicus/"
+    },
+    {
+      "title": "[CNN BRASIL] Ferrari prepara homenagem a Schumacher com pintura especial para Monza",
+      "link": "https://www.cnnbrasil.com.br/esportes/automobilismo/ferrari-prepara-homenagem-a-schumacher-com-pintura-especial-para-monza/"
+    },
+    {
+      "title": "[AGÊNCIA BRASIL] Justiça mantém suspensão de demissões em massa das Casas Bahia",
+      "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-08/justica-mantem-suspensao-de-demissoes-em-massa-das-casas-bahia"
+    },
+    {
+      "title": "[MINAS GERAIS] Quaest: Cleitinho lidera em todos os cenários para o governo de Minas - UOL Notícias",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5yelJfaU50UjlwV3NIRGZjb1g3ZEVFM3p5X3pJZkJsN1JodkZzazR2LU1ENjRLREtjWFFqZXNhQ1ZZaVBvNV9ISnplbHpvMlBHNmtMOWZhWV9EMmEwbTlKMmxQVDVoZVZPeEVRdlFycVU2SkNzLWFTcw?oc=5"
+    },
+    {
+      "title": "[AGÊNCIA BRASIL] Saiba os sintomas e os tratamentos para a febre do Nilo Ocidental",
+      "link": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-08/saiba-os-sintomas-e-os-tratamentos-para-febre-do-nilo-ocidental"
+    },
+    {
+      "title": "[AGÊNCIA BRASIL] Brasil e EUA definem data de reunião para discutir tarifaço",
+      "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/brasil-e-eua-definem-data-de-reuniao-para-discutir-tarifaco"
+    },
+    {
+      "title": "[MINAS GERAIS] Dona de sete salas de cinemas no RS é vendida a empresas de São Paulo e Minas Gerais - GZH",
+      "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxQTzNhVTlsa3B4aXBzMUx4ZjhLRk1oQWFJei1Sc3lfcERRLU5SRGZ5dkhXWlNZWFNHblROM1doMm54ZXdyYXAtLXZsX040UHNSb2VBaTVScHY4S2dJUkx6b1RUenhwSEZ3NF9GM3V2cGMwdEYzQVRmc1JtQmxJWDJ1ZHpWbzlTODl1UWEzRko5eTBWNmprYW5ONi15S1NJZXFNYlZtYzE4YnpLNVFSZDhiWnphNnNZNXVFSC0yZ2Mzb2FjaFJHVDNHSGhCblR0NVpXbl94cHBiRmwzMFE0VDdDU2V2akdHMU5QeXhUVEJ3bFBRak1raWtHVnRpQWhRYm1QTVR1clpxbXNEczVtRjlLOWh5OGotZw?oc=5"
+    },
+    {
+      "title": "[AGÊNCIA BRASIL] Justiça preserva direito de idosos a passagens interestaduais",
+      "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-08/justica-preserva-direito-de-idosos-passagens-interestaduais"
+    },
+    {
       "title": "[MINAS GERAIS] Zema é interrompido por Renata Vasconcellos ao citar dívida de Minas Gerais - Terra",
       "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPRk9uT2dVMFZqb1MtbnR2YWgzMHY5eTh1TlY4VjdvaFI1QUFFQ3JiRFNQMUFhOGVaZ1F5ZkhRdlNCX3BPM3FWWVE4VGs0WlFNS3Rzb2lVQ0FEdEdwTzJCTlhsWUZYREVLSG1sLURtWjNpQmNDbEVqWGRTa21wZUNSVHdkcXkwYmJWZExDX2tkcUl4b1FNTTQyU3JZTDhaNnBubUF5NG5tQUdnZEppTTUxUzJoZVNIY3BudVpsMW5iUVhRMTk4TTRQckJSYlRkVlZnYktBaGowNlp4MlNGNU1JdkNzZmI3NTZpdl9YaEg5ZzB6NEhyWHJ1QmNQcUdsSXlY?oc=5"
+    },
+    {
+      "title": "[MINAS GERAIS] Quaest em MG: Flávio Bolsonaro, 31%; Lula, 30%; Romeu Zema, 7%; Ronaldo Caiado, 3%; Renan Santos, 3% - G1",
+      "link": "https://news.google.com/rss/articles/CBMiogJBVV95cUxQWmlVVElwLWpYaXdrUlZXdXZ4ci1YXzJTTklfamU5by1HLVcxdHE5dl9kem82dlN0bkJ2OHltVF9BV2MxUk1MRUh4SHZmdEVPNEFubTFVSVFZREtScjhLcUtwSTJVVWZUZm9ydEZIY0NUYnZUUTgyOEY1Q0VOdWxtZkxhX2F1UmFHNTdpQXhyS2ppemgtSXhpdU8xdkhfa0VhWTBmWm1oU2s4aHhIWHlRdTJMWnZSTkZybkVIZWl4Q0JTbGtnMnpDUUpITEdKcVdERVZoTlVyVXNlbXlMNEpfYUJ1M0lBSm1mZkxNYWowTWVRZWUtci10bkN6Z2FYUDFRWDNmdjlOQ0x0V3luZHJqcC1fWEZJVHdMT3JaSFVLb05hUdIBsAJBVV95cUxQWHNZRWRpNE5tZ1RiWkdtaXZzZGQwZmkwcWdJclI1NlZCdGhYbzBWNDdyWHdEV1FSS0t6dF9qWVVVVGg2azltMFg5SEVhNUc3dHZpTFpJMDI4Ylp0Y1ZJZ2d3Rzd2WllWWTBReDVuQWNIWkdYTDFtVTBiTWk4VjlpMU9KMDFVWDBHaThVR1ZWWXNIcWlLdWtxYkxxdUg1azg4SmVHVXRrSlhIV3drVktXSExNX185Wm5rRkk1dGlRcUJkaHRjVGRXbl9hRUN3RUR4aXAxRDV4ZFl1Zy1iY29GeF81cUdLN05aQndVMzBSTnExVjdwcVFBV3dOOU9tNktuTnBLaWVMVERvOWg3S2hVYXFhSmZONENFUzdDR2lzY1NSWFVxblhxZUhpemtmbjda?oc=5"
+    },
+    {
+      "title": "[CNN BRASIL] GWM faz 1º transporte de carga com caminhão a hidrogênio na América Latina",
+      "link": "https://www.cnnbrasil.com.br/auto/gwm-faz-1o-transporte-de-carga-com-caminhao-a-hidrogenio-na-america-latina/"
+    },
+    {
+      "title": "[AGÊNCIA BRASIL] SUS: mulheres em situação de violência têm teleatendimento psicológico",
+      "link": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-08/sus-mulheres-em-situacao-de-violencia-tem-teleatendimento-psicologico"
+    },
+    {
+      "title": "[CNN BRASIL] Lula troca Porto Alegre por Salvador após previsão de chuva no Sul",
+      "link": "https://www.cnnbrasil.com.br/eleicoes/lula-troca-porto-alegre-por-salvador-apos-previsao-de-chuva-no-sul/"
+    },
+    {
+      "title": "[MINAS GERAIS] Paraquedas de avião que caiu em Mateus Leme (MG) é acionado por foguete; entenda como funciona - R7",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQXzVJU0ZIa2p5WldESGxvekN3MV90NG1wU1pzOVBoUEY3alJmbDk3UURoZlVLX3BSVTRHbGFmcHdpd1BHcUQ1Nk5WNmpxX3NpTThreW1xaWlBSWRfVWF0UDVHc2NkYWUyNjE3dW0xXzl2QzMzc1hTNVZiMXFHS0hLWXpOVGh6MkFGb3J3SDRHbmxiWWNFMkEzR0pzaUhyVE9QTHc1dXk3Y0R3VGhoYTlLUXVpSjJrbXBxSGxkeTd3SkNSQV9kaFFYbTFZRTdmcU9EUWh2Ug?oc=5"
+    },
+    {
+      "title": "[CNN BRASIL] Cacau avança de forma sustentável na Amazônia, segundo Embrapa",
+      "link": "https://www.cnnbrasil.com.br/agro/cacau-avanca-de-forma-sustentavel-na-amazonia-segundo-embrapa/"
     }
   ]
 }
