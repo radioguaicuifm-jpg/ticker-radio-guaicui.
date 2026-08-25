@@ -1,58 +1,22 @@
 {
   "source": "Radio Guaicui - Noticias",
-  "updated_at": "2026-08-25T07:52:10.159550+00:00",
+  "updated_at": "2026-08-25T08:41:59.894544+00:00",
   "items": [
-    {
-      "title": "[AGÊNCIA BRASIL] Empresas atingidas por tarifaço e guerras terão R$ 13,5 bi em crédito",
-      "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/empresas-atingidas-por-tarifaco-e-guerras-terao-r-135-bi-em-credito"
-    },
-    {
-      "title": "[CNN BRASIL] Com Serena, Alcaraz volta a jogar após 4 meses; horário e onde assistir",
-      "link": "https://www.cnnbrasil.com.br/esportes/tenis/com-serena-alcaraz-volta-a-jogar-apos-4-meses-horario-e-onde-assistir/"
-    },
-    {
-      "title": "[AGÊNCIA BRASIL] Medidas protetivas para mulheres crescem 43% no estado do Rio",
-      "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-08/medidas-protetivas-para-mulheres-crescem-43-no-estado-do-rio"
-    },
-    {
-      "title": "[CNN BRASIL] Crédito rural para soja tem divergências em 17,4% das operações, diz Serasa",
-      "link": "https://www.cnnbrasil.com.br/agro/credito-rural-para-soja-tem-divergencias-em-174-das-operacoes-diz-serasa/"
-    },
-    {
-      "title": "[MINAS GERAIS] Datafolha divulga números para presidente em SP, RJ e MG - Gazeta do Povo",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNb1VjM1BCY09xbTZQTWtoNDVrRElSUGQwczJTdTJOanJVWEhhNlJfMWRIMXZmczE0N3AzQVdUMEdlSlAwRnlrZG12b1RIYXM0MUlVN211RjgwRVZzS2NteFZ1ckQzOHJINWZKZV9GZ1AwamtyeFNWbXNFS3JLS1ZjMmtLV1JlRW5Rbi02eXRpX3pSSG1YZUd1Vjg2bm5sOERWajF6YlZoLUxpa3FHOTJNd2FjbkZ2ZUU?oc=5"
-    },
-    {
-      "title": "[MINAS GERAIS] Zema fala sobre dívida pública de Minas Gerais em entrevista à TV Globo - Estadão",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNQTcwY1dSN1d3aHZUVUhIc2FOZmJDbXJzQ3NCdS02eUlHYW83dXVEc3p6T0FuR0hPRjdDcGFiRjFtZGtvOFVCOHBzZmhVQjVLSzl5c2c1SFNVVWRRZVZKSjk2U0RoMEY0N1Q2VG1zbTJQcW1nN0Z3NG5LazRqM2NKdXhQZkhoaXpKa3BLdEc1b0wzQXpwbld6WTI3M0Zxd3dWaWNtSm9HdWl0ckxtM1BKdQ?oc=5"
-    },
-    {
-      "title": "[MINAS GERAIS] Acidente entre ônibus e caminhão deixa ao menos dois mortos e interdita BR-040 na Grande BH; VÍDEO - G1",
-      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNZHB4UkZnZWNNLXNiZFM1a055dkM1SmJqR29raDYzalpyYktTb3VsdFVIbzBibVB0ZzBFbUVjb3lmSGhOUElqN3RmbzFCSmhmUzBwQ3lKeXNkMHNCRmZBWVlYUmR4YnZ1YWJfZllCQV8wdVBEX2hDdnZ6SFFOQnRTYmRPOTZtV1ZoeTJJeE83QUEwbHdPazRMUnpZUjhmN0k4RWswa0ZsdTRIN0FaS3U4YWJPS19EeWJtMmtEWGRpNzdJRFBWNU1BZFhMZDhRdzVzTFNUd3R4VkRSTHlxTXVIRnczX3pXRWU5MnVr?oc=5"
-    },
-    {
-      "title": "[CNN BRASIL] Embaixada dos EUA emite alerta de segurança a “potencial ameaça” no México",
-      "link": "https://www.cnnbrasil.com.br/internacional/embaixada-dos-eua-emite-alerta-de-seguranca-a-potencial-ameaca-no-mexico/"
-    },
-    {
-      "title": "[AGÊNCIA BRASIL] Comércio eletrônico em compras federais é regulamentado",
-      "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/comercio-eletronico-em-compras-federais-e-regulamentado"
-    },
     {
       "title": "[AGÊNCIA BRASIL] Estados do Nordeste tentam atrair investimentos para Caatinga na COP17",
       "link": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-08/estados-do-nordeste-tentam-atrair-investimentos-para-caatinga-na-cop17"
     },
     {
-      "title": "[AGÊNCIA BRASIL] SBPC convida candidatos a governador a se comprometerem com a ciência",
-      "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/sbpc-convida-candidatos-governador-se-comprometerem-com-ciencia"
+      "title": "[CNN BRASIL] Aneel abre consulta sobre “teto” para subsídios na conta de luz",
+      "link": "https://www.cnnbrasil.com.br/infra/aneel-abre-consulta-sobre-teto-para-subsidios-na-conta-de-luz/"
     },
     {
-      "title": "[AGÊNCIA BRASIL] Unicef pede a candidatos mais ações de prevenção à violência infantil",
-      "link": "https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-08/unicef-pede-candidatos-mais-acoes-de-prevencao-violencia-infantil"
+      "title": "[MINAS GERAIS] Datafolha mostra Cleitinho liderando corrida pelo governo de Minas Gerais - VEJA",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZmJYeW5WU19EVFlzM3VsWjAycjlnWENnSS1zcTNOX3BuaTBaUmVTZGtPcUt0eUZ2emEyZUlIOTJSTTIxUGhxdTJhYVRVNlUteUtaUVFjV2Y4TWZlQWM5WGR2c3lsZUlnS0paNlB1eDJNT3RVbVBaSnM1M0owOG9oaDl4NF90cktPTTY1UmRDRzRMel9PZEVreGE4YlpUMDJFdzlPWjFqLXFJZFU?oc=5"
     },
     {
-      "title": "[CNN BRASIL] Flávio escolhe Alagoas para primeira agenda de campanha fora do Sudeste",
-      "link": "https://www.cnnbrasil.com.br/eleicoes/flavio-escolhe-alagoas-para-primeira-agenda-de-campanha-fora-do-sudeste/"
+      "title": "[MINAS GERAIS] Zema é interrompido por Renata Vasconcellos ao citar dívida de Minas Gerais - Terra",
+      "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPRk9uT2dVMFZqb1MtbnR2YWgzMHY5eTh1TlY4VjdvaFI1QUFFQ3JiRFNQMUFhOGVaZ1F5ZkhRdlNCX3BPM3FWWVE4VGs0WlFNS3Rzb2lVQ0FEdEdwTzJCTlhsWUZYREVLSG1sLURtWjNpQmNDbEVqWGRTa21wZUNSVHdkcXkwYmJWZExDX2tkcUl4b1FNTTQyU3JZTDhaNnBubUF5NG5tQUdnZEppTTUxUzJoZVNIY3BudVpsMW5iUVhRMTk4TTRQckJSYlRkVlZnYktBaGowNlp4MlNGNU1JdkNzZmI3NTZpdl9YaEg5ZzB6NEhyWHJ1QmNQcUdsSXlY?oc=5"
     },
     {
       "title": "[MINAS GERAIS] Acidente entre ônibus e caminhão deixa dois mortos em Minas Gerais - R7",
@@ -63,64 +27,100 @@
       "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxPQXRCTldCWkJ4aUpGaUFPVFpNZFdwbWtmUFdsUlpPbFNncTRBWk92UG80VmVmRjZjMS1wSDNNT2tMZ2pkMnFlbHNwdXJVdUhKUER3b3FNb2NhSlpXZGZpZUF2cldVcTZNVkhXSV9QYnZEM1p1TlBsN3B4VFlZTmdha0dhclI4QVg0OE5OM2Q0ZVBJSmh1NTJJbmtSS2VwOXViemxxOHJiOTdjMkQwNl82dElfRDdZNzduVTVhaDBRdmZkNExxSnJEM0pmcTVLUm1hMnpfcFd5OXJ1MlF1ZHhhN2xFbldndktCdkxyNWx5Y0lBV3VZTmh0bTlIQzdaSnotZTBaMGdyVU94azRhdm41c0RLZ0hFanPSAaYCQVVfeXFMUE5wYmJ1eGtPUzhmM3dUYjdERDZYeVY5SzhRS05pU0NRVDYxdS1laG9TbjRyVnIxQk9vRzhGb21lS0VSZjY3RXhtRGhGODdEY2d2dGc3SmoyRXJyVktGOG15QzJLTkExVVNfcWdEczFFdW1kUWJVdS1CeXZCS1EtNjkxY0c4bzdfZjFQQ1hTYk1mbHdvZ2lwOXJlYml1d01tTjhreTZwQ0MyVzVkcEhyWTh0OVBCdm5tMlVDRldCTl92MndrNzFxNmRPS21GaTVDSGMzdWJWTHg5STluVURhLVJzUTdpc3RjeVY4U2tJMnBDNDlhN0g2V3lzRjRDcHpsVV9yelZ5NTA1SXBjSFk4REx3RHdjbGtCRUd6TjdxcktYOUN0czln?oc=5"
     },
     {
-      "title": "[MINAS GERAIS] No estado de Minas Gerais, Lula (PT) lidera com 37%, ante 31% de Flavio Bolsonaro (PL) - 24/08/2026 - Eleições - UOL",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQLWZTQkNMM2dlT0E2cjZJdWJOMWpJS1pjM3BVY2pYZ3FBVmxsalU5YWUyNWNQRktCTGQ1MHRHZlBDc1RYWElQVFRhYUNGcHNrMG0yc2NzTnNoUTRpNzhETDNKYUlEQ05WU203MXEtOWd2d3lXLVcyMGR5VXZyMHNZMHlWODFwSGZINE1RRU1ydjRrZEhwM1c1SVQ3TGUxWGR0Q2wxZlhBYVFJb2lTLUp0U2FWY2x5OElHendFRkpobmRiOHE5R1BkXzFYLXF1VTVNUVE?oc=5"
+      "title": "[CNN BRASIL] Valencia x Betis: horário e onde assistir ao jogo do Campeonato Espanhol",
+      "link": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/futebol-espanhol/valencia-x-betis-horario-e-onde-assistir-ao-jogo-do-campeonato-espanhol/"
     },
     {
-      "title": "[MINAS GERAIS] “MG vai economizar R$ 34 bi que Pimentel não teve chance”, diz Lula - Poder360",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPRU4zWXlnUDZLM3lTX0pDSFFpWjQ5dVhZb2V0djFzYUdOMXlmTmtaOXNfMU9STE5hRTdQUmgxTExQWjVoVWtZSXF3ZW42cDNnWnhJaUVDbDFJM3c5WmR3eHZKMG9BelprR0JZdUdXdW1hTVJoYjgwLXNPeFZYdnlETUk2TEpEaTBIMDVpcjNMNDdXSXJsaXZzQndzTVBNMTZJc05MYmp6LXFEMFl6MEl6dmZ3?oc=5"
+      "title": "[AGÊNCIA BRASIL] Comércio eletrônico em compras federais é regulamentado",
+      "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/comercio-eletronico-em-compras-federais-e-regulamentado"
     },
     {
-      "title": "[AGÊNCIA BRASIL] Salário mínimo deverá subir para R$ 1.741 em 2027",
-      "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/salario-minimo-devera-subir-para-r-1741-em-2027"
-    },
-    {
-      "title": "[MINAS GERAIS] Datafolha mostra Cleitinho liderando corrida pelo governo de Minas Gerais - VEJA",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZmJYeW5WU19EVFlzM3VsWjAycjlnWENnSS1zcTNOX3BuaTBaUmVTZGtPcUt0eUZ2emEyZUlIOTJSTTIxUGhxdTJhYVRVNlUteUtaUVFjV2Y4TWZlQWM5WGR2c3lsZUlnS0paNlB1eDJNT3RVbVBaSnM1M0owOG9oaDl4NF90cktPTTY1UmRDRzRMel9PZEVreGE4YlpUMDJFdzlPWjFqLXFJZFU?oc=5"
-    },
-    {
-      "title": "[CNN BRASIL] PF aguarda informações da Polícia Civil para avançar em caso Dark Horse",
-      "link": "https://www.cnnbrasil.com.br/eleicoes/pf-aguarda-informacoes-da-policia-civil-para-avancar-em-caso-dark-horse/"
-    },
-    {
-      "title": "[AGÊNCIA BRASIL] CMN flexibiliza uso de recursos para renegociar dívidas rurais",
-      "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/cmn-flexibiliza-uso-de-recursos-para-renegociar-dividas-rurais"
-    },
-    {
-      "title": "[CNN BRASIL] Juventude x CRB: horário e onde assistir ao jogo da Serie B",
-      "link": "https://www.cnnbrasil.com.br/esportes/brasileirao/juventude-x-crb-horario-e-onde-assistir-ao-jogo-da-serie-b/"
-    },
-    {
-      "title": "[AGÊNCIA BRASIL] Pé-de-Meia começa a pagar quinta parcela de frequência nesta segunda",
-      "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-08/pe-de-meia-comeca-pagar-quinta-parcela-de-frequencia-nesta-segunda"
-    },
-    {
-      "title": "[MINAS GERAIS] Ônibus com passageiros de evento gospel são apedrejados em Minas Gerais - Estadão",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOQzR4TWk2OElYeVdUZVVJWmdrQkxsN05WeGNWc1FZbWw1M2cwYTZfRFBZMXRieFhGUXRzeUZnbVc4T05PMy1rSUszRUloMmo1clhYU3VWaGZZei1oRVcwUnFhb3Nsa3k5bFFOMmd2N2VPNnJWWVRaUEdhQ2Njb1BRVlVOUGd5ZzhJWmh0U2Jha0NVX0FMU2ZhWVBLY3dFbjVRSjh1YkRhRWtrUHJvSUlV0gG0AUFVX3lxTE5Fc2EwRzdjM09mdDRjaVJGOWVJMGlBYlR6Z1BmbmVfd0xIellZM1VRNzhFRTl1cnNIZXNHTEFRalZJN0J5MkdlNjMzQ1BkUHAxZ3lVNlBJbGdvTWZRWDVPTWViR2xuWE5xa1lvQ3dmRkp2NW55VFRkc3VTRTlaRW5GX05xSzZHcWNlbHl0V2syWjNHU2IwbzRsQUIyUUhreEx5WlNtU3BVMXBHMjE1VjV5SnBDTg?oc=5"
-    },
-    {
-      "title": "[MINAS GERAIS] Na Globo, Zema é interrompido ao citar dívida de Minas Gerais e defende privatização de estatais - Terra",
-      "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxOd3o5RWs0UzkzcEtvcmZPVHFaVnhhQzBmaGZ5UzU0cjJ6WlBtRU5OVi00cnQ4VktsTDhIZUlmWE1Kd3h3bm1nX0N2LU9sNE0yNjA4MjNiQmYzMHhIWURZXzB5QXhRS3FjaHEwSGt1NDhxelgtc2ZaWnRyakZnZU5hS0JCdTZYOG9aQ1JNNDBkaVpIU1ZSaWlEMEJHczdFdWdzZnJmUDYwaGltRjhqOHpGYUhQSFBYTHJISXROZHZySE5zNzV4T2VTdThVX2Y1eDVyVWJSWGNJWjl1QnBrX1BOTEw1bElKSkZoSzE2Y2RBUFdUVzd1VHRLeWRBWkJxOEhDVTNtZkV6RnFBcnJFbDJndVdR?oc=5"
-    },
-    {
-      "title": "[CNN BRASIL] Cruzeiro x Atlético-MG: horário e onde assistir a Copa do Brasil",
-      "link": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-brasil/cruzeiro-x-atletico-mg-horario-e-onde-assistir-a-copa-do-brasil/"
+      "title": "[MINAS GERAIS] Datafolha divulga números para presidente em SP, RJ e MG - Gazeta do Povo",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNb1VjM1BCY09xbTZQTWtoNDVrRElSUGQwczJTdTJOanJVWEhhNlJfMWRIMXZmczE0N3AzQVdUMEdlSlAwRnlrZG12b1RIYXM0MUlVN211RjgwRVZzS2NteFZ1ckQzOHJINWZKZV9GZ1AwamtyeFNWbXNFS3JLS1ZjMmtLV1JlRW5Rbi02eXRpX3pSSG1YZUd1Vjg2bm5sOERWajF6YlZoLUxpa3FHOTJNd2FjbkZ2ZUU?oc=5"
     },
     {
       "title": "[AGÊNCIA BRASIL] Veja como foi a segunda-feira (24) dos candidatos a presidente",
       "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/veja-como-foi-segunda-feira-24-dos-candidatos-presidente"
     },
     {
-      "title": "[CNN BRASIL] Master, Lulinha, INSS e Dark Horse elevam munição e desafios para campanhas",
-      "link": "https://www.cnnbrasil.com.br/eleicoes/master-lulinha-inss-e-dark-horse-elevam-municao-e-desafios-para-campanhas/"
+      "title": "[MINAS GERAIS] Ônibus com passageiros de evento gospel são apedrejados em Minas Gerais - Estadão",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOQzR4TWk2OElYeVdUZVVJWmdrQkxsN05WeGNWc1FZbWw1M2cwYTZfRFBZMXRieFhGUXRzeUZnbVc4T05PMy1rSUszRUloMmo1clhYU3VWaGZZei1oRVcwUnFhb3Nsa3k5bFFOMmd2N2VPNnJWWVRaUEdhQ2Njb1BRVlVOUGd5ZzhJWmh0U2Jha0NVX0FMU2ZhWVBLY3dFbjVRSjh1YkRhRWtrUHJvSUlV0gG0AUFVX3lxTE5Fc2EwRzdjM09mdDRjaVJGOWVJMGlBYlR6Z1BmbmVfd0xIellZM1VRNzhFRTl1cnNIZXNHTEFRalZJN0J5MkdlNjMzQ1BkUHAxZ3lVNlBJbGdvTWZRWDVPTWViR2xuWE5xa1lvQ3dmRkp2NW55VFRkc3VTRTlaRW5GX05xSzZHcWNlbHl0V2syWjNHU2IwbzRsQUIyUUhreEx5WlNtU3BVMXBHMjE1VjV5SnBDTg?oc=5"
+    },
+    {
+      "title": "[CNN BRASIL] Com Serena, Alcaraz volta a jogar após 4 meses; horário e onde assistir",
+      "link": "https://www.cnnbrasil.com.br/esportes/tenis/com-serena-alcaraz-volta-a-jogar-apos-4-meses-horario-e-onde-assistir/"
+    },
+    {
+      "title": "[MINAS GERAIS] Zema fala sobre dívida pública de Minas Gerais em entrevista à TV Globo - Estadão",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNQTcwY1dSN1d3aHZUVUhIc2FOZmJDbXJzQ3NCdS02eUlHYW83dXVEc3p6T0FuR0hPRjdDcGFiRjFtZGtvOFVCOHBzZmhVQjVLSzl5c2c1SFNVVWRRZVZKSjk2U0RoMEY0N1Q2VG1zbTJQcW1nN0Z3NG5LazRqM2NKdXhQZkhoaXpKa3BLdEc1b0wzQXpwbld6WTI3M0Zxd3dWaWNtSm9HdWl0ckxtM1BKdQ?oc=5"
+    },
+    {
+      "title": "[AGÊNCIA BRASIL] Unicef pede a candidatos mais ações de prevenção à violência infantil",
+      "link": "https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-08/unicef-pede-candidatos-mais-acoes-de-prevencao-violencia-infantil"
+    },
+    {
+      "title": "[CNN BRASIL] Com alta demanda, GWM Ora 5 sobe de preço e já custa R$ 164 mil",
+      "link": "https://www.cnnbrasil.com.br/auto/com-alta-demanda-gwm-ora-5-sobe-de-preco-e-ja-custa-r-164-mil/"
+    },
+    {
+      "title": "[AGÊNCIA BRASIL] Pé-de-Meia começa a pagar quinta parcela de frequência nesta segunda",
+      "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-08/pe-de-meia-comeca-pagar-quinta-parcela-de-frequencia-nesta-segunda"
+    },
+    {
+      "title": "[AGÊNCIA BRASIL] Medidas protetivas para mulheres crescem 43% no estado do Rio",
+      "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-08/medidas-protetivas-para-mulheres-crescem-43-no-estado-do-rio"
+    },
+    {
+      "title": "[MINAS GERAIS] No estado de Minas Gerais, Lula (PT) lidera com 37%, ante 31% de Flavio Bolsonaro (PL) - 24/08/2026 - Eleições - UOL",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQLWZTQkNMM2dlT0E2cjZJdWJOMWpJS1pjM3BVY2pYZ3FBVmxsalU5YWUyNWNQRktCTGQ1MHRHZlBDc1RYWElQVFRhYUNGcHNrMG0yc2NzTnNoUTRpNzhETDNKYUlEQ05WU203MXEtOWd2d3lXLVcyMGR5VXZyMHNZMHlWODFwSGZINE1RRU1ydjRrZEhwM1c1SVQ3TGUxWGR0Q2wxZlhBYVFJb2lTLUp0U2FWY2x5OElHendFRkpobmRiOHE5R1BkXzFYLXF1VTVNUVE?oc=5"
+    },
+    {
+      "title": "[CNN BRASIL] PF aguarda informações da Polícia Civil para avançar em caso Dark Horse",
+      "link": "https://www.cnnbrasil.com.br/eleicoes/pf-aguarda-informacoes-da-policia-civil-para-avancar-em-caso-dark-horse/"
     },
     {
       "title": "[CNN BRASIL] Decisão do STF acaba com emenda indicada por presidente de partido, entenda",
       "link": "https://www.cnnbrasil.com.br/politica/decisao-do-stf-acaba-com-emenda-indicada-por-presidente-de-partido-entenda/"
     },
     {
+      "title": "[MINAS GERAIS] Acidente entre ônibus e caminhão deixa ao menos dois mortos e interdita BR-040 na Grande BH; VÍDEO - G1",
+      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNZHB4UkZnZWNNLXNiZFM1a055dkM1SmJqR29raDYzalpyYktTb3VsdFVIbzBibVB0ZzBFbUVjb3lmSGhOUElqN3RmbzFCSmhmUzBwQ3lKeXNkMHNCRmZBWVlYUmR4YnZ1YWJfZllCQV8wdVBEX2hDdnZ6SFFOQnRTYmRPOTZtV1ZoeTJJeE83QUEwbHdPazRMUnpZUjhmN0k4RWswa0ZsdTRIN0FaS3U4YWJPS19EeWJtMmtEWGRpNzdJRFBWNU1BZFhMZDhRdzVzTFNUd3R4VkRSTHlxTXVIRnczX3pXRWU5MnVr?oc=5"
+    },
+    {
+      "title": "[CNN BRASIL] Crédito rural para soja tem divergências em 17,4% das operações, diz Serasa",
+      "link": "https://www.cnnbrasil.com.br/agro/credito-rural-para-soja-tem-divergencias-em-174-das-operacoes-diz-serasa/"
+    },
+    {
+      "title": "[AGÊNCIA BRASIL] CMN flexibiliza uso de recursos para renegociar dívidas rurais",
+      "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/cmn-flexibiliza-uso-de-recursos-para-renegociar-dividas-rurais"
+    },
+    {
       "title": "[CNN BRASIL] Recuperações judiciais em meio à campanha viram munição para rivais de Lula",
       "link": "https://www.cnnbrasil.com.br/eleicoes/recuperacoes-judiciais-em-meio-a-campanha-viram-municao-para-rivais-de-lula/"
+    },
+    {
+      "title": "[AGÊNCIA BRASIL] Salário mínimo deverá subir para R$ 1.741 em 2027",
+      "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/salario-minimo-devera-subir-para-r-1741-em-2027"
+    },
+    {
+      "title": "[MINAS GERAIS] Datafolha para presidente: saiba quem lidera as intenções de voto em Minas Gerais - BHAZ",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOeTVVa19LYkRucWZXREI2QWFibzZyVjZoYWQyeTRSM01tSlVFRzJxTTBTNXJEWEM4V0hDWnNnRmhsNllEQW1rUU1oOUZ4NWtDSTlPX0s3cWk2ZHRoYUlsMVg3R05DR3lBcEc3WGRJNlIyaXNqdEY0cy1peUp1ejB2dV9zOURhakJEX2xDOUxsekRDZEZpeENv?oc=5"
+    },
+    {
+      "title": "[AGÊNCIA BRASIL] Empresas atingidas por tarifaço e guerras terão R$ 13,5 bi em crédito",
+      "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/empresas-atingidas-por-tarifaco-e-guerras-terao-r-135-bi-em-credito"
+    },
+    {
+      "title": "[AGÊNCIA BRASIL] SBPC convida candidatos a governador a se comprometerem com a ciência",
+      "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/sbpc-convida-candidatos-governador-se-comprometerem-com-ciencia"
+    },
+    {
+      "title": "[CNN BRASIL] Master, Lulinha, INSS e Dark Horse elevam munição e desafios para campanhas",
+      "link": "https://www.cnnbrasil.com.br/eleicoes/master-lulinha-inss-e-dark-horse-elevam-municao-e-desafios-para-campanhas/"
+    },
+    {
+      "title": "[CNN BRASIL] Data center da Elea e Axia (ex-Eletrobras) é alvo de investigação no Pará",
+      "link": "https://www.cnnbrasil.com.br/infra/data-center-da-elea-e-axia-ex-eletrobras-e-alvo-de-investigacao-no-para/"
     }
   ]
 }
