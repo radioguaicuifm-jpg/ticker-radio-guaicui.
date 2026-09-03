@@ -1,86 +1,126 @@
 {
   "source": "Radio Guaicui - Noticias",
-  "updated_at": "2026-09-03T15:06:41.218181+00:00",
+  "updated_at": "2026-09-03T18:39:31.246086+00:00",
   "items": [
+    {
+      "title": "[CNN BRASIL] “Melhor do que Nos Filmes”: Netflix anuncia elenco; veja quem é quem",
+      "link": "https://www.cnnbrasil.com.br/pop/streaming/melhor-do-que-nos-filmes-netflix-anuncia-elenco-veja-quem-e-quem/"
+    },
     {
       "title": "[AGÊNCIA BRASIL] Frente fria leva chuva ao Sudeste e parte do Centro-Oeste",
       "link": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-09/frente-fria-leva-chuva-ao-sudeste-e-parte-do-centro-oeste"
     },
     {
-      "title": "[CNN BRASIL] Ancelotti visita o Real Madrid antes de 1ª convocação da Seleção pós-Copa",
-      "link": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/ancelotti-visita-o-real-madrid-antes-de-1a-convocacao-da-selecao-pos-copa/"
+      "title": "[CNN BRASIL] Mantiqueira investe R$ 565 milhões em expansão e automação",
+      "link": "https://www.cnnbrasil.com.br/agro/mantiqueira-investe-r-565-milhoes-na-ampliacao-da-producao-de-ovos/"
     },
     {
-      "title": "[CNN BRASIL] Jogadores da Copa geram mais de R$ 16,8 bilhões em transferências na janela",
-      "link": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/jogadores-da-copa-geram-mais-de-r-168-bilhoes-em-transferencias-na-janela/"
+      "title": "[CNN BRASIL] Diretoria do Corinthians se reune com o presidente da Conmebol",
+      "link": "https://www.cnnbrasil.com.br/esportes/futebol/corinthians/diretoria-do-corinthians-se-reune-com-o-presidente-da-conmebol/"
     },
     {
-      "title": "[CNN BRASIL] PL dos minerais críticos divide mineradoras e cria racha no setor",
-      "link": "https://www.cnnbrasil.com.br/infra/pl-dos-minerais-criticos-divide-mineradoras-e-cria-racha-no-setor/"
+      "title": "[CNN BRASIL] Nikolas diz que Vorcaro “ajudou” em 2022, mas minimiza conversas vazadas",
+      "link": "https://www.cnnbrasil.com.br/politica/nikolas-diz-que-vorcaro-ajudou-em-2022-mas-minimiza-conversas-vazadas/"
     },
     {
-      "title": "[CNN BRASIL] Esquema usava ex-agentes fiscais para fazer lobby e fraude tributária em SP",
-      "link": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/esquema-usava-ex-agentes-fiscais-para-fazer-lobby-e-fraude-tributaria-em-sp/"
-    },
-    {
-      "title": "[CNN BRASIL] Branqueamento dos corais: efeito devastador está mudando a realidade no mar e o tempo para recuperá-los é cada vez menor",
-      "link": "https://www.cnnbrasil.com.br/comportamento/branqueamento-dos-corais-efeito-devastador-esta-mudando-a-realidade-no-mar-e-o-tempo-para-recupera-los-e-cada-vez-menor/"
-    },
-    {
-      "title": "[AGÊNCIA BRASIL] ONU prevê El Niño \"muito forte\" com duração até fevereiro de 2027",
-      "link": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-09/onu-preve-el-nino-muito-forte-com-duracao-ate-fevereiro-de-2027"
-    },
-    {
-      "title": "[CNN BRASIL] Grupo 3corações conclui compra da Yoki e da Kitano",
-      "link": "https://www.cnnbrasil.com.br/economia/money/negocios/grupo-3coracoes-conclui-compra-da-yoki-e-da-kitano/"
-    },
-    {
-      "title": "[AGÊNCIA BRASIL] Confira a agenda dos presidenciáveis nesta quinta-feira (3)",
-      "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/confira-agenda-dos-presidenciaveis-nesta-quinta-feira-3"
-    },
-    {
-      "title": "[CNN BRASIL] Mourinho cobra Asencio no Real Madrid após condenação e novo julgamento",
-      "link": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/mourinho-cobra-asencio-no-real-madrid-apos-condenacao-e-novo-julgamento/"
-    },
-    {
-      "title": "[AGÊNCIA BRASIL] Mega-Sena sorteia prêmio acumulado de R$ 41 milhões nesta quinta",
-      "link": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-09/mega-sena-sorteia-premio-acumulado-de-r-41-milhoes-nesta-quinta"
-    },
-    {
-      "title": "[AGÊNCIA BRASIL] Vasco e Palmeiras avançam e se enfrentam na semi da Copa do Brasil",
-      "link": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-09/vasco-e-palmeiras-avancam-e-se-enfrentam-na-semi-da-copa-do-brasil"
-    },
-    {
-      "title": "[AGÊNCIA BRASIL] CBF anuncia amistosos da seleção brasileira contra Japão e Singapura",
-      "link": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-09/cbf-anuncia-amistosos-da-selecao-brasileira-contra-japao-e-singapura"
-    },
-    {
-      "title": "[CNN BRASIL] Luana Piovani desabafa sobre peso da maternidade após briga com Scooby",
-      "link": "https://www.cnnbrasil.com.br/pop/celebridades/luana-piovani-desabafa-sobre-peso-da-maternidade-apos-briga-com-scooby/"
-    },
-    {
-      "title": "[CNN BRASIL] Apple encara processo bilionário no Reino Unido por regras de rastreamento",
-      "link": "https://www.cnnbrasil.com.br/economia/money/tecnologia/apple-encara-processo-bilionario-no-reino-unido-por-regras-de-rastreamento/"
-    },
-    {
-      "title": "[AGÊNCIA BRASIL] Avanço dos EUA sobre recursos estratégicos pauta o Brasil no Mundo",
-      "link": "https://agenciabrasil.ebc.com.br/cultura/noticia/2026-09/avanco-dos-eua-sobre-recursos-estrategicos-pauta-o-brasil-no-mundo"
+      "title": "[MINAS GERAIS] Justiça suspende shows de R$1,8 milhão pagos com dinheiro público em Minas Gerais - Patos Hoje",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOZ2ExdnRMVlJOc1lFUnJ4RDJlTkVzdERxbnlzUkhOaUY5TjBmUDV6dkY2aGNCTlhUOTJHbm8tdml4LW01dkhNdm50Mkw2M08tVW5lY1BZVEdzRDNXdTNiQXlSZUJSR0dmbGJWVUZzX0l4LTZPSTEteHp1ODluWWUxUlYwaUNDXzc1Rjc1SFJLdm9XWFVkd3hma28tTnRvTlQ1M0ZtLUFfdU9sOXJCUHVHMWpzQWVTSzRpbmx2V1lMOVR3dw?oc=5"
     },
     {
       "title": "[AGÊNCIA BRASIL] MP denuncia envolvidos em lavagem de dinheiro por meio de bets",
       "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/mp-denuncia-envolvidos-em-lavagem-de-dinheiro-por-meio-de-bets"
     },
     {
-      "title": "[AGÊNCIA BRASIL] Procurador defende asfixia financeira no combate ao crime organizado",
-      "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/procurador-defende-asfixia-financeira-no-combate-ao-crime-organizado"
+      "title": "[CNN BRASIL] Bianca Andrade se pronuncia sobre boatos de romance com Pedro Scooby",
+      "link": "https://www.cnnbrasil.com.br/pop/celebridades/bianca-andrade-se-pronuncia-sobre-boatos-de-romance-com-pedro-scooby/"
+    },
+    {
+      "title": "[AGÊNCIA BRASIL] Avanço dos EUA sobre recursos estratégicos pauta o Brasil no Mundo",
+      "link": "https://agenciabrasil.ebc.com.br/cultura/noticia/2026-09/avanco-dos-eua-sobre-recursos-estrategicos-pauta-o-brasil-no-mundo"
+    },
+    {
+      "title": "[MINAS GERAIS] Mobilidade urbana hackeada: entenda o que acontece em MG - O GLOBO",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPTTNPYVNOT28wZ2U1NVdjZ0ZJVENOdkNaWGluM1B3RFJ0Q2tlcmwxd09kVUVlcHVNOVVsN0psNVNiaUlwaFZyeHZMN0kxWVNfTVhiRHVocmdBUE95UnQ1YlVmNC1vc3p2RzVUX1R1R252aDQtZGNXRU0xUzdsZlpQQkxWdlY4dG5KcG1ES19sbnZCQjZOTGxvczdUY3dic2xiLTZfcnptbnR1dDVIT0o0MGNWRXhwNm5zbGNDYWNkSXhtQdIB0AFBVV95cUxOaWYwTjduclc4U1hnWWNWN241Q29fVms3MEpvNnFYam5sSTFYTmtzaTVQcEtkWG5rT0FlU19pRzJPY3ZGTVFsaTVtenQ4MlMyNzZERVdoV0hacFB0eHJ0d1puOFBja1R4dTEwQTFQV2lDcEpDYXpXTVV1WUxLdGJHWHd2cWlVU3ZOOFNiYm9GdWNBLXRzdENhY1BxbTBsYnhpTnE2enBUdTdJNmxSY2xRTG9pdzBHeWd1MThmWk1LN25sNnlFZUdTSG9YdG52RDFW?oc=5"
+    },
+    {
+      "title": "[CNN BRASIL] Snowflake eleva receita a US$ 1,55 bilhões no 2° tri com demanda por IA",
+      "link": "https://www.cnnbrasil.com.br/economia/money/negocios/snowflake-eleva-receita-a-us-155-bilhoes-no-2-tri-com-demanda-por-ia/"
+    },
+    {
+      "title": "[MINAS GERAIS] Nova pesquisa testa Kalil, Cleitinho, Simões e Patrus na disputa pelo governo de Minas - VEJA",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQWE96YlgzRFNCQXU3cDFBeUZTT1gzdHVWUFEtSmt2Q0Y2MTZORDBRZlhUYkkzZTJkYzV0eXB0cU9IQ2tkN0xpdmkwZjN4OWQ1bVVmNXUxM3Q1WURXdEpia0lTNndpWXpRXzY1eWZkb2FNYTh2bDdObGFveUVDQ0pCb1hRS05BejhMcnUtNmItRUxlV2lpRG5BTzVFQjlEN213cWo5QnFlR0NheHBhU1hEallDZkF3OHA5ZzE5Rw?oc=5"
+    },
+    {
+      "title": "[CNN BRASIL] Lito Sousa sai do hospital e continua cuidados paliativos em casa",
+      "link": "https://www.cnnbrasil.com.br/pop/celebridades/lito-sousa-sai-do-hospital-e-continua-cuidados-paliativos-em-casa/"
+    },
+    {
+      "title": "[AGÊNCIA BRASIL] Em áudio, Nikolas pede ajuda a Vorcaro para liberar ativo de minério",
+      "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/em-audio-nikolas-pede-ajuda-vorcaro-para-liberar-ativo-de-minerio"
+    },
+    {
+      "title": "[AGÊNCIA BRASIL] ONU prevê El Niño \"muito forte\" com duração até fevereiro de 2027",
+      "link": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-09/onu-preve-el-nino-muito-forte-com-duracao-ate-fevereiro-de-2027"
+    },
+    {
+      "title": "[MINAS GERAIS] Juiz veta shows de Ana Castela e Mioto em cidade de MG com 4 mil habitantes - UOL",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQQWNCaTVRQ3hHemxtbGVXYVlyc0tJdW41SGV6Vk1Bd2Vja3VzS2dodENocjRSYlVrazAtQk4tSEd3cjAwS2ZaZ2lENVI2bTZBNGxpbVpFUWwyNHBoZy00cUliaVNIMm92aFh2TktacXpNVEpYaTItY0tBOWk1ZFJQQzlNN2FEVERia2lfSE14Vl9jdW13MGlrblFabVFrdlk?oc=5"
+    },
+    {
+      "title": "[MINAS GERAIS] Eleições 2026: veja todos os candidatos ao Senado por Minas Gerais - G1",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQbktSUEh6WVVwamJCX1hDMy1xd3pzRnZPZ3ZGbnBPTEotNVZxZ0FhZnVxVHlYUnZ4SXpDeDBaRUpNLXl0RWRQV3R5Y3BPUlVuX21aMHlOUW5LNHJ4bDBWblBIVmRES1VqZ2lKRUhRcmV3bGhUcUxmWjdVSEdVVS1oUVAtX1JEN0VIdjNmM19lNGRtb1ZkUmZOWUN3S0VNcDh2UXB0ZXl2WTVOZlFQZ3dRd01wZWhCV05DOFYzYjl5QnBSSk51ZDNGQ1htLVpfUDVxTm5Mb3lLcXnSAecBQVVfeXFMTlpQSmgxZjZSYUNiSTZ6MzdpNGpXSmNJMnF5YUVXMk5LVzlPNkVFMVpFMkp6NWRHa2JGdGk5UmlOVDc4djVra1NNZ0Z6UmZLaEhFVlljY0lfUWJKS0pNMUlxbnhIN0dYSWJjWno5QVEzbEpJcWdLOEQ2SnRzeVNOMUtJZHhfUTY5NlhMaFRYZmRLSlNVUEVNN2JOWWJwZDBUeWpnN0ZlZG0yWFc3Tm53aTlQWDgxQ19mUzc5RFhyU1FEV1ZyRzgxUXhscHRleTloLVI0ejlvOEhJRDN2TUFEbFJpYjdmVzh3?oc=5"
+    },
+    {
+      "title": "[MINAS GERAIS] Nestlé investirá R$ 2 bilhões até 2028 e plano prevê nova fábrica em Minas Gerais - InfoMoney",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOdldCdFN3VHBwZjBicVZXeFZ1SGxvTUdRcEYzN2NSSFc0TzcyZ1BER1QyaFN5SVVsaTZmMzRpeFZXYkpzVGt0clc4REh3cWYtYVFkWVp1eUxtZGNUbzF5VFBFa042bWdTMnZsWTItRWkwNG9yVTBEaVVSZ1JoN19aczBCQUJPenNxamZsZ3Z1Zi0zd0lCMkhxaWtvZnE4d0pRUlBRWElkRXNwbzIzWC1Tcmc3M2hnQ2FKVXEw0gHAAUFVX3lxTFAtc0VqdUhJODNVT2J5YXViMWdVOVVmN1RJSGRGdF9ubmlHQUZ4X1V6clpmdEZidDc3UDQ5WlNWX0RNblVwSGJvLUZkUS13NmY2OHZWeGNSR2NIVlJKbmFCUkFrMTRza2dsN2NXUGh3Y3RxczNhM1p6d0Ywb21WTFF3Q1VpZHFQUXRqTUZuSjJodzNwTlIwMFJWMjNBc000UkFEdVBIMWxaT2VIVWhIWElSYy1DT1VXQjluSVI5elF4cw?oc=5"
     },
     {
       "title": "[AGÊNCIA BRASIL] Em 5 anos, furto de fios de cobre no Rio deu prejuízo de R$ 69 milhões",
       "link": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-09/em-5-anos-furto-de-fios-de-cobre-no-rio-deu-prejuizo-de-r-69-milhoes"
     },
     {
-      "title": "[CNN BRASIL] Leonardo DiCaprio no Brasil: saiba relação do ator com o país",
-      "link": "https://www.cnnbrasil.com.br/pop/celebridades/leonardo-dicaprio-no-brasil-saiba-relacao-do-ator-com-o-pais/"
+      "title": "[CNN BRASIL] Trump diz que EUA buscarão reembolso da Europa por ajuda militar à Ucrânia",
+      "link": "https://www.cnnbrasil.com.br/internacional/trump-diz-que-eua-buscarao-reembolso-da-europa-por-ajuda-militar-a-ucrania/"
+    },
+    {
+      "title": "[AGÊNCIA BRASIL] MPSP faz operação para aprofundar investigações da Operação Ícaro",
+      "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/mpsp-faz-operacao-para-aprofundar-investigacoes-da-operacao-icaro"
+    },
+    {
+      "title": "[MINAS GERAIS] Líder religioso é preso suspeito de crime sexual contra criança em Coronel Fabriciano - G1",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOSWs0N3pPY01DSkUxcEs2NzlBMi1aQ28yVmNNR2ZxX1pmVHpZQ3NxUEU4UlhVSlhhaXQwcGNhZks1aEp2NEdzVVZYRW5uNVNsMEJxR2VnZHk2RE5zWGM2TDdoMmVzTjBLWlMyckhENjUtQmlaWkdMODFPLXNqMHZaZGo3YzlfWlk5X2t5TVhLUjdVRTJsSWVNOERlWUJ1bHBEMHJIa29HTFhXS0lUeHdOU3NxMHJ3VUoxUWltN05salV5S0VYVGJjbDZaUFZDOHljWU9WVXV3Wkx5ZkXSAeoBQVVfeXFMUGJWWlgtZm5aQVMtdWVvSlRocHloQ0FKZFEwUXhxYkQtVnViVmtYOWlPRkVTRVdQZEs4N2JyN3JOVGFYSFdLMjh6U2dWVXROSHZNbC1JZm5sRmNBak9LS25fV3c4RGwycFRlOFB3aGpvRDRLWEdIa0dpbE40NnkxUm9KakJCRTdMdTloaXUtemJPUGxyMW9MSWJnZ0VtaVlWSjZDREk0cU02WURRSzk1UTJMY3N6NHJBYXRtaG9TOWV1dkpMV0taY3dRR2djSmZBZ3RKWVlKaUJaY0FKX2YtSURvSFhCenVKZThn?oc=5"
+    },
+    {
+      "title": "[CNN BRASIL] Com aumento da violência, Roma declara “zona vermelha” ao redor do Coliseu",
+      "link": "https://www.cnnbrasil.com.br/internacional/com-aumento-da-violencia-roma-declara-zona-vermelha-ao-redor-do-coliseu/"
+    },
+    {
+      "title": "[AGÊNCIA BRASIL] Procurador defende asfixia financeira no combate ao crime organizado",
+      "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/procurador-defende-asfixia-financeira-no-combate-ao-crime-organizado"
+    },
+    {
+      "title": "[AGÊNCIA BRASIL] Mendonça diz que deixará sociedade no Instituto Iter",
+      "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/mendonca-diz-que-deixara-sociedade-no-instituto-iter"
+    },
+    {
+      "title": "[CNN BRASIL] Aos 31 anos, campeão da Copa com a Espanha anuncia aposentadoria da seleção",
+      "link": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/futebol-espanhol/aos-31-anos-campeao-da-copa-com-a-espanha-anuncia-aposentadoria-da-selecao/"
+    },
+    {
+      "title": "[AGÊNCIA BRASIL] Confira a agenda dos presidenciáveis nesta quinta-feira (3)",
+      "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/confira-agenda-dos-presidenciaveis-nesta-quinta-feira-3"
+    },
+    {
+      "title": "[MINAS GERAIS] Justiça suspende contratação de shows de Ana Castela e Gustavo Mioto em cidade de 4 mil habitantes em MG - G1",
+      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNVkEzc3l1bnA0ZVp6bW9LMzlvNERhMDZKNUNpQlNnc3VYSUhIQzd5eW9tZV9DcDl1WWdYYk5WdHdYSkh1UzR2c1AweFY1UWFvSXh4a3JEeGZsYzJ4Y1JpVE9VQmJTdjJnNTlSZWdOTGYxcDZQeWlmc2lHMnU0dXdZcGhMa2x0c194WlF0NjBRaVo3Y1Vkem5naGRPeWlkY25DdDE5RTFUdFFkcGdYc181UlE0aDNjMXN3dEhVYVNMQzF0dWFtMl96TFUyLWZqWUxyUWhxVEVWOFdhMXZ3Mkx3THNHTTZHLVFhN1c5LWY5MFhXem1keTZUWjNn0gGIAkFVX3lxTE1XLS1yUURteUlCc0RkcGN0bEJ1ZUlXRmlIZ3FFZmFXY08zY25QZUNuQXF6MUhsbTduSWUtQ0IyX2pFbkhGSHR3RXAyYnRPcTRiTmFmN0FPUHdKSFpLTHN6V0ZQeVVLby1xeHVEdUZoMTdvT0RvbU8zU2lnWG5BNlBRekE0ZG1JTk4ybHJGRllJeGRwNzJPUGRiUW8zc2VtVTQzMGVzOVhLaHM4czNhX0RFeHUxbHJENFF6czFsUXFFV0dYS1MtSXdiREU3SVVTeFRqM0VMcl9ZTkFEU0FWaHVUOF92RWM0akVYcGVBNi16dVh6dE9KR0ZFMm81VzBRQW5JUTZzQWQ1YQ?oc=5"
+    },
+    {
+      "title": "[MINAS GERAIS] Eleições 2026: entre likes e votos, quem Minas Gerais vai levar para Brasília? - Brasil de Fato",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZ2VWSkEzWEJIRXBSdWUxbUk3VWNEd01weENPbmJkdlFwWWFCc1RHV0JsbnY2YVJ5czVaYVpFVUJ2VkhXR0VWSFQ2U0lXUzNIMXI4M2RvM0pkbFVuNHg3RWxrc1ZGVXRsWTZhUlBObGFMaXkycEp1X2RDX056b05wQVRtcVZvSkNJankxR3Q0TERQeEM2aXJkT2sxTU1QQThyU0EwVldsM2xSNmxQbHVZMFpUc09zV085bkdj?oc=5"
+    },
+    {
+      "title": "[MINAS GERAIS] Inter 1 entrevista Patrus Ananias (PT), candidato ao governo de MG - G1",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPOF84M0d4UnNHYkpCc3RSOUEtUmVFYW51MFN0ajFtMkUtdFJJUkZpS1p4cWVZUWM0MkRSR1pnejhvbFdVZmRCYk9pNldidnNYT2pmWG1ZSm11UUxtMk4yTDVwSGZvTFUwUk5XQ24xZUV1cUk2RndOOGpOZ2ZIRVBWVExEZzlGd0RJcFRGLXZtVkhGLUdKamVDelFjN3VQekIzN1lOMFJrNnprQ2plVEVTNUJJdHhPVGVwdHQ3ZG11bnJVQ0ItS0U2VUhlU3nSAdsBQVVfeXFMT09kYnZtcVhkUDVVbWxLNGlQUkx6NE1VcUhtX3VsMDY2RGJEUG1rUm9kd0R0STJDUmhJRy15TVpES0FBdWtrTk8tb1Fhb2QzVDdRRUlpZEpXR0NQYTZfNF9KUjZOR3J5bEpKendFSHZYYndNRkZmd2lEVVdUZ2lINUJ3WElhLW1HRUh4VDNCeTNZQ3M1V1BSd1J3S0U2b3N3WktDQW8yNnBtd1JTMXBDUWJTdmROc1c4aG1aT01oZmJRZ09hakcxZEEzNFByaFJzZzBBMUMwZHlWRXZv?oc=5"
     }
   ]
 }
