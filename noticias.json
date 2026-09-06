@@ -1,126 +1,86 @@
 {
   "source": "Radio Guaicui - Noticias",
-  "updated_at": "2026-09-06T06:00:42.657729+00:00",
+  "updated_at": "2026-09-06T10:57:06.999564+00:00",
   "items": [
     {
-      "title": "[MINAS GERAIS] Justiça Eleitoral de Minas Gerais rejeita registro de candidatura de Eduardo Cunha - CartaCapital",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNX1daU0RuMTkzT1JSemJxc2hnRzhsZ3dtNE5yVmtQYW02eWhzbzZqaVBLTFJCLS1VZV82MXIzMktXZWRQUXNHeXR0NFFYbzNlRjFybnpwbnYxR0VrMUt1UDBaZ0tyd3lKMDlCZHBIWFMybVBaRlZCLUh4bUN1R2ZaLUhsQTJScE40Um05Y19UQUNNVGV2a21RT0h5Y0RfNW9IUUFPZjJ2NkdCX0stdDlWSm9Rdkh1ZzYtRF9fQTAyOS11UQ?oc=5"
+      "title": "[CNN BRASIL] Piloto salva colega de carro em chamas após acidente em corrida na China",
+      "link": "https://www.cnnbrasil.com.br/esportes/piloto-salva-colega-de-carro-em-chamas-apos-acidente-em-corrida-na-china/"
     },
     {
-      "title": "[MINAS GERAIS] Duda Salabert denuncia agressão e ameaças durante fiscalização contra mineração ilegal em Minas Gerais - Brasil 247",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPQktWUmVMeTNqN0lqaElpUmFtUEZlVmFCb3FMamV6N0hIOFY4NmF1dEs2WV93Uy1NRW9jY3Vyc3ZvMVUzcWlvUkVta2czTmlZb3E3dERyOG5JQ2pMMXZZTXNaQVJ2eFVqNFNjaDFKOHBldm5aMk1pTlZxTzhld09pUmJqeDd3MkJFTjI3U01nTlNsMTdhbndEMEtESHJSSnE5ZkVwaEZ2R2hWUE1fZ25ycDFGcC1wckhUTTh0b0xtcnY3STRPUUFuM01wNUpHTFRSbk5j?oc=5"
-    },
-    {
-      "title": "[CNN BRASIL] Qual é a origem do sanduíche? Descubra a história por trás de um dos pratos mais famosos no Brasil e em todo o mundo",
-      "link": "https://www.cnnbrasil.com.br/curiosidades/qual-e-a-origem-do-sanduiche-descubra-a-historia-por-tras-de-um-dos-pratos-mais-famosos-no-brasil-e-em-todo-o-mundo/"
-    },
-    {
-      "title": "[CNN BRASIL] Londrina x Operário-PR: horário e onde asisstir ao jogo da Série B",
-      "link": "https://www.cnnbrasil.com.br/esportes/brasileirao/londrina-x-operario-pr-horario-e-onde-asisstir-ao-jogo-da-serie-b/"
-    },
-    {
-      "title": "[MINAS GERAIS] Nestlé anuncia fábrica de R$ 600 milhões em Minas Gerais; saiba onde - Diário do Comércio",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1qYWV2VW1jUm9NUVVlYmpKbTc5OTZLX0hsLWNWdGZXd2xVOTZMOUZkTUJhQVJIZ2xvbVZkNHF4UkVlUHRSbTVCdW5uYlo5V211YkRYM044aXlCdVlBcER0SGtvbGJfcGk3LWdHQl9NcDR3VFBWNmI5Ug?oc=5"
-    },
-    {
-      "title": "[AGÊNCIA BRASIL] Ex-técnico da Seleção, Parreira recebe alta após 80 dias internado",
-      "link": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-09/ex-tecnico-da-selecao-parreira-recebe-alta-apos-80-dias-internado"
-    },
-    {
-      "title": "[AGÊNCIA BRASIL] STF: Mendes propõe vetar delegados da PF como assessores de ministros",
-      "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/stf-mendes-propoe-vetar-delegados-da-pf-como-assessores-de-ministros"
-    },
-    {
-      "title": "[MINAS GERAIS] Rui Costa Pimenta, candidato do PCO à Presidência, faz campanha em Minas Gerais - G1",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxObDRkOFNTbFlxT2IyOVZhWDZUeFJtUE9WU1VHZEpyUVhRSDQ5RE9JQ3Y1bnVVV2w1OXVLemZXMjhnWEhaMENPVlg3TWZlS1MySDJ2ZUw4WlFTQmJmb0paRXBQQmVEVlVtS2tQZGFCUkc3ZzVvZzgtSXFBR1BmRDMyUUtsd2o2UTBtT3Z2NHk2c3Jjb2pVV2tFcndObFdoRDk2U29PUDJfelE5TlF3a092TjQ5MG5BMVRueVpnOHk2N0pVMDZ6ZVg3QlR3b28tUdIB3AFBVV95cUxNRXhfQkdTenRob2lyTHUxWFoxU0dDN19rVHJlaVgtUk9mSUVXNjh3Q3NzcDJWVWN2RGFQelR4aXJhOE82bUtyUUl0cTY5aUE0cXVfZWVkOHpycWV5ZElld09aeWdEbFFSVGpYRXJ6cGt5dWJiaW5rNU5leTFNVW1nYTdJb0F4NEV4dF9MSVBfTUNvSHZpRnJtYXA5NUFENkU4RFBFcUU2RFNNR2VNdWhLa25ybjFWakhocDFiZW5OR2l1dFZPRnVmWXMtVFV4bzVFVE5aSTVjR1dGS1JT?oc=5"
-    },
-    {
-      "title": "[CNN BRASIL] Juiz “peita” Canobbio em Fluminense x Vasco, e Hulk se revolta: “Nunca vi”",
-      "link": "https://www.cnnbrasil.com.br/esportes/futebol/fluminense/juiz-peita-canobbio-em-fluminense-x-vasco-e-hulk-se-revolta-nunca-vi/"
-    },
-    {
-      "title": "[AGÊNCIA BRASIL] Anvisa aprova importação de remédio experimental para piloto Lito",
-      "link": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-09/anvisa-aprova-importacao-de-remedio-experimental-para-piloto-lito"
-    },
-    {
-      "title": "[MINAS GERAIS] Homem é preso em Minas Gerais por perseguir e ameaçar ex-companheira na Bahia - Jornal Correio",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQWGljcUo2UGxGSERXaFJWYW9fMC1VNEFlbWxBWGs0NllmT3Btb1duMmNPXzZSRzIzMzI2NGJzTTNTU2JFMVZ1OGg0cE5BM3cwQzluZ3BWdTRwVWhxTVNJbUdCd002WW5PN2JIaTF5QzlWQXVoeWd0QU83VVNUMmlxc1l3Z3VfaXp0cWFsLUhpS09aRURTMnRDaFlHUTNsamF5aS02VUtSMEtvN0JJemRadlQtZkczZm53dE92MXczRQ?oc=5"
-    },
-    {
-      "title": "[MINAS GERAIS] Nestlé investirá R$ 2 bilhões até 2028 e plano prevê nova fábrica em Minas Gerais - InfoMoney",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOdldCdFN3VHBwZjBicVZXeFZ1SGxvTUdRcEYzN2NSSFc0TzcyZ1BER1QyaFN5SVVsaTZmMzRpeFZXYkpzVGt0clc4REh3cWYtYVFkWVp1eUxtZGNUbzF5VFBFa042bWdTMnZsWTItRWkwNG9yVTBEaVVSZ1JoN19aczBCQUJPenNxamZsZ3Z1Zi0zd0lCMkhxaWtvZnE4d0pRUlBRWElkRXNwbzIzWC1Tcmc3M2hnQ2FKVXEw0gHAAUFVX3lxTFAtc0VqdUhJODNVT2J5YXViMWdVOVVmN1RJSGRGdF9ubmlHQUZ4X1V6clpmdEZidDc3UDQ5WlNWX0RNblVwSGJvLUZkUS13NmY2OHZWeGNSR2NIVlJKbmFCUkFrMTRza2dsN2NXUGh3Y3RxczNhM1p6d0Ywb21WTFF3Q1VpZHFQUXRqTUZuSjJodzNwTlIwMFJWMjNBc000UkFEdVBIMWxaT2VIVWhIWElSYy1DT1VXQjluSVI5elF4cw?oc=5"
-    },
-    {
-      "title": "[CNN BRASIL] Thiago Mendes vê Vasco melhor em derrota: “Detalhes fazem a diferença”",
-      "link": "https://www.cnnbrasil.com.br/esportes/futebol/vasco-da-gama/thiago-mendes-ve-vasco-melhor-em-derrota-detalhes-fazem-a-diferenca/"
-    },
-    {
-      "title": "[AGÊNCIA BRASIL] Brasileiro Feminino: Flamengo encara São Paulo em uma das semifinais",
-      "link": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-09/brasileiro-feminino-flamengo-encara-sao-paulo-em-uma-das-semifinais"
-    },
-    {
-      "title": "[MINAS GERAIS] Eleições 2026 - Candidatos a Deputado Federal em Minas Gerais - G1",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNcEg3bm9tRUJxd2JlUmtIbVRKQlJNT1UwWmkzZU8ySkxKTG9OUTVZYlotQVlMWWFEXzNrWmZQTjdkX0w5MGw3cHE3X3J4NlVTOEFrU3oxRUFQYUxYNVVVOEZkTV81ZFV5Q25rRTBsbWN4YmpBcm9FSHA2NWNaMFVIQXJoRVdPLWlPVnZlU1ZRZ1pvYVRBbjc5QS1YZldoc0hRLUdPeDNlV2lROGowdGp1MUV4QjY1bGpPQWVzbi11di1Od9IB0AFBVV95cUxOaGo3R2xjQWdVS3JJaUdoNXgwYl9GSHhPZDY2ZHlGN3YwY0sxWWVTZ3gxdWE3aG1KTmxwWlNLMVpuYy1QWVVId3NHTXpHQll6dERZMm5FNEVMNUtZLTlMbEZOZ1phVmRRS1JMSXZwREhhd0lmVmJ4ZWZZX1hYdGJPZko4cXpXcVBpMzJCR3lFOWF4Vl9DLUxzYS1ubWNrMmhPMUdoeTZBREM4bjJvSXFsUU9JcTNUZV9EcDRoa3Nxc05tbmxHTFpaNTBxUXRQYjFi?oc=5"
-    },
-    {
-      "title": "[AGÊNCIA BRASIL] Dallagnol divulga sigilo fiscal de Zanin, que pede responsabilização",
-      "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/dallagnol-expoe-sigilo-fiscal-de-zanin-que-pede-responsabilizacao"
-    },
-    {
-      "title": "[CNN BRASIL] Fluminense 1 x 0 Vasco: veja os melhores momentos pelo Brasileirão",
-      "link": "https://www.cnnbrasil.com.br/esportes/brasileirao/fluminense-1-x-0-vasco-veja-os-melhores-momentos-pelo-brasileirao/"
-    },
-    {
-      "title": "[MINAS GERAIS] Nestlé terá fábrica de R$ 600 milhões em Minas Gerais - Rádio Itatiaia",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNWlJGRXpEc1F3TWUtT2hLNWZoN2dkSGIwMWowWjJta2tXRjIwX0dSZkJ0UU5HVGJmdGp6aGVXMkZZeDlpTVVEZ0V5ZTJjOW5uYW51SHhjc21vak1fT3dFeUkzVUwwUDJPeDVDcVMxS19QajBoVTNpbFFwbWZMSW9QOU5Ud3A1NDBFV1RLd0NmM0RUNkts?oc=5"
-    },
-    {
-      "title": "[MINAS GERAIS] Morre o ex-deputado Olinto Godinho - Portal da Assembleia Legislativa de Minas Gerais",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPNWs4cU9rdmlicERoazFDX3ZCWmtWeG9UQmFNN2w5akJSQ2J2QkgyX3huNWFFSlQtbkJxazBQblFRUHFHN1Q5WnZCRE9lSnNIUnc2S1g3MmwtMGtsZGVwZDlOckJQX0xrT2xfTWlnUGt6YTFVZU0teERXUnNrNFlfMTdQSHljWS05V0pWWEtodldvb3c?oc=5"
-    },
-    {
-      "title": "[CNN BRASIL] “Você é um escolhido e ungido do Senhor”, diz Michelle sobre Mendonça",
-      "link": "https://www.cnnbrasil.com.br/politica/voce-e-um-escolhido-e-ungido-do-senhor-diz-michelle-sobre-mendonca/"
-    },
-    {
-      "title": "[AGÊNCIA BRASIL] Alison dos Santos conquista o título da Liga Diamante pela 3ª vez",
-      "link": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-09/alison-dos-santos-conquista-o-titulo-da-liga-diamante-pela-3a-vez"
-    },
-    {
-      "title": "[AGÊNCIA BRASIL] Brasil leva ouro na Copa do Mundo de paratriatlo e no parabadminton",
-      "link": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-09/brasil-leva-ouro-na-copa-do-mundo-de-paratriatlo-e-no-parabadminton"
-    },
-    {
-      "title": "[CNN BRASIL] “A Professora de Piano”: drama psicológico chega ao streaming; saiba onde",
-      "link": "https://www.cnnbrasil.com.br/pop/streaming/a-professora-de-piano-drama-psicologico-chega-ao-streaming-saiba-onde/"
-    },
-    {
-      "title": "[CNN BRASIL] Incêndio atinge galpão na Ceagesp, na zona oeste de São Paulo",
-      "link": "https://www.cnnbrasil.com.br/nacional/incendio-atinge-galpao-na-ceagesp-na-zona-oeste-de-sao-paulo/"
+      "title": "[CNN BRASIL] À CNN, Bruna Griphao expõe bastidor de série com cenas ousadas: “À vontade”",
+      "link": "https://www.cnnbrasil.com.br/pop/celebridades/a-cnn-bruna-griphao-expoe-bastidor-de-serie-com-cenas-ousadas-a-vontade/"
     },
     {
       "title": "[AGÊNCIA BRASIL] Bahia abre 26ª rodada do Brasileirão com triunfo sobre o Bragantino",
       "link": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-09/bahia-abre-26a-rodada-do-brasileirao-com-triunfo-sobre-o-bragantino"
     },
     {
+      "title": "[AGÊNCIA BRASIL] Ex-técnico da Seleção, Parreira recebe alta após 80 dias internado",
+      "link": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-09/ex-tecnico-da-selecao-parreira-recebe-alta-apos-80-dias-internado"
+    },
+    {
+      "title": "[CNN BRASIL] Falta dinheiro e papel: Ordens de Trump para voto pelo correio têm desafios",
+      "link": "https://www.cnnbrasil.com.br/internacional/falta-dinheiro-e-papel-ordens-de-trump-para-voto-pelo-correio-tem-desafios/"
+    },
+    {
       "title": "[AGÊNCIA BRASIL] Justiça condena pais a indenizar filho expulso por orientação sexual",
       "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/justica-condena-pais-indenizar-filho-expulso-por-orientacao-sexual"
     },
     {
-      "title": "[CNN BRASIL] Valencia x Barcelona: horário e onde assistir ao jogo de LaLiga",
-      "link": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/futebol-espanhol/valencia-x-barcelona-horario-e-onde-assistir-ao-jogo-de-laliga-2/"
+      "title": "[CNN BRASIL] As condições ocultas para casar com a princesa Leonor; confira as regras para fazer parte da realeza espanhola",
+      "link": "https://www.cnnbrasil.com.br/curiosidades/as-condicoes-ocultas-para-casar-com-a-princesa-leonor-confira-as-regras-para-fazer-parte-da-realeza-espanhola/"
     },
     {
-      "title": "[CNN BRASIL] Coritiba x Mirassol: horário e onde assistir ao jogo do Brasileirão",
-      "link": "https://www.cnnbrasil.com.br/esportes/brasileirao/coritiba-x-mirassol-horario-e-onde-assistir-ao-jogo-do-brasileirao/"
+      "title": "[AGÊNCIA BRASIL] STF: Mendes propõe vetar delegados da PF como assessores de ministros",
+      "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/stf-mendes-propoe-vetar-delegados-da-pf-como-assessores-de-ministros"
     },
     {
       "title": "[AGÊNCIA BRASIL] Novo campus da UFSCar terá bacharelados interdisciplinares",
       "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-09/novo-campus-da-ufscar-tera-bacharelados-interdisciplinares"
     },
     {
-      "title": "[MINAS GERAIS] Parte de estrutura de shopping desaba, atinge carro e deixa dois feridos em MG - G1",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPZzZpSmJRYVVWVUNuUk9Cd2FKWXVNM0dsWE9HVkFyS0VqVVJXdlk0Ukc2aEdOZnQ3V01XbFJPM0RyRDRnOU4zTjlMV2xCOExwWEt0OXN5eV9YWUIzV0J5Qkh3TEtqTkMwcVlKY0p0MUpkaXo4V19qOHY2cFc3OFp0OE1DSkh6SUhjWjlabFU4NFRkU3Nzdl9MRnpaV1pHMG9lVTduYldaeXJEeV9ENE04UlVPNF9PcENZd1VzeXlHMWl4Uk13SVQ5VmV1U3l6RmRfRHfSAeABQVVfeXFMTnpxZjc2TGZEUWd5LXpZTUFmNWtNOWMtay1DekVuX2JTTjNkZVFQd2NGbVUtZkJWbmpIVUN5NzE1YW5USl8wTTRPUU1RUkttYTFFNHc5WG5kbzU5OGR0bTdNOURXUjd3S1UxVzlGQ0dQNFlyVmtsTFgwZ2Y5QlBHR2E3bjl0emlGLXFWZWlhTE43TGNTdDBfb2d5Y1R3bXA3N2N2M2VTNHhIUktSSVZIbU91bTVIOE5WUXEySkdxRDltZUZmTS1pcWFhTlJZdEh1V2pwb0JtUVhyek0xS3ZjUmE?oc=5"
+      "title": "[CNN BRASIL] Calvin Harris no Rock in Rio: veja provável setlist para o show",
+      "link": "https://www.cnnbrasil.com.br/pop/musica/calvin-harris-no-rock-in-rio-veja-provavel-setlist-para-o-show/"
+    },
+    {
+      "title": "[CNN BRASIL] Partido de direita da Alemanha busca virada história em eleições estaduais",
+      "link": "https://www.cnnbrasil.com.br/internacional/partido-de-direita-da-alemanha-busca-virada-historia-em-eleicoes-estaduais/"
+    },
+    {
+      "title": "[CNN BRASIL] Sem Neymar, Santos tem duelo direto com o Internacional na luta contra o Z4",
+      "link": "https://www.cnnbrasil.com.br/esportes/brasileirao/sem-neymar-santos-tem-duelo-direto-com-o-internacional-na-luta-contra-o-z4/"
+    },
+    {
+      "title": "[AGÊNCIA BRASIL] Brasil leva ouro na Copa do Mundo de paratriatlo e no parabadminton",
+      "link": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-09/brasil-leva-ouro-na-copa-do-mundo-de-paratriatlo-e-no-parabadminton"
+    },
+    {
+      "title": "[AGÊNCIA BRASIL] Alison dos Santos conquista o título da Liga Diamante pela 3ª vez",
+      "link": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-09/alison-dos-santos-conquista-o-titulo-da-liga-diamante-pela-3a-vez"
+    },
+    {
+      "title": "[AGÊNCIA BRASIL] Dallagnol divulga sigilo fiscal de Zanin, que pede responsabilização",
+      "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/dallagnol-expoe-sigilo-fiscal-de-zanin-que-pede-responsabilizacao"
+    },
+    {
+      "title": "[AGÊNCIA BRASIL] Brasileiro Feminino: Flamengo encara São Paulo em uma das semifinais",
+      "link": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-09/brasileiro-feminino-flamengo-encara-sao-paulo-em-uma-das-semifinais"
+    },
+    {
+      "title": "[CNN BRASIL] Liderança do Brasileirão pode mudar após 19 rodadas; entenda cenários",
+      "link": "https://www.cnnbrasil.com.br/esportes/brasileirao/lideranca-do-brasileirao-pode-mudar-apos-19-rodadas-entenda-cenarios/"
+    },
+    {
+      "title": "[AGÊNCIA BRASIL] Anvisa aprova importação de remédio experimental para piloto Lito",
+      "link": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-09/anvisa-aprova-importacao-de-remedio-experimental-para-piloto-lito"
+    },
+    {
+      "title": "[CNN BRASIL] A cidade onde o mar avança cerca de 5 metros por ano e destrói casas na areia",
+      "link": "https://www.cnnbrasil.com.br/curiosidades/a-cidade-onde-o-mar-avanca-cerca-de-5-metros-por-ano-e-destroi-casas-na-areia/"
+    },
+    {
+      "title": "[CNN BRASIL] Witkoff e Kushner levam plano de paz dos EUA a Kiev após reunião com Putin",
+      "link": "https://www.cnnbrasil.com.br/internacional/witkoff-e-kushner-levam-plano-de-paz-dos-eua-a-kiev-apos-reuniao-com-putin/"
     }
   ]
 }
