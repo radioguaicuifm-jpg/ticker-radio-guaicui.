@@ -1,14 +1,82 @@
 {
   "source": "Radio Guaicui - Noticias",
-  "updated_at": "2026-09-08T00:56:26.458507+00:00",
+  "updated_at": "2026-09-08T05:43:48.503677+00:00",
   "items": [
     {
-      "title": "[CNN BRASIL] Cury: Condenações do 8/1 foram exageradas e não houve golpe materializado",
-      "link": "https://www.cnnbrasil.com.br/eleicoes/cury-condenacoes-do-8-1-foram-exageradas-e-nao-houve-golpe-materializado/"
+      "title": "[AGÊNCIA BRASIL] Policial militar é preso suspeito de feminicídio em Embu das Artes",
+      "link": "https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-09/policial-militar-e-preso-suspeito-de-feminicidio-em-embu-das-artes"
+    },
+    {
+      "title": "[MINAS GERAIS] Acidente entre carro e carreta deixa duas pessoas mortas na BR-381, em MG - G1",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOQWZ1OW40a1ItU2IxOXNMdGpLa01CV2ZWaTNCTEhickpUX2d3WGVvdkxnbmJXc3RCMGVrRmxtNDdtQ0J3R05KblhZQnhLMWhnY3NIelFQaGZwbFNldTl6bEFuTnd5SExlUzBGTFloVjQyX1VBUUhWV3JEXy11S2RSS1BxUVVYNjRIRC1uckJqeWNyXzRBTmF6ZUQ4d2cxZjNtYUdMdldOV3EyVUE4RmJHblc3Si1KRE8ySE9DNGd2Y29uSkZ4Q3R0VjJMZ3dpRkVP0gHfAUFVX3lxTE5pYXk0Zjc0MUw2RVpOUW1NSnk5WmZpNUtjb19ha3oySk9jZVZsdkJGZ1BrMjdtQmtXWVB2UkUtbWRXcnVMYlllUHB1NFFHTlBVR2IxUDVVdlZzZmxpMG56YXhaM0pfYXFualB2RlMxeVpqMG9NaTdDNTlTRGRheUxFcGdZVnhpM2lkeXdWTURWa3VjVU53YmFXT1NXR3RJVlZGWG9vQzJjdGpPTkgxREx0cllPV3YwYVRSSGhzelFlaWNkUlVPY3VCMFM3RHQyQTZla2ZZckFUNkhrSDdEOHM?oc=5"
+    },
+    {
+      "title": "[MINAS GERAIS] Dois homens morrem atropelados na BR-459, em Senador José Bento, MG - G1",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPVkhlUi1BSF9mTzgzVE9kT1NDZlNMUFNIM2xvNmRmRS1iYlBqT3c3X2pHS2xLQWgwVnlYbWdTMGhLUUFYd0JzTjJlOTJicmI5RlQxb1JwUURMM1U1OExLLU4yWjFEM0k1Vm9raUhiVTdPUVE3TFpPRzdOMWFKYW5QUEo3RW1kTXI5NXfSAZgBQVVfeXFMUE4tT0twV3kwN1N1SkNsRWNoajBoUG5uYTJQWHRWbkNpY0FwSjhyOEFsOHdQVHJBVHBiNTBVZmF1WUpJQ3hzaEVzWEoybmdkNG5odG5tMkZjcU1TUm9NakZBcTluVUxNUllIb05hdi1QeE1qUzhfSTE4RUJRTVM1ZWdnOTJBMlZjajBnNlhLdk1BZV9ud1VnWXE?oc=5"
+    },
+    {
+      "title": "[MINAS GERAIS] Tempestades e granizo ameaçam 360 cidades de Minas, diz Inmet; veja lista - Rádio Itatiaia",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNazBieG5xUVlTVXc2NWg2ZWRyaEdaSkJtWjdYd3ZUNzU4UWZnci1lV3pRbmJiQmxqdTF2NkRyMURCMThPOW5rYXptdEhncEdWSmMxRW92OC16bFJlQmZvNExrbHpYZUJhWW02eDJEdmtfYWs5WW5fUDNFTEtiYTlVVVBMWnVJdTJmYU5lSUNjbFVDbDFtaG1MUmJIV3FjQU9MV2c4eGZFcVFzNGFYX3dqNC15QmwtNlAta3c?oc=5"
+    },
+    {
+      "title": "[MINAS GERAIS] INMET emite alerta de 'tempestade' para 129 cidades do Norte, Centro e Noroeste de MG - G1",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPYlhpU0t4Y3VyZUpNdW15cW5MNWZGYjdJY19XUmk2YllsdXVxc05Fa2c1VUZYXzNnZ0F4MzJ4U2pFd0o4T1pOQ0hHWmxUSEw4LWFkc2w0alVLcl9kdFJURkVBUldCRXdvajNzd1Fzcy1TaGZkaTRBQkY3LU1sNkdjbUMtdFZxRXJIV040ZTJSUm41U2tMM3V0QUwzemh5MHNJNkxwcEpWUkZGOXl5UTRqRklNWDUtZWh6a0xJQXlqWFY5dmROMUt6Vi13WGJpZkpiQnU2XzJrVGp6TjNZ0gHrAUFVX3lxTE43NDBmdkpWczVQTGpTUmZ6RHJaM1R4QklzZEFDU1VMeU9YTFBzOFNFaW81N0VJN2NZRXBqRnFNdkkxSE1VZTFoR2JBSF8zTTVhRUU2UGRkSUFuZFo1VWZZd3J2NnN0YTU2WVlwcHVtNlpSRFBadjQxa2FCZ3FDeTkyNlpNejlqUVZWbWtYdnVEMGxqSkR4Z1I1RXlCTUljTHBkNTE4REZZMm45cDFzaWJQRHloeVdFU250azhrbUZSb3Z4SEQwUGY3MFdwMEstMHJIamJjRUVqeWdqcmdxSk85UE84c24wUklSeDQ?oc=5"
+    },
+    {
+      "title": "[CNN BRASIL] Indonésia reabre aeroporto de Jacarta após dispersão de cinzas vulcânicas",
+      "link": "https://www.cnnbrasil.com.br/internacional/indonesia-reabre-aeroporto-de-jacarta-apos-dispersao-de-cinzas-vulcanicas/"
+    },
+    {
+      "title": "[MINAS GERAIS] Justiça Federal suspende licenças da mina da Sigma Lithium em Minas Gerais - CNN Brasil",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOMWY2SUVQampmdGVVV2xjLW5GTW5DNHlnYm5xMWswOHBqVFByeFMybVBIajZXTGpNbXdSMzN4b19PWFlkZnFpZ1NxbUFCQmRhbVgxQWJGeTMwVUdheDdvZ2t3amJsWVJHdzZMdTlDV0w3dGVuQVA5bnZGc0s2c1l0Y0o0NWxxZXV4Q0NtV0hyYzNVVVJRMGhiNXNSU2hydjlRX2ROWFNFVzQ3elBMcUtZ?oc=5"
+    },
+    {
+      "title": "[AGÊNCIA BRASIL] Vasco e Atlético-PI decidem vaga para final do Brasileirão Feminino A2",
+      "link": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-09/vasco-e-atletico-pi-decidem-vaga-para-final-do-brasileirao-feminino-a2"
+    },
+    {
+      "title": "[MINAS GERAIS] Tempestades ameaçam feriado de 7 de Setembro em Minas Gerais - aqui.uai.com.br",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOS1FtQ2pFSTdNOHFzc29abk5YZHJ3R19uVUUzM28xR3dvTnJFY1gzTnFrSDEwZzJ1MUx5QVllRFJvQmx0dV9weTc4cWdEV2dJTTRzMUl5VHdPdTlaWUZ2U1NqNFNGak9oU19SSjloY01fYjVRdkdZZTJWZzc5dzNpbjlvQVROT1pfcjVsOWNBZ2pMQ1IxeUFpQ1dn0gGfAUFVX3lxTE1teFRrRlgxU2Vkd0Y1XzhYQ1FYU1NrckxyQmVvckhfRjc1eUlHOUdXai1yYzROZmdUUHZjcTd0LTdoUnRkWWE4cG0zMU1zSVExdmJRbjVzNUx6dDFrT2NQSlpGVWhrQk5LdFpMM1c2Nm9qeGtsc3hNam1hT3hNY2VuSVlfVHJyblBGOEw2SThEbXhkeWI5ajBJREgwYXhDaw?oc=5"
+    },
+    {
+      "title": "[MINAS GERAIS] Bebê de 3 meses viraliza nas redes em vídeo em que parece responder 'bom dia' à irmã em MG - G1",
+      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOZDRfWDhMY2xUeDQyakZEdjAteVk0R3duOHpXQXFiZUJSTi1TTGFtaV9tRGg3OG1WeVc3NmtDYnA2TGdhTC04aE43Mi1SeVFubGs4c1B3Si14akRrTkRFRE4wYl9jemxiamdWTXVndE5rTHBsYzU4c0VMSUFmY3RuQlBiVERjX1BYTmxaOXFKaG1ydk5ZanlNQzlPRU11NERVTUFhYk9pY2tTN1pFVmxuSUcyMDZjM1Y0dGtVUFJLd1lqejRJM3Mzd1hadm1GaVBlaUpjTUY4dkdQLTItS3BKX0lJUUNEN1nSAfYBQVVfeXFMTnBodE1vTFBIN0JpQktkOFQxNzRuc1pVSjNucXBlWHNiWmVnSlFZc0VaS3FUU0Z5RVlLSGdNeGc2WERyOXZhZVZjMHRoazBJaEZmRHhTM0poQ01MaUxYQmoxOWw4NThycjJVRmg5RnZCeGtFRFQwaU5oSmdRS3ROVlR4ZlFwRHR1RHdBMURwUWZaNGtRZzBETUxmbU1Md1dwdnNqYk5CcDViUGpPVEIwckcxUTdzZGtLbnloUDlXQUFFYTczYms5OU1QZzlKdVRLb0ZsZE5GRmluV2FUTmtzaEZDSUpET21kYkpaODZzOF95ZllvV1BR?oc=5"
+    },
+    {
+      "title": "[CNN BRASIL] Crise de Moraes gera mais desgaste que caso Lulinha, diz CEO da Dharma",
+      "link": "https://www.cnnbrasil.com.br/eleicoes/crise-de-moraes-gera-mais-desgaste-que-caso-lulinha-diz-ceo-da-dharma/"
+    },
+    {
+      "title": "[AGÊNCIA BRASIL] Luisa Stefani vai às quartas de final nas duplas femininas do US Open",
+      "link": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-09/luisa-stefani-vai-quartas-de-final-nas-duplas-femininas-do-us-open"
+    },
+    {
+      "title": "[AGÊNCIA BRASIL] Brasileiro Feminino: Corinthians vai às semifinais e enfrenta o Bahia",
+      "link": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-09/brasileiro-feminino-corinthians-vai-semifinais-e-enfrenta-o-bahia"
     },
     {
       "title": "[MINAS GERAIS] Justiça Federal paralisa atividade de mina de lítio em Minas Gerais - Agência Brasil",
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQeFFuLVBtQnNMeVlWQzZSemE4aVEyYW9XMG04elVYSlZwTjh3OWlXV3hGaTZ1cGs5OVRJdUI5RmlqdTNlaE8yQlFTWGo5SE9iQWg0OEZRZmFUOFk4amhPc2lZZFp4aWxDZDZYc0trQk83Sl9FVjZkb205RjdsSThEeUdWeDJkS1ZUTHhWc1FfSU5tOEVYSmMzUXBZLWw4Zkt4TEFGZWVpTWhWM1B2Q1ZQOUxUT2xEN2pDTU5pU2dPdV9tQQ?oc=5"
+    },
+    {
+      "title": "[CNN BRASIL] Ataques houthis deixam 73 feridos na Arábia Saudita, diz porta-voz militar",
+      "link": "https://www.cnnbrasil.com.br/internacional/ataques-houthis-deixam-feridos-na-arabia-saudita-diz-porta-voz-militar/"
+    },
+    {
+      "title": "[AGÊNCIA BRASIL] Veja como foi a segunda-feira (7) dos presidenciáveis",
+      "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/veja-como-foi-segunda-feira-7-dos-presidenciaveis"
+    },
+    {
+      "title": "[AGÊNCIA BRASIL] Brasil encerra Mundial de paraciclismo de estrada com cinco medalhas",
+      "link": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-09/brasil-encerra-mundial-de-paraciclismo-de-estrada-com-cinco-medalhas"
+    },
+    {
+      "title": "[MINAS GERAIS] MG: duas pessoas morrem e quatro ficam feridas em grave acidente na BR-381 - Metrópoles",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPbHluUXZfSDZNVkYyOThNdnhSNzVFTGhmT3FZNk5oa0NNZWw1MVFGc2lUQUNVRVJvd0l2SW50TGdjY01rYTFrNmZ1X2tTNkZUMWxOamFlM1RWYXpoNHppcEFwcm5aaFlRYXlPLU84VkJOTnhKa04zMVRqY3pHM3BtbTlzRm9hbVVtRllLRmlGNFJfLWg1eVg0eDZoM0JMNUloSEJNWEhROTNQdjZTNk9USVduOA?oc=5"
+    },
+    {
+      "title": "[AGÊNCIA BRASIL] Equipes de resgate do Nepal buscam 900 trabalhadores de hidrelétricas",
+      "link": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-09/equipes-de-resgate-do-nepal-buscam-900-trabalhadores-de-hidreletricas"
     },
     {
       "title": "[AGÊNCIA BRASIL] Grito dos Excluídos tem atos em defesa por moradia e contra violência",
@@ -19,108 +87,40 @@
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQTkJJOVZXLTkwTEd2YUFRZlE1UWd4UGE4MmtkaG1JZWVCODBZZXZVcmJ0ZVlTaXFQR0trTks1VUNjaDZ4OVhiZEZUbnY2NkF0cExkXzI0dXMycUNoTGdXT212a2tZVmdfc2lReTJ2MUxLRFNlek1md2ZJQUt1SktWb1daMXZUcXJZVC1CUzN4NVJyUzR4SU9ZM25qMDYwWUNr?oc=5"
     },
     {
-      "title": "[AGÊNCIA BRASIL] Equipes de resgate do Nepal buscam 900 trabalhadores de hidrelétricas",
-      "link": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-09/equipes-de-resgate-do-nepal-buscam-900-trabalhadores-de-hidreletricas"
+      "title": "[CNN BRASIL] Luís Castro lamenta desempenho do Grêmio como visitante no Brasileirão",
+      "link": "https://www.cnnbrasil.com.br/esportes/futebol/gremio/luis-castro-lamenta-desempenho-do-gremio-como-visitante-no-brasileirao/"
     },
     {
-      "title": "[MINAS GERAIS] Uai, Japão? Carnaval em Tóquio leva referências a Minas Gerais - Estado de Minas",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQRjRSY0FVLWlzR1VubWRCaUNSc25BNE1RaGNCWUEyZ3d6T0pvb1hUdXMwZW1TbTJtTEZ0TXh3bHJ2TklOTW5nQ3ZYZ3lvTmZVZDJ5ajFjbE0wMkYza0hGaldVa2I2ZW1fZ1pLQ2tBQXRFczZLZFUtck5aUzREN3g1cnZwSVdSTHZ1ZndkbFJxakZFUDJVNXRmckg1YWZBRmFlc1NEMC1xenhpYmkxYnFiamtjUzBZbHlC0gG-AUFVX3lxTE01UDBlTVFOa2JkaW1pTHk3R2kwcFhFUHRGOWNZVVRxZUhmN2RKRHhUdkVSMUFXRVZBRDZ0c1B2SDYwMDZpcVo2c21obk1OampaMFJNVjVlSnNDQXRxQnRJVnpJR3IwTUs2YThUVExNTGVBdTZaT3FialBTejlhdEU1X2kwQjhHeDEwYlFlckVORDFod1h6T0J6X3ZienAzSVJIYUY4X2FMQjJTX3Mxdkd2Q1FXQlc5R1prMDVseVE?oc=5"
+      "title": "[CNN BRASIL] Corinthians desembarca para pegar o Estudiantes com desfalque de peso",
+      "link": "https://www.cnnbrasil.com.br/esportes/futebol/corinthians/corinthians-desembarca-para-pegar-o-estudiantes-com-desfalque-de-peso/"
     },
     {
-      "title": "[AGÊNCIA BRASIL] Brasil encerra Mundial de paraciclismo de estrada com cinco medalhas",
-      "link": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-09/brasil-encerra-mundial-de-paraciclismo-de-estrada-com-cinco-medalhas"
+      "title": "[CNN BRASIL] Quem são os candidatos ao Senado pelo Mato Grosso do Sul em 2026",
+      "link": "https://www.cnnbrasil.com.br/eleicoes/quem-sao-os-candidatos-ao-senado-pelo-mato-grosso-do-sul-em-2026/"
     },
     {
-      "title": "[MINAS GERAIS] Justiça Federal suspende licenças da mina da Sigma Lithium em Minas Gerais - CNN Brasil",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOMWY2SUVQampmdGVVV2xjLW5GTW5DNHlnYm5xMWswOHBqVFByeFMybVBIajZXTGpNbXdSMzN4b19PWFlkZnFpZ1NxbUFCQmRhbVgxQWJGeTMwVUdheDdvZ2t3amJsWVJHdzZMdTlDV0w3dGVuQVA5bnZGc0s2c1l0Y0o0NWxxZXV4Q0NtV0hyYzNVVVJRMGhiNXNSU2hydjlRX2ROWFNFVzQ3elBMcUtZ?oc=5"
+      "title": "[CNN BRASIL] Tarifas de retaliação do Canadá entram em vigor em meio a impasse com EUA",
+      "link": "https://www.cnnbrasil.com.br/economia/tarifas-de-retaliacao-do-canada-entram-em-vigor-em-meio-a-impasse-com-eua/"
     },
     {
-      "title": "[CNN BRASIL] Eleições 2026: veja a ordem de votação na urna eletrônica",
-      "link": "https://www.cnnbrasil.com.br/eleicoes/eleicoes-2026-veja-a-ordem-de-votacao-na-urna-eletronica/"
+      "title": "[CNN BRASIL] Goleiro do Grêmio critica regra “anti-cera” e afirma: “Impossível competir”",
+      "link": "https://www.cnnbrasil.com.br/esportes/brasileirao/goleiro-do-gremio-critica-regra-anti-cera-e-afirma-impossivel-competir/"
     },
     {
-      "title": "[AGÊNCIA BRASIL] Tradicional desfile cívico-militar é realizado no Rio de Janeiro",
-      "link": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-09/tradicional-desfile-civico-militar-e-realizado-no-rio-de-janeiro"
-    },
-    {
-      "title": "[CNN BRASIL] Quem são os candidatos ao Senado por Mato Grosso em 2026",
-      "link": "https://www.cnnbrasil.com.br/eleicoes/quem-sao-os-candidatos-ao-senado-por-mato-grosso-em-2026/"
-    },
-    {
-      "title": "[MINAS GERAIS] Cleitinho anuncia apoio a Sávio e Marco Antônio Superman ao Senado em MG - CNN Brasil",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNOUptQl84QWdYLW80NkZWczBLeFdpdzRaT1ZIVGhMZ0hlSDBVZWh2RkgyRVFUaEdiTnExNFdXQTVFRUdYQkxod2pHUWRPSG5pblR3NHQySnNKbTlrR1FwaTFBa2NLb3J2WXB3MThXa0RrWmwzTlpUZGNwcUsyWEp5ZWhaOTJ3MmtHcURDd3hNdi1OTVVGNTBQRE1hWjVFXzRzbDUxY2xlTlhVeWVBWF9Lbg?oc=5"
-    },
-    {
-      "title": "[CNN BRASIL] Homem morre atropelado na via do trem no Rio",
-      "link": "https://www.cnnbrasil.com.br/nacional/sudeste/rj/homem-morre-atropelado-na-via-do-trem-no-rio/"
+      "title": "[CNN BRASIL] Palanque em SP reflete estratégia de Flávio para consolidar base eleitoral",
+      "link": "https://www.cnnbrasil.com.br/eleicoes/palanque-em-sp-reflete-estrategia-de-flavio-para-consolidar-base-eleitoral/"
     },
     {
       "title": "[AGÊNCIA BRASIL] Rio de Janeiro tem aviso de ressaca; ciclovia Tim Maia é fechada",
       "link": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-09/rio-de-janeiro-tem-aviso-de-ressaca-ciclovia-tim-maia-e-fechada"
     },
     {
-      "title": "[CNN BRASIL] Cleitinho anuncia apoio a Sávio e Marco Antônio Superman ao Senado em MG",
-      "link": "https://www.cnnbrasil.com.br/eleicoes/cleitinho-anuncia-apoio-a-savio-e-marco-antonio-superman-ao-senado-em-mg/"
+      "title": "[CNN BRASIL] Quem são os candidatos ao Senado pelo Amapá em 2026",
+      "link": "https://www.cnnbrasil.com.br/eleicoes/quem-sao-os-candidatos-ao-senado-pelo-amapa-em-2026-2/"
     },
     {
-      "title": "[CNN BRASIL] Argentina anuncia acusação criminal contra petroleira que atua nas Malvinas",
-      "link": "https://www.cnnbrasil.com.br/internacional/argentina-anuncia-acusacao-criminal-contra-petroleira-que-atua-nas-malvinas/"
-    },
-    {
-      "title": "[AGÊNCIA BRASIL] Vasco e Atlético-PI decidem vaga para final do Brasileirão Feminino A2",
-      "link": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-09/vasco-e-atletico-pi-decidem-vaga-para-final-do-brasileirao-feminino-a2"
-    },
-    {
-      "title": "[CNN BRASIL] Receita realiza quatro abordagens com apreensão na Ponte da Amizade",
-      "link": "https://www.cnnbrasil.com.br/nacional/sul/pr/receita-realiza-quatro-abordagens-com-apreensao-na-ponte-da-amizade/"
-    },
-    {
-      "title": "[AGÊNCIA BRASIL] Luisa Stefani vai às quartas de final nas duplas femininas do US Open",
-      "link": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-09/luisa-stefani-vai-quartas-de-final-nas-duplas-femininas-do-us-open"
-    },
-    {
-      "title": "[CNN BRASIL] A surpresa não é tão grande, diz Arko sobre vitória da AfD em estado alemão",
-      "link": "https://www.cnnbrasil.com.br/internacional/a-surpresa-nao-e-tao-grande-diz-arko-sobre-vitoria-da-afd-em-estado-alemao/"
-    },
-    {
-      "title": "[AGÊNCIA BRASIL] Brasileiro Feminino: Corinthians vai às semifinais e enfrenta o Bahia",
-      "link": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-09/brasileiro-feminino-corinthians-vai-semifinais-e-enfrenta-o-bahia"
-    },
-    {
-      "title": "[MINAS GERAIS] Tempestades ameaçam feriado de 7 de Setembro em Minas Gerais - Portal UAI",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOS1FtQ2pFSTdNOHFzc29abk5YZHJ3R19uVUUzM28xR3dvTnJFY1gzTnFrSDEwZzJ1MUx5QVllRFJvQmx0dV9weTc4cWdEV2dJTTRzMUl5VHdPdTlaWUZ2U1NqNFNGak9oU19SSjloY01fYjVRdkdZZTJWZzc5dzNpbjlvQVROT1pfcjVsOWNBZ2pMQ1IxeUFpQ1dn0gGfAUFVX3lxTE1teFRrRlgxU2Vkd0Y1XzhYQ1FYU1NrckxyQmVvckhfRjc1eUlHOUdXai1yYzROZmdUUHZjcTd0LTdoUnRkWWE4cG0zMU1zSVExdmJRbjVzNUx6dDFrT2NQSlpGVWhrQk5LdFpMM1c2Nm9qeGtsc3hNam1hT3hNY2VuSVlfVHJyblBGOEw2SThEbXhkeWI5ajBJREgwYXhDaw?oc=5"
-    },
-    {
-      "title": "[MINAS GERAIS] INMET emite alerta de 'tempestade' para 129 cidades do Norte, Centro e Noroeste de MG - g1.globo.com",
-      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPYlhpU0t4Y3VyZUpNdW15cW5MNWZGYjdJY19XUmk2YllsdXVxc05Fa2c1VUZYXzNnZ0F4MzJ4U2pFd0o4T1pOQ0hHWmxUSEw4LWFkc2w0alVLcl9kdFJURkVBUldCRXdvajNzd1Fzcy1TaGZkaTRBQkY3LU1sNkdjbUMtdFZxRXJIV040ZTJSUm41U2tMM3V0QUwzemh5MHNJNkxwcEpWUkZGOXl5UTRqRklNWDUtZWh6a0xJQXlqWFY5dmROMUt6Vi13WGJpZkpiQnU2XzJrVGp6TjNZ0gHrAUFVX3lxTE43NDBmdkpWczVQTGpTUmZ6RHJaM1R4QklzZEFDU1VMeU9YTFBzOFNFaW81N0VJN2NZRXBqRnFNdkkxSE1VZTFoR2JBSF8zTTVhRUU2UGRkSUFuZFo1VWZZd3J2NnN0YTU2WVlwcHVtNlpSRFBadjQxa2FCZ3FDeTkyNlpNejlqUVZWbWtYdnVEMGxqSkR4Z1I1RXlCTUljTHBkNTE4REZZMm45cDFzaWJQRHloeVdFU250azhrbUZSb3Z4SEQwUGY3MFdwMEstMHJIamJjRUVqeWdqcmdxSk85UE84c24wUklSeDQ?oc=5"
-    },
-    {
-      "title": "[MINAS GERAIS] Bebê de 3 meses viraliza nas redes em vídeo em que parece responder 'bom dia' à irmã em MG - g1.globo.com",
-      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOZDRfWDhMY2xUeDQyakZEdjAteVk0R3duOHpXQXFiZUJSTi1TTGFtaV9tRGg3OG1WeVc3NmtDYnA2TGdhTC04aE43Mi1SeVFubGs4c1B3Si14akRrTkRFRE4wYl9jemxiamdWTXVndE5rTHBsYzU4c0VMSUFmY3RuQlBiVERjX1BYTmxaOXFKaG1ydk5ZanlNQzlPRU11NERVTUFhYk9pY2tTN1pFVmxuSUcyMDZjM1Y0dGtVUFJLd1lqejRJM3Mzd1hadm1GaVBlaUpjTUY4dkdQLTItS3BKX0lJUUNEN1nSAfYBQVVfeXFMTnBodE1vTFBIN0JpQktkOFQxNzRuc1pVSjNucXBlWHNiWmVnSlFZc0VaS3FUU0Z5RVlLSGdNeGc2WERyOXZhZVZjMHRoazBJaEZmRHhTM0poQ01MaUxYQmoxOWw4NThycjJVRmg5RnZCeGtFRFQwaU5oSmdRS3ROVlR4ZlFwRHR1RHdBMURwUWZaNGtRZzBETUxmbU1Md1dwdnNqYk5CcDViUGpPVEIwckcxUTdzZGtLbnloUDlXQUFFYTczYms5OU1QZzlKdVRLb0ZsZE5GRmluV2FUTmtzaEZDSUpET21kYkpaODZzOF95ZllvV1BR?oc=5"
-    },
-    {
-      "title": "[CNN BRASIL] Se erros forem provados, Moraes tem que sofrer impeachment, diz Cury à CNN",
-      "link": "https://www.cnnbrasil.com.br/eleicoes/se-erros-forem-provados-moraes-tem-que-sofrer-impeachment-diz-cury-a-cnn/"
-    },
-    {
-      "title": "[MINAS GERAIS] Ladeiras íngremes desafiam as habilidades dos motoristas de Minas Gerais #shorts #falabrasil - R7",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNR192MDRoVVN1OUNkTHkzQWlKMG5KdFprRWE3WkZvdXFobTJzVEowUFMxUjJhRHZnZ0x6NGh5SU5XM2VkeTU2WWhtbk5IRGwwNGNGQTAyRUgxeXlJY0luSTA1WThBSmFSUGZxSEV4aC1IUDh2OWdrakJaSlREaVUtUmJjZlAtOFdRa3E5TE1Kc1J5WTgyTFdnZEpNd2tPSFZ4c3YwQ2FoNEhzWVNsYnY1Z2h6UHpEakJiRHc3R0FiQkFGcmxxMUxOdnlzejYyRkE?oc=5"
-    },
-    {
-      "title": "[MINAS GERAIS] Tempestades e granizo ameaçam 360 cidades de Minas, diz Inmet; veja lista - Rádio Itatiaia",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNazBieG5xUVlTVXc2NWg2ZWRyaEdaSkJtWjdYd3ZUNzU4UWZnci1lV3pRbmJiQmxqdTF2NkRyMURCMThPOW5rYXptdEhncEdWSmMxRW92OC16bFJlQmZvNExrbHpYZUJhWW02eDJEdmtfYWs5WW5fUDNFTEtiYTlVVVBMWnVJdTJmYU5lSUNjbFVDbDFtaG1MUmJIV3FjQU9MV2c4eGZFcVFzNGFYX3dqNC15QmwtNlAta3c?oc=5"
-    },
-    {
-      "title": "[AGÊNCIA BRASIL] Veja como foi a segunda-feira (7) dos presidenciáveis",
-      "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/veja-como-foi-segunda-feira-7-dos-presidenciaveis"
-    },
-    {
-      "title": "[AGÊNCIA BRASIL] Policial militar é preso suspeito de feminicídio em Embu das Artes",
-      "link": "https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-09/policial-militar-e-preso-suspeito-de-feminicidio-em-embu-das-artes"
-    },
-    {
-      "title": "[CNN BRASIL] História das tartarugas-gigantes de Galápagos é um conto de piratas: agora, ‘tartarugas alienígenas’ apareceram pela primeira vez desde o século XIX",
-      "link": "https://www.cnnbrasil.com.br/ciencia/historia-das-tartarugas-gigantes-de-galapagos-e-um-conto-de-piratas-agora-tartarugas-alienigenas-apareceram-pela-primeira-vez-desde-o-seculo-xix/"
+      "title": "[AGÊNCIA BRASIL] Tradicional desfile cívico-militar é realizado no Rio de Janeiro",
+      "link": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-09/tradicional-desfile-civico-militar-e-realizado-no-rio-de-janeiro"
     }
   ]
 }
