@@ -1,10 +1,34 @@
 {
   "source": "Radio Guaicui - Noticias",
-  "updated_at": "2026-09-12T21:33:27.831166+00:00",
+  "updated_at": "2026-09-12T23:24:06.863186+00:00",
   "items": [
     {
-      "title": "[AGÊNCIA BRASIL] Com Irã e Emirados Árabes no bloco, Brics pede calma no Oriente Médio",
-      "link": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-09/com-ira-e-emirados-arabes-no-bloco-brics-pede-calma-no-oriente-medio"
+      "title": "[MINAS GERAIS] Datafolha mostra intenção de voto para governador e senadores por Minas Gerais - Gazeta do Povo",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxObXpmelBYNzV0TldNTlkxclhHWDVvWEZPQklQbDZ6X1dCRk15d20wLTBuSUlKZ2tOUHYtaFNxZVJrQk1tTHdKamozU00tcVhCSVlFV28weDFvLVhxcUM1TWRWWk1RMU9FdFNTNDhkT3ItMUtTV1hYWjJuUUplMVV6c1lnUThabUE1U18zbnpaQ1laX3pLQUxSTlppZVBBSWI4Q05tUk1SOFRteENvY1JsSkt6bmxYdkVpZENWTUJnZGtZSEZl?oc=5"
+    },
+    {
+      "title": "[CNN BRASIL] Top 1: Rybakina conquista primeiro título do US Open ao derrotar Sabalenka",
+      "link": "https://www.cnnbrasil.com.br/esportes/tenis/top-1-rybakina-conquista-primeiro-titulo-do-us-open-ao-derrotar-sabalenka/"
+    },
+    {
+      "title": "[AGÊNCIA BRASIL] Entidades pedem apoio de candidatos em defesa da agroecologia",
+      "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/entidades-pedem-apoio-de-candidatos-em-defesa-da-agroecologia"
+    },
+    {
+      "title": "[MINAS GERAIS] Pesquisa Datafolha reforça favoritismo de Cleitinho na disputa pelo governo de MG - cartacapital.com.br",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQcjZraWJmdHFic09kSmlJaHZPRk1Pc2RsQndjVnhDd3c5cDgwSUhRa2U1Zkw0MVh3XzFaVlFIRm1od2llNThhd0w5d2duRjJMbER6V0htNGd3WGtBRTJWenNYTm1lZTVSR2g1OUI0bWhCa1RTR3hRdFpUSV9zRVlJWVpYSUNLaGR2Ri1mRWhUNzhFNFBzZEx4c0pkVVFXbnBLSVhCcnhQZkVPM1VhMUZwTXZmYnE2Zkp3QVlWUlBKMUwwdXNjTmpCUQ?oc=5"
+    },
+    {
+      "title": "[AGÊNCIA BRASIL] Capital paulista já acumula quase 200 mm de chuvas em setembro",
+      "link": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-09/capital-paulista-ja-acumula-quase-200-mm-de-chuvas-em-setembro"
+    },
+    {
+      "title": "[CNN BRASIL] Botafogo x Red Bull Bragantino: escalações e onde assistir ao Brasileirão",
+      "link": "https://www.cnnbrasil.com.br/esportes/brasileirao/botafogo-x-red-bull-bragantino-escalacoes-e-onde-assistir-ao-brasileirao-2/"
+    },
+    {
+      "title": "[CNN BRASIL] Tireoide e iodo na gravidez: Dr. Kalil e especialistas explicam riscos",
+      "link": "https://www.cnnbrasil.com.br/saude/tireoide-e-iodo-na-gravidez-dr-kalil-e-especialistas-explicam-riscos/"
     },
     {
       "title": "[MINAS GERAIS] Candidato de Flávio Bolsonaro e Nikolas em MG recebeu R$ 900 mil de banqueiro denunciado por fraude - Intercept Brasil",
@@ -15,112 +39,88 @@
       "link": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-09/arabia-saudita-paralisa-oleoduto-e-houthis-controlam-mar-vermelho"
     },
     {
-      "title": "[MINAS GERAIS] Datafolha mostra intenção de voto para governador e senadores por Minas Gerais - Gazeta do Povo",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxObXpmelBYNzV0TldNTlkxclhHWDVvWEZPQklQbDZ6X1dCRk15d20wLTBuSUlKZ2tOUHYtaFNxZVJrQk1tTHdKamozU00tcVhCSVlFV28weDFvLVhxcUM1TWRWWk1RMU9FdFNTNDhkT3ItMUtTV1hYWjJuUUplMVV6c1lnUThabUE1U18zbnpaQ1laX3pLQUxSTlppZVBBSWI4Q05tUk1SOFRteENvY1JsSkt6bmxYdkVpZENWTUJnZGtZSEZl?oc=5"
+      "title": "[CNN BRASIL] Mensagens de Vorcaro e ex-BRB revelam negociação de fraude bilionária",
+      "link": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/mensagens-de-vorcaro-e-ex-brb-revelam-negociacao-de-fraude-bilionaria/"
     },
     {
-      "title": "[CNN BRASIL] Ana Hickmann posa com vestido de noiva para casamento com Edu Guedes; veja",
-      "link": "https://www.cnnbrasil.com.br/pop/celebridades/ana-hickmann-posa-com-vestido-de-noiva-para-casamento-com-edu-guedes-veja/"
+      "title": "[CNN BRASIL] Zara Larsson aproveita o Rio e atende fãs antes de show; veja fotos",
+      "link": "https://www.cnnbrasil.com.br/pop/celebridades/zara-larsson-aproveita-o-rio-e-atende-fas-antes-de-show-veja-fotos/"
     },
     {
-      "title": "[MINAS GERAIS] Datafolha em MG: Lula, 37%; Flávio 35%, Cury, 5%; Zema, 5%; Caiado, 3% - g1.globo.com",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQTExVem5FSTlaV3BMdFYxemprTnhHQlRkUllQM210Y0N5aW5HZmhDZzJ1eUtYUU9OMnE0dDcwcFpZdXFVYWFzejBWZld5ZndOTG04YkVKdGNXaTdxeDRfRjRadlFSWVp0OVVYRnB6b0Nac0l0RWtvSlZEQ3lxZHEtVmEzVkNFVjdOTzJ3a1NRakg5d1ZfSU40empweFEzbU55OVVtZU9XbEx4SzE2YjBmaNIBvwFBVV95cUxPTDJWR2E1TnVWTFdIa3JuVFFaU25lR016Nm9mU290RVoyLWNULVVGc0Z3dlBkSUxZSENKU2FiRTNEM1dyai0zMGJaV2RXRi0tdlJvRnZWbjlhcTdtSC1RVmpYS3JEQzRhRFI1a0xHbVhDWlhjaXFqRVduX3pUWm00OGhac0kzM1Y2emZ0WjV3UDBCLXN1ZExlUDl1MkdBMkdoLXNucFdWVVpobmdmQnhBZi1EdEgzSWYteEhNbVhoWQ?oc=5"
+      "title": "[AGÊNCIA BRASIL] PGR repete pedido por acesso integral a dados de Vorcaro",
+      "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/pgr-repete-pedido-por-acesso-integral-dados-de-vorcaro"
     },
     {
-      "title": "[CNN BRASIL] Torcida do Atlético provoca Santos antes de decisão na Sul-Americana",
-      "link": "https://www.cnnbrasil.com.br/esportes/futebol/santos/torcida-do-atletico-provoca-santos-antes-de-decisao-na-sul-americana/"
-    },
-    {
-      "title": "[AGÊNCIA BRASIL] Capital paulista já acumula quase 200 mm de chuvas em setembro",
-      "link": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-09/capital-paulista-ja-acumula-quase-200-mm-de-chuvas-em-setembro"
-    },
-    {
-      "title": "[CNN BRASIL] Mbappé brilha, Real Madrid goleia Rayo Vallecano e mantém 100% em LaLiga",
-      "link": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/futebol-espanhol/mbappe-brilha-real-madrid-goleia-rayo-vallecano-e-mantem-100-em-laliga/"
-    },
-    {
-      "title": "[MINAS GERAIS] Quem são os candidatos a deputado federal por Minas Gerais (MG) nas eleições 2026 - JOTA Info",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNMnc4QmRxWGQ4RHVPdkxKazRJZDJJWXJiYTU1ZjZuQjNIOVlCUVAtZ2k3QWlBQ080VG11N2lnM0wzdHd2a1huSk9RM2Y1d2MzeGhCNDNSdW9rRXZTTGpacWZ3ajI2YjRrUlFPLXROT2tBcUttY2dQbE1LdTAxRU1NYndJdkpwaGthM2FtNnhqeG90bFNxSHhXR0xUYTFBSmozVHBlR3NFT1QyNmtubjhyTllvUWN0UVdGX3VvU3BHYUUwUQ?oc=5"
-    },
-    {
-      "title": "[CNN BRASIL] Céline Dion retorna aos palcos em Paris após quase 6 anos de pausa",
-      "link": "https://www.cnnbrasil.com.br/pop/musica/celine-dion-retorna-aos-palcos-em-paris-apos-quase-6-anos-de-pausa/"
-    },
-    {
-      "title": "[AGÊNCIA BRASIL] Defesa de Flávio Bolsonaro tentou levar caso Dark Horse a Mendonça",
-      "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/defesa-de-flavio-bolsonaro-tentou-levar-caso-dark-horse-mendonca"
-    },
-    {
-      "title": "[CNN BRASIL] Vasco bate Grêmio de virada fora de casa e fica perto de deixar Z4",
-      "link": "https://www.cnnbrasil.com.br/esportes/brasileirao/vasco-bate-gremio-de-virada-fora-de-casa-e-fica-perto-de-deixar-z4/"
-    },
-    {
-      "title": "[MINAS GERAIS] PF faz operação contra ameaças a parlamentar em Minas Gerais — Polícia Federal - www.gov.br",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNGQ0dFBRQ2stMi1EMnJCa1FKOXBVSVJwRnozT2htQWt2LUhkei1iWE4tVzlGN2s1ZW5KN01KXzB3WHlaZTZ1cVd4MHBVQkdvaUhMU0VkbTBHWDRKc2RFR3p4YnY1WWFrM2VXWHBESENUSUs4Si1oZ3hIakZIeWVBVDRJVmxRV3hObnQzMnhLQ3hfX1h6ei0tRnBpc3RudlNVMEU0V0ltM2c0UQ?oc=5"
-    },
-    {
-      "title": "[CNN BRASIL] Cristiano Ronaldo passa em branco, e Al-Nassr empata com Al-Khaleej",
-      "link": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/futebol-saudita/cristiano-ronaldo-passa-em-branco-e-al-nassr-empata-com-al-khaleej/"
-    },
-    {
-      "title": "[AGÊNCIA BRASIL] Fachin marca sessão sobre Mendonça para dia 23",
-      "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/fachin-marca-julgamento-de-mendonca%20para%20o%20dia%2023"
-    },
-    {
-      "title": "[AGÊNCIA BRASIL] Álcool e cigarro podem causar cegueira, alertam especialistas",
-      "link": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-09/alcool-e-cigarro-podem-causar-cegueira-alertam-especialistas"
-    },
-    {
-      "title": "[MINAS GERAIS] PF pediu para usar mansão de R$ 12 milhões de Vorcaro como base operacional em MG; Mendonça negou - O TEMPO",
-      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOd1FJUVM4dG91bm5idUF0RFA1TV9kZzVEbC1mcTlQLXhwZzR6c0xkYVVlRS1VRTl0QkNhWW1uUVRFTWNKUU1HNmVKZzhPUFl2RmtGcDNDVVpiOUoyZDBsdFk1aEI0NG1PUzF3bmhvbGFUOTlWa0lILUVScy1sREZtMUE2R1UyYU41UHZrX28xNlJpVG8xQ3F1UEk5V2ZObnNWUVVMZjhUTGlwbEljMWVIZVRtaU04UU4xeEtMc09oVzNSeGpWMThycW1NRmplOHd0cUd6X29mdUFQT0RjZjkzZC1qYjRYZ9IB6wFBVV95cUxOakdsUUlmdzJPREJpakotUlRxbWpmdG1PN3BFZ0k4bFc2dzBMc21IVVBIN0pQeDV0eTFvSHN3TXpKcEozdnlFaWlTQVdqOGpyLUluVFN1ZmFjaFQ1MVh6UXN0NjBLa1NnUmNSWVJQOHl3NFNNd1ZTaXZIY2RodWE3aHdXRDFLQXp5VUw3WXVhNnI2cEFMTHk5N01EbmsyeUJxbEMyS00xU29QYXB4Vk94QWVRdlZ2ZmFUWlkzUk1lTkgwcGRpRVpSSkxGaVVIUmFNeXRaZmZOMW5UY2t1d1B0djdOYUZUX3BydGxr?oc=5"
+      "title": "[CNN BRASIL] Chapecoense 1 x 2 Internacional: veja os melhores momentos do Brasileirão",
+      "link": "https://www.cnnbrasil.com.br/esportes/brasileirao/chapecoense-1-x-2-internacional-veja-os-melhores-momentos-do-brasileirao/"
     },
     {
       "title": "[AGÊNCIA BRASIL] Justiça Eleitoral se aproxima de indígenas na Raposa Serra do Sol",
       "link": "https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-09/justica-eleitoral-se-aproxima-de-indigenas-na-raposa-serra-do-sol"
     },
     {
-      "title": "[CNN BRASIL] Veritá: Derrite e Do Prado lideram corrida pelo Senado em São Paulo",
-      "link": "https://www.cnnbrasil.com.br/eleicoes/verita-derrite-e-do-prado-lideram-corrida-pelo-senado-em-sao-paulo/"
-    },
-    {
-      "title": "[CNN BRASIL] Atlético-MG supera Fluminense no Brasileiro com gol e assistência de Cuello",
-      "link": "https://www.cnnbrasil.com.br/esportes/brasileirao/atletico-mg-supera-fluminense-no-brasileiro-com-gol-e-assistencia-de-cuello/"
-    },
-    {
-      "title": "[AGÊNCIA BRASIL] São Paulo está em estado de atenção devido às chuvas persistentes",
-      "link": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-09/sao-paulo-esta-em-estado-de-atencao-devido-chuvas-persistentes"
-    },
-    {
       "title": "[AGÊNCIA BRASIL] SUS vacina mais de 1 milhão de crianças com Pneumo 20",
       "link": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-09/sus-vacina-mais-de-1-milhao-de-criancas-com-pneumo-20"
     },
     {
-      "title": "[MINAS GERAIS] Datafolha: Cleitinho mantém liderança em MG com 37%; Patrus tem 13%, Kalil, 11% - Folha de S.Paulo",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQOWlhLXVObUpLVElldk5HdWlNb3J3cTRfUGNBV1gzcXN3XzFjazBSTEJUUGpOdkFpMzlYQlUzLWJ0UDl5bTdMX05tc2ZWdGdnZW93NHFqcF9kbVpQR1hvcjhiZjRPc2FXQ0N6cnNfcVpFY0YzZllfcW9lckItakktekl1VzM1WXBsdVdZaEd6WFExN1kzRmI1RzJzMXcxYjR4TkQ5aHhMeVBPZkxLWDFsSW8zbVZTYnp0Smw3ZUREVU1lUQ?oc=5"
+      "title": "[MINAS GERAIS] BWT Operadora contrata novos executivos no Paraná, Minas Gerais, Goiás e Manaus - Panrotas",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOOXVIX3RVSENySmZaT3V0SEh6Ynh1Qll2M0JwN3RfNnJzXzVBVEo3eFVSMkNWaVo4N2ZGYUJ3SHVCY0JXUmF2MUI5RVU1STdMRjQ0ckxwWUZ2OTRMRmtyODVFTVZ5dENDWXRSMnBvS3pQeGV2MU1Nek9RaGVidWlxTC1BVmlfTzcwejY1TVlvQUNGYlVleVI0bDVqamVMWXhCV0RSVE16Zi1xUjJma2ltYzhWNHNnOFR5X2hXcWVVRl9FbDU3SnRKSXZTVU9fSmlyazE0S3kzRlZWZEdS?oc=5"
     },
     {
-      "title": "[CNN BRASIL] Flávio reforça “impacto zero” com caso Master: “É disso que eu precisava”",
-      "link": "https://www.cnnbrasil.com.br/eleicoes/flavio-reforca-impacto-zero-com-caso-master-e-disso-que-eu-precisava/"
+      "title": "[AGÊNCIA BRASIL] Álcool e cigarro podem causar cegueira, alertam especialistas",
+      "link": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-09/alcool-e-cigarro-podem-causar-cegueira-alertam-especialistas"
     },
     {
-      "title": "[CNN BRASIL] Viih Tube a Gkay: veja os famosos no casamento de Ana Hickmann e Edu Guedes",
-      "link": "https://www.cnnbrasil.com.br/pop/celebridades/viih-tube-a-gkay-veja-os-famosos-no-casamento-de-ana-hickmann-e-edu-guedes/"
+      "title": "[MINAS GERAIS] Quem são os candidatos a deputado federal por Minas Gerais (MG) nas eleições 2026 - JOTA Info",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNMnc4QmRxWGQ4RHVPdkxKazRJZDJJWXJiYTU1ZjZuQjNIOVlCUVAtZ2k3QWlBQ080VG11N2lnM0wzdHd2a1huSk9RM2Y1d2MzeGhCNDNSdW9rRXZTTGpacWZ3ajI2YjRrUlFPLXROT2tBcUttY2dQbE1LdTAxRU1NYndJdkpwaGthM2FtNnhqeG90bFNxSHhXR0xUYTFBSmozVHBlR3NFT1QyNmtubjhyTllvUWN0UVdGX3VvU3BHYUUwUQ?oc=5"
+    },
+    {
+      "title": "[MINAS GERAIS] Datafolha: veja os números das pesquisas presidenciais em SP, RJ, MG, PE e DF - G1",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPa1JEX2tQclpSNWg4YnNZR0NtbFdlOS1GSmhDNHFwMDgxYzRONjd2ZFBDaHJnVVZyaXk2VUhFWDlobEtKcEs3MzJGdGozLWhaU3RPWEVzMjdYM3VPaGtEQWlIVTFmNzdUYUpLRU1Bb1F3Z2VKRjluLWZWSXJuTElYWFhzNVZlTFQzQlN3SnotVGhDejg4UDRUWEcyb0x5bFp0c25hLThJV0JsQlVkUzVDVEVQWEJzMGhZVXFidmJ4SUpqd0NMbUhicGR6OC1tQ244Uk9PanBUMEI2UdIB6AFBVV95cUxPdE1pREpwLXJYbUF1Um83a3psd0Y4bFNHdHlZYjFrLUlMSG9IZVV6bjM4a0pZRk9EanZiUlZaWFQ0UzJSRmhYa29vQ0JNQXFOeUZuOHN2cXJMd3RVbC1uOTFXZTd5b3BfNW9nZFMyTzRIUy1OQXlmUEhwamp5V2hfajhBUk1KT0F0UWwzanVVRzhhRzcxNElOeHQ5WUp6OWFxT0F2ZHJfT2FGQUZhOUh0cUJSOTNOaFlVaERMOU4zYUsyTVBHU29Ga2FZbWk1YVlPYW5vamNWcF9VLS1iazlVUTNidi1YNi1i?oc=5"
+    },
+    {
+      "title": "[CNN BRASIL] Crise entre EUA e Brasil trava combate ao crime organizado, diz jornal",
+      "link": "https://www.cnnbrasil.com.br/internacional/crise-entre-eua-e-brasil-trava-combate-ao-crime-organizado-diz-jornal/"
+    },
+    {
+      "title": "[MINAS GERAIS] PF faz operação contra ameaças a parlamentar em Minas Gerais — Polícia Federal - gov.br",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNGQ0dFBRQ2stMi1EMnJCa1FKOXBVSVJwRnozT2htQWt2LUhkei1iWE4tVzlGN2s1ZW5KN01KXzB3WHlaZTZ1cVd4MHBVQkdvaUhMU0VkbTBHWDRKc2RFR3p4YnY1WWFrM2VXWHBESENUSUs4Si1oZ3hIakZIeWVBVDRJVmxRV3hObnQzMnhLQ3hfX1h6ei0tRnBpc3RudlNVMEU0V0ltM2c0UQ?oc=5"
+    },
+    {
+      "title": "[AGÊNCIA BRASIL] Avião da GOL faz pouso de emergência após decolagem em Goiânia",
+      "link": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-09/aviao-da-gol-faz-pouso-de-emergencia-apos-decolagem-em-goiania"
     },
     {
       "title": "[MINAS GERAIS] A preocupação da campanha de Lula com queda nas pesquisas em Minas Gerais - VEJA",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOMmdmaENxVUYtUVE5VVNtLVpJdGs1eEJra2FaUVlvYWsxbEV1Ny1SZXRZai1BaDRIbE9paVVpTkhkZUE3ek8wdnlwODAxOTJLeEpNYldPNndTQU5ZRHFuTm44RElMRnNqODEtLTdfaFd2ZVU3QVlYd3EwcWhLbmdGNWpndUJSVXdLV2wyZEVoWWxwTGJqY283bGN6b1FaWUpSVEdZQjg3Wl9nNkhucUE?oc=5"
     },
     {
-      "title": "[MINAS GERAIS] Homem é morto a tiros em casa após ser chamado pelo nome no portão em Franciscópolis - g1.globo.com",
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNMjExcmlRaHM0RmNMRWdFYnlhbk82TkZza1Jsdk9YSVVweFdrT3dCeWdKR3NGZTRfZU9tS0dGRl91NG5TdlJwSVFrUWtfUGp0U3hGNlVOQV90ZFFDdmo4aTdoVkhyZXVEUDFGWl8yc0c2TkotMDBxdGJnajhBcHBMb2xnWTRJUlNQclVuM2N1RHJSUEpxYk1oRUlMQUJTSjhlVXJWZmV3cVRYR3Rlallzb3ZKOEVzWkNBNk5Ocm83UGN5RVNCekdBdkxUaG8tWkNjcjNWU3E5Z1JGZ9IB6AFBVV95cUxOcXhKNnA3M2laYUJLM2N5TzhySTM0RW1qbUlTLWJyNFpsU3FDNG1GYjR1OGpTc3FKQzVNRWpEUFNaOTJGSkNBaFFoQmVUMHQ4Nm5uRk1BMXIwcUdWT1lOdUtiOFZNZy03NHAyaHFhV2ZOZnJHakdhT1B6RzZqTE40Tjk4ajlSOGtrSlJYVlo1X1QzU0xzNm5LSHNoWHQwTEhYYnd6dnYyT0hSNmdkNUdJa0t6aU4waXlJSkhiSHhVUW94MERqeEw0Ym5PVlh3ZEh4QUNSeEI1UDlwbTNYVzE1X2lxM1VPNWdW?oc=5"
+      "title": "[CNN BRASIL] STF irá transmitir ao vivo sessão sobre mensagens de Moraes e Vorcaro",
+      "link": "https://www.cnnbrasil.com.br/politica/stf-ira-transmitir-ao-vivo-sessao-sobre-mensagens-de-moraes-e-vorcaro/"
     },
     {
       "title": "[AGÊNCIA BRASIL] Brasil vence 4º jogo e encara Argentina por vaga olímpica no domingo",
       "link": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-09/brasil-vence-4o-jogo-e-encara-argentina-por-vaga-olimpica-no-domingo"
     },
     {
-      "title": "[MINAS GERAIS] Datafolha: veja os números das pesquisas presidenciais em SP, RJ, MG, PE e DF - g1.globo.com",
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPa1JEX2tQclpSNWg4YnNZR0NtbFdlOS1GSmhDNHFwMDgxYzRONjd2ZFBDaHJnVVZyaXk2VUhFWDlobEtKcEs3MzJGdGozLWhaU3RPWEVzMjdYM3VPaGtEQWlIVTFmNzdUYUpLRU1Bb1F3Z2VKRjluLWZWSXJuTElYWFhzNVZlTFQzQlN3SnotVGhDejg4UDRUWEcyb0x5bFp0c25hLThJV0JsQlVkUzVDVEVQWEJzMGhZVXFidmJ4SUpqd0NMbUhicGR6OC1tQ244Uk9PanBUMEI2UdIB6AFBVV95cUxPdE1pREpwLXJYbUF1Um83a3psd0Y4bFNHdHlZYjFrLUlMSG9IZVV6bjM4a0pZRk9EanZiUlZaWFQ0UzJSRmhYa29vQ0JNQXFOeUZuOHN2cXJMd3RVbC1uOTFXZTd5b3BfNW9nZFMyTzRIUy1OQXlmUEhwamp5V2hfajhBUk1KT0F0UWwzanVVRzhhRzcxNElOeHQ5WUp6OWFxT0F2ZHJfT2FGQUZhOUh0cUJSOTNOaFlVaERMOU4zYUsyTVBHU29Ga2FZbWk1YVlPYW5vamNWcF9VLS1iazlVUTNidi1YNi1i?oc=5"
+      "title": "[MINAS GERAIS] Datafolha: Lula e Flávio Bolsonaro têm empate técnico no 2º turno em MG - Metrópoles",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPVzE4VktZNG5YeHFnWE1GRmlWZUtIb0F0OGdBZGI3U0lXWlRKd2hUYjBJZFpDWmluXzA5dlRnREdZMnh1U2t3NEY3R1lOcU5qZUtiQWNIeDJsSTFUc3FJRGFkUU5vbm9XOXUtLW5YRDZiZGluNzdZbzJ4RXpGTHpQNnNnSk9ha3JETjFZeWtBbVh1UnV3RzVPUHgwVkFyczVwY0MzRWNhRUdRNkdWUk1r?oc=5"
+    },
+    {
+      "title": "[AGÊNCIA BRASIL] Mega-Sena sorteia prêmio acumulado de R$ 85 milhões neste domingo",
+      "link": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-09/mega-sena-sorteia-premio-acumulado-de-r-85-milhoes-neste-domingo"
+    },
+    {
+      "title": "[MINAS GERAIS] municípios mineiros perderam quase R$30 bi com incentivos fiscais - AMM | Associação Mineira de Municípios",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOck9zU1VNTVRRQml0QXhjUzRlOFdMUWJYM1cteUdLUGNwdUpHbV9Qc21VY21uYlB5dU5Wbm5mR24zbTdER3JtUnZyU3llY0dVRjBwcEd1OE9zQU9iWkVBalZiUkhDcTFLZ1A5SExsQXE5RUM3MHU3cUdrWlRDUTU0b0ZpUTVGZDFuUGZSaGUtUG1pVEQ2d3ZMNU1ENHRwNEpUZXFReQ?oc=5"
+    },
+    {
+      "title": "[CNN BRASIL] Sara Bareilles transforma luto em novo álbum: “Encontrei conforto”",
+      "link": "https://www.cnnbrasil.com.br/pop/musica/sara-bareilles-transforma-luto-em-novo-album-encontrei-conforto/"
+    },
+    {
+      "title": "[CNN BRASIL] Santos x Cruzeiro: escalações e onde assistir ao jogo do Brasileirão",
+      "link": "https://www.cnnbrasil.com.br/noticias/santos-x-cruzeiro-escalacoes-e-onde-assistir-ao-jogo-do-brasileirao-2/"
     }
   ]
 }
