@@ -1,126 +1,86 @@
 {
   "source": "Radio Guaicui - Noticias",
-  "updated_at": "2026-09-13T18:58:33.899688+00:00",
+  "updated_at": "2026-09-13T21:23:18.542552+00:00",
   "items": [
     {
-      "title": "[AGÊNCIA BRASIL] Dino determina fim do sigilo de investigações sobre o filme Dark Horse",
-      "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/dino-determina-fim-do-sigilo-de-investigacoes-sobre-o-filme-dark-horse"
+      "title": "[CNN BRASIL] Viveros ultrapassa Luis Suárez na artilharia histórica do Brasileirão",
+      "link": "https://www.cnnbrasil.com.br/esportes/brasileirao/viveros-ultrapassa-luis-suarez-na-artilharia-historica-do-brasileirao/"
     },
     {
-      "title": "[MINAS GERAIS] Raça e classe atravessam debates na 6ª Feira Estadual da Reforma Agrária em Minas Gerais - mst.org.br",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOajU5aHRvUVp2Y3h6dl9XOEJITTFoenduaXNCN2dySzEtLWJPbTZKZWNDUGZfX0VPbFdER3h2akRmNHNxWW82T3BQeG5HWERYVXNvckhnTlZYTzFpeHpyUXRhbmpaazBVbU9vSWszR3JOUjAydmdkRUxIRjhIMGVjNmh3RVVXUkxtTTg2THl1cXlvdG1HUEZjS1Z0cVpSUVg0eXVsNHgxN0lnbWMydU0xb2pMX1QtdDB4eUJN?oc=5"
+      "title": "[AGÊNCIA BRASIL] Melhor entre os melhores: Alison dos Santos é campeão do Ultimate 2026",
+      "link": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-09/melhor-entre-os-melhores-alison-dos-santos-e-campeao-do-ultimate-2026"
     },
     {
-      "title": "[MINAS GERAIS] A preocupação da campanha de Lula com queda nas pesquisas em Minas Gerais - VEJA",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOMmdmaENxVUYtUVE5VVNtLVpJdGs1eEJra2FaUVlvYWsxbEV1Ny1SZXRZai1BaDRIbE9paVVpTkhkZUE3ek8wdnlwODAxOTJLeEpNYldPNndTQU5ZRHFuTm44RElMRnNqODEtLTdfaFd2ZVU3QVlYd3EwcWhLbmdGNWpndUJSVXdLV2wyZEVoWWxwTGJqY283bGN6b1FaWUpSVEdZQjg3Wl9nNkhucUE?oc=5"
+      "title": "[CNN BRASIL] Napoli vence Bologna pelo Campeonato Italiano e se recupera na competição",
+      "link": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/futebol-italiano/napoli-vence-bologna-pelo-campeonato-italiano-e-se-recupera-na-competicao/"
     },
     {
-      "title": "[AGÊNCIA BRASIL] Conversa com o Autor, na Rádio MEC, será com Itamar Vieira Junior",
-      "link": "https://agenciabrasil.ebc.com.br/cultura/noticia/2026-09/conversa-com-o-autor-na-radio-mec-sera-com-itamar-vieira-junior"
+      "title": "[AGÊNCIA BRASIL] Mendonça cita risco às investigações com dados de celular de Vorcaro",
+      "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/mendonca-cita-risco-investigacoes-com-dados-de-celular-de-vorcaro"
     },
     {
       "title": "[AGÊNCIA BRASIL] Crise institucional prejudica debate eleitoral, avaliam entidades",
       "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/crise-institucional-prejudica-debate-eleitoral-avaliam-entidades"
     },
     {
-      "title": "[AGÊNCIA BRASIL] Rádio Nacional transmite clássico Flamengo x Corinthians neste domingo",
-      "link": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-09/radio-nacional-transmite-classico-flamengo-x-corinthians-neste-domingo"
-    },
-    {
-      "title": "[MINAS GERAIS] Mega-Sena acumula em R$ 95 milhões; Varginha registra quatro apostas premiadas na quadra - G1",
-      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPMDFpZVQtalNqQjMyLWpHMVNZRXN4Wjk0ZnBjUXNTRnduZHhjZ0J6RFoxLXViSEVlRFZLWFNHRXkzLWx6N2tYa2NDYzQ1MV9hcWVvOVZtUUk1NThiT0hxcWQ1T3c2SEtmTVRYZ0I2VjR3b21DOTB4dktGWlh4Z1N2b2hmQkdORUhZNEVEZnVZVmdJcmZRNXpkWnFwcURuZU5XMmk2R1J0Rm10SFctSHJPdDQwOFN2R2xOVy1tc2tfVS0tUXdDQU5XdUxtVW1tY2J4eUwzVnB5RnFyeVhrOVJEUGVR0gHwAUFVX3lxTFBBSENsMjBWTFIySGpEMkpfT3I5MVZ3TTUtQUlXeUdTV2tuWWd4cmdTS214VFNtTzZaNGdKcmJuVXI1WHdNa3BVVWJYSnNCR0sxcDBSRUtlLTd3eURSUXVxaEFsWU8wYkFhUHk1cUkxNVdCNTMxRzgzWmNINV90X3hJQUJrNWZIYnFvSEhHd3A2VmJUeThacXA3eXNXSjNpWnpTMGp1RHVFamQxS3QyTGtrbWE1LVRScEhsbDUyNzA2cjVtOEVoV2ZTNi00Ri1HQ1kwSjRacFJaUXFlcHhlLVZLLV9BaWE3UjhRVGx2cnVIUA?oc=5"
-    },
-    {
-      "title": "[AGÊNCIA BRASIL] Brasileirão Feminino A2: TV Brasil acompanha primeiro jogo da final",
-      "link": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-09/brasileirao-feminino-a2-tv-brasil-acompanha-primeiro-jogo-da-final"
+      "title": "[CNN BRASIL] Zanin manda PF entregar dados de celular de Vorcaro em seu gabinete",
+      "link": "https://www.cnnbrasil.com.br/politica/zanin-manda-pf-entregar-dados-de-celular-de-vorcaro-eu-seu-gabinete/"
     },
     {
       "title": "[AGÊNCIA BRASIL] Mega-Sena acumula para R$ 95 milhões; confira os números sorteados",
       "link": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-09/mega-sena-acumula-para-r-95-milhoes-confira-os-numeros-sorteados"
     },
     {
-      "title": "[AGÊNCIA BRASIL] Prova que avalia formação médica ocorre neste domingo em todo país",
-      "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-09/prova-que-avalia-formacao-medica-ocorre-neste-domingo-em-todo-pais"
-    },
-    {
-      "title": "[MINAS GERAIS] Quem são os candidatos a deputado federal por Minas Gerais (MG) nas eleições 2026 - JOTA Info",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNMnc4QmRxWGQ4RHVPdkxKazRJZDJJWXJiYTU1ZjZuQjNIOVlCUVAtZ2k3QWlBQ080VG11N2lnM0wzdHd2a1huSk9RM2Y1d2MzeGhCNDNSdW9rRXZTTGpacWZ3ajI2YjRrUlFPLXROT2tBcUttY2dQbE1LdTAxRU1NYndJdkpwaGthM2FtNnhqeG90bFNxSHhXR0xUYTFBSmozVHBlR3NFT1QyNmtubjhyTllvUWN0UVdGX3VvU3BHYUUwUQ?oc=5"
-    },
-    {
-      "title": "[MINAS GERAIS] Datafolha mostra intenção de voto para governador e senadores por Minas Gerais - Gazeta do Povo",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxObXpmelBYNzV0TldNTlkxclhHWDVvWEZPQklQbDZ6X1dCRk15d20wLTBuSUlKZ2tOUHYtaFNxZVJrQk1tTHdKamozU00tcVhCSVlFV28weDFvLVhxcUM1TWRWWk1RMU9FdFNTNDhkT3ItMUtTV1hYWjJuUUplMVV6c1lnUThabUE1U18zbnpaQ1laX3pLQUxSTlppZVBBSWI4Q05tUk1SOFRteENvY1JsSkt6bmxYdkVpZENWTUJnZGtZSEZl?oc=5"
-    },
-    {
-      "title": "[MINAS GERAIS] Candidato de Flávio Bolsonaro e Nikolas em MG recebeu R$ 900 mil de banqueiro denunciado por fraude - Intercept Brasil",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQSDVRYVFzQk9WbW9vNDY5QUJmS0lnZDJHMmlURU5FaXpXMTJIVDFDOGJEa2I0N3ZCUGFRQkdOZzluYzk4ZWYtWGozeXJfdjMwX0FiYkNBYlgzbW1tNkl6UWw1YW10eDcxWUtfcFZTc2Q0Q1ZuUnZCTHJuLWlxQmRoQ3hfQ2o0UDUwT0dELXhMQ0xfVVMtak1Pb25Cb3lwaXhyN2ZHOWRvVElFUHA4ZUNPRg?oc=5"
-    },
-    {
-      "title": "[CNN BRASIL] Gabi é eleita MVP do Sul-Americano 2026 com a Seleção Feminina de Vôlei",
-      "link": "https://www.cnnbrasil.com.br/esportes/volei/gabi-e-eleita-mvp-do-sul-americano-2026-com-a-selecao-feminina-de-volei/"
-    },
-    {
-      "title": "[MINAS GERAIS] Celular com marca de disparo é apreendido após morte em cachoeira de Governador Valadares - G1",
-      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPbXdTVUFoMkJrTHk2eWhDRlRTdzhOMEZjckh0dmdhc0lYR2h4MndTM3ZnYzlXYVYtMUJHQnhEd19ZRHdla1pFNEswcHZjSVluS3lqTnpyYjcxbzlQa3RQaDVyLXFXVjFoLWpjTENWNWhjWEhZU3VueVZNeTkxS2ZFbnY4LURWbVpRT3kta3phdU5ITlpNWXZDQXhhVURndzdLREpjajR2UWhscVc5bmpoeUxoQ2NHTVJUSlJjR2FULW1OUVdtSGY4QzRTNVJWVmJVMklrNTd3NkR5Z1VPelBzSdIB7wFBVV95cUxNd09fbG9sa3VkX1RSanZsbGcwSHFfbHpvcTlMYWM4WXA3TkZENkRqeC00VUhDVkJxaWdVUGpUQjhIb2N2a1JNQWU1cGJTTUV0b2UyYk4ydVJKWUZTVGxNM3hlc2JJOHU4S243TUhCY2dNaHZkakNxS1NwUlNMRmxkaUJJS3RmbkxFc2ZJMVFwbHN4Tlh1NHhQam9RRFBKUlBOTXNWWktya2ZBZTlPOGw4TDlrM0M4dTQ5cmphNkdrZ09UWXpoS1VqYktKeHVqTzNqbUxVeDBxTW5VMDhRMWF3NlktbWtyY1Y0N2pGUHVjYw?oc=5"
-    },
-    {
-      "title": "[CNN BRASIL] Justiça mandou apreender valores acima de R$ 3 mil em ONG de “Dark Horse”",
-      "link": "https://www.cnnbrasil.com.br/politica/justica-mandou-apreender-valores-acima-de-r-3-mil-em-ong-de-dark-horse/"
-    },
-    {
-      "title": "[CNN BRASIL] EUA podem continuar no Irã e “ficar com o petróleo” após guerra, diz Trump",
-      "link": "https://www.cnnbrasil.com.br/internacional/eua-podem-continuar-no-ira-e-ficar-com-o-petroleo-apos-guerra-diz-trump/"
-    },
-    {
-      "title": "[CNN BRASIL] Ana Paula Renault e Tia Milena curtem Rock in Rio separadas com ex-BBBs",
-      "link": "https://www.cnnbrasil.com.br/pop/celebridades/ana-paula-renault-e-tia-milena-curtem-rock-in-rio-separadas-com-ex-bbbs/"
-    },
-    {
-      "title": "[MINAS GERAIS] A popularidade de Lula a 3 semanas da eleição em SP, MG, RJ, PE e DF, segundo o Datafolha - cartacapital.com.br",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOaDkxUWN1RG1HUVNsckhkcHg3bG85bHNWc3dBUmx2SEl2LUVjQzFxQkJYTHdkWDg5YWVYUjlvLXBlX016YnBqOVBTeGpYRk9yWm5TUDNvODNyN3Z0NVNWekM3d3NfWEZrWkdjYzZmMVMxck1aVWE1QTA5Y2ZSa01yeEMxX3pfR3BER1JtcDZVVFgwN2pldGxOTlZYX0g?oc=5"
-    },
-    {
-      "title": "[CNN BRASIL] Larissa Manoela desabafa sobre deixar filme de Carmen Miranda : “Chateada”",
-      "link": "https://www.cnnbrasil.com.br/pop/celebridades/larissa-manoela-desabafa-sobre-deixar-filme-de-carmen-miranda-chateada/"
-    },
-    {
-      "title": "[CNN BRASIL] Investigação cita R$ 8,5 milhões de faturas inidôneas de empresa ao ICB",
-      "link": "https://www.cnnbrasil.com.br/politica/investigacao-cita-r-85-milhoes-de-faturas-inidoneas-de-empresa-ao-icb/"
-    },
-    {
       "title": "[AGÊNCIA BRASIL] PF está com celular de Vorcaro e afirma poder enviar dados a ministros",
       "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/pf-esta-com-celular-de-vorcaro-e-afirma-poder-enviar-dados-ministros"
     },
     {
-      "title": "[CNN BRASIL] Trump diz que dar US$ 5 mil a americanos caso vença eleição é algo “fácil”",
-      "link": "https://www.cnnbrasil.com.br/internacional/trump-diz-que-dar-us-5-mil-a-americanos-caso-venca-eleicao-e-algo-facil/"
+      "title": "[CNN BRASIL] Fórmula 1: Norris reclama de “azar absurdo” após perder vitória na Espanha",
+      "link": "https://www.cnnbrasil.com.br/esportes/automobilismo/formula-1-norris-reclama-de-azar-absurdo-apos-perder-vitoria-na-espanha/"
     },
     {
-      "title": "[AGÊNCIA BRASIL] Prazo para inscrições no Prêmio Rádio MEC termina neste domingo",
-      "link": "https://agenciabrasil.ebc.com.br/cultura/noticia/2026-09/prazo-para-inscricoes-no-premio-radio-mec-termina-neste-domingo"
+      "title": "[AGÊNCIA BRASIL] Dino determina fim do sigilo de investigações sobre o filme Dark Horse",
+      "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/dino-determina-fim-do-sigilo-de-investigacoes-sobre-o-filme-dark-horse"
     },
     {
-      "title": "[MINAS GERAIS] Flávio lidera com 47% ante 42% de Lula em SP, aponta Datafolha; MG tem empate - Folha de S.Paulo",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNQUpzalVmcU51QnNHd0R1QmtrU0pXQ05vemJZRzE3X3ZMLUQ3QWxvWm9tOHRkMW00UGJTVEJsMllLWVlXbjRDT194MmhZWjlqZjFtZ2RuTk1ERi02UWRGN1Z6QW4xSkxsZzNfc0FSTmpoNm9xVWgxQ0NvN0NaYXZ5elZNZ1BEeFRtZzcwNExOMy1oZEtkOXJUNHhmVTNRaWxqNGdaeTFUUU5EN3NSVkxmV2lOOWxPRGtKRnZ6S0tmM2g?oc=5"
+      "title": "[CNN BRASIL] Lituânia confunde pássaros com drones e leva Otan a acionar caças",
+      "link": "https://www.cnnbrasil.com.br/internacional/lituania-confunde-passaros-com-drones-e-leva-otan-a-acionar-cacas/"
     },
     {
-      "title": "[CNN BRASIL] Prefeitura de Ribeira decreta Estado de Calamidade Pública após enchentes",
-      "link": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/prefeitura-de-ribeira-decreta-estado-de-calamidade-publica-apos-enchentes/"
+      "title": "[AGÊNCIA BRASIL] Brasil é campeão do Pré-Olímpico e garante vaga em Los Angeles 2028",
+      "link": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-09/brasil-e-campeao-do-pre-olimpico-e-garante-vaga-em-los-angeles-2028"
     },
     {
-      "title": "[CNN BRASIL] Bayern de Munique sofre, mas vence Elversberg com gol de Harry Kane",
-      "link": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/futebol-alemao/bayern-de-munique-sofre-mas-vence-elversberg-com-gol-de-harry-kane/"
+      "title": "[AGÊNCIA BRASIL] Prova que avalia formação médica ocorre neste domingo em todo país",
+      "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-09/prova-que-avalia-formacao-medica-ocorre-neste-domingo-em-todo-pais"
     },
     {
-      "title": "[AGÊNCIA BRASIL] Presidente do STF assume relatoria de processo sobre Moraes e Vorcaro",
-      "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/presidente-do-stf-assume-relatoria-do-processo-sobre-moraes-e-vorcaro"
+      "title": "[CNN BRASIL] “Guerra de petições” pode atrapalhar julgamento no STF, dizem especialistas",
+      "link": "https://www.cnnbrasil.com.br/politica/guerra-de-peticoes-pode-atrapalhar-julgamento-no-stf-dizem-especialistas/"
     },
     {
-      "title": "[MINAS GERAIS] PRF apreende máquinas e veículos utilizados em extração ilegal de minério às margens da BR-040 em Minas Gerais - www.gov.br",
-      "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPUWU3RUdtbThUSGhjODFQajFMSmZndzd4dzBrVE1lb0FXOF9wTjRpWk9xaFZVdEViX19hX0toRFgtaEZsdzVDck1jUGpIRzNzX2dVQkU3Zmg4NEJwVjBQR3Fwb3Q1cnJUSGxOWHBGck1EdkJIMGFQaDJmUEQ5VS1YUDZ3LVNkM2lyZnY1czZtN1h1ZUkyMUx2SG9ORUlOQW1xMzlWbDJwUzFzMGNMMk54S2UtZEQ2anhmN2hPX1o2NEg4TmV0WFFMdHl1aVZHOHZXVV8wb1VtREQ4Y0ROQ0NFcG1DcHMxYkVrc0dPWDZ2YklsZEg5WDRIQXJ5dkRaaEFLZHc?oc=5"
+      "title": "[CNN BRASIL] Polícia prende homem suspeito de tentar matar companheira a mordidas no RJ",
+      "link": "https://www.cnnbrasil.com.br/nacional/sudeste/rj/policia-prende-homem-suspeito-de-tentar-matar-companheira-a-mordidas-no-rj/"
     },
     {
-      "title": "[CNN BRASIL] Bortoleto lamenta GP da Espanha e chama circuito de “desafiador”",
-      "link": "https://www.cnnbrasil.com.br/esportes/automobilismo/bortoleto-lamenta-gp-da-espanha-e-chama-circuito-de-desafiador/"
+      "title": "[CNN BRASIL] “A Nobreza do Amor”: Dumi vive seus últimos momentos com Kênia",
+      "link": "https://www.cnnbrasil.com.br/pop/tv/a-nobreza-do-amor-dumi-vive-seus-ultimos-momentos-com-kenia/"
+    },
+    {
+      "title": "[AGÊNCIA BRASIL] Dino aponta indícios de liderança de Mário Frias em desvio de emendas",
+      "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/dino-aponta-indicios-de-lideranca-de-mario-frias-em-desvio-de-emendas"
+    },
+    {
+      "title": "[AGÊNCIA BRASIL] Chuvas deixam ao menos oito mortos na Grande São Paulo",
+      "link": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-09/chuvas-deixam-ao-menos-oito-mortos-na-grande-sao-paulo"
+    },
+    {
+      "title": "[CNN BRASIL] Perícia de SP recusou aparelhos do caso Dark Horse por falhas na lacração",
+      "link": "https://www.cnnbrasil.com.br/politica/pericia-de-sp-recusou-aparelhos-do-caso-dark-horse-por-falhas-na-lacracao/"
+    },
+    {
+      "title": "[CNN BRASIL] Após 2 semanas de internação, filhos de Cazarré visitam irmã no hospital",
+      "link": "https://www.cnnbrasil.com.br/pop/celebridades/apos-2-semanas-de-internacao-filhos-de-cazarre-visitam-irma-no-hospital/"
     }
   ]
 }
