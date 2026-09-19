@@ -1,126 +1,86 @@
 {
   "source": "Radio Guaicui - Noticias",
-  "updated_at": "2026-09-19T16:05:04.017881+00:00",
+  "updated_at": "2026-09-19T18:36:58.344575+00:00",
   "items": [
     {
-      "title": "[MINAS GERAIS] Nova pesquisa Quaest em MG testa disputa pelo governo e Senado - Valor Econômico",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQMG96VnAyZU0tSkM2YUdBdkdNbFViRG16UW9lOFBuMmZMZUNBdmdhSzFmY18wSVVzTHJycS10TTJkOVlXajdfTEpHZHlRUS1USmphWTRNeTk0TFNta1ZXc0tETUttWmV6QWQ1eENNZDJWdVVIUG16VTQ4ZkZtN2xaSlFYMEdpZGg5N1M1OS0wYWxZUDk3TUd1UXBobV9taUZ1ZmUxQVVIMUdxVl8ya2lzSF9CYWxfQXJFUlRjNGxpMEYteVdKY1o1UW9qWTJ3UlXSAd4BQVVfeXFMUGE4LTlDNWtLcXphc0g1RGRiMC1QRHJyVUZiWFpwVHhYcE1vR3p0S3VfS25LUTZVcjBJeDZfeUh2ZndxQ2ZIM2Ric2pWMzNhWWNZRTZlMnlRSFY2R3plRjJWQll3STNUYlRBRGxlUHZvZWNFcno4bkIxWGpKM29TSVZsUzBYckJNODZJUHFJcFh6aWJYNXlTR3RvVkFlc1J6V1N1dThhUUx0cVBzMmM1d3dUTUZ0cTZrbkRCSW1WanFIbjZWWXdOU3k5ekZJS0RuWEwtMFRrUmVfdlQ2ZFZn?oc=5"
+      "title": "[AGÊNCIA BRASIL] Cargos de liderança são só 1,5% das vagas para pessoas com deficiência",
+      "link": "https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-09/cargos-de-lideranca-sao-so-15-das-vagas-para-pessoas-com-deficiencia"
     },
     {
-      "title": "[MINAS GERAIS] Adolescente é baleado por policial militar durante abordagem em Serrania, MG - G1",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOWTRIaWxWU0liZnJ1ODFock1ZVzBFRnhicHlIazdyUllhYUROMDNPTXhVbm9VR25XY3BONkZsbnQ4aEROd1diTUNTVVl3LTlfSDhXMHFJblFSSVVqUWxtVHp4V0xfdXNfNVBzSmNvXzNVTFhQemxuZ1hmZmtKaWs0czZSdUExRzkxWUFB0gGaAUFVX3lxTE10UkhQVG11OXlITF9uZmNZdmdUZERSYmRYUEZRSkQ0NjhEdVo5RlNya2M2SWxTeEtYWXBlT0NBRGdJUV96djFmWFY4OEMtelA5Z1kyQXptTDRoUFdxakJvU0xTNkJ1ZzB0c0FRNWdlLV9LS0YxeDhkQkZzTkxPei1xXzVGX0VLRGNvN05UeTYwWU14dlRsUTlzYVE?oc=5"
-    },
-    {
-      "title": "[MINAS GERAIS] Pai e filho desaparecidos são encontrados mortos em Minas Gerais - Poços Já",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOeUxfT0JmY09RaDdmMldOaUJRekhMbTN5VDlUeGRvelNYaWhldkI0eVlHTkNOZWY2bS1JbDRIdHZWLXpTYVpHWG1LdWV2SkV5TW5BT2RGTkEtd0NpVXp6djl6ZnBjMllBSWF5ZmRfWkJDNHpKX1psSE1sQUFqMHJKRXNMb0RBdXZJRVdtcnlRVU1BaFhCaTMyYTBOOVo2YWNweHVRN0JBdDdZYUxoSnNDbTFQbnVIQ3NXVVRJaTZmT0xQZnV4MEE?oc=5"
-    },
-    {
-      "title": "[CNN BRASIL] Mamelodi Sundowns vence Al-Ahli e avança no Intercontinental",
-      "link": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/mamelodi-sundowns-vence-al-ahli-e-avanca-no-intercontinental/"
-    },
-    {
-      "title": "[CNN BRASIL] Oposição apresenta projeto para acelerar pedidos de impeachment no Senado",
-      "link": "https://www.cnnbrasil.com.br/politica/oposicao-apresenta-projeto-para-acelerar-pedidos-de-impeachment-no-senado/"
-    },
-    {
-      "title": "[CNN BRASIL] Moreno, calvo e tatuado: o que sabemos sobre a múmia mais velha do mundo, descoberta nos Alpes italianos há 35 anos",
-      "link": "https://www.cnnbrasil.com.br/curiosidades/moreno-calvo-e-tatuado-o-que-sabemos-sobre-a-mumia-mais-velha-do-mundo-descoberta-nos-alpes-italianos-ha-35-anos/"
-    },
-    {
-      "title": "[MINAS GERAIS] Menina ataca por abelhas em Ibirité apresenta melhora - G1",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNNTJhdk95R21vSU1pejBNZGZxVGZWRzNud1ItTl9RMi1VZGFfd2hGTFVjUkw5RFBXQURZMHBwYVlDR0pEVXctaHNkWjZHRWhzemVvS01qd0w5MHBRZEdXQ3VpaUt0QXlBQnphVzBvSTgtU0gyRmJsYnF1MXV6RHZ2U3lkX0puQVRFcUswTEVfNG5iXzhtZ0hReF9LQUFMVmxqXy1zdE1qeGtSQkdFdXJLLXlWN0tQZ9IBxAFBVV95cUxPeVBZdlpPd1h4LTRTX1AwQkNOaWdTYWRzMlh1eEppTUVXNWVpZHJTOVpLVUhnUjVOUlpLSWtWSmU5SVFKQXI5Y1BlQnlZSEdfU0NiaUJUUDRqZWhHckIyaXkxQW41ZUFWQThydXNCMlRsWUdyTC00X1BKN0FxTWVYN3hFb1llMGtQUDVDNzEydVlaVGNmanItdWFSZG1feVdBX2NQZEpUUjNoYzlMaUtwblM5d3k3X2F1UkJSLUdOQU40aVAx?oc=5"
-    },
-    {
-      "title": "[AGÊNCIA BRASIL] Rui Costa Pimenta quer ampliar direitos trabalhistas e verbas da saúde",
-      "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/rui-costa-pimenta-quer-ampliar-direitos-trabalhistas-e-verbas-da-saude"
-    },
-    {
-      "title": "[AGÊNCIA BRASIL] Praias de cinco estados vão receber mutirões de limpeza em setembro",
-      "link": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-09/praias-de-cinco-estados-vao-receber-mutiroes-de-limpeza-em-setembro"
-    },
-    {
-      "title": "[AGÊNCIA BRASIL] Condenados por violência doméstica terão de passar por reabilitação",
-      "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/condenados-por-violencia-domestica-terao-de-passar-por-reabilitacao"
-    },
-    {
-      "title": "[AGÊNCIA BRASIL] Apostas online podem levar ao endividamento rápido, diz pesquisa",
-      "link": "https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-09/apostas-online-podem-levar-ao-endividamento-rapido-diz-pesquisa"
-    },
-    {
-      "title": "[CNN BRASIL] Lilia Cabral entrega qual cena foi a mais difícil que já fez em novelas",
-      "link": "https://www.cnnbrasil.com.br/pop/celebridades/lilia-cabral-entrega-qual-cena-foi-a-mais-dificil-que-ja-fez-em-novelas/"
+      "title": "[MINAS GERAIS] Pesquisa Veritá Minas Gerais - CNN Brasil",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5OaHp2OXoyR3JpNGxWVmd6S1NwaDdkN3ctVEptOHZ2MGpIOV9LVHdKS3A0azd2MHJIVTZ2TFd1TUVvMEhIUnE1QUdua1NxWVUzVVBUY2RGZ0w0RXdw?oc=5"
     },
     {
       "title": "[MINAS GERAIS] A duas semanas das eleições, Minas tem cenário indefinido - R7",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNc1JqOUNhcnJCMnRfbEgwZlJyd2ZCTnBteHhFNUNFUW9ZY3h5VGlwSlBOOENsYWlWTS1ReFRrTzR3WGVzeHVVaU5hN2FDdnBkLW9weFFTU09ZUW1MQVY2VzJDVHhndFZQb0xmZWhUbWU3S2o1em0yWm5jMnM3ckxSMlhoR2RGaEJGRDZERE1DRU45X1BPbmxmbUloX0M4UWxJeC1CWEo5MXhhWVRSZHByMjY2YjVzWjQ4UGc?oc=5"
     },
     {
-      "title": "[MINAS GERAIS] Veja o que se sabe sobre pai e filho encontrados mortos em ribanceira em Minas Gerais - R7",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQR0x4SWtjYjlHdUc3cE0yUGZheFF6dS1hcy1WX2hwZm0tVHNVQk9uSV8zSERSSHNwUi1lTWNFaF9oQ1R4M1d0WkZIZldqeTlLcnUtcEg2TFB6SGNQRTRQVXBLdkdNclNUd3dXNE1KMVB1LVRwZWhHVlF0Y29aOWRxTWZoamNEbXR4ZWlGd2FsMWxxQ3FzS1lPVFoxSi1CTTJ6c3Y1X21vRzRkN25tNk5KWkxZWTR2S1FwTVJvczJSeVBxNl96LUdKbUZ2TWo?oc=5"
+      "title": "[AGÊNCIA BRASIL] TV Brasil exibe final do Brasileirão feminino A2 com Vasco e Itabirito",
+      "link": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-09/tv-brasil-exibe-final-do-brasileirao-feminino-a2-com-vasco-e-itabirito"
     },
     {
-      "title": "[AGÊNCIA BRASIL] Apostas em bets avançam entre jovens e ampliam risco de dependência",
-      "link": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-09/apostas-em-bets-avancam-entre-jovens-e-ampliam-risco-de-dependencia"
+      "title": "[MINAS GERAIS] Mais de 50 cidades de MG estão em alerta amarelo para baixa umidade; confira a lista - Rádio Itatiaia",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOc2sta2NoVEVnTzhvdk56ZHQwQWZKVVh3dGo1WDJ3eDBCdjBUUjUyeVNFSVNGZEFJQnRtM3JMRnRod3dyTjdud3RFMGdqZjdRcHJNZmJkZEN1eWx1ZEt3bVhOUkVpaWVzcHFkM0xETTZGX1J1MTVpbExNanRtWE9seTdqV0RFZGpUejlxcXVPRmpEVWVrNkV5OHdWdWJ2VGNpNllrQ2tVMnZkcjA5U19fU1J5Z25zREFnbS0yd0lOdXNWS1lMWDdOTDh3?oc=5"
+    },
+    {
+      "title": "[MINAS GERAIS] Temporal forte com granizo atinge Ipatinga, em Minas Gerais - UOL",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE45eXNfRjZlU2p5UU9XUjlRNEEtcUhWU3dCSlV1UzdNNE5DdFFvWUlUb3R3V1poNzR6a2N3cjNKNFZFeWRRUERYZ0UybW44aXltek1nT1FCMlQ2OGZZbHB1V01HZFVBa2c?oc=5"
+    },
+    {
+      "title": "[AGÊNCIA BRASIL] Inep muda locais de exame da PND em União da Vitória (PR)",
+      "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-09/inep-muda-locais-de-exame-da-pnd-em-uniao-da-vitoria-pr"
     },
     {
       "title": "[AGÊNCIA BRASIL] Mega-Sena sorteia prêmio de R$ 28 milhões neste domingo",
       "link": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-09/mega-sena-sorteia-premio-de-r-28-milhoes-neste-domingo"
     },
     {
-      "title": "[CNN BRASIL] Insights da semana: oferta de vagas nos EUA indica uma possível recessão",
-      "link": "https://www.cnnbrasil.com.br/economia/money/mercado/insights-da-semana-oferta-de-vagas-nos-eua-indica-uma-possivel-recessao/"
+      "title": "[MINAS GERAIS] Moradores reclamam de poeira excessiva após instalação de fábrica de cimento em Betim - G1",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOTlRpb2xRMHVINzU3T1VqM0lSbmc4ZEliLTI4UXVSbTZvWUNCUTJfQllEa1lFYTRrbzhXa01pRE11Q2xvQzNlMngwTU5JMFRhTzZGLUlRajZpblRobjBhS09lZEd1S2V4dkd3a1hKTWJnODZMSkZacl9iRFBGNlNFcUV5MHU0RC1KWGlXMHh6UTY4c200cjR0YkdaVXpiejZHZzZPR2lBN3pmRTF3Wmk4WGRWQ1BSNGdWXzM2blJHV21HNWlXMm5RZDdvMVRuRV80cS1ob2ktY1UyR21fVUlYRNIB7wFBVV95cUxQalRKQ01EaFNBTWJQSmhvSUVvcGhWXzJneko5WkJGRndzaHRPT2ZCa0dOMlJlQkNqeXNWTjUzaUo0OURreTRUNlZqbmRCdHo4NzdXWUtZQ3JLQWQzWGN6NUVGWGtSX0lya1FJaWU2M2piLWR4QkVHc3dld3J5Ni1YaWlzeW1HckhuUDZDTFZDVzBQTXM1QUJlX0tGSXBiWjNTRG92TFBDX2dCc3RHVXdWZE1xUVAzUk50TDJ1SmJja1F0c0lJU1p1WVh3cWwyN0VUQnlHSlg4MkZEU0ljZ1FxNkZnc2J0QkZWNmJiMnlGMA?oc=5"
     },
     {
-      "title": "[CNN BRASIL] Assembleia Geral da ONU: Entenda como funciona",
-      "link": "https://www.cnnbrasil.com.br/internacional/entenda-como-funciona-assembleia-geral-da-onu/"
+      "title": "[MINAS GERAIS] Nova pesquisa Quaest em MG testa disputa pelo governo e Senado - Valor Econômico",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQMG96VnAyZU0tSkM2YUdBdkdNbFViRG16UW9lOFBuMmZMZUNBdmdhSzFmY18wSVVzTHJycS10TTJkOVlXajdfTEpHZHlRUS1USmphWTRNeTk0TFNta1ZXc0tETUttWmV6QWQ1eENNZDJWdVVIUG16VTQ4ZkZtN2xaSlFYMEdpZGg5N1M1OS0wYWxZUDk3TUd1UXBobV9taUZ1ZmUxQVVIMUdxVl8ya2lzSF9CYWxfQXJFUlRjNGxpMEYteVdKY1o1UW9qWTJ3UlXSAd4BQVVfeXFMUGE4LTlDNWtLcXphc0g1RGRiMC1QRHJyVUZiWFpwVHhYcE1vR3p0S3VfS25LUTZVcjBJeDZfeUh2ZndxQ2ZIM2Ric2pWMzNhWWNZRTZlMnlRSFY2R3plRjJWQll3STNUYlRBRGxlUHZvZWNFcno4bkIxWGpKM29TSVZsUzBYckJNODZJUHFJcFh6aWJYNXlTR3RvVkFlc1J6V1N1dThhUUx0cVBzMmM1d3dUTUZ0cTZrbkRCSW1WanFIbjZWWXdOU3k5ekZJS0RuWEwtMFRrUmVfdlQ2ZFZn?oc=5"
     },
     {
-      "title": "[AGÊNCIA BRASIL] Gabi Terra é destaque do reality Duelo de Guitarras na TV Brasil",
-      "link": "https://agenciabrasil.ebc.com.br/cultura/noticia/2026-09/gabi-terra-e-destaque-do-reality-duelo-de-guitarras-na-tv-brasil"
+      "title": "[AGÊNCIA BRASIL] Brasil vence Venezuela e está no mundial de vôlei masculino",
+      "link": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-09/brasil-vence-venezuela-e-esta-no-mundial-de-volei-masculino"
     },
     {
-      "title": "[MINAS GERAIS] Lula vai pela 3ª vez na campanha a Minas Gerais, fiel da balança - Poder360",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOaTMyUVB2OUNLUWpJdnJDZFB0RnlPblUza3JiazlHdXFBV09sWWF6ZUxydUJjcmxPc1d5WVlPNG1qdXYtbVU4WWVOek5GeVd5MGZ4eDVjUm1iOWZHZ2ZTZV8wd05lNGd1OVhGS2VzYzJOTU93RzRnVnAzN3VCYnZQUmMwd0ZxOGdvRV9nbUZmWEVnYzJaVFZSRE1hYWUwd29zVTJETkttMkJNMUk3NFlMei1n?oc=5"
+      "title": "[MINAS GERAIS] Mateus Simões fala sobre período chuvoso em entrevista ao MG1 - G1",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOcHUwaGlKUHNKQ1hoTmYtMFExc2hEbjZ3SUIxNmkyRURvcFI3TmxDcEM5QUF0MXZUeVBwRVJuNklsRjk1QnBzcmY2QmpBa19qMWJYcFZjWjAyUjA2SVR4cTZwTVp6Sl9HeDhiQ0NEUmNSdk1wZ3kwVVRlWVpXQ05xNG9sR3RPdFR3TTVaR2prdllPYlBod2NhdkFRNzNzQktFRGNGbWxsMmlnZ1BlemZ5UTBudGl0SlgwOUhj0gHKAUFVX3lxTFBrUXJSS0VKMFlWbDNheXVmZ2RUWXF0dENHTHdDZnVaUkVkMFcyVEdrQktQZWhvQXVacktxZzJTQkZVV28zcW5BU0lnSFJjSk1udVA5TTQtOUZwQy1IRzRZV1dOdW9DUnF0bVVEMWRiS2F3OWlUVVhZZUV5NFV4aWN4VkE5NGduaTJYU2tqa1N6QXZkMFp0dEpucjZ0cHFRajF6QUYwTUV1QVAxWEtxYWhIMk1Tdmx0QWlONmtPaVVZaFNDdVJELW43WUE?oc=5"
     },
     {
-      "title": "[CNN BRASIL] Brasil vence Venezuela, segue 100% e decide vaga olímpica contra Argentina",
-      "link": "https://www.cnnbrasil.com.br/esportes/volei/brasil-vence-venezuela-segue-100-e-decide-vaga-olimpica-contra-argentina/"
+      "title": "[AGÊNCIA BRASIL] Petrobras batiza primeiro navio a navegar com tripulação 100% feminina",
+      "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-09/petrobras-batiza-primeiro-navio-navegar-com-tripulacao-100-feminina"
     },
     {
-      "title": "[CNN BRASIL] Normalização do petróleo deve ocorrer só em 2027, diz analista",
-      "link": "https://www.cnnbrasil.com.br/economia/money/mercado/normalizacao-do-petroleo-deve-ocorrer-so-em-2027-diz-analista/"
-    },
-    {
-      "title": "[CNN BRASIL] Ex-vereador Milton Leite passará por audiência neste sábado (19) em SP",
-      "link": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/ex-vereador-milton-leite-passara-por-audiencia-neste-sabado-19-em-sp/"
-    },
-    {
-      "title": "[MINAS GERAIS] Pai e filho desaparecidos durante viagem de trabalho de MG para SP são encontrados mortos - G1",
-      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNMGhTSi04Q2ZVUWRWM3RBaVhPZm5pSGpOTmkyWm9jamJzcmE3a0x5TExhVlVsN2RHYUkxQmQxRWp0WGlTenoxb0VGaUt6V1FtMllyMVlHckd3aXlwUnNQY1NQT0N6U2t3ZjB6NDV6UE45NDNVUlQ0Z1hrZGRhZHByOHZDc21UaVlPdy1Uczlwb193dFJDcFRaYkRQTkhDTmhVZURfRzlramJJNXlYVEt5UTRQYUVsMW5VZGZUSnd4WUJMMUxqc2dISDhyZVlIRW5DcUFkRXR6aUdERk1TdXRjdGlGakw3Z9IB9AFBVV95cUxOY2RaOEFkdnJUM243cWJEa0o3WmNCVm9TZ3RicmNoVW9kODBvOEtCRDFvd0lFSFpmUWNuTG5QXzlTaldMV1g2OVB4V2c5RTZVMkE0R2lPV2M5QVM2QkV6YTdobUc4TFNRZGE3aHp6a0hNbDdMTmdQdjBxbmpzdHdtcUU5d3VKZ19GTmhzMmdEeGtqYWtldFYwOUhDY3kydDVGODVBWk1MYVRDWjJaa0xCR3Y1QmlpdG9zeUtPTlZ0RTlBTTRlQk00UGpsSXl1bFRhSzQwNXktRWtPdXN2Tk05Y3ZSWHFiRkljLUtiTHVMT2ZBakxM?oc=5"
-    },
-    {
-      "title": "[CNN BRASIL] Rejeição a data centers vira aposta de democratas em eleições nos EUA",
-      "link": "https://www.cnnbrasil.com.br/internacional/rejeicao-a-data-centers-vira-aposta-de-democratas-em-eleicoes-nos-eua/"
-    },
-    {
-      "title": "[AGÊNCIA BRASIL] Cargos de liderança são só 1,5% das vagas para pessoas com deficiência",
-      "link": "https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-09/cargos-de-lideranca-sao-so-15-das-vagas-para-pessoas-com-deficiencia"
+      "title": "[AGÊNCIA BRASIL] Apostas em bets avançam entre jovens e ampliam risco de dependência",
+      "link": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-09/apostas-em-bets-avancam-entre-jovens-e-ampliam-risco-de-dependencia"
     },
     {
       "title": "[MINAS GERAIS] Eleições 2026: conheça todos os candidatos ao governo de Minas Gerais - VEJA",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQdHVxWEFYYzhPWDE0X0lOTmtrMWxwZnduWXRXLURoMVhOb01mWTB4TlpGaTBMclR4dWYxVlFvZ2VhS0hNT1F2VWI4czhwcjIwR0dWV01qdWFxV1lVd2ZzbEpoSm1yMnhFWmkyb29NeTFfdUx3dTE0RG5GNHNJSV85bkhZZ2E0ZHNNb3RHQU5YM0pnRllnSnhSQ1Izc05wbVJSODJRb3pVWQ?oc=5"
     },
     {
-      "title": "[AGÊNCIA BRASIL] Caiado promete governo \"transformador\" e reformas estruturais",
-      "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/caiado-promete-governo-transformador-e-reformas-estruturais"
+      "title": "[AGÊNCIA BRASIL] Impacto financeiro de bets no SUS chega a R$ 30,6 bilhões por ano",
+      "link": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-09/impacto-financeiro-de-bets-no-sus-chega-30-6-bilhoes-por-ano"
     },
     {
-      "title": "[MINAS GERAIS] Idoso é resgatado após ataque de abelhas no Sul de Minas - G1",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPUDMxSVpDb1pNYXFYdk5zV3dRc0gxTnpCMUZDaGhrUnVrdjJ2WDlVNFNRM3dvOWpYTmQ2eDZBbk0xcFdYNUFmeVF0ZmtvUE5uNmc1ZHBuNUVuWk9TcHBYV2NQV2g3UGpBdDRpYmozc29tZ3E1bjl3Y3RSMVg0NU4zaGJIVHA5RUlNOFIzckdlekMxZGRTRW11OHlXQ3FnRE9RdmhCUkx4T2xVblRZNDMxcGdyb19aVEdPUFHSAcgBQVVfeXFMUDBqWWI4amdxZ3F3T1hLQkpQWFpPZWVKOG82UWVvY1cweVpSbnlVcnAtZ1NmenRTXzFpT00wMW1lV1pQWXVGczdWU2hoQnREOG5tWTBZTEVocjdINDdGYndpRVFRMmRzTGQ2QV9PTXBJaHpCY0xyRXhaazBxWGRNcXlqRXVRWlFael9UNWRlaWtROXlMM0FRcUpHVWNiWXhSMThHVEsyUEZlQnNkY2lCZEhyb1J2aFhMd0wzTExvd28xdjd4UTZncGQ?oc=5"
+      "title": "[AGÊNCIA BRASIL] Apostas online podem levar ao endividamento rápido, diz pesquisa",
+      "link": "https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-09/apostas-online-podem-levar-ao-endividamento-rapido-diz-pesquisa"
     },
     {
-      "title": "[AGÊNCIA BRASIL] Confira a agenda dos presidenciáveis neste fim de semana (19 e 20)",
-      "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/confira-agenda-dos-presidenciaveis-nesta-fim-de-semana-19-e-20"
+      "title": "[MINAS GERAIS] Criança Esperança faz a diferença em BH - G1",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQZ01Vb2xFTVY2d3Q5ampYUjZwQ0l1RFNSSnlIZVcwZU9zUlkzWHJwWFExeGYyZ25wN2NNTzFvY1pNOHZHSl9rV3J1OGtHVF84M195VW9vaHcxQzd0ajk0Q1NLRGFabHFYd2tmczE4UnVoaGlEMEFaOEVHUkRmNTVVeUU3WFBlUEtObDdIOFZNYVZJTG9ua0otZlNOcXU3V0JaNk130gGyAUFVX3lxTE44RHJaY1E3S2JoVmZqdEZiTndpQTFQNXV2cUNnWVBuSHRjTm1YUnE0SGw0OHNtak5RTi1qeVQ5V3hNUzVGTFlKVnE5V2I1cGdBV3RjRGVhUHFzM2ZXZ29LMmlYaXZmZ0xkX2hyMHhpZnVJOXNZLWNLaFhmVzh2Ql9EUlJzNlFNN0V2RkZTUjNVa2Q0T184d2JpN1k1YVI5TGItdTMwYUZqSkNGcmhtR0g5cHc?oc=5"
+    },
+    {
+      "title": "[MINAS GERAIS] Domingo no Campus oferece atividades culturais, científicas e de lazer gratuitas em Montes Claros - G1",
+      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOZWdncWdEb3dqSXRTYzFmVFktbll5M2hhMjEwOHdDSms1cHZLS0s5ZFlfazF6ZzlfVmh5TlBER2ozcTdRMXQ3a0FOSTlVV29qSkl3Zk9hUmZ4ZkRoekZvVVFVMW1iNjl1ZkNKa1JMcGxuWk1Yc0dvemJWSFp2YUptbk5jS1J1OWtOZ1lyYzhrd3hoRHIxUTBqNHNoQWNETk1taFRiMzNGYVFHM21rdldpNlBFaktKelVCdEotZWRFQWFmSU1RWk9uYXpVYnN0TUQxejJOZ2dKUk1yTzFCQnVpV3NGMXdUaE9wVXZyNC1jVdIB_gFBVV95cUxNQUxvbS1KQkRJOTRxSDhtbWRDbTEtN2tpSWJ4WVNndmFfTmduVEtDUTc1SzMtUmtyVkNESEFsVHZYcGRsUkdESUJCNURVVmdoNzVqUnBMNF9fVGR3OV9VcnUxbmp6d19EWExHU3RnZ3Z0U29qOXJ1cTRGNFBmcVZkbWMtYm90YmdYT050ZUFJRnFBLUFpNEIzc0NQb1kweF80eVd5Q3lsdVQ5a2tmTmxGLWdoYjVzMWoyWWhhVDZtamp5cjlzTjRjWmRlUnFDcy1tSEJKdHN1ZkNCRDNjMFNEN1A4dUFfa2NWUzBuSGJXWEZ5RmxsZnhvUERCWUF3QQ?oc=5"
+    },
+    {
+      "title": "[AGÊNCIA BRASIL] Alerta de tempestade: frente fria amplia instabilidade na Região Sul",
+      "link": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-09/alerta%20de%20tempestade-frente-fria-amplia-instabilidade-na-Regi%C3%A3o%20Sul"
     }
   ]
 }
