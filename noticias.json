@@ -1,86 +1,126 @@
 {
   "source": "Radio Guaicui - Noticias",
-  "updated_at": "2026-10-04T23:52:20.836526+00:00",
+  "updated_at": "2026-10-05T04:26:40.152135+00:00",
   "items": [
     {
-      "title": "[AGÊNCIA BRASIL] No Rio Grande do Sul, Luciano Zucco é eleito governador em 1º turno",
-      "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/luciano-zucco-e-eleito-governador-do-rs"
+      "title": "[AGÊNCIA BRASIL] Veja os 20 estados onde o governador foi eleito no 1º turno",
+      "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/veja-os-20-estados-onde-o-governador-foi-eleito-no-1o-turno"
     },
     {
-      "title": "[MINAS GERAIS] Cleitinho (Republicanos) é eleito governador de Minas Gerais, projeta Datafolha - Folha de S.Paulo",
+      "title": "[AGÊNCIA BRASIL] Seis estados e o DF terão segundo turno para governador",
+      "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/Seis-estados-e-o-DF-terao-segundo-turno-para-governador"
+    },
+    {
+      "title": "[MINAS GERAIS] De verdureiro e cantor a governador de MG: quem é Cleitinho Azevedo - G1",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPY05nb2VTdHFVM29FcTNtV0dDN2YzbDJyVE9mQWFBT0VVNndGVnRWbjNKblFyZmEtM0toT3ExTUpzVmtXaVlMQ3JOd25SRUtHd2F0Mk16c0NLV0V5akMwYzhtV0lMUjZMOHRxSkVqZl9WZ2pwZWdZQzJiT0Y1NG1pM1RMOGhyalRpZlE0eERBVXZCYlJ0YzRyNW10cUM5YkEtb21UQW81SUpuRlhUOFZlQmlZQ3NSTnNja2piYTVKd3FteTMwOS12RjRQYzNWSHNQNGsyQnktS0lqQdIB6AFBVV95cUxPaDROdXBFUVRwQTR5T3plWjlKNnpuQmZRNmVvS2FjaE5UZFI0bjZneFV1Ti02U213WHV2aUhHY3JxOVNwa19scjFadVYyS0dfMmViRDVGdVRqUnp1SkVoOHl4MG8wbVdDVWlDb3Jhb1hhT0VuTG0tdWszTXFESGlzYWRfX2VGNHhpRG1lLTZmcWh1ZWJhRFVqeUs0NmNVbzFXNVQ1R0Zqb2ZMSVNiTXJESlcyVC1sM1p2Rk53b2wyR1BkY2tMRHJteG9ERU1iUzczM3ZUVkF4eUd3T1hKOWpNeU5ibjQydDRq?oc=5"
+    },
+    {
+      "title": "[CNN BRASIL] Eleição derrota caciques da política e impõe reveses a Motta e Alcolumbre",
+      "link": "https://www.cnnbrasil.com.br/eleicoes/eleicao-derrota-caciques-da-politica-e-impoe-reveses-a-motta-e-alcolumbre/"
+    },
+    {
+      "title": "[AGÊNCIA BRASIL] Kassio diz que não há alerta de interferência nas eleições brasileiras",
+      "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-10/kassio-diz-que-nao-ha-alerta-de-interferencia-nas-eleicoes-brasileiras"
+    },
+    {
+      "title": "[CNN BRASIL] Com 78 mil votos, José Dirceu não consegue se eleger deputado federal",
+      "link": "https://www.cnnbrasil.com.br/eleicoes/com-78-mil-votos-jose-dirceu-nao-consegue-se-eleger-deputado-federal/"
+    },
+    {
+      "title": "[MINAS GERAIS] Cleitinho Azevedo é eleito governador de Minas Gerais no 1º turno - Agência Brasil",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQak1CX1A2c1NXQTJLUjlzakJNdmk5TDNPcWRld2lGZ2pGVUxKX1B6emM0QkFHbmtPV3FuVVpRRGJzU2k4enI5cXNySkwtcGVrVnl6TFJ3SW1YUVkxN3lCRm10c0VUV0ZhVG4tdmE3Wk93eWdTYWVMdEcyVXpLY3RNelJ4b0l1YXBlQ1pCTlZsdlFlc2VnWG42TXdLOVIyU292bnc5bGRSRHdiLUE4RUhPTTJtd2xMNnpGR2M1aXFoSlE3c1JVNlNV?oc=5"
+    },
+    {
+      "title": "[MINAS GERAIS] Veja como fica a bancada de Minas Gerais na Câmara dos Deputados a partir de 2027 - G1",
+      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPOFNYenFjbFVEal9WZDB3SFhZb25uOFg3VEV3NkFLSlgtN29MM1ZBSlNDcTQteTZaQkYwaWxSbHdITG4tQ3VlM3BsMng2akJ2NVZHTVJKZjRudzdWMjNqS1k5SmJuV0xfR0lGOUZ0aDh4STJNbFBib3RmRjQxVm1hTkcyNlRtMk9FNlc3OEJPOXB3bUxoSE5LUE9YZ1FLbHV5WHpNX0wwYkxCaWRESDhGQURPSEVlak1YY05XaVRDSk44bWNmREdVNi0xdllDYkdSSGZEQ0hZWlZWaFRUdkdsTzNRSDhRT2JlSTB6UTJn0gH8AUFVX3lxTFA0TVNWVUlmQnZIeXlqZHJmQ0dFOGl0VjVDSTFwZXNjY2JsMWNVc2xFOHVqUFVfVEVGeEtoaDVvdS1RTVJnNDcwYmRoRGFOcHlSbmd2a08zdEc3ZVpKN3hoY2pvZUJlcXE3UTlXS3RaMTJCQURTNzdmNkhyUWxhWVNVZ1JVVlpqSlV6MXhGWTdyX2c4N2RWNS1LU2RKakRERkhpRHZyS0JIRWhmUXgzVDNIZVdvWFB0Rjc2TDc0QzBZeUNUdy1INS1obldud2VaeThhU3BDYjQ2QlQ5ZjVyTUhuZEtnZE00ZnoxRDVnajVGYlY5dmpMZGdmekUzdA?oc=5"
+    },
+    {
+      "title": "[CNN BRASIL] Análise: Flávio está “satisfeito” enquanto Lula cita “resultado inesperado”",
+      "link": "https://www.cnnbrasil.com.br/eleicoes/analise-flavio-esta-satisfeito-enquanto-lula-cita-resultado-inesperado/"
+    },
+    {
+      "title": "[MINAS GERAIS] Lista dos senadores eleitos em Minas Gerais nas eleições 2026 - gazetadopovo.com.br",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQSnVvTkhDWjJXQU9tSDlCMC0wN1d2dkhJV1pfVlJnME83OEotZkpQZEw5ZUZUT21QdnItN1JzMlFZaXF1T25CN3hBNVdtbktDM3FWWDdZY2l6eG1vYklDcDhoMklQcXhUVmNQRW1lMXdGQWc5YjAtTFpXd2FRMXNtZkh1NjcwYTd3NmgyUzdpNVNzVWxzWHZwaG5Cb2dwdC14YUluTWhPWTZkT29KbGNmamNUQkFXRmNnUGt2cENn?oc=5"
+    },
+    {
+      "title": "[MINAS GERAIS] Cleitinho (Republicanos) é eleito governador de Minas Gerais - Folha de S.Paulo",
       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQZ3E4RkludHliMjBIZ0YySUxDUHU3Y3c1SVdkUXBMb3RZMGVETjh3bXFvWXRzUVlweUw1cFlycFJPbmgyd0k3TjY0U1F4U05vdTk2blRKQjhvOXRVYkxVZG5XNGVtbUFPeWNna3FQZjVBcUJLRjR6XzV3aEZ2QlhoaXJ3c1pCVUlPaVlab0N4MzRoclYtYm1pMWZCSXNOdHY5dksxY0RDcHhka1hPOEp5LTJkTncwVk14MkVXVC1qOTNpXzY3?oc=5"
     },
     {
-      "title": "[AGÊNCIA BRASIL] Fábio Mitidieri é reeleito para governar o Sergipe por mais 4 anos",
-      "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/fabio-e-reeleito-para-governar-o-sergipe-por-mais-quatro-anos"
+      "title": "[AGÊNCIA BRASIL] Reeleito em SP, Tarcísio promete mais entregas para o próximo mandato",
+      "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/reeleito-em-sp-tarcisio-promete-mais-entregas-para-o-proximo-mandato"
     },
     {
-      "title": "[AGÊNCIA BRASIL] Menos numerosos em 2026, adolescentes exercem direito ao voto",
-      "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/menos-numerosos-em-2026-adolescentes-exercem-direito-ao-voto"
+      "title": "[MINAS GERAIS] Domingos Sávio e Marília Campos são eleitos senadores por Minas Gerais - Congresso em Foco",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNMzViRHBUVG96U2FzS1RZRG5VMjFMcmZTNjhiblJDVWp0WHc4MEd0cGpTbFc0SGFfN0FLTno2ajhWQWZOc3pTSjQ2VUJFU2ZyTHBQSDJ2d2RHOC1QSGVNelRIcUZXNkl1TndYZkRUbTkwTVhJTGtQSHowM1hsSFlwQ2pDR2pBRHNXT3ZlX25oREFIRkM4OUJZOFp1OVpiNUNvb0RXRWdYWWFUY1ZqZjNGSGIyeFNQRDVTandidw?oc=5"
     },
     {
-      "title": "[AGÊNCIA BRASIL] Eleitores do Rio seguem em fila de votação até depois das 19h",
-      "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/eleitores-do-rio-seguem-em-fila-de-votacao-ate-depois-das-19h"
+      "title": "[CNN BRASIL] Soraya Thronicke não é reeleita ao Senado por Mato Grosso do Sul",
+      "link": "https://www.cnnbrasil.com.br/eleicoes/soraya-thronicke-nao-e-reeleita-ao-senado-por-mato-grosso-do-sul/"
     },
     {
-      "title": "[AGÊNCIA BRASIL] Daniel Vilela é reeleito governador de Goiás no primeiro turno",
-      "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/daniel-vilela-e-eleito-governador-de-goias-no-primeiro-turno"
+      "title": "[CNN BRASIL] Veja os 39 deputados federais eleitos pela Bahia",
+      "link": "https://www.cnnbrasil.com.br/eleicoes/veja-os-39-deputados-federais-eleitos-pela-bahia/"
     },
     {
-      "title": "[MINAS GERAIS] Quem são todos os candidatos a deputado estadual por Minas Gerais (MG) nas eleições 2026 - JOTA Jornalismo",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOZkd5UVV3allwSmNhTlBicE55QUJJMDN3TXBXdXBFUGU3eVVlRzV1VEpPQ3JfNV9qWUtMUThlUTJpbGl6R2RPMU56LW1RUjJwRkpsU0dNTTdLODRaa1hwdWxVZmtXaHBNaFJsMWFyeE5NOHVYVkpZLTBGREpYSG5YQTFQX3BtTUVpN1c5MjhHTWpoR1Y2djlnMUJoSlM2eWliOFgxMlVaRDRSS09ZVU90andiZEdMcW0xRnZ4QjFfb3RDWXA0Q2s1SGVMYw?oc=5"
+      "title": "[CNN BRASIL] Raquel Lyra celebra reeleição em PE e fala em “missão de transformar”",
+      "link": "https://www.cnnbrasil.com.br/eleicoes/raquel-lyra-celebra-reeleicao-em-pe-e-fala-em-missao-de-transformar/"
     },
     {
-      "title": "[MINAS GERAIS] Quem são os candidatos a deputado estadual em Minas Gerais em 2026: veja por nome, número e partido - G1",
-      "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOOWJ2S25xYVdrNEdLT3k0UC1EOEk4emRFcFNUbE9ua09fcmIxWW53MS15SWV5dDJHMS1TcTl2OFRDRXB5aFdKY2RKa18teEtlQlhCVXkzMGRXZi1pbXpDOUtTNG5MZ2FSeEFiUjNtSUNEZzZTMFpvbEsyYXJjaUNONXpQRURJeHE5NXlaUFFyWmppcmRleW9VSWVlMnVQYWF1U1RIdHo3di1VWkdiQzRKbzg0Sk9QVi13bTRiNG5fdTV5SU0xNVFMSE5ZQk9oanpGTlF2bVZ1eVJRd2ZSMUtPQ1VCSzJOak1NU0pfT0tlMHVpTmZNRC1lY0RDX1VoeXg3c0Y40gGSAkFVX3lxTFBjRnZWa1Zad2J5a3dJWE1LeHFOZDZvT3V4cDZWcWk1cWpRZGdLS1d1dW90NVl6UUluZVJNT3QyTE05U194WHhtZjA3eFExRkphbWNwVGFST3dNOXROOTF6ZWFRVFNkMkNnM3piR2NLNjdXS2FQdG1mZThnRy00NUc4T0hBaWVDbnEzQWFSdnFLUEQ1WV9pbjY1QkJRS3U1cGdDalRIb2Fjc1lhMGtKTjBFZTFRWGxGX3JtX3RBd01rbnFHdHFaSDZuNjBZVVM1SXpJU29DMjNLaGF6bGcxcmtrRWFEWE8ydnNEenRHSFp1NUE2RE9ZblB3blZiTGN2dDhQQkVRenVOZlkxSUpOLWRGRGc?oc=5"
+      "title": "[AGÊNCIA BRASIL] Cleitinho Azevedo é eleito governador de Minas Gerais no 1º turno",
+      "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/cleitinho-azevedo-e-eleito-governador-de-minas-gerais-no-primeiro-turn"
     },
     {
-      "title": "[AGÊNCIA BRASIL] Celina Leão e Leandro Grass disputam 2° turno para governador do DF",
-      "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/celina-leao-e-leandro-grass-disputam-2deg-turno-para-governador-do-df"
+      "title": "[CNN BRASIL] Urnas refletem insatisfação com a economia do país, analisa especialista",
+      "link": "https://www.cnnbrasil.com.br/economia/urnas-refletem-insatisfacao-com-a-economia-do-pais-analisa-especialista/"
     },
     {
-      "title": "[AGÊNCIA BRASIL] Piauí reelege Rafael Fonteles como governador no primeiro turno",
-      "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/piaui-reelege-rafael-fonteles-como-governador-no-primeiro-turno"
+      "title": "[AGÊNCIA BRASIL] Espírito Santo terá 2º turno entre Lorenzo Pazolini e Ricardo Ferraço",
+      "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/espirito-santo-tera-2o-turno-entre-lorenzo-pazolini-e-ricardo-ferraco"
     },
     {
-      "title": "[MINAS GERAIS] Candidatos a senador por Minas Gerais (MG) em 2026: veja lista com nome, número e partido de todos - Valor Econômico",
+      "title": "[MINAS GERAIS] Apuração Deputado Estadual em Minas Gerais — Eleições 2026 - band.com.br",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOOHpLZE5qMkpMZEpYWm4xX0hMMjZKQ2hVc0J5NGlsNTZmNC1wdDhLd0NNM2F0NVN6aFZybVNTbTJqWkNkWml5QUVBT3ZvZE9ralBRbWlOTTNNemN3MlFqTFZuczJlekZHajY3UGw1NU5hdzQtajhzNHFzaFdZX2Y5S0p3?oc=5"
+    },
+    {
+      "title": "[AGÊNCIA BRASIL] TSE vai trabalhar para diminuir a abstenção no segundo turno",
+      "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-10/tse-vai-trabalhar-para-diminuir-abstencao-no-segundo-turno"
+    },
+    {
+      "title": "[MINAS GERAIS] Candidatos a deputado federal por Minas Gerais (MG): confira lista com nome e números - O GLOBO",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOTm1KVC1kLTZQb1Y4Mm5ZNExndm1PZzdzS2M4bjY4UEdvOEZLOVdCZGJVMnh0ZDlpV2Q3TXFlb0M3dGMycGY5Q0hMQjQ5SmFJdkVzbmFGNk8tVGx2YTRoNUoxa3A3amVuU3RPTm93UWZaRkNMM01vYUF3X0ZYMGRSc3JudUY2cnplRVZDTUJNaDdGQ1VLWVlvMHlLR19JdlZXOGhxN01tblpUOW55STFhT3FZb1o4cXBxVDljb3N3NmlpLVQwRlEwX3RlUWE1VGRQRURvb1NBbjfSAecBQVVfeXFMTms2SWQtVEV0WDZkRWFaY3UyWWxvdTlCMHl2TG85VnhJYWdzbnB1aWZmMU9ROU1HWUw5X0VoUGl0MFhzMHZZNHlpYjdDQUU2YTFBLTJENmhRS0Z0MmNxUkpyVVNyblZjRktjdDFOcmJFTFlsb1hDSVo2VVE3czEtVmxrVV9hN05nbFFTcTY3enhLa2N1QXBlMDBSTkRrUnlVbWZzUllzampQTWRFZ3duQWNxWUZ3b3J4YXZ3WGh3QlpKZEwxbmlwWThjMTVxLVVIckhUSFBvWEZmRFFOeGpSOWFqRGUzbFFJ?oc=5"
+    },
+    {
+      "title": "[AGÊNCIA BRASIL] Douglas Ruas e Eduardo Paes disputam o 2º turno para o governo do Rio",
+      "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/douglas-ruas-e-eduardo-paes-disputam-o-2o-turno-para-o-governo-do-rio"
+    },
+    {
+      "title": "[MINAS GERAIS] Acompanhe a apuração dos Deputados Estaduais de Minas Gerais em tempo real - O GLOBO",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOM1dGOERQbGFnZkRQSFYyYUw0N2NaOGNZdF9VcDlYRU9aaU54ZEhPUWxSdGtLUmJHbjM3b0ZZVTZFbnUxa3lEX0F1b0ZNN1l5Mlh6Q0NNcE9xbVpQUl9ybVlac2hQTGdfVl94bzlVeDdwLWJQQ3BiNm5pUzBETWptNHZFRDA0LVNfSi1YOGsyR21aQlRfR2pFRExuRkdVRmNydW5xaDQxSE9Qa05ha0c3dXVkRF8wV0lQSDk1TkpqMm5FTlJuOEFPV3IwSWtUWlhIeWZIcFM4X1JUREF6UUY0RdIB7wFBVV95cUxPbV9JcjVSV1ZhNlBFa1FMSS1VSlZXNDhXcGp6OGd5NDRFMGNrc3NNRklUREtneExWSG9OLU1iUHhTVHNQd0V2ZHlZc0N1SXgzSmFwUGxoMlpjeHREY29xMF9PNVJpRDlZRWRnN1N5bXhfOXRCVFN1QWRpQ3g5b0cyUnRuLUo4NDFtWkpKUkJXeXh2WHNRVWZldl9FcG1HYjM5dG1XMWdYTW5DNjIwa2l6S3lXS1BSVVpDUnE0dWxUNkxKTUMzT1lyWUctMHQxU3U3RTBxMDdWY2RORVZsRlpRS3QwQ1BHemFxZ0ZJeEFDUQ?oc=5"
+    },
+    {
+      "title": "[AGÊNCIA BRASIL] Congestionamento no sistema de dados gerou atraso na apuração, diz TSE",
+      "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-10/congestionamento-no-sistema-de-dados-gerou-atraso-na-apuracao-diz-tse"
+    },
+    {
+      "title": "[CNN BRASIL] Ciro Nogueira não se reelege e deixará Senado após 16 anos",
+      "link": "https://www.cnnbrasil.com.br/eleicoes/ciro-nogueira-nao-se-reelege-e-deixara-senado-apos-16-anos/"
+    },
+    {
+      "title": "[CNN BRASIL] PL, PSD e PT: confira quantos governadores cada partido elegeu no 1º turno",
+      "link": "https://www.cnnbrasil.com.br/eleicoes/pl-psd-e-pt-confira-quantos-governadores-cada-partido-elegeu-no-1o-turno/"
+    },
+    {
+      "title": "[MINAS GERAIS] Candidatos a senador por Minas Gerais (MG) em 2026: veja lista com nome, número e partido de todos - valor.globo.com",
       "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPR25SZUVERGtiY1RlRjF5VWdKNTBSTm04dzFNX1cxeFNsdGNEbFBKeXEtSnRTcmpYX3g5S0dieVlFbGllS0daM0NBWjQyeDg4ZXhjME5jZzg3NkZFbTduR0RsVGRsOWFubWF2ZXBJczJBSThROHJDYlNCbGNvUmxNQ0R4cS00YndEUXB0X2pKTEx2cVlQTGpjZU15bm95QmY3bmV4djc1R3R5emUxWGJOcWF2Y2ZodnI4SEE2MjZqWmhaaGhucUpFMF9tdXlTek52UlR4dU9rSnI3amd5Rmt5UFhGRlRYVVZDaG9pTXZMX2xWRU1TLVU1ZlVn0gGIAkFVX3lxTE5IdDUzeUhlNGpOOWFTR083ZVNId3dLbWdTSHZlZHVtMVJCMENQU2tmcWFlM0hYZjMtM2w3THBsRnVielVqQWwzUWtFdXB2RjZvU2JRVnljQzhGUDU2M0k1bEtiakJzcm5iYWxqSnRTT1pWc1FTOUJUYUZ6Y2tnUE1VNmh3eXlfYnNBWjJPc0szcXk1ZzZHVXpBU096SmdwSVJ5em9rWVU0UTBnX1ljZjJWWjA3WkpKYTQzRGxhT01wdDloeVBOdlo0b1JXVTMySU91UWk5VTJLcmplNUJOWHlIeDFodjhNYlJickpQcDZId1FpMHB4blZGLTRwSkh2V2hud0tHX0N5Mg?oc=5"
     },
     {
-      "title": "[AGÊNCIA BRASIL] Marcos Rogério é eleito governador de Rondônia no primeiro turno",
-      "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/marcos-rogerio-e-eleito-governador-de-rondonia-no-primeiro-turno"
+      "title": "[AGÊNCIA BRASIL] Quando será o segundo turno das eleições? Veja a data",
+      "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/quando-sera-o-segundo-turno-das-eleicoes-veja-data"
     },
     {
-      "title": "[MINAS GERAIS] Eleições Minas Gerais 2026: candidatos a deputado federal - Poder360",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxONXprTVpYR0pMM3NFWnlpREZyeTFPOS1jNFgyVjJiTEVvNlVvYzJmZVN3LWU1cUpGb1VnUjZQY1dhTUxTbkJTT3ZLNXgxaWhibU1ELWdvaHpNWENGamhCX0NrZC1GS240S1hCUkp2YVlGMzE1cDBXTHNmUmRsSEwzRmVBWUllLW8?oc=5"
-    },
-    {
-      "title": "[MINAS GERAIS] Presidente do TRE-MG diz que vai apurar uso de celular por Zema em cabine de votação - G1",
-      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPbmYycGpnT2xjaURjX1VSRVNfS3hHbndaRk4xQnMySExnQXZ5aFpSd1B1NTJocW9IZGsxZ2t0WG8zbE5ZaWVYTUY1dWVrcURoOVRZY2JSVGpxU3Y2VnNtcU5sQnJBT1JWVDV5NXl3eml3bFpQU1BGNkhpRHIyNldxdmRpOUcycDg1aGVFMWFvenBaV1V2UXVLNTh6TGcyZEE3QWVnUU5ydzJrOXpMSmh3UUN3bTRzTFZZckxyR0pic1lOZHJjREhSYUNQWmxNSTE1SkF4ZFRFSHloN191MWxKNDhlWl91dW9lZFdYcGVkbWFmUdIBgAJBVV95cUxQU0pyOFlDTlBFQzZCbGtCclhsV1d6U21uNHI5aDZIZ0NrQXB3TnRfVXZSLUt4WlhIbUQ5T095WVlHdm5CSDE5UU1KajFScUF0TEY1UzJ0YkJodFpTLUxHVVc2VWFwdEo4T19zTEFHRU1tTU9JandwNVhWeEZKSGVmMmQyR2M2c2tBZHBrbDduTmVHVGZDRWRWX21xZUQ4MUl3enBkblRDYVZoUzg2enU2U2RNcjQ0aUhvMm96OHk1Z0hGR1Q5VGMwbW05WjBxTTRBYWhTTGpldVMxNGkwQ2tmcC1oS1VzSUdlbDNJVVdfTUdLNE9TYmVKNmxHOW1wS2Q5?oc=5"
-    },
-    {
-      "title": "[MINAS GERAIS] Zema levou dois celulares para cabine de votação e deverá pagar por irregularidade, aponta MPE - G1",
-      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOSll2ZWlyaUFhNkFvLS1RVWpUYjNOZmJFbUdhYWVYM0JJNWZuMk9XdWRKVlUweTM1ZWw1OFNMYW1wVFZSc2NyZFVYemNqOTF3U1kwUVhqcXRYMDgtbTYyX3BEVWxRZ0xCRTZ5VDc0UHJtNmszWWhiNzRISEtQeENFNElPQ3Bxc2o1LU9Ha2FPUGFXX2VGNW5MOGVUSzdzVElUcF9FSTNLWjhidnExbU0wNGt5dndHUlM2OFZYelNMZHFRX191TjctNXBoLUV4WkEwMF9pY3IzeGc2UEltM21wZEFEQjBqb1MxQkFIR1BvOGEzVFR5cHZPSGpCOVoxQdIBjAJBVV95cUxNMkk4MTFHekZwblYwbThsMjlFWWhOSEl6QWhwNlp0YU5JMWVRYVkzNWRHX0tkc0pMa1N4VnNURmRIN1NET0llaFEtUjBPeW1lamZneTlZUjZXMUE3S3pZaV9tVEJkbFpOTXRZc1NXYW9oOWFLcTZKTlFMVTFBYVNpVkxhZWg4SzAzaXZkalVqVXhHUWdKVWdpNUhkeGxsaHctR25iVWZpaUd2Wms0bTBDT0huNExlMVM0UEFrcmg0Nl9sTm9HYjdJNWhtQy1Va1htbnJhVEFZbXRJSlZLZ21LQzQ5R2ctWHhMODdLS3UxMzl3c0g1X0NZYk5yU0NrT1hoMnN1MkhMV1VfanZy?oc=5"
-    },
-    {
-      "title": "[MINAS GERAIS] Zema vota com celular na mão em Araxá, em Minas; Ministério Público aciona Justiça - G1",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPYjNPM1JLdHNzZVQzTENIZmFBUVI2UmpYcEh4ODJLUkUwVmV0MDlITkdLTnpLTVMwMDlkUUczMDg1ejE4VE9oNzUzOXBoQW5yMkJkUHB2ZGxEcDZzSEZtODBpTnQxbW4zMGVzRVZPQnplb08yUDNaaXozaDVCZlI4NnN4NzdveXR2YXRJU21DS0F5Q2hKT0VzRGstYktYTHdDRGROaEFITG1GYjMyZ3BFRtIBvwFBVV95cUxPWG5CamwzNV81NmxoazVHS2NGZVhDLWxGWnZhWXM2U2RTdDdiWG9vM2dXbnZXNzRVN195VXdDY1lWZjBnenBiRGNiYksyS0V4UDFoUkdNOWdNZk5Hd18yTURHeW5CcHJTX003c1pTeXd3bnMzbFNRRWZ5aTNuNmZ3cGd5SGZWYlA5eDg0ZlpLWFZGUGlLU1pTSGw0N2FLSEY2TVBxenlnb3c5cEg4RVA4RUdPR3FRWWdtRWx0NkdQcw?oc=5"
-    },
-    {
-      "title": "[AGÊNCIA BRASIL] Tarcísio é reeleito governador de São Paulo",
-      "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/tarcisio-e-reeleito-governador-de-sao-paulo"
-    },
-    {
-      "title": "[MINAS GERAIS] Apuração para senador em Minas Gerais: acompanhe em tempo real a apuração - cnnbrasil.com.br",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNVGZPTWdGQjNyODVsRllQNzVEajktZThKYllwWnRUVzVSZXE2RXBOZmZvVHhiQ1dyOV9NY1NCR1NKUnVqbXBzcFlaSjFLd25LRHhVdldIakJXaVJRVjUxS0RrUUQwbFplc3RYWjBUQ2wxVG1rUjl3VzBLcDNJWXBxXzJfWDhBT0U1RzVUSmZyZWo4UHlmYTNCOTRLQnlBS0tnZTdhSWxKX0t1N2tyRUplVg?oc=5"
-    },
-    {
-      "title": "[AGÊNCIA BRASIL] Jorginho Mello é reeleito governador de Santa Catarina em 1° turno",
-      "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/jorginho-mello-e-reeleito-governador-de-santa-catarina"
-    },
-    {
-      "title": "[MINAS GERAIS] Quem são todos os candidatos ao Senado por Minas Gerais (MG) nas eleições de 2026 - JOTA Jornalismo",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOOEphYTFLZ25XRFp3U2lTQlBEWTV4bFhTZDQxMGZLVmpJYzAxNUQtanFsM25HQUNpZHRJcGNFcGhpLXprSkFWWVBXejlkeTd5OWRYUmNFUXdrc3BGTWZqVnl5ZzBMb0FzWDVXSTVmdC1LTW4tZ0ZfMnlUemxwUUw5UnRWZkVHTTVuckluMDVHMFdvdVUxbjJXdTlTVklSMGxSMFJSSV9kX1BiN1pUTEtsajZwbERVT1BUNWtpNVF3?oc=5"
+      "title": "[CNN BRASIL] Após dois mandatos, Randolfe Rodrigues perde reeleição ao Senado no Amapá",
+      "link": "https://www.cnnbrasil.com.br/eleicoes/apos-dois-mandatos-randolfe-rodrigues-perde-reeleicao-ao-senado-no-amapa/"
     }
   ]
 }
