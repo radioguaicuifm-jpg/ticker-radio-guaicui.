@@ -1,7 +1,95 @@
 {
   "source": "Radio Guaicui - Noticias",
-  "updated_at": "2026-10-24T06:29:16.689018+00:00",
+  "updated_at": "2026-10-24T11:29:23.371279+00:00",
   "items": [
+    {
+      "title": "[AGÊNCIA BRASIL] Candidatos trocam acusações e defendem propostas em debate na Globo",
+      "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/candidatos-trocam-acusacoes-e-defendem-propostas-em-debate-na-globo"
+    },
+    {
+      "title": "[CNN BRASIL] Como Kimi Antonelli chegou à Mercedes e virou protagonista da Fórmula 1",
+      "link": "https://www.cnnbrasil.com.br/esportes/automobilismo/como-kimi-antonelli-chegou-a-mercedes-e-virou-protagonista-da-formula-1/"
+    },
+    {
+      "title": "[AGÊNCIA BRASIL] Meta diz ao TSE que Exército do Lula não viola políticas da plataforma",
+      "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-10/meta-diz-ao-tse-que-exercito-do-lula-nao-viola-politicas-da-plataforma"
+    },
+    {
+      "title": "[MINAS GERAIS] Placa que homenageia o Clube da Esquina é depredada em Minas Gerais - Terra",
+      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQNGEzdDEwbklleTNMc3BrZHdCam9Gd01ZSV9GMl9XZG9jSjZmaEYteVh0Z3RENWRQcjgzTTdFMTJvdDZ0VENqWUdfaVFuUFZOVW5aTUtKM0ZLYUZlbXluUFpuNXFKZ2I2WFBxWEFhUDlJNUtreG9RVFVZM3RMWmFHdUtqbUFXbmpUX0hrczc0dExaUDhmUFdnUG9CWkQxSUVEUzBXUFZPNXU5U1J0UjBzNko1UTZhM1h6dS1fTmctYnVLWGFBMmRYQW5LY2pGYnV6Z1kxVUVvWUNIUnpLRGtndW1XeGlBNmEzb1dBaWIyTkJMQ1N2dU05YmdmYVdNdw?oc=5"
+    },
+    {
+      "title": "[MINAS GERAIS] Grande BH tem temporal com granizo e rajadas de vento nesta sexta-feira - G1",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPUlJ3U285YWc2VlR0djlrQkVsT0E4aWY0Q3RlRXU0T1N6VnVEY1RxTTJzWXczQ0VrZTdPcTNubTZmSlhEdnRpUXl0T25WeFJMc3ZVZUlVa1piaXozNi02RWVPT0twOU94bXd4YTFxLXM4b0ZKVmdVa3Zub21VYnh4YkF6WG5XU2U3R21xOFpFcFdXQ3FfQlFja3NOdFRBcVd2SUJ1dy1ES1A3ZlRVT21uY0pwcUkzZ9IBxAFBVV95cUxPM2xjVXlsOEoyWjluLUlBaUVtOTUzSEdsaGR3RFRnc1FtNU4tbHdidnRzTk1mYWFyNC1TUTJST21QQ2p5TUNJaDVZZXE0M0FzMlZUUVhPZExkenR6a2JnMEZDYmYxMXgyc0xZcFVjQV9Cc3R4YXdnNnhYT3NlcEYxQkoxZFRkTmpMYWhXMmxrbHhDeXpxVWk1bDlWcFpwUlBnWW1aZUczNkY0eERlanZTSHhVUzJuTkh3aFoxNFN3SlJTM243?oc=5"
+    },
+    {
+      "title": "[CNN BRASIL] Ponte Preta x Fortaleza: horário e onde assistir ao jogo da Série B",
+      "link": "https://www.cnnbrasil.com.br/esportes/brasileirao/ponte-preta-x-fortaleza-horario-e-onde-assistir-ao-jogo-da-serie-b/"
+    },
+    {
+      "title": "[MINAS GERAIS] Flávio convida ex-mulher de Janones a debate para barrar deputado; entenda - Metrópoles",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPYXZwYmgwOUpYbXRqRnFfZ2hIVVV5N0IxSm5VMk55aXo3bk13Q054UV8zWGFXcUptQTVDaFh6dE5mRzRTVjFKb1p5WWdxdkNmcU5lSEhXU1BOREFaY2s2cE5SajU5WklLaEU3M2NhNmFmZEpIMDlYR3pkdXI5Rk1SUGduUkFzTEYxTEZPME5qLXlCVXVsWmlMdzBOWHR5WFRGSHhrelU5TkNUX3V4VXdBeTVVaw?oc=5"
+    },
+    {
+      "title": "[MINAS GERAIS] VÍDEO: Caminhão tomba e fica em pé na pista após não conseguir subir morro em MG - G1",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQcEMxZ0tFYUdhUU84WVpvelZFZ3ViemVrWGNiSFY3SDFucVFaUWtmaWFNeWV2blUyWC1MX19uN1g0djlHQlVEd1VzbXZQbE15ZkR4aUdFS0dySFBTU0ZJOHRpZGRsajVuMnJ2T1RFVHRUU0JtWU5zbkttZUdReE9SM1Z4UXI1d3Y3ZG03dkdxd1NSTTVKMjVVbkV3R29EZW5BUTcwaXZZODhMejVsNlozUDQxZDEzTnAtOVg3U3E4dE81Z3ZXYlVmeEFsbzlDaDJE0gHfAUFVX3lxTFBXdjBIZDVJTWdUcXp6X3BjUWIxM3dGN0lNTFFXeVdKUXJrM3B3QlgwVXB2eEVhSUpjME13b3RXTHpjY193SFkzY3pRUHB3V1liYzNncHlfUXpyWHUyVWU2SlYzVXd4dnlyZjFQNHRnWk9nLU9rUmVOdGpvX0FsLXlPdlBVRUR6SWVJNHFCQUpCbEJpeGpPUUM4dUY2TG1rcU8tVUhkQV9CVHQ1SUx6SktOTU1ESHhMYzMzWXlvWHFvNjkzeGtuWUR5eENzQ0pORXN3emxxTlZQR3FsMzc4dkk?oc=5"
+    },
+    {
+      "title": "[CNN BRASIL] Dia Mundial de Combate à Poliomielite: SP celebra 38 anos livre da doença",
+      "link": "https://www.cnnbrasil.com.br/saude/dia-mundial-de-combate-a-poliomielite-sp-celebra-38-anos-livre-da-doenca/"
+    },
+    {
+      "title": "[AGÊNCIA BRASIL] Ministra rejeita ação que pedia transporte interestadual na eleição",
+      "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-10/ministra-rejeita-acao-que-pedia-transporte-interestadual-na-eleicao"
+    },
+    {
+      "title": "[AGÊNCIA BRASIL] MPT apura carta de supermercado a funcionários com teor eleitoral",
+      "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-10/mpt-apura-carta-de-supermercado-funcionarios-com-teor-eleitoral"
+    },
+    {
+      "title": "[AGÊNCIA BRASIL] Chuva deve prevalecer no domingo de eleições no Rio",
+      "link": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-10/chuva-deve-prevalecer-no-domingo-de-eleicao-no-rio"
+    },
+    {
+      "title": "[CNN BRASIL] Drake completa 40 anos: relembre polêmicas enfrentadas pelo cantor",
+      "link": "https://www.cnnbrasil.com.br/pop/musica/drake-completa-40-anos-relembre-polemicas-enfrentadas-pelo-cantor/"
+    },
+    {
+      "title": "[MINAS GERAIS] Previsão do tempo em Minas Gerais neste sábado: alerta de tempestades - Poços Já",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQZnNyTnV0OW9FUGpSazMtSTJQX01vTFBoRU40enNUOFJXVTR6VUUxeXJGRFZnbzRkQ2RLSzVlVERwV2dwTHdJSV9iLVBrWFVZcm01Y3lfVzU4djRuYmJUclM2ZlRKOGZ5NzlWeUxGd1lMNUtDeUYtaFhjamE5MDF5RnR1SVFkN3o4LU84bE9nb0RrcHI0OTNnUWtQbTBMZlhLN24wNXlKU1ZXN2d6ZkxUUS1pMHA1cTR0OGlJckIzN2pJQmdONkN1MA?oc=5"
+    },
+    {
+      "title": "[MINAS GERAIS] Minas Gerais não terá Lei Seca no 2º turno das eleições - G1",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPV3pGeU81SGJxaGpEbEVNcFZIdmVJeC0yZHZIWWZNcFZoT0xzRWZzQzM0SHMxOExTWVhoQzl4dlN0dFNaN3lYVmVTclBXdzkwTUl6UGtCcERhbG9IVVhMTzN6Y0tLU0FmcjhrSENnU2pzaksyWlRpNV9YWVg4MHZ2akhOOUEyd3FKV2prejYzTFpGZTRhb3psU0d1YzV3czYtbzhPYTNMLW1wbkZnbEdKRDVObXA5WmtkS0ZjRTIyWWRIY1NyaG5iM3VRWdIB2gFBVV95cUxOTlV2XzVBWG9IOW9NNXlIRHRVTkllTmlrMkdRRTl6dngxdll3NHlPVVpVODRLZVBDUnVsalJibW5EM25kaXhldjRGNzFrZXVrVEpPemNYazZyQ0ZoLVE4Y0dKSmhrbFpTbTVIWHdpMUJHa01HdEUyd0tUcFc0OUd5MHUtX3VtUndrTW1uZkVVR2JwdWxrZUN4MWs0cVY4c25KUDBCU0syUDVET3ZGcnAzemtjYTNOeGl4eU10VUllQzNhX0haMUZIcEtKRk9CV1pTdHJJLUdSSGtodw?oc=5"
+    },
+    {
+      "title": "[CNN BRASIL] Astro mirim de “Feito Pipa” diz que se empolga com Oscar 2027",
+      "link": "https://www.cnnbrasil.com.br/pop/cinema/astro-mirim-de-feito-pipa-diz-que-se-empolga-com-oscar-2027/"
+    },
+    {
+      "title": "[CNN BRASIL] Análise: Democratas têm expectativas exageradas para as Midterms?",
+      "link": "https://www.cnnbrasil.com.br/internacional/analise-democratas-tem-expectativas-exageradas-para-as-midterms/"
+    },
+    {
+      "title": "[CNN BRASIL] Ferroviária x Maringá: horário e onde assistir à final da Série C",
+      "link": "https://www.cnnbrasil.com.br/esportes/basquete/ferroviaria-x-maringa-horario-e-onde-assistir-a-final-da-serie-c/"
+    },
+    {
+      "title": "[AGÊNCIA BRASIL] Sociedade civil manifesta preocupação ao TSE por censura nas redes",
+      "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/sociedade-civil-manifesta-preocupacao-ao-tse-por-censura-nas-redes"
+    },
+    {
+      "title": "[AGÊNCIA BRASIL] BC reforça regras de proteção ao consumidor nas ofertas de crédito",
+      "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/bc-reforca-regras-de-protecao-ao-consumidor-nas-ofertas-de-credito"
+    },
+    {
+      "title": "[MINAS GERAIS] Ciclone pode provocar tempestades com granizo, raios e vendavais em MG neste final de semana - O TEMPO",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOVDJiTnJ0VGtRYWpyaW82QW5kX0VFVlRSRXdnamJ4akx1Q1UwYm9rMmlJbnhFNWpWLU9OYmI5Mlo3R1FObkFCbEdVTlN0MzVYak1lUERkOGQ1TmZldENxa1ZTaGNST1ZwaVV0ZkduRDd1QmRwQU1XTzBiZlJ2dkVWb1dDcUhSY2ZGNkhvU1JtTUROZFprd3kyR0ZRMVJMcDF5dV9jRlh1Sk1xUHduNWFTcFNaRUQxU2NTeHhYeVhtWTNnS0FIRTNXOFlaWW9hVkNXdXc?oc=5"
+    },
+    {
+      "title": "[CNN BRASIL] Celebridades gastam milhões com pets; brasileiro do setor explica luxos",
+      "link": "https://www.cnnbrasil.com.br/comportamento/pets/celebridades-gastam-milhoes-com-pets-brasileiro-do-setor-explica-luxos/"
+    },
     {
       "title": "[MINAS GERAIS] Memorial do Clube da Esquina é vandalizado com tinta vermelha em BH - G1",
       "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNOGRJVVZoRi1TQTdIVzdOZGNZQnlyS1R6R2J2ZlFlM0lVZ2pkMm9DWHgzM2xuZGxqVnAzQlV5MWFZWkZPVFc3OWR1amJXdGh3ZHFKcnJoMHJWdGVPa3FucEdobGdJcmFqel8xby1RNGFLQkxnbWlOLWtyeGtZbk1rNi1fRmFFNTgxM1JZWjdnekhfTkFtS2kyaFRPUGw1eFBKRHJfRXZRQllGc1NCQmcwRHdWeUFSNExhLTRYblhVRG1jcGExaEVqQklEdnkxeV9oWU1jSS1Id2JheDdndGVQMk5R0gHwAUFVX3lxTE1aX09YX1FXdHZFenpjUXVKSUZNR0g5VElpNFpaUUNjckhTVGlfT2d0RkFoN0VVTlhLTU90aDNNSmplNGhyaGRxa1NHSHBwZzhNT3F2TkppRFBqZDVEOFpBX0xvSkVOYVVYemxOUzdjRWxzREZLVVRNWGlaUzZ4dWRhQjJlQ1JNekR6VUt3MXdvQWltMHo5MFdKeU5oS3VsYklRNlV5Y2FjZXRxV24wOE9MdEZDaEpWSVpWZEFSZkJTb3Z4enhEeGlkdDZVNlcyM1Z2WkRDamx1dGloMWZ1VHI1NEhXUG16cTRpbGNQbHdfRg?oc=5"
@@ -11,116 +99,28 @@
       "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-10/moraes-determina-bloqueio-de-ate-r-6-bilhoes-do-advogado-willer-tomaz"
     },
     {
-      "title": "[MINAS GERAIS] Placa que homenageia o Clube da Esquina é depredada em Minas Gerais - Terra",
-      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQNGEzdDEwbklleTNMc3BrZHdCam9Gd01ZSV9GMl9XZG9jSjZmaEYteVh0Z3RENWRQcjgzTTdFMTJvdDZ0VENqWUdfaVFuUFZOVW5aTUtKM0ZLYUZlbXluUFpuNXFKZ2I2WFBxWEFhUDlJNUtreG9RVFVZM3RMWmFHdUtqbUFXbmpUX0hrczc0dExaUDhmUFdnUG9CWkQxSUVEUzBXUFZPNXU5U1J0UjBzNko1UTZhM1h6dS1fTmctYnVLWGFBMmRYQW5LY2pGYnV6Z1kxVUVvWUNIUnpLRGtndW1XeGlBNmEzb1dBaWIyTkJMQ1N2dU05YmdmYVdNdw?oc=5"
-    },
-    {
-      "title": "[CNN BRASIL] Por que eleições podem afetar amizades e relações? Psicanalista explica",
-      "link": "https://www.cnnbrasil.com.br/noticias/por-que-eleicoes-podem-afetar-amizades-e-relacoes-psicanalista-explica/"
-    },
-    {
-      "title": "[MINAS GERAIS] Grande BH tem temporal com granizo e rajadas de vento nesta sexta-feira - G1",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPUlJ3U285YWc2VlR0djlrQkVsT0E4aWY0Q3RlRXU0T1N6VnVEY1RxTTJzWXczQ0VrZTdPcTNubTZmSlhEdnRpUXl0T25WeFJMc3ZVZUlVa1piaXozNi02RWVPT0twOU94bXd4YTFxLXM4b0ZKVmdVa3Zub21VYnh4YkF6WG5XU2U3R21xOFpFcFdXQ3FfQlFja3NOdFRBcVd2SUJ1dy1ES1A3ZlRVT21uY0pwcUkzZ9IBxAFBVV95cUxPM2xjVXlsOEoyWjluLUlBaUVtOTUzSEdsaGR3RFRnc1FtNU4tbHdidnRzTk1mYWFyNC1TUTJST21QQ2p5TUNJaDVZZXE0M0FzMlZUUVhPZExkenR6a2JnMEZDYmYxMXgyc0xZcFVjQV9Cc3R4YXdnNnhYT3NlcEYxQkoxZFRkTmpMYWhXMmxrbHhDeXpxVWk1bDlWcFpwUlBnWW1aZUczNkY0eERlanZTSHhVUzJuTkh3aFoxNFN3SlJTM243?oc=5"
-    },
-    {
-      "title": "[MINAS GERAIS] Placa que homenageia o Clube da Esquina é depredada em Minas Gerais | TMDQA! - Tenho Mais Discos Que Amigos",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNdVVaY2pQT2RRYktiNE85WHhONkZkSUNkRmdXd1RaOVh2ek9ZN25Bekpudjg5MTVfektPLVR6bXdobDEyaUtqWDV0NS1xWXQ5eXRzbHQ5ZkdlalpvLXFDS2tITVgzZ1N6N2VXYnVjekdhMTltUWJKV2REeVBXNmUyQm94TmgxbThMZVFvZzhvXzIycktNYU0tMGR3MUtGTXJXckVIcHloTlBrZUpVWm5sOENpQjc?oc=5"
-    },
-    {
-      "title": "[CNN BRASIL] Marco Rubio diz para cubanos se associarem à CIA para criar mudanças",
-      "link": "https://www.cnnbrasil.com.br/internacional/marco-rubio-diz-para-cubanos-se-associarem-a-cia-para-criar-mudancas/"
-    },
-    {
-      "title": "[CNN BRASIL] TSE determina que Nikolas e Marçal evitem conteúdos eleitorais até 2º turno",
-      "link": "https://www.cnnbrasil.com.br/eleicoes/tse-determina-que-nikolas-e-marcal-evitem-conteudos-eleitorais-ate-2o-turno/"
-    },
-    {
-      "title": "[CNN BRASIL] Chelsea x Tottenham: horário e onde assistir ao jogo da Premier League",
-      "link": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/futebol-ingles/chelsea-x-tottenham-horario-e-onde-assistir-ao-jogo-da-premier-league-3/"
-    },
-    {
-      "title": "[AGÊNCIA BRASIL] BC reforça regras de proteção ao consumidor nas ofertas de crédito",
-      "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/bc-reforca-regras-de-protecao-ao-consumidor-nas-ofertas-de-credito"
-    },
-    {
-      "title": "[MINAS GERAIS] TRE-MG alterou apenas 16 dos mais de 10 mil locais de votação de Minas Gerais - Tribunal Regional Eleitoral de Minas Gerais",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxObWhtdWwtVGtCWEt2NmtRdXhuZ0Jpa0ZVR2o4UlN4V1NoRWxUMGdELU5HWTBCNnJHWXFjS0g4R1o4WlFzYzdranZTZXJ4RW1OR3pOSnNWbTNRMk9ReFhsN0NGZ0llRzVlYUZLTjE0Wms5RGlDY0U2WkNIWWtiNnBiWENDT1ktSVA0ZFgzWVpsekYxQzJlOWc2dFdoSFJKcUxaTlpOYnB5X0hEeHpYb2t5VUR5cFVJUzgxYmt3VzlITzJ3bzdQYmRVQ3J2R3Q0dE54cFhZ?oc=5"
-    },
-    {
-      "title": "[MINAS GERAIS] Em Minas Gerais, Lula aposta na mobilização popular para decidir a eleição - mst.org.br",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOS2Z4amdBekRkaDVZcm41bDRSdzdmNUEyaEQ0Vmx0NDJCX3IyTEQ0NTc1dzBLT0lpaGQzZW1uR1VLTnhnb3RDUXlvVHVOY2k2S1labHNILTVNQVFqOV9xMDQzajdjeEs3Zll1QU0zeVZZTlJXd2lIeHlOUEhLSzB2cXdZYm8tV2oxc0IwWTVTODNLdW9iYXotR1RwRWVzcWpNS0VhZmV4SQ?oc=5"
-    },
-    {
-      "title": "[AGÊNCIA BRASIL] Meta diz ao TSE que Exército do Lula não viola políticas da plataforma",
-      "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-10/meta-diz-ao-tse-que-exercito-do-lula-nao-viola-politicas-da-plataforma"
-    },
-    {
-      "title": "[MINAS GERAIS] VÍDEO: Caminhão tomba e fica em pé na pista após não conseguir subir morro em MG - G1",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQcEMxZ0tFYUdhUU84WVpvelZFZ3ViemVrWGNiSFY3SDFucVFaUWtmaWFNeWV2blUyWC1MX19uN1g0djlHQlVEd1VzbXZQbE15ZkR4aUdFS0dySFBTU0ZJOHRpZGRsajVuMnJ2T1RFVHRUU0JtWU5zbkttZUdReE9SM1Z4UXI1d3Y3ZG03dkdxd1NSTTVKMjVVbkV3R29EZW5BUTcwaXZZODhMejVsNlozUDQxZDEzTnAtOVg3U3E4dE81Z3ZXYlVmeEFsbzlDaDJE0gHfAUFVX3lxTFBXdjBIZDVJTWdUcXp6X3BjUWIxM3dGN0lNTFFXeVdKUXJrM3B3QlgwVXB2eEVhSUpjME13b3RXTHpjY193SFkzY3pRUHB3V1liYzNncHlfUXpyWHUyVWU2SlYzVXd4dnlyZjFQNHRnWk9nLU9rUmVOdGpvX0FsLXlPdlBVRUR6SWVJNHFCQUpCbEJpeGpPUUM4dUY2TG1rcU8tVUhkQV9CVHQ1SUx6SktOTU1ESHhMYzMzWXlvWHFvNjkzeGtuWUR5eENzQ0pORXN3emxxTlZQR3FsMzc4dkk?oc=5"
-    },
-    {
-      "title": "[AGÊNCIA BRASIL] Chuva deve prevalecer no domingo de eleições no Rio",
-      "link": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-10/chuva-deve-prevalecer-no-domingo-de-eleicao-no-rio"
-    },
-    {
-      "title": "[AGÊNCIA BRASIL] Ministra rejeita ação que pedia transporte interestadual na eleição",
-      "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-10/ministra-rejeita-acao-que-pedia-transporte-interestadual-na-eleicao"
-    },
-    {
-      "title": "[MINAS GERAIS] Minas Gerais não terá Lei Seca no 2º turno das eleições - G1",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPV3pGeU81SGJxaGpEbEVNcFZIdmVJeC0yZHZIWWZNcFZoT0xzRWZzQzM0SHMxOExTWVhoQzl4dlN0dFNaN3lYVmVTclBXdzkwTUl6UGtCcERhbG9IVVhMTzN6Y0tLU0FmcjhrSENnU2pzaksyWlRpNV9YWVg4MHZ2akhOOUEyd3FKV2prejYzTFpGZTRhb3psU0d1YzV3czYtbzhPYTNMLW1wbkZnbEdKRDVObXA5WmtkS0ZjRTIyWWRIY1NyaG5iM3VRWdIB2gFBVV95cUxOTlV2XzVBWG9IOW9NNXlIRHRVTkllTmlrMkdRRTl6dngxdll3NHlPVVpVODRLZVBDUnVsalJibW5EM25kaXhldjRGNzFrZXVrVEpPemNYazZyQ0ZoLVE4Y0dKSmhrbFpTbTVIWHdpMUJHa01HdEUyd0tUcFc0OUd5MHUtX3VtUndrTW1uZkVVR2JwdWxrZUN4MWs0cVY4c25KUDBCU0syUDVET3ZGcnAzemtjYTNOeGl4eU10VUllQzNhX0haMUZIcEtKRk9CV1pTdHJJLUdSSGtodw?oc=5"
-    },
-    {
-      "title": "[AGÊNCIA BRASIL] Sociedade civil manifesta preocupação ao TSE por censura nas redes",
-      "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/sociedade-civil-manifesta-preocupacao-ao-tse-por-censura-nas-redes"
-    },
-    {
-      "title": "[MINAS GERAIS] Chuva pode chegar a 102 mm em 24 horas em Bela Vista (MS) - Canal Rural",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQa1ZrS0gtb2F2MngzSDhNdVJYT25WX3U0MzdkcVlYS3BJWElycldCUDltYTl1azB6ZnhOS2ZoVlN2UUNmX00wU0pZeVJ2cUh6MzNzQkVEM0ZZbDFoVl9SeFVQWVp1QUhodTNqSEJEWmtUZWRrUWpmWFpxMzlWN0lIVTZoX1RnTzRILXVxc0ZUdWNsdmFaLXdSM3B0NG96aWZ3Y1lPYzVkUkJ4bEk?oc=5"
-    },
-    {
-      "title": "[MINAS GERAIS] VÍDEO: Granizo transforma vegetação em 'tapete de gelo' na zona rural de MG - G1",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQLWJFbUJTdlFpbGdhUGdFNVZpc0Jwc2RNU2NIOGxYel81ZEdZNDV6bkFEeF9DZ2lEVzNQR081YnBJQlMxVW5BT3Jwb2t5RDl5cWw5NTVKdDFXR2Vxb0s1RTBreUFvMkYzZjJyMU9ObjdTSkFENVVFYjR6ZHQzYl9iaHhNTDVuVkc5UEZ0Rm5uQVh5VGhLNFRQWWl3eHN3VlluVnB5Y2NpXy1pczlKcXhjakUyN2lhazZBdWFHaUlyYkFNTHRjZmlBbGhpTjNNU2d3bkttX1N30gHkAUFVX3lxTFBuYzJPU1REQzBiemhERy1SaUFqM2ExQ0wteFlfSnpLbWxfSmdjMVFLb2psVXBWS2VnNVdvZnRlUjlTSFctSUN1dzFQUlprN3BqUDdUMWRveFZrWW1fejFoQlFOUnhxNXZOeklDNkp3dTMxZHJSeHJaYzVNVnFtNjgxNnY4bk9yVGNjR2lqd0xSSXFRUW1ha1Z0eHpKZUZVYVpQTmpZZTN1MlFSOTBLOXUyeS0teWxfbElhWGhzcU1tdnczeW5HeUNHbDFhV2JuUTNqWnpwX01wZXMzLXhyY3RSc1duVA?oc=5"
-    },
-    {
-      "title": "[CNN BRASIL] Flávio x Lula: 4º bloco é marcado por Richarlison, Lulinha, e Vorcaro",
-      "link": "https://www.cnnbrasil.com.br/eleicoes/flavio-x-lula-4o-bloco-e-marcado-por-richarlison-lulinha-e-vorcaro/"
-    },
-    {
       "title": "[AGÊNCIA BRASIL] Caso Ana Clara: ativistas protestam no TSE contra decisão de Mendonça",
       "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-10/caso-ana-clara-ativistas-protestam-no-tse-contra-decisao-de-mendonca"
     },
     {
-      "title": "[AGÊNCIA BRASIL] MPT apura carta de supermercado a funcionários com teor eleitoral",
-      "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-10/mpt-apura-carta-de-supermercado-funcionarios-com-teor-eleitoral"
-    },
-    {
-      "title": "[CNN BRASIL] “Dá um Google” e “9 dedos”: veja frases marcantes do debate Flávio x Lula",
-      "link": "https://www.cnnbrasil.com.br/eleicoes/da-um-google-e-9-dedos-veja-frases-marcantes-do-debate-flavio-x-lula/"
-    },
-    {
-      "title": "[CNN BRASIL] TSE registra mudança em 360 seções eleitorais antes do 2º turno",
-      "link": "https://www.cnnbrasil.com.br/eleicoes/eleicoes-tse-mudanca-em-locais-de-votacao/"
-    },
-    {
-      "title": "[CNN BRASIL] Globo separou convidados de Flávio e Lula para evitar embates",
-      "link": "https://www.cnnbrasil.com.br/eleicoes/globo-separou-convidados-de-flavio-e-lula-para-evitar-embates/"
+      "title": "[CNN BRASIL] Volatilidade é mesmo a vilã dos investimentos?",
+      "link": "https://www.cnnbrasil.com.br/economia/investimentos/volatilidade-e-mesmo-a-vila-dos-investimentos/"
     },
     {
       "title": "[AGÊNCIA BRASIL] Dólar fecha abaixo de R$ 5 e recua 1,58% na semana",
       "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/dolar-fecha-abaixo-de-r-5-e-recua-158-na-semana"
     },
     {
-      "title": "[AGÊNCIA BRASIL] Candidatos trocam acusações e defendem propostas em debate na Globo",
-      "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/candidatos-trocam-acusacoes-e-defendem-propostas-em-debate-na-globo"
+      "title": "[CNN BRASIL] Parece uma banana gigante, mas seu fruto é intragável: a “planta milagrosa” que passa anos debaixo da terra e pode salvar milhões da fome",
+      "link": "https://www.cnnbrasil.com.br/curiosidades/parece-uma-banana-gigante-mas-seu-fruto-e-intragavel-a-planta-milagrosa-que-passa-anos-debaixo-da-terra-e-pode-salvar-milhoes-da-fome/"
     },
     {
-      "title": "[CNN BRASIL] Mega-Sena 3074: sorteio deste sábado (24) pode pagar R$ 230 milhões",
-      "link": "https://www.cnnbrasil.com.br/economia/seu-bolso/loterias/mega-sena-3074/"
+      "title": "[MINAS GERAIS] 'Pêndulo' eleitoral, MG espelha divisão entre direita e esquerda na corrida para Presidência e pode ser decisivo para 2º turno - G1",
+      "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxNTEZrV0pGSHhRUUVfV181aFdMSUVvS2VXM2daM0lTa2xfNVotZ0dvUmtKSnpZR1JCbHkzNkFKUmNLVzczM2NLMzJzaHpoRWQ5TzRQS0YyUEV2UlZnNzBSM3BMTFZjQmZ6Y3RTTDNBZzBZREhSSXl4cVdHQ3J4SUFyRi1YSlFabllxS0FPM04xdFhWSThTcTh6bUFLNEV5SjFtM3p3ckR3YmNDQnlZcVlpTDFOcjQtRnU3T0I2SHhreVVLdjAwY2xOeUl2YnA0bkpGbWJZWkctT0dYd1BiWTRTU0t0VTBkX2Z5T3MwdVROX0Vwc3p2MG11ZVFLQnpQX1VxUml1SVBZZ3BJSTcyMXNKOXJWMjZUeDjSAaYCQVVfeXFMT2hOZWFQem9JS2pDaEVaVTlHRmZrWjA2S0pJNVZNUDJuZ2NrZWduWWdnMGRNcEVyOVE4aHhBRHYyc0pjRkVSYU5heUlqQ1dKVUFBanptVWRvcmE1U1JCeWZKV0pRLXZFY2E5WUV2UnMyYjFTVDZJb2ZlSVB4UHNlTVBRX1V5YkRKUFpaSnJ4RHp3b25vMTZ3allpNXU2UjNmNjdfLXBNM21QWXZ2dlJjYmFnalgtM0Z0MmNBd1hXR20yZnM4QkxxRlV3amdUOTREYTFtUGRQay13NE9Da1dOS2FrcXBUYWEzUlZCUmd1T0c2TTZVclNYRGtmak1VNkpoQkg2M0J5aW5EMWFhODdQM1FIaHB5TEtSXzhGU1V5T3lseXQyVGd3?oc=5"
     },
     {
-      "title": "[CNN BRASIL] Arsenal x Everton: horário e onde assistir ao jogo da Premier League",
-      "link": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/futebol-ingles/arsenal-x-everton-horario-e-onde-assistir-ao-jogo-da-premier-league-4/"
+      "title": "[MINAS GERAIS] Clube da Esquina: o grupo que mudou a música de Minas Gerais - Metrópoles",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxORlhyUDFNM0I4cWFxMjJwVmRvNXpRNklvUTRtcUJ3VEhoM1VLRUFLU0RjWDhLQVpSOXZrdmkyVHBwbGZwVFFyMW03eHJQY0tVY2NvY05qRHViUTFpeVVYZk1GTm5SeFFUekpYeVJIZDVtR2RGZk9HMHFEVmlwN2hkb3FYMWRyY29SbnFPQmdiX3BoM0tfWnRoSFpfd29SS1Q0Mnh6YkNB?oc=5"
     }
   ]
 }
